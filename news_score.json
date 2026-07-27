@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-27T13:34:40Z",
+  "generated_at_utc": "2026-07-27T16:11:17Z",
   "window_days": 7,
   "score": 6,
   "label": "Neutral",
@@ -34,10 +34,10 @@
       "tone": "bearish"
     },
     {
-      "title": "Stock Futures Jump to Kick Off Crunch Week as Market Focuses on the Fed and Big Tech Earnings",
+      "title": "Stocks Rally on Oil Slump. Fed Meeting and Earnings Are Ahead.",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/9506b2a6-dc30-316f-bdda-99d8527233b1/stock-futures-jump-to-kick.html?.tsrc=rss",
-      "published": "2026-07-27T13:06:27Z",
+      "url": "https://finance.yahoo.com/m/349bf81a-511c-383f-acf7-2172ae77ce76/stocks-rally-on-oil-slump..html?.tsrc=rss",
+      "published": "2026-07-27T14:32:34Z",
       "tone": "bullish"
     }
   ],
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 94
+        "articles": 96
       }
     ],
-    "headline_count": 144,
+    "headline_count": 146,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
