@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-07-27T18:00:58Z",
+  "generated_at_utc": "2026-07-27T21:56:04Z",
   "window_days": 7,
   "score": 5,
   "label": "Neutral",
-  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: US Stock Market Today: Nasdaq Jumps 1% On Chip Rally; S&P 500, Dow Edge Higher On Earnings Boost - NDTV Profit; Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Rise as Tech Stocks Lead the Rally\u2014Nebius, Archer, I - Benzinga. Bearish offsets: Why Trump's new tariff blitz is very different this time around; Update: US Equity Indexes Mixed as Tech Heads Lower, Crude Oil Sinks on Pause in Iran Strikes.",
+  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: US Stock Market Today: Nasdaq Jumps 1% On Chip Rally; S&P 500, Dow Edge Higher On Earnings Boost - NDTV Profit; Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Rise as Tech Stocks Lead the Rally\u2014Nebius, Archer, I - Benzinga. Bearish offsets: Update: US Equity Indexes Mixed as Chipmakers Drop, Pause in Iran Strikes Sinks Crude Oil; Stock Market Today, July 27: Dow Rises on Oil Retreat, and Sandisk Plunges 11% on Memory Weakness.",
   "articles": [
     {
       "title": "US Stock Market Today: Nasdaq Jumps 1% On Chip Rally; S&P 500, Dow Edge Higher On Earnings Boost - NDTV Profit",
@@ -20,25 +20,25 @@
       "tone": "bullish"
     },
     {
-      "title": "Why Trump's new tariff blitz is very different this time around",
+      "title": "Crypto stocks rally thanks to rotation from AI infrastructure; bitcoin miners lag",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/27/donald-trump-tariffs-trade-war-iran.html",
-      "published": "2026-07-27T12:53:33Z",
-      "tone": "bearish"
-    },
-    {
-      "title": "Update: US Equity Indexes Mixed as Tech Heads Lower, Crude Oil Sinks on Pause in Iran Strikes",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-tech-174052526.html?.tsrc=rss",
-      "published": "2026-07-27T17:40:52Z",
-      "tone": "bearish"
-    },
-    {
-      "title": "US Futures Rise as Megacap Earnings and Fed Decision Headline Quarter's Busiest Week",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-futures-rise-megacap-earnings-170443204.html?.tsrc=rss",
-      "published": "2026-07-27T17:04:43Z",
+      "url": "https://www.cnbc.com/2026/07/27/crypto-stocks-rally-thanks-to-rotation-from-ai-infrastructure-bitcoin-miners-lag.html",
+      "published": "2026-07-27T19:14:30Z",
       "tone": "bullish"
+    },
+    {
+      "title": "Update: US Equity Indexes Mixed as Chipmakers Drop, Pause in Iran Strikes Sinks Crude Oil",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-chipmakers-211718821.html?.tsrc=rss",
+      "published": "2026-07-27T21:17:18Z",
+      "tone": "bearish"
+    },
+    {
+      "title": "Stock Market Today, July 27: Dow Rises on Oil Retreat, and Sandisk Plunges 11% on Memory Weakness",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/07/27/stock-market-today-july-27-dow-rises-on-oil-retreat-and-sandisk-plunges-11-on-memory-weakness/?.tsrc=rss",
+      "published": "2026-07-27T21:24:56Z",
+      "tone": "bearish"
     }
   ],
   "data_source": {
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 96
+        "articles": 95
       }
     ],
-    "headline_count": 146,
+    "headline_count": 145,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
