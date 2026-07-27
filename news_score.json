@@ -1,10 +1,24 @@
 {
-  "generated_at_utc": "2026-07-24T22:58:38Z",
+  "generated_at_utc": "2026-07-27T10:35:49Z",
   "window_days": 7,
-  "score": 5,
+  "score": 6,
   "label": "Neutral",
-  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Rise as Tech Stocks Lead the Rally\u2014Nebius, Archer, I - Benzinga; Intel earnings arrive as Wall Street questions the AI chip rally - calcalistech.com. Bearish offsets: Trump's new global tariff draws rebukes from trade partners over forced labor justification; Oil falls on report Pakistan is pushing for new U.S.-Iran talks with China's backing.",
+  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: US Stock Market Today: Nasdaq Jumps 1% On Chip Rally; S&P 500, Dow Edge Higher On Earnings Boost - NDTV Profit; Nasdaq Futures Lead US Premarket Rally As Iran Ceasefire Reports Ease Fears Ahead Of Big Tech Earnings: Why NVDA, ORCL, SPCX, XOM, OTLK Are In Focus. Bearish offsets: Cocoa prices are easing. So why is chocolate still so expensive?; Why Trump's new tariff blitz is very different this time round.",
   "articles": [
+    {
+      "title": "US Stock Market Today: Nasdaq Jumps 1% On Chip Rally; S&P 500, Dow Edge Higher On Earnings Boost - NDTV Profit",
+      "source": "NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPem1MSV9VOVdMZU5sdlI2em91M2xjaEtXUFRSczg4ZWlHVGFNak5zbXRsb0hyU3UwNncxb3VSWFplZ2FHYWt0N0cya2JHYW12V2U4TV9nUzY1WFBOZ1RHNGlhQmZQczBLb1c5bzQ4QkR5N1hnalR5QjBYZUpBYi1DUlNUdGdHc2s5VG5ueWZQMW5oRUlzTE1GeW40eEhnV2J6R0VneE1EZ2lTM2JNdXl3bnRSNHdhTW5HOGEwMUExekI4bGxYNWdLQkdRYk9paDRpNVHSAdoBQVVfeXFMT2lBN2Jlcl80bTZRdTM3WDQ2dkQzODBZTXJFOVZ0dHJOT0lFaUVCcXlvNkpLa05JY3hjdVBXckUxcG9HT05hSUl5LVhMSlBEVlFhZ05hRUpwMi1hMGFZSUtQOVlLSXVOVWc4cHY4S1lPekNpVVEzR2lWOGxQdS1qZ1k4OTNkekNTSFk4WFBSbTBLXzZ3X2txUzU4RGJsNE5IOVR5Nm5qalo4dnM4TUQ4b2JDVENsMF9GMmxzX3FhcjhvS1lHak95QTZJMVVuWV9OYUxXSGdVSC1adnc?oc=5",
+      "published": "2026-07-21T13:44:35Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "Nasdaq Futures Lead US Premarket Rally As Iran Ceasefire Reports Ease Fears Ahead Of Big Tech Earnings: Why NVDA, ORCL, SPCX, XOM, OTLK Are In Focus",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-soar-oil-iran-fed-big-tech-earnings-nvda-orcl-xom-otlk-stock/cZZxBZNR7CK?.tsrc=rss",
+      "published": "2026-07-27T08:25:25Z",
+      "tone": "bullish"
+    },
     {
       "title": "Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Rise as Tech Stocks Lead the Rally\u2014Nebius, Archer, I - Benzinga",
       "source": "Benzinga",
@@ -13,31 +27,17 @@
       "tone": "bullish"
     },
     {
-      "title": "Trump's new global tariff draws rebukes from trade partners over forced labor justification",
+      "title": "Cocoa prices are easing. So why is chocolate still so expensive?",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/24/trump-global-tariffs-trade-imbalance-forced-labor.html",
-      "published": "2026-07-24T12:09:09Z",
+      "url": "https://www.cnbc.com/2026/07/26/cocoa-prices-chocolate-lindt-barry-callebaut-nestle.html",
+      "published": "2026-07-27T09:39:57Z",
       "tone": "bearish"
     },
     {
-      "title": "Oil falls on report Pakistan is pushing for new U.S.-Iran talks with China's backing",
+      "title": "Why Trump's new tariff blitz is very different this time round",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/24/oil-price-trump-hormuz-red-sea-iran-war.html",
-      "published": "2026-07-24T19:12:09Z",
-      "tone": "bearish"
-    },
-    {
-      "title": "Intel earnings arrive as Wall Street questions the AI chip rally - calcalistech.com",
-      "source": "calcalistech.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aY3pVbllpdXg2MzlyLWZ3ekdEdU51blpjUmxvMFJjdy1KaDk5LThjcnJUWGpMYWlSYnNLeUNhQmdJWEh1aHNtbHVUSTRJTExKRzdMMHZITnpUZTlRZG40Ym5MTkZlNUZo?oc=5",
-      "published": "2026-07-20T18:37:00Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Dow Drops 507, Nasdaq Sinks 553, S&P 500 Falls 91 - TV News Check",
-      "source": "TV News Check",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbXNXc3NPeVBvLVE4WGtwQXE4bUxFUzNUUG1KNExfWXFqRnNycURCbGpjUDNTRVE2TGJRaWVha1Y0U0sxaC1UYVBtT0tCQjBBUzBLdENqOW11bmtidTZLR3BMRER2Smt4T2dabzNPNC1IQktoRHB3MGg3cFdsVDdPcWVsckR5MXdSN29TNThEcS15QQ?oc=5",
-      "published": "2026-07-23T20:37:31Z",
+      "url": "https://www.cnbc.com/2026/07/27/donald-trump-tariffs-trade-war-iran.html",
+      "published": "2026-07-27T05:04:43Z",
       "tone": "bearish"
     }
   ],
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 92
+        "articles": 91
       }
     ],
-    "headline_count": 142,
+    "headline_count": 141,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
