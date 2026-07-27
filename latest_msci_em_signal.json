@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-07-27T16:11:15Z",
+  "generated_at_utc": "2026-07-27T18:00:55Z",
   "data_asof": "2026-07-27",
   "daily_rows": 5857,
-  "quote_price": 63.2400016784668,
+  "quote_price": 63.189998626708984,
   "quote_timestamp": "2026-07-27",
   "quote_source": "Yahoo Finance chart endpoint",
   "sources": {
     "daily_yahoo": {
-      "url": "https://query1.finance.yahoo.com/v8/finance/chart/EEM?period1=0&period2=1785255075&interval=1d&events=history&includeAdjustedClose=true",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/EEM?period1=0&period2=1785261655&interval=1d&events=history&includeAdjustedClose=true",
       "ok": true,
       "status": 200
     }
@@ -26,12 +26,12 @@
   "official_signal": {
     "latest": {
       "date": "2026-07-27",
-      "close": 63.2400016784668
+      "close": 63.189998626708984
     },
-    "latestSma": 65.66800041198731,
+    "latestSma": 65.66550025939941,
     "highWater": 71.20999908447266,
     "highWaterDate": "2026-06-22",
-    "latestDd": -0.11192244780893024,
+    "latestDd": -0.11262463924834443,
     "regime": "tier2",
     "entryClose": 67.56999969482422,
     "entryDate": "2026-07-06",
@@ -48,12 +48,12 @@
   "provisional_signal": {
     "latest": {
       "date": "2026-07-27",
-      "close": 63.2400016784668
+      "close": 63.189998626708984
     },
-    "latestSma": 65.47050037384034,
+    "latestSma": 65.46550006866455,
     "highWater": 71.20999908447266,
     "highWaterDate": "2026-06-22",
-    "latestDd": -0.11192244780893024,
+    "latestDd": -0.11262463924834443,
     "regime": "tier2",
     "entryClose": 67.56999969482422,
     "entryDate": "2026-07-06",
@@ -71,7 +71,7 @@
     "last_observed_asof": "2026-07-27",
     "last_observed_target_leverage": 0,
     "last_observed_target_label": "cash",
-    "last_checked_at_utc": "2026-07-27T16:11:15Z",
+    "last_checked_at_utc": "2026-07-27T18:00:55Z",
     "last_email_sent_on": "2026-07-07",
     "last_transition": {
       "id": "2026-07-06:1->2026-07-07:0",
