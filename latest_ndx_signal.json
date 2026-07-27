@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-07-27T21:55:59Z",
+  "generated_at_utc": "2026-07-27T22:58:13Z",
   "data_asof": "2026-07-27",
-  "daily_rows": 7546,
+  "daily_rows": 7545,
   "quote_price": 28039.2109375,
   "quote_timestamp": "2026-07-27",
   "quote_source": "Yahoo Finance chart endpoint",
@@ -32,7 +32,7 @@
       "date": "2026-07-27",
       "close": 28039.2109375
     },
-    "latestSma": 29210.81943359375,
+    "latestSma": 29260.314453125,
     "highWater": 30660.599609375,
     "highWaterDate": "2026-06-02",
     "latestDd": -0.08549698000927108,
@@ -54,7 +54,7 @@
       "date": "2026-07-27",
       "close": 28039.2109375
     },
-    "latestSma": 29124.04248046875,
+    "latestSma": 29206.36298828125,
     "highWater": 30660.599609375,
     "highWaterDate": "2026-06-02",
     "latestDd": -0.08549698000927108,
@@ -75,7 +75,7 @@
     "last_observed_asof": "2026-07-27",
     "last_observed_target_leverage": 0,
     "last_observed_target_label": "cash",
-    "last_checked_at_utc": "2026-07-27T21:55:59Z",
+    "last_checked_at_utc": "2026-07-27T22:58:13Z",
     "last_email_sent_on": "2026-07-13",
     "last_transition": {
       "id": "2026-07-10:1->2026-07-13:0",
