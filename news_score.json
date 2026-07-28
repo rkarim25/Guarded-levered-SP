@@ -1,44 +1,44 @@
 {
-  "generated_at_utc": "2026-07-28T13:49:26Z",
+  "generated_at_utc": "2026-07-28T16:01:02Z",
   "window_days": 7,
-  "score": 6,
+  "score": 5,
   "label": "Neutral",
-  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Chevron Corporation (CVX) Remains Well Placed to Benefit From High Commodity Prices; Lam Research Corporation (LRCX) Rose on Strong Semiconductor Capital Spending. Bearish offsets: Stocks Mostly Down Pre-Bell Amid Chip Sell-Off; Traders Await More Earnings.",
+  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: CMTV Q2 Earnings Rise 15% Y/Y on Strong Loan Growth, NII Gains; Stock Market Today: Dow Jones Futures Gain as Coca-Cola Jumps After Q2 Beat, S&P 500, Nasdaq 100 Decline - Benzinga. Bearish offsets: US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop - The Times of India; Supreme Court approval hits record low as Republicans' support declines.",
   "articles": [
     {
-      "title": "Stocks Mostly Down Pre-Bell Amid Chip Sell-Off; Traders Await More Earnings",
+      "title": "CMTV Q2 Earnings Rise 15% Y/Y on Strong Loan Growth, NII Gains",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-mostly-down-pre-bell-115357169.html?.tsrc=rss",
-      "published": "2026-07-28T11:53:57Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cmtv-q2-earnings-rise-15-143300221.html?.tsrc=rss",
+      "published": "2026-07-28T14:33:00Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop - The Times of India",
+      "source": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNcGtldktQTk1HNnlEMkNJU0NzcGtWbnhzdmtQRXZTcFNsMUtucUJfdXItSGdTaTBPcDh1bzNwV0dQVW8wdDV4N2RkSDBlRjNCai0tMXpicnNVNjZheG9tdUJqOHBJSkVQX3dpdVE5TnZfNWIyaHBYcG5nT1pRRTE2MEtxdzZQTGpOV0xheDBKQUpsYnNNdTZTRWxFTzliendYSUtIeVRZX1FzM3YwMGMtWmhMa2twSlNDZjdQTENFU3ptTjZoSWhTSlk2eHNaQ2UwN3BOWkgydEhJb0RDT0pPbEk2blBaczVGb25RSkpJT1k2eG0tel94VFZEMGlNaTJVWXg3aWJCS0xRZERPSmd5M09XQmxJbzMtc0lKdk9hRmlRVVnSAagCQVVfeXFMTS1rdFpjUjRPQXI3QmxtRmhqN3ZobDFzVTlkZzlaU2pqUmcwamszQ3pVVDRXYW4zMm5qY3ZOSDBCQjZ4eFZFWEZpb0gzZ2p0LTJEakZENVU2c2hZYjFsdUJQVlNDcDkyRFNJc0NNT28wMW9hUkpsdHpTTndaX2JNX1ZuTjB0ampXX3dXMjdIT3k2emJMOWlBN2lPZl9jeW9wdU1VdzBjNlRtMVMtZkJWcExpd3lMcTBZc2lyUHVGTVdpNHB4c1VXSDFJUjZySXF2Um5nRmlTWUEwM1g1S0cza3BFOVZjMzZ4cmdRR2ZFZ3gzb09ld3pVdFhueUVqbGRKaDZlMWh0eFd6VjNFT3NOUV8xZmxYU2xjU3ZYejVHaTdqVnUyRklkZ1I?oc=5",
+      "published": "2026-07-28T14:06:00Z",
       "tone": "bearish"
     },
     {
-      "title": "Chevron Corporation (CVX) Remains Well Placed to Benefit From High Commodity Prices",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-corporation-cvx-remains-well-131455654.html?.tsrc=rss",
-      "published": "2026-07-28T13:14:55Z",
+      "title": "Supreme Court approval hits record low as Republicans' support declines",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/28/supreme-court-approval-poll-gallup-republicans-trump.html",
+      "published": "2026-07-28T08:00:01Z",
+      "tone": "bearish"
+    },
+    {
+      "title": "Stock Market Today: Dow Jones Futures Gain as Coca-Cola Jumps After Q2 Beat, S&P 500, Nasdaq 100 Decline - Benzinga",
+      "source": "Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNb3lfTV9GcE9fNWZsbWFOZGt0VHFuNmExQU5GT3B0eDZSSWREVWhETmllZDJ1VmdWVW5SWkx6SXJvVTdFZFUzUFUxRU1vTnYwNWtINnJ3ZnRXWWZrV2djOERiU0Q0MUI5UkNDQzN6ekcwVnE0MV92RFpzdzlnUWZLeFY2bEg1U3VaRTAwZmRHeTBUN0lEM1ZvdUhxQVR3d1B6by1NejBBTnRScHhqZktJVXRiVUFhOG1ORTZWcHp1clF6MTZEbkxWcFJQWkhEWXhRNlJQTkNNLXNSaHdYU2tMMGVKaWpIOG9SdmNlUVdpbTlXMmZEZWNOanRBQzg3SmZvN192Yk9xWDV0UXhNOTVPdDZKakNEYjQ1aVhmNjZTNW9tcFd5WkE1WFkwSHZoUWFJRi1vTDJPdFQwV3djRTJGYmd5V0paRmdva1E?oc=5",
+      "published": "2026-07-28T12:38:00Z",
       "tone": "bullish"
     },
     {
-      "title": "Lam Research Corporation (LRCX) Rose on Strong Semiconductor Capital Spending",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-corporation-lrcx-rose-131350670.html?.tsrc=rss",
-      "published": "2026-07-28T13:13:50Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "McDonald\u2019s Corporation (MCD) Fell as Rising Beef Prices Weighed on Sentiment",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mcdonald-corporation-mcd-fell-rising-131046197.html?.tsrc=rss",
-      "published": "2026-07-28T13:10:46Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Accenture (ACN) Faces Growth Concerns",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/accenture-acn-faces-growth-concerns-130846610.html?.tsrc=rss",
-      "published": "2026-07-28T13:08:46Z",
-      "tone": "bullish"
+      "title": "Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/28/hyperscalers-face-higher-capex-scrutiny-after-alphabet-report-panned.html",
+      "published": "2026-07-28T14:50:10Z",
+      "tone": "bearish"
     }
   ],
   "data_source": {
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 94
+        "articles": 95
       }
     ],
-    "headline_count": 144,
+    "headline_count": 145,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
