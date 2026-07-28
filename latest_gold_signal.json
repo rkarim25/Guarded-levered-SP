@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-07-28T11:52:16Z",
+  "generated_at_utc": "2026-07-28T13:49:23Z",
   "data_asof": "2026-07-28",
   "daily_rows": 6500,
-  "quote_price": 4028.800048828125,
+  "quote_price": 4022.199951171875,
   "quote_timestamp": "2026-07-28",
   "quote_source": "Yahoo Finance chart endpoint",
   "sources": {
     "daily_yahoo_gold": {
-      "url": "https://query1.finance.yahoo.com/v8/finance/chart/GC%3DF?period1=0&period2=1785325936&interval=1d&events=history&includeAdjustedClose=true",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/GC%3DF?period1=0&period2=1785332963&interval=1d&events=history&includeAdjustedClose=true",
       "ok": true,
       "status": 200
     },
@@ -31,12 +31,12 @@
   "official_signal": {
     "latest": {
       "date": "2026-07-28",
-      "close": 4028.800048828125
+      "close": 4022.199951171875
     },
-    "latestSma": 4067.805029296875,
+    "latestSma": 4067.4750244140623,
     "highWater": 5318.39990234375,
     "highWaterDate": "2026-01-29",
-    "latestDd": -0.2424789179443454,
+    "latestDd": -0.2437199110583348,
     "regime": "tier2",
     "entryClose": 4087.699951171875,
     "entryDate": "2025-10-21",
@@ -53,12 +53,12 @@
   "provisional_signal": {
     "latest": {
       "date": "2026-07-28",
-      "close": 4028.800048828125
+      "close": 4022.199951171875
     },
-    "latestSma": 4068.1000366210938,
+    "latestSma": 4067.4400268554687,
     "highWater": 5318.39990234375,
     "highWaterDate": "2026-01-29",
-    "latestDd": -0.2424789179443454,
+    "latestDd": -0.2437199110583348,
     "regime": "tier2",
     "entryClose": 4087.699951171875,
     "entryDate": "2025-10-21",
@@ -76,9 +76,8 @@
     "last_observed_asof": "2026-07-28",
     "last_observed_target_leverage": 0,
     "last_observed_target_label": "cash",
-    "last_checked_at_utc": "2026-07-28T11:52:16Z",
+    "last_checked_at_utc": "2026-07-28T13:49:23Z",
     "last_email_sent_on": "2026-07-28",
-    "last_email_sent_timezone": "Europe/London",
     "last_transition": {
       "id": "2026-07-28:1->2026-07-28:0",
       "detected_at_utc": "2026-07-28T11:52:16Z",

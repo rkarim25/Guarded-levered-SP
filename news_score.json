@@ -1,43 +1,43 @@
 {
-  "generated_at_utc": "2026-07-28T11:52:20Z",
+  "generated_at_utc": "2026-07-28T13:49:26Z",
   "window_days": 7,
-  "score": 5,
+  "score": 6,
   "label": "Neutral",
-  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: US Stock Market Today: Nasdaq Jumps 1% On Chip Rally; S&P 500, Dow Edge Higher On Earnings Boost - NDTV Profit; Morgan Stanley sees a troubling S&P 500 repeat. Bearish offsets: Jerome Powell's Inflation Warning Rings Truer Than Ever After President Donald Trump's Latest Announcement; Micron, Nvidia fall after SK Hynix plunges nearly 15% as chip sell-off deepens.",
+  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Chevron Corporation (CVX) Remains Well Placed to Benefit From High Commodity Prices; Lam Research Corporation (LRCX) Rose on Strong Semiconductor Capital Spending. Bearish offsets: Stocks Mostly Down Pre-Bell Amid Chip Sell-Off; Traders Await More Earnings.",
   "articles": [
     {
-      "title": "US Stock Market Today: Nasdaq Jumps 1% On Chip Rally; S&P 500, Dow Edge Higher On Earnings Boost - NDTV Profit",
-      "source": "NDTV Profit",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPem1MSV9VOVdMZU5sdlI2em91M2xjaEtXUFRSczg4ZWlHVGFNak5zbXRsb0hyU3UwNncxb3VSWFplZ2FHYWt0N0cya2JHYW12V2U4TV9nUzY1WFBOZ1RHNGlhQmZQczBLb1c5bzQ4QkR5N1hnalR5QjBYZUpBYi1DUlNUdGdHc2s5VG5ueWZQMW5oRUlzTE1GeW40eEhnV2J6R0VneE1EZ2lTM2JNdXl3bnRSNHdhTW5HOGEwMUExekI4bGxYNWdLQkdRYk9paDRpNVHSAdoBQVVfeXFMT2lBN2Jlcl80bTZRdTM3WDQ2dkQzODBZTXJFOVZ0dHJOT0lFaUVCcXlvNkpLa05JY3hjdVBXckUxcG9HT05hSUl5LVhMSlBEVlFhZ05hRUpwMi1hMGFZSUtQOVlLSXVOVWc4cHY4S1lPekNpVVEzR2lWOGxQdS1qZ1k4OTNkekNTSFk4WFBSbTBLXzZ3X2txUzU4RGJsNE5IOVR5Nm5qalo4dnM4TUQ4b2JDVENsMF9GMmxzX3FhcjhvS1lHak95QTZJMVVuWV9OYUxXSGdVSC1adnc?oc=5",
-      "published": "2026-07-21T13:44:35Z",
+      "title": "Stocks Mostly Down Pre-Bell Amid Chip Sell-Off; Traders Await More Earnings",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-mostly-down-pre-bell-115357169.html?.tsrc=rss",
+      "published": "2026-07-28T11:53:57Z",
+      "tone": "bearish"
+    },
+    {
+      "title": "Chevron Corporation (CVX) Remains Well Placed to Benefit From High Commodity Prices",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-corporation-cvx-remains-well-131455654.html?.tsrc=rss",
+      "published": "2026-07-28T13:14:55Z",
       "tone": "bullish"
     },
     {
-      "title": "Jerome Powell's Inflation Warning Rings Truer Than Ever After President Donald Trump's Latest Announcement",
+      "title": "Lam Research Corporation (LRCX) Rose on Strong Semiconductor Capital Spending",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://www.fool.com/investing/2026/07/28/jerome-powell-inflation-warning-trump-announcement/?.tsrc=rss",
-      "published": "2026-07-28T08:26:00Z",
-      "tone": "bearish"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-corporation-lrcx-rose-131350670.html?.tsrc=rss",
+      "published": "2026-07-28T13:13:50Z",
+      "tone": "bullish"
     },
     {
-      "title": "Micron, Nvidia fall after SK Hynix plunges nearly 15% as chip sell-off deepens",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html",
-      "published": "2026-07-28T08:41:56Z",
-      "tone": "bearish"
+      "title": "McDonald\u2019s Corporation (MCD) Fell as Rising Beef Prices Weighed on Sentiment",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mcdonald-corporation-mcd-fell-rising-131046197.html?.tsrc=rss",
+      "published": "2026-07-28T13:10:46Z",
+      "tone": "bullish"
     },
     {
-      "title": "Chip Sell-Off Cramps Wall Street Pre-Bell; Asia Down, Europe Up",
+      "title": "Accenture (ACN) Faces Growth Concerns",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/chip-sell-off-cramps-wall-111218435.html?.tsrc=rss",
-      "published": "2026-07-28T11:12:18Z",
-      "tone": "bearish"
-    },
-    {
-      "title": "Morgan Stanley sees a troubling S&P 500 repeat",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://www.thestreet.com/investing/morgan-stanley-sp500-2021-market-pattern?.tsrc=rss",
-      "published": "2026-07-28T03:07:00Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/accenture-acn-faces-growth-concerns-130846610.html?.tsrc=rss",
+      "published": "2026-07-28T13:08:46Z",
       "tone": "bullish"
     }
   ],
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 91
+        "articles": 94
       }
     ],
-    "headline_count": 141,
+    "headline_count": 144,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
