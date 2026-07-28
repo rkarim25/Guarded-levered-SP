@@ -1,15 +1,15 @@
 {
-  "generated_at_utc": "2026-07-28T17:50:26Z",
+  "generated_at_utc": "2026-07-28T21:55:13Z",
   "window_days": 7,
   "score": 4,
   "label": "Neutral",
-  "explanation": "4/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Stock Market Today: Dow Jones Futures Gain as Coca-Cola Jumps After Q2 Beat, S&P 500, Nasdaq 100 Decline - Benzinga. Bearish offsets: Is SAP Stock a Buy After the 2026 Selloff and Profit Outlook Cut?; US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop - The Times of India.",
+  "explanation": "4/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Stock Market Today: Dow Jones Futures Gain as Coca-Cola Jumps After Q2 Beat, S&P 500, Nasdaq 100 Decline - Benzinga. Bearish offsets: Update: US Equity Indexes Mixed as Chipmakers Weigh Ahead of Mag-7 Results, Crude Oil Drops Amid Halt in Middle East Strikes; US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop - The Times of India.",
   "articles": [
     {
-      "title": "Is SAP Stock a Buy After the 2026 Selloff and Profit Outlook Cut?",
+      "title": "Update: US Equity Indexes Mixed as Chipmakers Weigh Ahead of Mag-7 Results, Crude Oil Drops Amid Halt in Middle East Strikes",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sap-stock-buy-2026-selloff-154100641.html?.tsrc=rss",
-      "published": "2026-07-28T15:41:00Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-chipmakers-205435929.html?.tsrc=rss",
+      "published": "2026-07-28T20:54:35Z",
       "tone": "bearish"
     },
     {
@@ -20,13 +20,6 @@
       "tone": "bearish"
     },
     {
-      "title": "Supreme Court approval hits record low as Republicans' support declines",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/28/supreme-court-approval-poll-gallup-republicans-trump.html",
-      "published": "2026-07-28T08:00:01Z",
-      "tone": "bearish"
-    },
-    {
       "title": "Stock Market Today: Dow Jones Futures Gain as Coca-Cola Jumps After Q2 Beat, S&P 500, Nasdaq 100 Decline - Benzinga",
       "source": "Benzinga",
       "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNb3lfTV9GcE9fNWZsbWFOZGt0VHFuNmExQU5GT3B0eDZSSWREVWhETmllZDJ1VmdWVW5SWkx6SXJvVTdFZFUzUFUxRU1vTnYwNWtINnJ3ZnRXWWZrV2djOERiU0Q0MUI5UkNDQzN6ekcwVnE0MV92RFpzdzlnUWZLeFY2bEg1U3VaRTAwZmRHeTBUN0lEM1ZvdUhxQVR3d1B6by1NejBBTnRScHhqZktJVXRiVUFhOG1ORTZWcHp1clF6MTZEbkxWcFJQWkhEWXhRNlJQTkNNLXNSaHdYU2tMMGVKaWpIOG9SdmNlUVdpbTlXMmZEZWNOanRBQzg3SmZvN192Yk9xWDV0UXhNOTVPdDZKakNEYjQ1aVhmNjZTNW9tcFd5WkE1WFkwSHZoUWFJRi1vTDJPdFQwV3djRTJGYmd5V0paRmdva1E?oc=5",
@@ -34,10 +27,17 @@
       "tone": "bullish"
     },
     {
-      "title": "Dow Rises, But Nasdaq Drops on Global Chip Selloff",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/51631391-1b54-3a13-8e48-7dc5f669413d/dow-rises%2C-but-nasdaq-drops.html?.tsrc=rss",
-      "published": "2026-07-28T15:20:47Z",
+      "title": "Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/28/hyperscalers-face-higher-capex-scrutiny-after-alphabet-report-panned.html",
+      "published": "2026-07-28T19:45:10Z",
+      "tone": "bearish"
+    },
+    {
+      "title": "Wall Street mixed early as chip sell-off continues - ABC News - Breaking News, Latest News and Videos",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRW9sem1JWGVybkpSUDRaNDNaQkRfcW9IT2otaXFQSmVOUjBXUVh5NjBGTkVuUHZuWDBkR0JTQ2d5akZYN2wxODFiOXFCRzFvT1BrdXFtdllkcjliaEpuTHM2TXRsc0JxRnl3WU5DR1VLYndTNGFjYXQ2MldKQU9tcFZRVDVDZmJPMXV1cVV1SnBIaC1FSm1lMDRrWdIBoAFBVV95cUxOMUVHbkpYZk9YbENpQnJ6SFppSU1HUFNzQk1STU5NLXlLc1JUMWFKWnZXZHlHd2gtX0F3SDJTWHZLcUFrNUFOeUp3d0FQbFVmTXJtVmxkakdjR0VJS2JFdC1VZ0pOZlE0aE04OEhOcVJtMXRDR0h2bEhqc0JBclloak52WWpHLTNwLXJRYWM1SFBiUHQ2N3RMaVdTWlZtUDZD?oc=5",
+      "published": "2026-07-28T12:37:05Z",
       "tone": "bearish"
     }
   ],
