@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-07-27T22:58:15Z",
-  "data_asof": "2026-07-27",
-  "daily_rows": 2926,
-  "quote_price": 7609.0,
-  "quote_timestamp": "2026-07-27",
+  "generated_at_utc": "2026-07-28T09:32:15Z",
+  "data_asof": "2026-07-28",
+  "daily_rows": 2927,
+  "quote_price": 7713.10009765625,
+  "quote_timestamp": "2026-07-28",
   "quote_source": "Yahoo Finance chart endpoint",
   "sources": {
     "daily_yahoo": {
-      "url": "https://query1.finance.yahoo.com/v8/finance/chart/3BAL.L?period1=0&period2=1785279495&interval=1d&events=history&includeAdjustedClose=true",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/3BAL.L?period1=0&period2=1785317535&interval=1d&events=history&includeAdjustedClose=true",
       "ok": true,
       "status": 200
     }
@@ -25,13 +25,13 @@
   },
   "official_signal": {
     "latest": {
-      "date": "2026-07-27",
-      "close": 7609.0
+      "date": "2026-07-28",
+      "close": 7713.10009765625
     },
-    "latestSma": 7147.775,
+    "latestSma": 7190.980004882813,
     "highWater": 13014.4912109375,
     "highWaterDate": "2015-04-13",
-    "latestDd": -0.41534402869277554,
+    "latestDd": -0.4073452451852986,
     "regime": "sma20",
     "entryClose": null,
     "entryDate": null,
@@ -42,18 +42,18 @@
     "activeEntryClose": 7332.0,
     "activeEntryDate": "2026-07-24",
     "activeEntryLeverage": 1,
-    "activeEntryPnl": 0.03777959629023453,
+    "activeEntryPnl": 0.051977645615964185,
     "explanation": "Close is above SMA20; hold 1x (fully in 3BAL)."
   },
   "provisional_signal": {
     "latest": {
-      "date": "2026-07-27",
-      "close": 7609.0
+      "date": "2026-07-28",
+      "close": 7713.10009765625
     },
-    "latestSma": 7185.775,
+    "latestSma": 7235.235009765625,
     "highWater": 13014.4912109375,
     "highWaterDate": "2015-04-13",
-    "latestDd": -0.41534402869277554,
+    "latestDd": -0.4073452451852986,
     "regime": "sma20",
     "entryClose": null,
     "entryDate": null,
@@ -64,14 +64,14 @@
     "activeEntryClose": 7332.0,
     "activeEntryDate": "2026-07-24",
     "activeEntryLeverage": 1,
-    "activeEntryPnl": 0.03777959629023453,
+    "activeEntryPnl": 0.051977645615964185,
     "explanation": "Close is above SMA20; hold 1x (fully in 3BAL)."
   },
   "trade_alert_state": {
-    "last_observed_asof": "2026-07-27",
+    "last_observed_asof": "2026-07-28",
     "last_observed_target_leverage": 1,
     "last_observed_target_label": "1x",
-    "last_checked_at_utc": "2026-07-27T22:58:15Z",
+    "last_checked_at_utc": "2026-07-28T09:32:15Z",
     "last_email_sent_on": "2026-07-24",
     "last_transition": {
       "id": "2026-07-23:0->2026-07-24:1",
