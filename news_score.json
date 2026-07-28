@@ -1,17 +1,10 @@
 {
-  "generated_at_utc": "2026-07-28T09:32:16Z",
+  "generated_at_utc": "2026-07-28T11:52:20Z",
   "window_days": 7,
   "score": 5,
   "label": "Neutral",
-  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: US Stock Market Today: Nasdaq Jumps 1% On Chip Rally; S&P 500, Dow Edge Higher On Earnings Boost - NDTV Profit. Bearish offsets: Nasdaq futures fall after Asia chip stock sell-off; investors await earnings blitz: Live updates; Jerome Powell's Inflation Warning Rings Truer Than Ever After President Donald Trump's Latest Announcement.",
+  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: US Stock Market Today: Nasdaq Jumps 1% On Chip Rally; S&P 500, Dow Edge Higher On Earnings Boost - NDTV Profit; Morgan Stanley sees a troubling S&P 500 repeat. Bearish offsets: Jerome Powell's Inflation Warning Rings Truer Than Ever After President Donald Trump's Latest Announcement; Micron, Nvidia fall after SK Hynix plunges nearly 15% as chip sell-off deepens.",
   "articles": [
-    {
-      "title": "Nasdaq futures fall after Asia chip stock sell-off; investors await earnings blitz: Live updates",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/27/stock-market-today-live-updates.html",
-      "published": "2026-07-28T09:06:26Z",
-      "tone": "bearish"
-    },
     {
       "title": "US Stock Market Today: Nasdaq Jumps 1% On Chip Rally; S&P 500, Dow Edge Higher On Earnings Boost - NDTV Profit",
       "source": "NDTV Profit",
@@ -34,11 +27,18 @@
       "tone": "bearish"
     },
     {
-      "title": "Stock Futures Drop as Chip Selloff Rages On",
+      "title": "Chip Sell-Off Cramps Wall Street Pre-Bell; Asia Down, Europe Up",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/19675e67-f0fe-34ce-89a1-7eb93378fad4/stock-futures-drop-as-chip.html?.tsrc=rss",
-      "published": "2026-07-28T08:27:51Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/chip-sell-off-cramps-wall-111218435.html?.tsrc=rss",
+      "published": "2026-07-28T11:12:18Z",
       "tone": "bearish"
+    },
+    {
+      "title": "Morgan Stanley sees a troubling S&P 500 repeat",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://www.thestreet.com/investing/morgan-stanley-sp500-2021-market-pattern?.tsrc=rss",
+      "published": "2026-07-28T03:07:00Z",
+      "tone": "bullish"
     }
   ],
   "data_source": {
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 90
+        "articles": 91
       }
     ],
-    "headline_count": 140,
+    "headline_count": 141,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
