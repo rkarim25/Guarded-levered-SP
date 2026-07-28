@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-07-28T16:01:00Z",
+  "generated_at_utc": "2026-07-28T17:50:23Z",
   "data_asof": "2026-07-28",
   "daily_rows": 6500,
-  "quote_price": 4044.0,
+  "quote_price": 4031.199951171875,
   "quote_timestamp": "2026-07-28",
   "quote_source": "Yahoo Finance chart endpoint",
   "sources": {
     "daily_yahoo_gold": {
-      "url": "https://query1.finance.yahoo.com/v8/finance/chart/GC%3DF?period1=0&period2=1785340859&interval=1d&events=history&includeAdjustedClose=true",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/GC%3DF?period1=0&period2=1785347423&interval=1d&events=history&includeAdjustedClose=true",
       "ok": true,
       "status": 200
     },
@@ -31,65 +31,65 @@
   "official_signal": {
     "latest": {
       "date": "2026-07-28",
-      "close": 4044.0
+      "close": 4031.199951171875
     },
-    "latestSma": 4068.5650268554687,
+    "latestSma": 4067.9250244140626,
     "highWater": 5318.39990234375,
     "highWaterDate": "2026-01-29",
-    "latestDd": -0.2396209246661084,
+    "latestDd": -0.24202767276011394,
     "regime": "tier2",
     "entryClose": 4087.699951171875,
     "entryDate": "2025-10-21",
     "recoveryTarget": 5722.779931640624,
     "aboveSma": false,
-    "recoveryOk": true,
-    "targetLeverage": 1,
-    "activeEntryClose": 4071.10009765625,
-    "activeEntryDate": "2026-07-21",
-    "activeEntryLeverage": 1,
-    "activeEntryPnl": -0.006656701384436969,
-    "explanation": "Recovery tier2 armed at 1x max (lead guard passed)."
+    "recoveryOk": false,
+    "targetLeverage": 0,
+    "activeEntryClose": null,
+    "activeEntryDate": null,
+    "activeEntryLeverage": null,
+    "activeEntryPnl": null,
+    "explanation": "2x tier is armed, but lead guard failed; using base cash/1x rule."
   },
   "provisional_signal": {
     "latest": {
       "date": "2026-07-28",
-      "close": 4044.0
+      "close": 4031.199951171875
     },
-    "latestSma": 4069.6200317382813,
+    "latestSma": 4068.3400268554688,
     "highWater": 5318.39990234375,
     "highWaterDate": "2026-01-29",
-    "latestDd": -0.2396209246661084,
+    "latestDd": -0.24202767276011394,
     "regime": "tier2",
     "entryClose": 4087.699951171875,
     "entryDate": "2025-10-21",
     "recoveryTarget": 5722.779931640624,
     "aboveSma": false,
-    "recoveryOk": true,
-    "targetLeverage": 1,
-    "activeEntryClose": 4071.10009765625,
-    "activeEntryDate": "2026-07-21",
-    "activeEntryLeverage": 1,
-    "activeEntryPnl": -0.006656701384436969,
-    "explanation": "Recovery tier2 armed at 1x max (lead guard passed)."
+    "recoveryOk": false,
+    "targetLeverage": 0,
+    "activeEntryClose": null,
+    "activeEntryDate": null,
+    "activeEntryLeverage": null,
+    "activeEntryPnl": null,
+    "explanation": "2x tier is armed, but lead guard failed; using base cash/1x rule."
   },
   "trade_alert_state": {
     "last_observed_asof": "2026-07-28",
-    "last_observed_target_leverage": 1,
-    "last_observed_target_label": "1x",
-    "last_checked_at_utc": "2026-07-28T16:01:00Z",
+    "last_observed_target_leverage": 0,
+    "last_observed_target_label": "cash",
+    "last_checked_at_utc": "2026-07-28T17:50:23Z",
     "last_email_sent_on": "2026-07-28",
     "last_transition": {
-      "id": "2026-07-28:0->2026-07-28:1",
-      "detected_at_utc": "2026-07-28T16:01:00Z",
+      "id": "2026-07-28:1->2026-07-28:0",
+      "detected_at_utc": "2026-07-28T17:50:23Z",
       "previous_asof": "2026-07-28",
       "current_asof": "2026-07-28",
-      "old_target_leverage": 0,
-      "new_target_leverage": 1,
-      "old_target_label": "cash",
-      "new_target_label": "1x",
+      "old_target_leverage": 1,
+      "new_target_leverage": 0,
+      "old_target_label": "1x",
+      "new_target_label": "cash",
       "email_sent": false,
       "email_error": null,
-      "email_skipped_reason": "Signal changed (cash -> 1x) but an alert email was already sent today (2026-07-28 UK)."
+      "email_skipped_reason": "Signal changed (1x -> cash) but an alert email was already sent today (2026-07-28 UK)."
     }
   }
 }

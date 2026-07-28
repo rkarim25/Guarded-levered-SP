@@ -1,16 +1,16 @@
 {
-  "generated_at_utc": "2026-07-28T16:01:02Z",
+  "generated_at_utc": "2026-07-28T17:50:26Z",
   "window_days": 7,
-  "score": 5,
+  "score": 4,
   "label": "Neutral",
-  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: CMTV Q2 Earnings Rise 15% Y/Y on Strong Loan Growth, NII Gains; Stock Market Today: Dow Jones Futures Gain as Coca-Cola Jumps After Q2 Beat, S&P 500, Nasdaq 100 Decline - Benzinga. Bearish offsets: US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop - The Times of India; Supreme Court approval hits record low as Republicans' support declines.",
+  "explanation": "4/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Stock Market Today: Dow Jones Futures Gain as Coca-Cola Jumps After Q2 Beat, S&P 500, Nasdaq 100 Decline - Benzinga. Bearish offsets: Is SAP Stock a Buy After the 2026 Selloff and Profit Outlook Cut?; US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop - The Times of India.",
   "articles": [
     {
-      "title": "CMTV Q2 Earnings Rise 15% Y/Y on Strong Loan Growth, NII Gains",
+      "title": "Is SAP Stock a Buy After the 2026 Selloff and Profit Outlook Cut?",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cmtv-q2-earnings-rise-15-143300221.html?.tsrc=rss",
-      "published": "2026-07-28T14:33:00Z",
-      "tone": "bullish"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sap-stock-buy-2026-selloff-154100641.html?.tsrc=rss",
+      "published": "2026-07-28T15:41:00Z",
+      "tone": "bearish"
     },
     {
       "title": "US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop - The Times of India",
@@ -34,10 +34,10 @@
       "tone": "bullish"
     },
     {
-      "title": "Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/28/hyperscalers-face-higher-capex-scrutiny-after-alphabet-report-panned.html",
-      "published": "2026-07-28T14:50:10Z",
+      "title": "Dow Rises, But Nasdaq Drops on Global Chip Selloff",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/m/51631391-1b54-3a13-8e48-7dc5f669413d/dow-rises%2C-but-nasdaq-drops.html?.tsrc=rss",
+      "published": "2026-07-28T15:20:47Z",
       "tone": "bearish"
     }
   ],
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 95
+        "articles": 94
       }
     ],
-    "headline_count": 145,
+    "headline_count": 144,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
