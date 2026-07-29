@@ -1,10 +1,17 @@
 {
-  "generated_at_utc": "2026-07-29T14:05:46Z",
+  "generated_at_utc": "2026-07-29T16:00:11Z",
   "window_days": 7,
-  "score": 5,
+  "score": 4,
   "label": "Neutral",
-  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Stock Market Today: Dow Jones Futures Gain as Coca-Cola Jumps After Q2 Beat, S&P 500, Nasdaq 100 Decline - Benzinga; Time To Take Profits In XLV?. Bearish offsets: US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop - The Times of India; Wall Street mixed early as chip sell-off continues - ABC News - Breaking News, Latest News and Videos.",
+  "explanation": "4/10 is neutral from a 7-day headline keyword scan. Bullish drivers: General Dynamics Stock Bucks Defense Sector Slump Following Earnings Beat; Stock Market Today: Dow Jones Futures Gain as Coca-Cola Jumps After Q2 Beat, S&P 500, Nasdaq 100 Decline - Benzinga. Bearish offsets: US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop - The Times of India; SpaceX stock back under pressure as Q2 earnings approach.",
   "articles": [
+    {
+      "title": "General Dynamics Stock Bucks Defense Sector Slump Following Earnings Beat",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/m/8103149d-fd82-3a95-8ad1-f7f7f5c4c2a0/general-dynamics-stock-bucks.html?.tsrc=rss",
+      "published": "2026-07-29T14:07:00Z",
+      "tone": "bullish"
+    },
     {
       "title": "US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop - The Times of India",
       "source": "The Times of India",
@@ -20,11 +27,11 @@
       "tone": "bullish"
     },
     {
-      "title": "Time To Take Profits In XLV?",
+      "title": "SpaceX stock back under pressure as Q2 earnings approach",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://www.trefis.com/articles/609290/time-to-take-profits-in-xlv/2026-07-29?.tsrc=rss",
-      "published": "2026-07-29T13:30:45Z",
-      "tone": "bullish"
+      "url": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-back-under-pressure-as-q2-earnings-approach-152137218.html?.tsrc=rss",
+      "published": "2026-07-29T15:21:37Z",
+      "tone": "bearish"
     },
     {
       "title": "Wall Street mixed early as chip sell-off continues - ABC News - Breaking News, Latest News and Videos",
@@ -32,13 +39,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRW9sem1JWGVybkpSUDRaNDNaQkRfcW9IT2otaXFQSmVOUjBXUVh5NjBGTkVuUHZuWDBkR0JTQ2d5akZYN2wxODFiOXFCRzFvT1BrdXFtdllkcjliaEpuTHM2TXRsc0JxRnl3WU5DR1VLYndTNGFjYXQ2MldKQU9tcFZRVDVDZmJPMXV1cVV1SnBIaC1FSm1lMDRrWdIBoAFBVV95cUxOMUVHbkpYZk9YbENpQnJ6SFppSU1HUFNzQk1STU5NLXlLc1JUMWFKWnZXZHlHd2gtX0F3SDJTWHZLcUFrNUFOeUp3d0FQbFVmTXJtVmxkakdjR0VJS2JFdC1VZ0pOZlE0aE04OEhOcVJtMXRDR0h2bEhqc0JBclloak52WWpHLTNwLXJRYWM1SFBiUHQ2N3RMaVdTWlZtUDZD?oc=5",
       "published": "2026-07-28T12:37:05Z",
       "tone": "bearish"
-    },
-    {
-      "title": "Stock Market Today: S&P 500 Rally Fizzles as Dow Jones Holds Firm - CryptoRank",
-      "source": "CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYXJSUjR3LUFvejh4ek9fWmpPNHZtTHZGVlFiZmhMczFnTUdRa1Bxa0Z6bjNhdXpST3dMdzBPbVZ6bHgxZHpSbXJGZGk2TDAwOXpNVTk4NEszZU5nVXRmTzhKU2ZwMWxGdkdoYVlhd2pHYmpQWllkUElxenJlVlJLQTNvdXEza1ZCeWpFU0EyTk5lVmhOSV85aHBGWklIR2lNWUUw?oc=5",
-      "published": "2026-07-27T18:51:54Z",
-      "tone": "bullish"
     }
   ],
   "data_source": {
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 92
+        "articles": 94
       }
     ],
-    "headline_count": 142,
+    "headline_count": 144,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
