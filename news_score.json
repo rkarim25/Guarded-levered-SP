@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-07-29T09:33:49Z",
+  "generated_at_utc": "2026-07-29T11:56:47Z",
   "window_days": 7,
-  "score": 4,
+  "score": 5,
   "label": "Neutral",
-  "explanation": "4/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Stock Futures Edge Higher as Fed Rate Decision Looms; Stock Market Today: Dow Jones Futures Gain as Coca-Cola Jumps After Q2 Beat, S&P 500, Nasdaq 100 Decline - Benzinga. Bearish offsets: Stock market today: Dow, S&P 500, Nasdaq futures steady after Korean stocks fall, Iran resumes attacks; US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop - The Times of India.",
+  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Stock Futures Edge Higher as Fed Rate Decision Looms; Wall Street Sees This Vanguard Index Fund Poised to Surge in 2026. Bearish offsets: US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop - The Times of India.",
   "articles": [
     {
       "title": "Stock Futures Edge Higher as Fed Rate Decision Looms",
@@ -13,11 +13,11 @@
       "tone": "bullish"
     },
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures steady after Korean stocks fall, Iran resumes attacks",
+      "title": "Wall Street Sees This Vanguard Index Fund Poised to Surge in 2026",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-29-dow-sp-500-nasdaq-082009165.html?.tsrc=rss",
-      "published": "2026-07-29T08:20:09Z",
-      "tone": "bearish"
+      "url": "https://www.fool.com/investing/2026/07/29/wall-street-vanguard-index-fund-voo-surge-2026/?.tsrc=rss",
+      "published": "2026-07-29T10:12:00Z",
+      "tone": "bullish"
     },
     {
       "title": "US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop - The Times of India",
@@ -34,11 +34,11 @@
       "tone": "bullish"
     },
     {
-      "title": "Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/28/hyperscalers-face-higher-capex-scrutiny-after-alphabet-report-panned.html",
-      "published": "2026-07-28T19:45:10Z",
-      "tone": "bearish"
+      "title": "Visa Announced Layoffs Ahead of Earnings Beat, as AI and Restructuring Accelerate",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/m/e050b06c-401c-3510-a760-dd9c4f08ccb7/visa-announced-layoffs-ahead.html?.tsrc=rss",
+      "published": "2026-07-29T10:19:00Z",
+      "tone": "bullish"
     }
   ],
   "data_source": {
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 91
+        "articles": 88
       }
     ],
-    "headline_count": 141,
+    "headline_count": 138,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
