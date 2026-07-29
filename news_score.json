@@ -1,10 +1,17 @@
 {
-  "generated_at_utc": "2026-07-29T21:48:41Z",
+  "generated_at_utc": "2026-07-29T22:57:28Z",
   "window_days": 7,
   "score": 5,
   "label": "Neutral",
-  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: L3Harris Stock Jumps on Earnings Beat. The Defense Business Is Growing.; Caterpillar Stock Downgraded as AI-Driven Rally Faces a Big Threat. Bearish offsets: US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop - The Times of India; Carvana stock falls as auto retailer\u2019s 2026 earnings guidance misses Wall Street\u2019s expectations.",
+  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: L3Harris Stock Jumps on Earnings Beat. The Defense Business Is Growing.; Caterpillar Stock Downgraded as AI-Driven Rally Faces a Big Threat. Bearish offsets: Wall Street closes down sharply after Fed holds rates unchanged; US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop - The Times of India.",
   "articles": [
+    {
+      "title": "Wall Street closes down sharply after Fed holds rates unchanged",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/video/wall-street-closes-down-sharply-224632926.html?.tsrc=rss",
+      "published": "2026-07-29T22:46:32Z",
+      "tone": "bearish"
+    },
     {
       "title": "L3Harris Stock Jumps on Earnings Beat. The Defense Business Is Growing.",
       "source": "Yahoo Finance S&P 500",
@@ -32,13 +39,6 @@
       "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNb3lfTV9GcE9fNWZsbWFOZGt0VHFuNmExQU5GT3B0eDZSSWREVWhETmllZDJ1VmdWVW5SWkx6SXJvVTdFZFUzUFUxRU1vTnYwNWtINnJ3ZnRXWWZrV2djOERiU0Q0MUI5UkNDQzN6ekcwVnE0MV92RFpzdzlnUWZLeFY2bEg1U3VaRTAwZmRHeTBUN0lEM1ZvdUhxQVR3d1B6by1NejBBTnRScHhqZktJVXRiVUFhOG1ORTZWcHp1clF6MTZEbkxWcFJQWkhEWXhRNlJQTkNNLXNSaHdYU2tMMGVKaWpIOG9SdmNlUVdpbTlXMmZEZWNOanRBQzg3SmZvN192Yk9xWDV0UXhNOTVPdDZKakNEYjQ1aVhmNjZTNW9tcFd5WkE1WFkwSHZoUWFJRi1vTDJPdFQwV3djRTJGYmd5V0paRmdva1E?oc=5",
       "published": "2026-07-28T12:38:00Z",
       "tone": "bullish"
-    },
-    {
-      "title": "Carvana stock falls as auto retailer\u2019s 2026 earnings guidance misses Wall Street\u2019s expectations",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/29/carvana-cvna-earnings-q2-2026.html",
-      "published": "2026-07-29T21:47:28Z",
-      "tone": "bearish"
     }
   ],
   "data_source": {
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 89
+        "articles": 87
       }
     ],
-    "headline_count": 139,
+    "headline_count": 137,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
