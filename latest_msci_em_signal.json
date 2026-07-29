@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-07-28T22:55:10Z",
-  "data_asof": "2026-07-28",
-  "daily_rows": 5859,
-  "quote_price": 62.36000061035156,
-  "quote_timestamp": "2026-07-28",
+  "generated_at_utc": "2026-07-29T09:33:47Z",
+  "data_asof": "2026-07-27",
+  "daily_rows": 5858,
+  "quote_price": 63.619998931884766,
+  "quote_timestamp": "2026-07-27",
   "quote_source": "Yahoo Finance chart endpoint",
   "sources": {
     "daily_yahoo": {
-      "url": "https://query1.finance.yahoo.com/v8/finance/chart/EEM?period1=0&period2=1785365709&interval=1d&events=history&includeAdjustedClose=true",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/EEM?period1=0&period2=1785404026&interval=1d&events=history&includeAdjustedClose=true",
       "ok": true,
       "status": 200
     }
@@ -25,13 +25,13 @@
   },
   "official_signal": {
     "latest": {
-      "date": "2026-07-28",
-      "close": 62.36000061035156
+      "date": "2026-07-27",
+      "close": 63.619998931884766
     },
-    "latestSma": 65.24050025939941,
+    "latestSma": 65.49400024414062,
     "highWater": 71.20999908447266,
     "highWaterDate": "2026-06-22",
-    "latestDd": -0.12428027788095897,
+    "latestDd": -0.10658615714324438,
     "regime": "tier2",
     "entryClose": 67.56999969482422,
     "entryDate": "2026-07-06",
@@ -47,13 +47,13 @@
   },
   "provisional_signal": {
     "latest": {
-      "date": "2026-07-28",
-      "close": 62.36000061035156
+      "date": "2026-07-27",
+      "close": 63.619998931884766
     },
-    "latestSma": 64.93800010681153,
+    "latestSma": 65.30350017547607,
     "highWater": 71.20999908447266,
     "highWaterDate": "2026-06-22",
-    "latestDd": -0.12428027788095897,
+    "latestDd": -0.10658615714324438,
     "regime": "tier2",
     "entryClose": 67.56999969482422,
     "entryDate": "2026-07-06",
@@ -68,10 +68,10 @@
     "explanation": "2x tier is armed, but lead guard failed; using base cash/1x rule."
   },
   "trade_alert_state": {
-    "last_observed_asof": "2026-07-28",
+    "last_observed_asof": "2026-07-27",
     "last_observed_target_leverage": 0,
     "last_observed_target_label": "cash",
-    "last_checked_at_utc": "2026-07-28T22:55:10Z",
+    "last_checked_at_utc": "2026-07-29T09:33:47Z",
     "last_email_sent_on": "2026-07-07",
     "last_transition": {
       "id": "2026-07-06:1->2026-07-07:0",
