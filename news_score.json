@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-07-30T11:27:35Z",
+  "generated_at_utc": "2026-07-30T13:06:12Z",
   "window_days": 7,
   "score": 5,
   "label": "Neutral",
-  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Stock Market Today: Dow Jones Futures Gain as Coca-Cola Jumps After Q2 Beat, S&P 500, Nasdaq 100 Decline - Benzinga. Bearish offsets: Trump promised a 'golden age' for agriculture. Farmers in Iowa say they're still waiting; US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop - The Times of India.",
+  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Stock Market Today: Dow Jones Futures Gain as Coca-Cola Jumps After Q2 Beat, S&P 500, Nasdaq 100 Decline - Benzinga; US Equity Futures Rise Pre-Bell Amid Latest Big Tech Earnings, Fed Rate Decision. Bearish offsets: Trump promised a 'golden age' for agriculture. Farmers in Iowa say they're still waiting; US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop - The Times of India.",
   "articles": [
     {
       "title": "Trump promised a 'golden age' for agriculture. Farmers in Iowa say they're still waiting",
@@ -34,11 +34,11 @@
       "tone": "bearish"
     },
     {
-      "title": "Vertiv CEO addresses 17% stock plunge, disappointing quarter: \u2018This is a temporary issue\u2019",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/29/vertiv-ceo-addresses-stock-plunge-disappointing-quarter.html",
-      "published": "2026-07-29T23:00:02Z",
-      "tone": "bearish"
+      "title": "US Equity Futures Rise Pre-Bell Amid Latest Big Tech Earnings, Fed Rate Decision",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-121051854.html?.tsrc=rss",
+      "published": "2026-07-30T12:10:51Z",
+      "tone": "bullish"
     }
   ],
   "data_source": {
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 91
+        "articles": 92
       }
     ],
-    "headline_count": 141,
+    "headline_count": 142,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
