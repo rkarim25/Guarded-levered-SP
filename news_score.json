@@ -1,44 +1,44 @@
 {
-  "generated_at_utc": "2026-07-30T17:03:20Z",
+  "generated_at_utc": "2026-07-30T21:58:59Z",
   "window_days": 7,
   "score": 7,
   "label": "Bullish",
-  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Today's Rally Isn't Broadening Beyond the Tech Trade; Stock Market Today: Nasdaq Rebounds As Chips Jump; This Medical Name Jams Ahead Of Earnings (Live Coverage). Bearish offsets: Trump promised a 'golden age' for agriculture. Farmers in Iowa say they're still waiting.",
+  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: The Big Flaw in the Stock Market's Tech-Driven Rally Today; US Equity Markets End Higher on Microsoft's Cloud Gains, Semiconductor Rebound. Bearish offsets: Trump says sanctions bill should include tariffs on Iran, despite 'trivial' trade with U.S..",
   "articles": [
     {
-      "title": "Today's Rally Isn't Broadening Beyond the Tech Trade",
+      "title": "The Big Flaw in the Stock Market's Tech-Driven Rally Today",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/71cf4d9d-d437-38b1-9b7c-54dd04e4b6e6/today%27s-rally-isn%27t.html?.tsrc=rss",
-      "published": "2026-07-30T15:03:36Z",
+      "url": "https://finance.yahoo.com/m/74bd0c85-7742-3e54-8d90-944fae1851b5/the-big-flaw-in-the-stock.html?.tsrc=rss",
+      "published": "2026-07-30T20:01:40Z",
       "tone": "bullish"
     },
     {
-      "title": "Stock Market Today: Nasdaq Rebounds As Chips Jump; This Medical Name Jams Ahead Of Earnings (Live Coverage)",
+      "title": "US Equity Markets End Higher on Microsoft's Cloud Gains, Semiconductor Rebound",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/826969c6-014c-37f9-9ed7-da1bab782e05/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "published": "2026-07-30T16:07:44Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-higher-201704981.html?.tsrc=rss",
+      "published": "2026-07-30T20:17:04Z",
       "tone": "bullish"
     },
     {
-      "title": "Waterstone Financial's Q2 Earnings Up Y/Y on Loan Yield Gains",
+      "title": "Dow Jones Futures: Apple, Amazon Diverge Late; What To Do After AI Stocks Surge",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/waterstone-financials-q2-earnings-y-151300688.html?.tsrc=rss",
-      "published": "2026-07-30T15:13:00Z",
+      "url": "https://finance.yahoo.com/m/410b5188-fada-3c74-b2e7-6fb6f4fcea6e/dow-jones-futures%3A-apple%2C.html?.tsrc=rss",
+      "published": "2026-07-30T21:44:00Z",
       "tone": "bullish"
     },
     {
-      "title": "Trump promised a 'golden age' for agriculture. Farmers in Iowa say they're still waiting",
+      "title": "Stock Market Today: Chips Lead Nasdaq's Fierce Rebound, But Meta Bashed",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/m/826969c6-014c-37f9-9ed7-da1bab782e05/stock-market-today%3A-chips.html?.tsrc=rss",
+      "published": "2026-07-30T20:46:55Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "Trump says sanctions bill should include tariffs on Iran, despite 'trivial' trade with U.S.",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/30/trump-iowa-farmers-agriculture.html",
-      "published": "2026-07-30T10:45:01Z",
+      "url": "https://www.cnbc.com/2026/07/30/trump-iran-tariffs-sanctions-bill.html",
+      "published": "2026-07-30T20:38:18Z",
       "tone": "bearish"
-    },
-    {
-      "title": "Wall Street recovers most of the prior day\u2019s loss as Microsoft and many AI stocks rally - Boston Herald",
-      "source": "Boston Herald",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeThKUktrZ2VmLXBORFUzSENVbnpvQlpzSFVhV19fcjYweS1pTktUSU1xcFJiZnNhM01SXzk5ZVQtVXl6UThWLWlKR1VqbFhVNUlyS3FJa290Um9oUHFlekcxUTduRkJjRFU4NFpRaVl0UUFsR1BXWjZjM3c0VUthUHRUTVB6NlU3cnVB?oc=5",
-      "published": "2026-07-30T13:41:18Z",
-      "tone": "bullish"
     }
   ],
   "data_source": {
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 91
+        "articles": 89
       }
     ],
-    "headline_count": 141,
+    "headline_count": 139,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
