@@ -1,22 +1,15 @@
 {
-  "generated_at_utc": "2026-07-30T09:26:08Z",
+  "generated_at_utc": "2026-07-30T11:27:35Z",
   "window_days": 7,
   "score": 5,
   "label": "Neutral",
-  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Stock Market Today: Dow Jones Futures Gain as Coca-Cola Jumps After Q2 Beat, S&P 500, Nasdaq 100 Decline - Benzinga. Bearish offsets: Wall Street closes down sharply after Fed holds rates unchanged; Q3 Estimates Increase for Tech and Finance, Fall for Consumer Staples.",
+  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Stock Market Today: Dow Jones Futures Gain as Coca-Cola Jumps After Q2 Beat, S&P 500, Nasdaq 100 Decline - Benzinga. Bearish offsets: Trump promised a 'golden age' for agriculture. Farmers in Iowa say they're still waiting; US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop - The Times of India.",
   "articles": [
     {
-      "title": "Wall Street closes down sharply after Fed holds rates unchanged",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/video/wall-street-closes-down-sharply-224632926.html?.tsrc=rss",
-      "published": "2026-07-29T22:46:32Z",
-      "tone": "bearish"
-    },
-    {
-      "title": "Q3 Estimates Increase for Tech and Finance, Fall for Consumer Staples",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/q3-estimates-increase-tech-finance-222600046.html?.tsrc=rss",
-      "published": "2026-07-29T22:26:00Z",
+      "title": "Trump promised a 'golden age' for agriculture. Farmers in Iowa say they're still waiting",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/30/trump-iowa-farmers-agriculture.html",
+      "published": "2026-07-30T10:45:01Z",
       "tone": "bearish"
     },
     {
@@ -34,10 +27,17 @@
       "tone": "bullish"
     },
     {
-      "title": "Carvana stock falls as auto retailer\u2019s 2026 earnings guidance misses Wall Street\u2019s expectations",
+      "title": "Wall Street Today: DJIA, S&P 500, Nasdaq Comp Fall on FOMC, Oil Hikes and CAT, SKHY, MU Losses - Moomoo",
+      "source": "Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU0x2SmNHeG1wUjk3aUs3eFpibjV1aVJWUGFRUDlMQlczSXF1MjlXS3NLSzVfclRnTnBqcUdQNVM3SEdPeDI2S0NqS2xmcHBFZlkyaktGVlZ3ejIyTVJNbFUtN2lsS1JyZ1ZlQVRrNk9zVnF3TlJ4T2Y0WE5LSlhtUldqMElOcmxlYm9ObE5xTWVrNC1TOFVnMkR2Wm42VV9GbFBZ?oc=5",
+      "published": "2026-07-29T07:00:00Z",
+      "tone": "bearish"
+    },
+    {
+      "title": "Vertiv CEO addresses 17% stock plunge, disappointing quarter: \u2018This is a temporary issue\u2019",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/07/29/carvana-cvna-earnings-q2-2026.html",
-      "published": "2026-07-29T21:47:28Z",
+      "url": "https://www.cnbc.com/2026/07/29/vertiv-ceo-addresses-stock-plunge-disappointing-quarter.html",
+      "published": "2026-07-29T23:00:02Z",
       "tone": "bearish"
     }
   ],
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 87
+        "articles": 91
       }
     ],
-    "headline_count": 137,
+    "headline_count": 141,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
