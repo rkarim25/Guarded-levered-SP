@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-07-29T22:57:28Z",
+  "generated_at_utc": "2026-07-30T09:26:08Z",
   "window_days": 7,
   "score": 5,
   "label": "Neutral",
-  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: L3Harris Stock Jumps on Earnings Beat. The Defense Business Is Growing.; Caterpillar Stock Downgraded as AI-Driven Rally Faces a Big Threat. Bearish offsets: Wall Street closes down sharply after Fed holds rates unchanged; US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop - The Times of India.",
+  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Stock Market Today: Dow Jones Futures Gain as Coca-Cola Jumps After Q2 Beat, S&P 500, Nasdaq 100 Decline - Benzinga. Bearish offsets: Wall Street closes down sharply after Fed holds rates unchanged; Q3 Estimates Increase for Tech and Finance, Fall for Consumer Staples.",
   "articles": [
     {
       "title": "Wall Street closes down sharply after Fed holds rates unchanged",
@@ -13,18 +13,11 @@
       "tone": "bearish"
     },
     {
-      "title": "L3Harris Stock Jumps on Earnings Beat. The Defense Business Is Growing.",
+      "title": "Q3 Estimates Increase for Tech and Finance, Fall for Consumer Staples",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/80abaddf-fab3-379b-bc43-81fe73bca9de/l3harris-stock-jumps-on.html?.tsrc=rss",
-      "published": "2026-07-29T21:05:00Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Caterpillar Stock Downgraded as AI-Driven Rally Faces a Big Threat",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/4baa45e7-3b51-3c84-b133-83f14455bf98/caterpillar-stock-downgraded.html?.tsrc=rss",
-      "published": "2026-07-29T20:19:00Z",
-      "tone": "bullish"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/q3-estimates-increase-tech-finance-222600046.html?.tsrc=rss",
+      "published": "2026-07-29T22:26:00Z",
+      "tone": "bearish"
     },
     {
       "title": "US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop - The Times of India",
@@ -39,6 +32,13 @@
       "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNb3lfTV9GcE9fNWZsbWFOZGt0VHFuNmExQU5GT3B0eDZSSWREVWhETmllZDJ1VmdWVW5SWkx6SXJvVTdFZFUzUFUxRU1vTnYwNWtINnJ3ZnRXWWZrV2djOERiU0Q0MUI5UkNDQzN6ekcwVnE0MV92RFpzdzlnUWZLeFY2bEg1U3VaRTAwZmRHeTBUN0lEM1ZvdUhxQVR3d1B6by1NejBBTnRScHhqZktJVXRiVUFhOG1ORTZWcHp1clF6MTZEbkxWcFJQWkhEWXhRNlJQTkNNLXNSaHdYU2tMMGVKaWpIOG9SdmNlUVdpbTlXMmZEZWNOanRBQzg3SmZvN192Yk9xWDV0UXhNOTVPdDZKakNEYjQ1aVhmNjZTNW9tcFd5WkE1WFkwSHZoUWFJRi1vTDJPdFQwV3djRTJGYmd5V0paRmdva1E?oc=5",
       "published": "2026-07-28T12:38:00Z",
       "tone": "bullish"
+    },
+    {
+      "title": "Carvana stock falls as auto retailer\u2019s 2026 earnings guidance misses Wall Street\u2019s expectations",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/29/carvana-cvna-earnings-q2-2026.html",
+      "published": "2026-07-29T21:47:28Z",
+      "tone": "bearish"
     }
   ],
   "data_source": {
