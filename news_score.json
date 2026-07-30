@@ -1,10 +1,24 @@
 {
-  "generated_at_utc": "2026-07-30T13:06:12Z",
+  "generated_at_utc": "2026-07-30T15:29:21Z",
   "window_days": 7,
-  "score": 5,
+  "score": 6,
   "label": "Neutral",
-  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Stock Market Today: Dow Jones Futures Gain as Coca-Cola Jumps After Q2 Beat, S&P 500, Nasdaq 100 Decline - Benzinga; US Equity Futures Rise Pre-Bell Amid Latest Big Tech Earnings, Fed Rate Decision. Bearish offsets: Trump promised a 'golden age' for agriculture. Farmers in Iowa say they're still waiting; US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop - The Times of India.",
+  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Stock Market Today: Dow, Nasdaq Rebound Sharply; Fortinet Up, Meta Slammed After Earnings (Live Coverage); Nasdaq rallies 2%, fueled by gains in Microsoft and semiconductor stocks: Live updates. Bearish offsets: Trump promised a 'golden age' for agriculture. Farmers in Iowa say they're still waiting; Bristol Myers Raises Earnings Guidance, Stock Falls.",
   "articles": [
+    {
+      "title": "Stock Market Today: Dow, Nasdaq Rebound Sharply; Fortinet Up, Meta Slammed After Earnings (Live Coverage)",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/m/826969c6-014c-37f9-9ed7-da1bab782e05/stock-market-today%3A-dow%2C.html?.tsrc=rss",
+      "published": "2026-07-30T14:37:47Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "Nasdaq rallies 2%, fueled by gains in Microsoft and semiconductor stocks: Live updates",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/07/29/stock-market-today-live-updates.html",
+      "published": "2026-07-30T14:55:28Z",
+      "tone": "bullish"
+    },
     {
       "title": "Trump promised a 'golden age' for agriculture. Farmers in Iowa say they're still waiting",
       "source": "CNBC Markets",
@@ -13,32 +27,18 @@
       "tone": "bearish"
     },
     {
+      "title": "Bristol Myers Raises Earnings Guidance, Stock Falls",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/m/a94817ef-1fdd-3d60-bbcb-05b65b0ba021/bristol-myers-raises-earnings.html?.tsrc=rss",
+      "published": "2026-07-30T13:18:00Z",
+      "tone": "bearish"
+    },
+    {
       "title": "US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop - The Times of India",
       "source": "The Times of India",
       "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNcGtldktQTk1HNnlEMkNJU0NzcGtWbnhzdmtQRXZTcFNsMUtucUJfdXItSGdTaTBPcDh1bzNwV0dQVW8wdDV4N2RkSDBlRjNCai0tMXpicnNVNjZheG9tdUJqOHBJSkVQX3dpdVE5TnZfNWIyaHBYcG5nT1pRRTE2MEtxdzZQTGpOV0xheDBKQUpsYnNNdTZTRWxFTzliendYSUtIeVRZX1FzM3YwMGMtWmhMa2twSlNDZjdQTENFU3ptTjZoSWhTSlk2eHNaQ2UwN3BOWkgydEhJb0RDT0pPbEk2blBaczVGb25RSkpJT1k2eG0tel94VFZEMGlNaTJVWXg3aWJCS0xRZERPSmd5M09XQmxJbzMtc0lKdk9hRmlRVVnSAagCQVVfeXFMTS1rdFpjUjRPQXI3QmxtRmhqN3ZobDFzVTlkZzlaU2pqUmcwamszQ3pVVDRXYW4zMm5qY3ZOSDBCQjZ4eFZFWEZpb0gzZ2p0LTJEakZENVU2c2hZYjFsdUJQVlNDcDkyRFNJc0NNT28wMW9hUkpsdHpTTndaX2JNX1ZuTjB0ampXX3dXMjdIT3k2emJMOWlBN2lPZl9jeW9wdU1VdzBjNlRtMVMtZkJWcExpd3lMcTBZc2lyUHVGTVdpNHB4c1VXSDFJUjZySXF2Um5nRmlTWUEwM1g1S0cza3BFOVZjMzZ4cmdRR2ZFZ3gzb09ld3pVdFhueUVqbGRKaDZlMWh0eFd6VjNFT3NOUV8xZmxYU2xjU3ZYejVHaTdqVnUyRklkZ1I?oc=5",
       "published": "2026-07-28T14:06:00Z",
       "tone": "bearish"
-    },
-    {
-      "title": "Stock Market Today: Dow Jones Futures Gain as Coca-Cola Jumps After Q2 Beat, S&P 500, Nasdaq 100 Decline - Benzinga",
-      "source": "Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNb3lfTV9GcE9fNWZsbWFOZGt0VHFuNmExQU5GT3B0eDZSSWREVWhETmllZDJ1VmdWVW5SWkx6SXJvVTdFZFUzUFUxRU1vTnYwNWtINnJ3ZnRXWWZrV2djOERiU0Q0MUI5UkNDQzN6ekcwVnE0MV92RFpzdzlnUWZLeFY2bEg1U3VaRTAwZmRHeTBUN0lEM1ZvdUhxQVR3d1B6by1NejBBTnRScHhqZktJVXRiVUFhOG1ORTZWcHp1clF6MTZEbkxWcFJQWkhEWXhRNlJQTkNNLXNSaHdYU2tMMGVKaWpIOG9SdmNlUVdpbTlXMmZEZWNOanRBQzg3SmZvN192Yk9xWDV0UXhNOTVPdDZKakNEYjQ1aVhmNjZTNW9tcFd5WkE1WFkwSHZoUWFJRi1vTDJPdFQwV3djRTJGYmd5V0paRmdva1E?oc=5",
-      "published": "2026-07-28T12:38:00Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Wall Street Today: DJIA, S&P 500, Nasdaq Comp Fall on FOMC, Oil Hikes and CAT, SKHY, MU Losses - Moomoo",
-      "source": "Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU0x2SmNHeG1wUjk3aUs3eFpibjV1aVJWUGFRUDlMQlczSXF1MjlXS3NLSzVfclRnTnBqcUdQNVM3SEdPeDI2S0NqS2xmcHBFZlkyaktGVlZ3ejIyTVJNbFUtN2lsS1JyZ1ZlQVRrNk9zVnF3TlJ4T2Y0WE5LSlhtUldqMElOcmxlYm9ObE5xTWVrNC1TOFVnMkR2Wm42VV9GbFBZ?oc=5",
-      "published": "2026-07-29T07:00:00Z",
-      "tone": "bearish"
-    },
-    {
-      "title": "US Equity Futures Rise Pre-Bell Amid Latest Big Tech Earnings, Fed Rate Decision",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-121051854.html?.tsrc=rss",
-      "published": "2026-07-30T12:10:51Z",
-      "tone": "bullish"
     }
   ],
   "data_source": {
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 92
+        "articles": 91
       }
     ],
-    "headline_count": 142,
+    "headline_count": 141,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
