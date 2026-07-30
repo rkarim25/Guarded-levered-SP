@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-07-30T15:29:18Z",
+  "generated_at_utc": "2026-07-30T17:03:17Z",
   "data_asof": "2026-07-30",
   "daily_rows": 7548,
-  "quote_price": 7374.91015625,
+  "quote_price": 7422.52978515625,
   "quote_timestamp": "2026-07-30",
   "quote_source": "Yahoo Finance chart endpoint",
   "sources": {
@@ -30,12 +30,12 @@
   "official_signal": {
     "latest": {
       "date": "2026-07-30",
-      "close": 7375.06005859375
+      "close": 7422.52978515625
     },
-    "latestSma": 7477.696997070312,
+    "latestSma": 7480.070483398437,
     "highWater": 7609.77978515625,
     "highWaterDate": "2026-06-02",
-    "latestDd": -0.030844483439632198,
+    "latestDd": -0.024606493917899264,
     "regime": "tier2",
     "entryClose": 6575.31982421875,
     "entryDate": "2026-04-01",
@@ -52,30 +52,30 @@
   "provisional_signal": {
     "latest": {
       "date": "2026-07-30",
-      "close": 7374.91015625
+      "close": 7422.52978515625
     },
-    "latestSma": 7472.280493164062,
+    "latestSma": 7477.0349609375,
     "highWater": 7609.77978515625,
     "highWaterDate": "2026-06-02",
-    "latestDd": -0.030864182083743086,
+    "latestDd": -0.024606493917899264,
     "regime": "tier2",
     "entryClose": 6575.31982421875,
     "entryDate": "2026-04-01",
     "recoveryTarget": 9205.44775390625,
     "aboveSma": false,
-    "recoveryOk": false,
-    "targetLeverage": 0,
-    "activeEntryClose": null,
-    "activeEntryDate": null,
-    "activeEntryLeverage": null,
-    "activeEntryPnl": null,
-    "explanation": "2x tier is armed, but lead guard failed; using base cash/1x rule."
+    "recoveryOk": true,
+    "targetLeverage": 2,
+    "activeEntryClose": 6575.31982421875,
+    "activeEntryDate": "2026-04-01",
+    "activeEntryLeverage": 2,
+    "activeEntryPnl": 0.12884695856420358,
+    "explanation": "2x recovery tier is active and price is inside the 0.75% SMA20 lead guard."
   },
   "trade_alert_state": {
     "last_observed_asof": "2026-07-30",
     "last_observed_target_leverage": 0,
     "last_observed_target_label": "cash",
-    "last_checked_at_utc": "2026-07-30T15:29:18Z",
+    "last_checked_at_utc": "2026-07-30T17:03:17Z",
     "last_email_sent_on": "2026-07-28",
     "last_transition": {
       "id": "2026-07-28:2->2026-07-28:0",
