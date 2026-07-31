@@ -1,24 +1,10 @@
 {
-  "generated_at_utc": "2026-07-31T13:49:16Z",
+  "generated_at_utc": "2026-07-31T15:58:35Z",
   "window_days": 7,
-  "score": 8,
+  "score": 7,
   "label": "Bullish",
-  "explanation": "8/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Dow Jones Futures: Apple, Amazon Diverge Late; What To Do As AI Stocks Rally; Eaton Stock Jumps on AI Relief After Earnings Beat. Bearish offsets: Wall Street Takes a Hit: Dow Drops Over 2% as Broad Sell-Off Grips Markets - CryptoRank.",
+  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Stock Futures Jump as Tech Rally Shrugs Off Apple Earnings; Wall Street Rebounds as Semiconductor Stocks Rally - Schaeffer's Investment Research. Bearish offsets: Wall Street Takes a Hit: Dow Drops Over 2% as Broad Sell-Off Grips Markets - CryptoRank; Why IBM Stock May Be A Value Deal.",
   "articles": [
-    {
-      "title": "Dow Jones Futures: Apple, Amazon Diverge Late; What To Do As AI Stocks Rally",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/410b5188-fada-3c74-b2e7-6fb6f4fcea6e/dow-jones-futures%3A-apple%2C.html?.tsrc=rss",
-      "published": "2026-07-31T12:00:58Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Eaton Stock Jumps on AI Relief After Earnings Beat",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/c858b545-1b2f-362e-b88f-a5d31121fb71/eaton-stock-jumps-on-ai.html?.tsrc=rss",
-      "published": "2026-07-31T12:40:00Z",
-      "tone": "bullish"
-    },
     {
       "title": "Stock Futures Jump as Tech Rally Shrugs Off Apple Earnings",
       "source": "Yahoo Finance S&P 500",
@@ -39,6 +25,20 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LTnl1ejdTdXRLejFYVGJGcm1kSHU1eEQyQ0hoeTdYZnozUkxBS2RuMWJlRFBtZEI2Z25fTWtXeWhSV19EY2RhUDZ5VGFWbWlfRkI2eGpta1ozbjZvX1F1Tloxbi1kVHFIdmp6cFRqR0tXbjE0OU1pMA?oc=5",
       "published": "2026-07-29T21:32:47Z",
       "tone": "bearish"
+    },
+    {
+      "title": "Why IBM Stock May Be A Value Deal",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://www.trefis.com/articles/609649/why-ibm-stock-may-be-a-value-deal/2026-07-31?.tsrc=rss",
+      "published": "2026-07-31T14:07:37Z",
+      "tone": "bearish"
+    },
+    {
+      "title": "Dow, S&P 500, Nasdaq Futures Extend Rally As Big Tech Earnings Revive AI Trade: AMZN, AAPL, NBIS, RDDT In Focus - TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOOERxYzlJbzR4enpIMVJtYzZ6d3VtWDdWSjlwYUFHd0ZzcEFXWFZiTjNzYm91bzZ6X3ZXU2JPemJHNXZlWE01RHp4NHQwNU9QTXNuTGF3ekhyYmdrOWZBd3ZSYTV1SThScW5NaVZRRHJOY3Zta2gtZUxSNW5od01sbmZQV09qTklHMjliQ05Qd0NQazV4UlBINjBISFhCc0lFZC05NnFlem45NlYyelhjd0pZcGxTVmVwcFRVUkZnUVAyMnhFUEJJTjlQanU2RjZVbzhaYkdRem1US0dfSEQyMmtnTEN0RG8zaFlZdDZtTG1aZHJKYWc2elpR?oc=5",
+      "published": "2026-07-31T01:34:00Z",
+      "tone": "bullish"
     }
   ],
   "data_source": {
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 89
+        "articles": 83
       }
     ],
-    "headline_count": 139,
+    "headline_count": 133,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
