@@ -1,17 +1,10 @@
 {
-  "generated_at_utc": "2026-07-31T15:58:35Z",
+  "generated_at_utc": "2026-07-31T17:40:49Z",
   "window_days": 7,
   "score": 7,
   "label": "Bullish",
-  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Stock Futures Jump as Tech Rally Shrugs Off Apple Earnings; Wall Street Rebounds as Semiconductor Stocks Rally - Schaeffer's Investment Research. Bearish offsets: Wall Street Takes a Hit: Dow Drops Over 2% as Broad Sell-Off Grips Markets - CryptoRank; Why IBM Stock May Be A Value Deal.",
+  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Wall Street Rebounds as Semiconductor Stocks Rally - Schaeffer's Investment Research; Stock Market Today: Dow, Nasdaq Gain But Apple Falls Hard; Chevron Rises On Earnings Beat (Live Coverage). Bearish offsets: Wall Street Takes a Hit: Dow Drops Over 2% as Broad Sell-Off Grips Markets - CryptoRank; Wall Street Today: DJIA, S&P 500, Nasdaq Comp Fall on FOMC, Oil Hikes and CAT, SKHY, MU Losses - Moomoo.",
   "articles": [
-    {
-      "title": "Stock Futures Jump as Tech Rally Shrugs Off Apple Earnings",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/aee1d075-db1a-377c-b5dd-eac52b3a3134/stock-futures-jump-as-tech.html?.tsrc=rss",
-      "published": "2026-07-31T12:37:57Z",
-      "tone": "bullish"
-    },
     {
       "title": "Wall Street Rebounds as Semiconductor Stocks Rally - Schaeffer's Investment Research",
       "source": "Schaeffer's Investment Research",
@@ -27,18 +20,25 @@
       "tone": "bearish"
     },
     {
-      "title": "Why IBM Stock May Be A Value Deal",
+      "title": "Stock Market Today: Dow, Nasdaq Gain But Apple Falls Hard; Chevron Rises On Earnings Beat (Live Coverage)",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://www.trefis.com/articles/609649/why-ibm-stock-may-be-a-value-deal/2026-07-31?.tsrc=rss",
-      "published": "2026-07-31T14:07:37Z",
-      "tone": "bearish"
+      "url": "https://finance.yahoo.com/m/6ec11dff-c0be-3dbf-a268-76836122a7aa/stock-market-today%3A-dow%2C.html?.tsrc=rss",
+      "published": "2026-07-31T17:10:01Z",
+      "tone": "bullish"
     },
     {
-      "title": "Dow, S&P 500, Nasdaq Futures Extend Rally As Big Tech Earnings Revive AI Trade: AMZN, AAPL, NBIS, RDDT In Focus - TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOOERxYzlJbzR4enpIMVJtYzZ6d3VtWDdWSjlwYUFHd0ZzcEFXWFZiTjNzYm91bzZ6X3ZXU2JPemJHNXZlWE01RHp4NHQwNU9QTXNuTGF3ekhyYmdrOWZBd3ZSYTV1SThScW5NaVZRRHJOY3Zta2gtZUxSNW5od01sbmZQV09qTklHMjliQ05Qd0NQazV4UlBINjBISFhCc0lFZC05NnFlem45NlYyelhjd0pZcGxTVmVwcFRVUkZnUVAyMnhFUEJJTjlQanU2RjZVbzhaYkdRem1US0dfSEQyMmtnTEN0RG8zaFlZdDZtTG1aZHJKYWc2elpR?oc=5",
-      "published": "2026-07-31T01:34:00Z",
+      "title": "MMSI Q2 Earnings & Revenues Beat Estimates, '26 Guidance Raised",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/healthcare/articles/mmsi-q2-earnings-revenues-beat-150800349.html?.tsrc=rss",
+      "published": "2026-07-31T15:08:00Z",
       "tone": "bullish"
+    },
+    {
+      "title": "Wall Street Today: DJIA, S&P 500, Nasdaq Comp Fall on FOMC, Oil Hikes and CAT, SKHY, MU Losses - Moomoo",
+      "source": "Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU0x2SmNHeG1wUjk3aUs3eFpibjV1aVJWUGFRUDlMQlczSXF1MjlXS3NLSzVfclRnTnBqcUdQNVM3SEdPeDI2S0NqS2xmcHBFZlkyaktGVlZ3ejIyTVJNbFUtN2lsS1JyZ1ZlQVRrNk9zVnF3TlJ4T2Y0WE5LSlhtUldqMElOcmxlYm9ObE5xTWVrNC1TOFVnMkR2Wm42VV9GbFBZ?oc=5",
+      "published": "2026-07-29T07:00:00Z",
+      "tone": "bearish"
     }
   ],
   "data_source": {
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 83
+        "articles": 79
       }
     ],
-    "headline_count": 133,
+    "headline_count": 129,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
