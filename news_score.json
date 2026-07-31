@@ -1,10 +1,17 @@
 {
-  "generated_at_utc": "2026-07-31T17:40:49Z",
+  "generated_at_utc": "2026-07-31T21:56:59Z",
   "window_days": 7,
-  "score": 7,
+  "score": 8,
   "label": "Bullish",
-  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Wall Street Rebounds as Semiconductor Stocks Rally - Schaeffer's Investment Research; Stock Market Today: Dow, Nasdaq Gain But Apple Falls Hard; Chevron Rises On Earnings Beat (Live Coverage). Bearish offsets: Wall Street Takes a Hit: Dow Drops Over 2% as Broad Sell-Off Grips Markets - CryptoRank; Wall Street Today: DJIA, S&P 500, Nasdaq Comp Fall on FOMC, Oil Hikes and CAT, SKHY, MU Losses - Moomoo.",
+  "explanation": "8/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Asia Stocks to Gain as US Peers Rebound, Yen Gains: Markets Wrap - Bloomberg; Wall Street Rebounds as Semiconductor Stocks Rally - Schaeffer's Investment Research. Bearish offsets: Wall Street Takes a Hit: Dow Drops Over 2% as Broad Sell-Off Grips Markets - CryptoRank.",
   "articles": [
+    {
+      "title": "Asia Stocks to Gain as US Peers Rebound, Yen Gains: Markets Wrap - Bloomberg",
+      "source": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSWZGU1ZQVkpXWXc5VDdpcFpmM195NHhoZUhsRzQ3MDZDVE9Md2VoTUdPY0JCc3NLMWxZSUNHczVJWmJ2cmp6SzVOOGhOY2lnVEtnd2x1eU5zUlp5V1NiYjRaUFQ2T0pQdUMxWHJIbnR1T0tJQ3NucVMzZDlCREV5emJWamVqUWRZUFRvYWdBazNNdTY2?oc=5",
+      "published": "2026-07-30T22:15:33Z",
+      "tone": "bullish"
+    },
     {
       "title": "Wall Street Rebounds as Semiconductor Stocks Rally - Schaeffer's Investment Research",
       "source": "Schaeffer's Investment Research",
@@ -20,25 +27,18 @@
       "tone": "bearish"
     },
     {
-      "title": "Stock Market Today: Dow, Nasdaq Gain But Apple Falls Hard; Chevron Rises On Earnings Beat (Live Coverage)",
+      "title": "A KOSPI Rally Isn't Always A Good Omen For Wall Street",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/6ec11dff-c0be-3dbf-a268-76836122a7aa/stock-market-today%3A-dow%2C.html?.tsrc=rss",
-      "published": "2026-07-31T17:10:01Z",
+      "url": "https://finance.yahoo.com/m/8bb24992-5f68-3a8a-9972-256aaff144e6/a-kospi-rally-isn%27t-always-a.html?.tsrc=rss",
+      "published": "2026-07-31T19:40:57Z",
       "tone": "bullish"
     },
     {
-      "title": "MMSI Q2 Earnings & Revenues Beat Estimates, '26 Guidance Raised",
+      "title": "S&P 500 Posts Weekly Gain Amid AI Monetization Optimism",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/healthcare/articles/mmsi-q2-earnings-revenues-beat-150800349.html?.tsrc=rss",
-      "published": "2026-07-31T15:08:00Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-weekly-gain-204514158.html?.tsrc=rss",
+      "published": "2026-07-31T20:45:14Z",
       "tone": "bullish"
-    },
-    {
-      "title": "Wall Street Today: DJIA, S&P 500, Nasdaq Comp Fall on FOMC, Oil Hikes and CAT, SKHY, MU Losses - Moomoo",
-      "source": "Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU0x2SmNHeG1wUjk3aUs3eFpibjV1aVJWUGFRUDlMQlczSXF1MjlXS3NLSzVfclRnTnBqcUdQNVM3SEdPeDI2S0NqS2xmcHBFZlkyaktGVlZ3ejIyTVJNbFUtN2lsS1JyZ1ZlQVRrNk9zVnF3TlJ4T2Y0WE5LSlhtUldqMElOcmxlYm9ObE5xTWVrNC1TOFVnMkR2Wm42VV9GbFBZ?oc=5",
-      "published": "2026-07-29T07:00:00Z",
-      "tone": "bearish"
     }
   ],
   "data_source": {
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 79
+        "articles": 86
       }
     ],
-    "headline_count": 129,
+    "headline_count": 136,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
