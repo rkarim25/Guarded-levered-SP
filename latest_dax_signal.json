@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-08-03T10:35:59Z",
+  "generated_at_utc": "2026-08-03T13:35:10Z",
   "data_asof": "2026-08-03",
   "daily_rows": 9758,
-  "quote_price": 26012.16015625,
+  "quote_price": 25972.599609375,
   "quote_timestamp": "2026-08-03",
   "quote_source": "Yahoo Finance chart endpoint",
   "sources": {
     "daily_yahoo": {
-      "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EGDAXI?period1=0&period2=1785839758&interval=1d&events=history&includeAdjustedClose=true",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EGDAXI?period1=0&period2=1785850510&interval=1d&events=history&includeAdjustedClose=true",
       "ok": true,
       "status": 200
     }
@@ -26,10 +26,10 @@
   "official_signal": {
     "latest": {
       "date": "2026-08-03",
-      "close": 26012.16015625
+      "close": 25972.599609375
     },
-    "latestSma": 25198.4927734375,
-    "highWater": 26012.16015625,
+    "latestSma": 25196.51474609375,
+    "highWater": 25972.599609375,
     "highWaterDate": "2026-08-03",
     "latestDd": 0.0,
     "regime": "tier2",
@@ -42,16 +42,16 @@
     "activeEntryClose": 25099.0,
     "activeEntryDate": "2026-07-24",
     "activeEntryLeverage": 1,
-    "activeEntryPnl": 0.03638233221443077,
+    "activeEntryPnl": 0.0348061520130285,
     "explanation": "Recovery tier2 armed at 1x max (lead guard passed)."
   },
   "provisional_signal": {
     "latest": {
       "date": "2026-08-03",
-      "close": 26012.16015625
+      "close": 25972.599609375
     },
-    "latestSma": 25225.83828125,
-    "highWater": 26012.16015625,
+    "latestSma": 25221.8822265625,
+    "highWater": 25972.599609375,
     "highWaterDate": "2026-08-03",
     "latestDd": 0.0,
     "regime": "tier2",
@@ -64,14 +64,14 @@
     "activeEntryClose": 25099.0,
     "activeEntryDate": "2026-07-24",
     "activeEntryLeverage": 1,
-    "activeEntryPnl": 0.03638233221443077,
+    "activeEntryPnl": 0.0348061520130285,
     "explanation": "Recovery tier2 armed at 1x max (lead guard passed)."
   },
   "trade_alert_state": {
     "last_observed_asof": "2026-08-03",
     "last_observed_target_leverage": 1,
     "last_observed_target_label": "1x",
-    "last_checked_at_utc": "2026-08-03T10:35:59Z",
+    "last_checked_at_utc": "2026-08-03T13:35:10Z",
     "last_email_sent_on": "2026-07-28",
     "last_transition": {
       "id": "2026-07-23:0->2026-07-28:1",

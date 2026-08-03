@@ -1,43 +1,43 @@
 {
-  "generated_at_utc": "2026-08-03T10:36:01Z",
+  "generated_at_utc": "2026-08-03T13:35:12Z",
   "window_days": 7,
   "score": 7,
   "label": "Bullish",
-  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Asia Stocks to Gain as US Peers Rebound, Yen Gains: Markets Wrap - bloomberg.com; Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom. Bearish offsets: Oil prices fall more than 5% as Middle East tensions ebb on diplomatic efforts.",
+  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Is Kronos Worldwide Stock Still a Buy After a 36% YTD Rally?; Dow futures jump but Nasdaq flat ahead of busy week for Wall Street.",
   "articles": [
     {
-      "title": "Asia Stocks to Gain as US Peers Rebound, Yen Gains: Markets Wrap - bloomberg.com",
-      "source": "bloomberg.com",
+      "title": "Is Kronos Worldwide Stock Still a Buy After a 36% YTD Rally?",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/kronos-worldwide-stock-still-buy-121300466.html?.tsrc=rss",
+      "published": "2026-08-03T12:13:00Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "Dow futures jump but Nasdaq flat ahead of busy week for Wall Street",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://www.proactiveinvestors.com/companies/news/1096441/dow-futures-jump-but-nasdaq-flat-ahead-of-busy-week-for-wall-street-1096441.html?.tsrc=rss",
+      "published": "2026-08-03T12:26:00Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "Asia Stocks to Gain as US Peers Rebound, Yen Gains: Markets Wrap - Bloomberg",
+      "source": "Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSWZGU1ZQVkpXWXc5VDdpcFpmM195NHhoZUhsRzQ3MDZDVE9Md2VoTUdPY0JCc3NLMWxZSUNHczVJWmJ2cmp6SzVOOGhOY2lnVEtnd2x1eU5zUlp5V1NiYjRaUFQ2T0pQdUMxWHJIbnR1T0tJQ3NucVMzZDlCREV5emJWamVqUWRZUFRvYWdBazNNdTY2?oc=5",
       "published": "2026-07-30T22:15:33Z",
       "tone": "bullish"
     },
     {
-      "title": "Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/a6fd7cc1-160f-33be-9c9b-10601e0fcebe/dow-jones-futures-rise%2C-oil.html?.tsrc=rss",
-      "published": "2026-08-03T04:21:41Z",
+      "title": "Alibaba shares rally after unveiling its 'most powerful' AI model as U.S.-China competition heats up",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/03/alibaba-ai-model-qwen-rival-anthropic.html",
+      "published": "2026-08-03T10:34:35Z",
       "tone": "bullish"
     },
     {
-      "title": "Dow, S&P 500, Nasdaq Futures Extend Rally As Big Tech Earnings Revive AI Trade: AMZN, AAPL, NBIS, RDDT In Focus - es.tradingview.com",
-      "source": "es.tradingview.com",
+      "title": "Dow, S&P 500, Nasdaq Futures Extend Rally As Big Tech Earnings Revive AI Trade: AMZN, AAPL, NBIS, RDDT In Focus - TradingView",
+      "source": "TradingView",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSUlkOVNndmpnUkxfYTg3UTY0TXUtbnJOQ2IzOHhWbUtQckJpR285WEVSMFV2Si1SbllMalRLdWwtYkY3Z0d3ZG1tckY5X2laS3BXZFNaYy05ckFQQmNkV05nYlpzai1Lbnh0dlFFdlZrN1c4V0NkSXlDeW0xWThGdi04QlhYajFrWVdtOXJZSlBOelZ4a3E2TVNwUWd3alR6cGhsTTdBMDg2czJmcFBQQVJYbXNNWjNCZ0ZreUViSzRSWjFJaWVPckVJeEp6NndhM2JzSEREVVA0d3J6UHZfWjd2WEJwS1dycE5XQkc2QUtnZFNST1ZDOQ?oc=5",
       "published": "2026-07-31T01:34:00Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Oil prices fall more than 5% as Middle East tensions ebb on diplomatic efforts",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html",
-      "published": "2026-08-03T09:23:26Z",
-      "tone": "bearish"
-    },
-    {
-      "title": "US Stock Market Today: S&P 500 Futures Rise As Earnings Optimism Outweighs Rate Jitters - simplywall.st",
-      "source": "simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSWpTSlhBeG1USGlqQXhjR2gtTnh6OXBneFowR1FqQzZXQllTRXA0WUQ2ZEZQVEctLXBlMVIxQmkwSmhOaE1LWUtoSFowc0xELUFnR3pIUXpzcUtjTFVJalFqSzM2dmNzVm5GeUZvYktRUjBfSGZEdXRHOEd5TXFWdzBUcTBwUTF0THYxTHE4SG9ydTZueTV4S3o0dTJXc3pSSUpGVm5mYTFDdW40VUpxM0dQMkVuc3pWRGd1QdIBwgFBVV95cUxQQkF3c0lGMnRKUlhlX1NBZFhKWjZuR0VVdUJjRm82T21fOWFPMk5uUW83aEJfVkJQaWxiU3R1OFhoUzl4bzJMUEVWX0o0Y3MwRDJUelJ5djFpci01ZWo4NnRlMjJqM09pd2E5UmVZS1lXcmVIcXlrUHBBNnFuZFduSXIzOUdpc0xITm10SDlPVnlucmtIUHB2NmU4TGpyZ0FNWDUxbWxTcTRacXU4UjRqTzFfaUZnWjhlMk5JdG0xY3l0UQ?oc=5",
-      "published": "2026-08-03T08:46:17Z",
       "tone": "bullish"
     }
   ],
