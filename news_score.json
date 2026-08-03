@@ -1,36 +1,29 @@
 {
-  "generated_at_utc": "2026-08-03T18:14:43Z",
+  "generated_at_utc": "2026-08-03T21:58:12Z",
   "window_days": 7,
   "score": 9,
   "label": "Bullish",
-  "explanation": "9/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Update: US Equity Indexes Rise Amid Rally in Communication Services; Crude Oil Slides With Treasury Yields; BrightSpring Q2 Earnings Beat on Specialty Growth, '26 View Raised.",
+  "explanation": "9/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Tech stocks rally to kick off August. Can chipmakers keep up with demand?; Amazon tops $3 trillion market cap as stock continues post-earnings surge.",
   "articles": [
     {
-      "title": "Update: US Equity Indexes Rise Amid Rally in Communication Services; Crude Oil Slides With Treasury Yields",
+      "title": "Tech stocks rally to kick off August. Can chipmakers keep up with demand?",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-amid-174719748.html?.tsrc=rss",
-      "published": "2026-08-03T17:47:19Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "BrightSpring Q2 Earnings Beat on Specialty Growth, '26 View Raised",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/healthcare/articles/brightspring-q2-earnings-beat-specialty-161200779.html?.tsrc=rss",
-      "published": "2026-08-03T16:12:00Z",
+      "url": "https://finance.yahoo.com/video/tech-stocks-rally-kick-off-213000641.html?.tsrc=rss",
+      "published": "2026-08-03T21:30:00Z",
       "tone": "bullish"
     },
     {
       "title": "Amazon tops $3 trillion market cap as stock continues post-earnings surge",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/03/amazon-amzn-stock-market-cap-earnings.html",
-      "published": "2026-08-03T15:50:20Z",
+      "published": "2026-08-03T20:02:17Z",
       "tone": "bullish"
     },
     {
-      "title": "Stock Market Today: Dow Jumps As Amazon Passes $3 Trillion Level; Defense Play Clears Entry (Live Coverage)",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/cdc87a38-f6bc-3590-b126-efc5dcd8debd/stock-market-today%3A-dow-jumps.html?.tsrc=rss",
-      "published": "2026-08-03T17:05:38Z",
+      "title": "Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA?oc=5",
+      "published": "2026-08-03T20:26:44Z",
       "tone": "bullish"
     },
     {
@@ -38,6 +31,13 @@
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSWZGU1ZQVkpXWXc5VDdpcFpmM195NHhoZUhsRzQ3MDZDVE9Md2VoTUdPY0JCc3NLMWxZSUNHczVJWmJ2cmp6SzVOOGhOY2lnVEtnd2x1eU5zUlp5V1NiYjRaUFQ2T0pQdUMxWHJIbnR1T0tJQ3NucVMzZDlCREV5emJWamVqUWRZUFRvYWdBazNNdTY2?oc=5",
       "published": "2026-07-30T22:15:33Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "Snap's stock jumps 10% on earnings beat and strong sales forecast",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/03/snap-q2-earnings-report-2026.html",
+      "published": "2026-08-03T21:44:19Z",
       "tone": "bullish"
     }
   ],
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 92
+        "articles": 91
       }
     ],
-    "headline_count": 142,
+    "headline_count": 141,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [

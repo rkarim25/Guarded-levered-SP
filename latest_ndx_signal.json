@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-08-03T18:14:38Z",
+  "generated_at_utc": "2026-08-03T21:58:08Z",
   "data_asof": "2026-08-03",
   "daily_rows": 7546,
-  "quote_price": 28817.34375,
+  "quote_price": 28776.802734375,
   "quote_timestamp": "2026-08-03",
   "quote_source": "Yahoo Finance chart endpoint",
   "sources": {
@@ -30,20 +30,20 @@
   "official_signal": {
     "latest": {
       "date": "2026-08-03",
-      "close": 28817.34375
+      "close": 28776.802734375
     },
-    "latestSma": 28774.12060546875,
+    "latestSma": 28772.0935546875,
     "highWater": 30660.599609375,
     "highWaterDate": "2026-06-02",
-    "latestDd": -0.06011806301437739,
+    "latestDd": -0.06144031424695284,
     "regime": "tier2",
-    "entryClose": 28817.34375,
+    "entryClose": 28776.802734375,
     "entryDate": "2026-08-03",
-    "recoveryTarget": 40344.28125,
+    "recoveryTarget": 40287.523828125,
     "aboveSma": true,
     "recoveryOk": true,
     "targetLeverage": 2,
-    "activeEntryClose": 28817.34375,
+    "activeEntryClose": 28776.802734375,
     "activeEntryDate": "2026-08-03",
     "activeEntryLeverage": 2,
     "activeEntryPnl": 0.0,
@@ -52,20 +52,20 @@
   "provisional_signal": {
     "latest": {
       "date": "2026-08-03",
-      "close": 28817.34375
+      "close": 28776.802734375
     },
-    "latestSma": 28756.33681640625,
+    "latestSma": 28752.28271484375,
     "highWater": 30660.599609375,
     "highWaterDate": "2026-06-02",
-    "latestDd": -0.06011806301437739,
+    "latestDd": -0.06144031424695284,
     "regime": "tier2",
-    "entryClose": 28817.34375,
+    "entryClose": 28776.802734375,
     "entryDate": "2026-08-03",
-    "recoveryTarget": 40344.28125,
+    "recoveryTarget": 40287.523828125,
     "aboveSma": true,
     "recoveryOk": true,
     "targetLeverage": 2,
-    "activeEntryClose": 28817.34375,
+    "activeEntryClose": 28776.802734375,
     "activeEntryDate": "2026-08-03",
     "activeEntryLeverage": 2,
     "activeEntryPnl": 0.0,
@@ -75,7 +75,7 @@
     "last_observed_asof": "2026-08-03",
     "last_observed_target_leverage": 2,
     "last_observed_target_label": "2x",
-    "last_checked_at_utc": "2026-08-03T18:14:38Z",
+    "last_checked_at_utc": "2026-08-03T21:58:08Z",
     "last_email_sent_on": "2026-08-03",
     "last_transition": {
       "id": "2026-08-03:0->2026-08-03:2",
