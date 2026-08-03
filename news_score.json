@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-03T21:58:12Z",
+  "generated_at_utc": "2026-08-03T22:57:02Z",
   "window_days": 7,
-  "score": 9,
+  "score": 10,
   "label": "Bullish",
-  "explanation": "9/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Tech stocks rally to kick off August. Can chipmakers keep up with demand?; Amazon tops $3 trillion market cap as stock continues post-earnings surge.",
+  "explanation": "10/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Tech stocks rally to kick off August. Can chipmakers keep up with demand?; Amazon tops $3 trillion market cap as stock continues post-earnings surge.",
   "articles": [
     {
       "title": "Tech stocks rally to kick off August. Can chipmakers keep up with demand?",
@@ -27,17 +27,17 @@
       "tone": "bullish"
     },
     {
-      "title": "Asia Stocks to Gain as US Peers Rebound, Yen Gains: Markets Wrap - Bloomberg.com",
-      "source": "Bloomberg.com",
+      "title": "Asia Stocks to Gain as US Peers Rebound, Yen Gains: Markets Wrap - Bloomberg",
+      "source": "Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSWZGU1ZQVkpXWXc5VDdpcFpmM195NHhoZUhsRzQ3MDZDVE9Md2VoTUdPY0JCc3NLMWxZSUNHczVJWmJ2cmp6SzVOOGhOY2lnVEtnd2x1eU5zUlp5V1NiYjRaUFQ2T0pQdUMxWHJIbnR1T0tJQ3NucVMzZDlCREV5emJWamVqUWRZUFRvYWdBazNNdTY2?oc=5",
       "published": "2026-07-30T22:15:33Z",
       "tone": "bullish"
     },
     {
-      "title": "Snap's stock jumps 10% on earnings beat and strong sales forecast",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/03/snap-q2-earnings-report-2026.html",
-      "published": "2026-08-03T21:44:19Z",
+      "title": "S&P500, Nasdaq End Higher, Dow Hits Record High On Strong Mag 7 Performance And Falling Oil Prices \u2014 BA, XOM, CVX, HOOD, AMD In Focus",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p500-nasdaq-end-higher-dow-hits-record-high-on-strong-mag-7-performance/cZoTYo1RJ3K?.tsrc=rss",
+      "published": "2026-08-03T21:33:10Z",
       "tone": "bullish"
     }
   ],
