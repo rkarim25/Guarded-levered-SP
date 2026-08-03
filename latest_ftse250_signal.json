@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-07-31T22:56:42Z",
-  "data_asof": "2026-07-31",
-  "daily_rows": 10254,
-  "quote_price": 23975.01953125,
-  "quote_timestamp": "2026-07-31",
+  "generated_at_utc": "2026-08-03T10:35:58Z",
+  "data_asof": "2026-08-03",
+  "daily_rows": 10255,
+  "quote_price": 24214.98046875,
+  "quote_timestamp": "2026-08-03",
   "quote_source": "Yahoo Finance chart endpoint",
   "sources": {
     "daily_yahoo": {
-      "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EFTMC?period1=0&period2=1785625002&interval=1d&events=history&includeAdjustedClose=true",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EFTMC?period1=0&period2=1785839757&interval=1d&events=history&includeAdjustedClose=true",
       "ok": true,
       "status": 200
     }
@@ -25,13 +25,13 @@
   },
   "official_signal": {
     "latest": {
-      "date": "2026-07-31",
-      "close": 23975.01953125
+      "date": "2026-08-03",
+      "close": 24214.98046875
     },
-    "latestSma": 23635.06611328125,
+    "latestSma": 23670.60419921875,
     "highWater": 24250.80078125,
     "highWaterDate": "2021-09-01",
-    "latestDd": -0.011372047153726417,
+    "latestDd": -0.0014770775127431746,
     "regime": "tier2",
     "entryClose": 20492.0,
     "entryDate": "2024-05-08",
@@ -42,18 +42,18 @@
     "activeEntryClose": 23240.599609375,
     "activeEntryDate": "2026-07-09",
     "activeEntryLeverage": 1,
-    "activeEntryPnl": 0.03160073036922606,
+    "activeEntryPnl": 0.04192580551931835,
     "explanation": "Recovery tier2 armed at 1x max (lead guard passed)."
   },
   "provisional_signal": {
     "latest": {
-      "date": "2026-07-31",
-      "close": 23975.01953125
+      "date": "2026-08-03",
+      "close": 24214.98046875
     },
-    "latestSma": 23658.60712890625,
+    "latestSma": 23712.41318359375,
     "highWater": 24250.80078125,
     "highWaterDate": "2021-09-01",
-    "latestDd": -0.011372047153726417,
+    "latestDd": -0.0014770775127431746,
     "regime": "tier2",
     "entryClose": 20492.0,
     "entryDate": "2024-05-08",
@@ -64,14 +64,14 @@
     "activeEntryClose": 23240.599609375,
     "activeEntryDate": "2026-07-09",
     "activeEntryLeverage": 1,
-    "activeEntryPnl": 0.03160073036922606,
+    "activeEntryPnl": 0.04192580551931835,
     "explanation": "Recovery tier2 armed at 1x max (lead guard passed)."
   },
   "trade_alert_state": {
-    "last_observed_asof": "2026-07-31",
+    "last_observed_asof": "2026-08-03",
     "last_observed_target_leverage": 1,
     "last_observed_target_label": "1x",
-    "last_checked_at_utc": "2026-07-31T22:56:42Z",
+    "last_checked_at_utc": "2026-08-03T10:35:58Z",
     "last_email_sent_on": "2026-07-10",
     "last_transition": {
       "id": "2026-07-08:0->2026-07-10:1",
