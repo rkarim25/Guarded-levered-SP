@@ -1,15 +1,29 @@
 {
-  "generated_at_utc": "2026-08-03T22:57:02Z",
+  "generated_at_utc": "2026-08-04T09:35:56Z",
   "window_days": 7,
   "score": 10,
   "label": "Bullish",
-  "explanation": "10/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Tech stocks rally to kick off August. Can chipmakers keep up with demand?; Amazon tops $3 trillion market cap as stock continues post-earnings surge.",
+  "explanation": "10/10 is bullish from a 7-day headline keyword scan. Bullish drivers: S&P 500 Chases Record High as Tech Rebound Rages On After Palantir Boost; Oil prices gain and global shares are mostly higher after a rally on Wall Street.",
   "articles": [
     {
-      "title": "Tech stocks rally to kick off August. Can chipmakers keep up with demand?",
+      "title": "S&P 500 Chases Record High as Tech Rebound Rages On After Palantir Boost",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/video/tech-stocks-rally-kick-off-213000641.html?.tsrc=rss",
-      "published": "2026-08-03T21:30:00Z",
+      "url": "https://finance.yahoo.com/m/4e1b2d0c-b856-3363-844a-926979b33a5e/s%26p-500-chases-record-high-as.html?.tsrc=rss",
+      "published": "2026-08-04T08:54:21Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "Oil prices gain and global shares are mostly higher after a rally on Wall Street",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/asian-shares-mostly-dip-us-033425629.html?.tsrc=rss",
+      "published": "2026-08-04T03:34:25Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "Nasdaq, S&P 500, Dow Futures Extend Gains After Hot Rally As Big Tech Earnings Deliver: PLTR, GME, SNAP, SLS In Focus",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-s-and-p-500-dow-futures-extend-gains-after-hot-rally-as-big-tech-earnings-deliver-pltr-gme-snap-sls-in-focus/cZo52YLRJ3F?.tsrc=rss",
+      "published": "2026-08-04T02:06:08Z",
       "tone": "bullish"
     },
     {
@@ -23,21 +37,7 @@
       "title": "Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA?oc=5",
-      "published": "2026-08-03T20:26:44Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Asia Stocks to Gain as US Peers Rebound, Yen Gains: Markets Wrap - Bloomberg",
-      "source": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSWZGU1ZQVkpXWXc5VDdpcFpmM195NHhoZUhsRzQ3MDZDVE9Md2VoTUdPY0JCc3NLMWxZSUNHczVJWmJ2cmp6SzVOOGhOY2lnVEtnd2x1eU5zUlp5V1NiYjRaUFQ2T0pQdUMxWHJIbnR1T0tJQ3NucVMzZDlCREV5emJWamVqUWRZUFRvYWdBazNNdTY2?oc=5",
-      "published": "2026-07-30T22:15:33Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "S&P500, Nasdaq End Higher, Dow Hits Record High On Strong Mag 7 Performance And Falling Oil Prices \u2014 BA, XOM, CVX, HOOD, AMD In Focus",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p500-nasdaq-end-higher-dow-hits-record-high-on-strong-mag-7-performance/cZoTYo1RJ3K?.tsrc=rss",
-      "published": "2026-08-03T21:33:10Z",
+      "published": "2026-08-03T23:22:02Z",
       "tone": "bullish"
     }
   ],
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 91
+        "articles": 89
       }
     ],
-    "headline_count": 141,
+    "headline_count": 139,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
