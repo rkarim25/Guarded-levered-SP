@@ -1,17 +1,10 @@
 {
-  "generated_at_utc": "2026-08-04T18:10:08Z",
+  "generated_at_utc": "2026-08-04T22:03:50Z",
   "window_days": 7,
   "score": 10,
   "label": "Bullish",
-  "explanation": "10/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Stock Market Today: Dow Pops 1,000 Points On Hormuz Talks; Palantir Soars, Dell Breaks Out (Live Coverage); US stock market today: Wall Street near new record high as earnings drive rally; crude prices slip - The Times of India.",
+  "explanation": "10/10 is bullish from a 7-day headline keyword scan. Bullish drivers: US stock market today: Wall Street near new record high as earnings drive rally; crude prices slip - The Times of India; What's Driving Today's Record-Setting Rally?.",
   "articles": [
-    {
-      "title": "Stock Market Today: Dow Pops 1,000 Points On Hormuz Talks; Palantir Soars, Dell Breaks Out (Live Coverage)",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/9e9492e8-dc43-3309-bb2e-9b428195c126/stock-market-today%3A-dow-pops.html?.tsrc=rss",
-      "published": "2026-08-04T17:44:28Z",
-      "tone": "bullish"
-    },
     {
       "title": "US stock market today: Wall Street near new record high as earnings drive rally; crude prices slip - The Times of India",
       "source": "The Times of India",
@@ -20,8 +13,22 @@
       "tone": "bullish"
     },
     {
-      "title": "Oil rebounds as markets trade mixed following Wall Street rally - Euronews.com",
-      "source": "Euronews.com",
+      "title": "What's Driving Today's Record-Setting Rally?",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/m/6ed184fa-588c-3700-8713-8b0611a3f125/what%27s-driving-today%27s.html?.tsrc=rss",
+      "published": "2026-08-04T19:17:00Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "The S&P 500 is back at a record high and the Dow just hit 54,000",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://www.cnn.com/2026/08/04/investing/us-stock-market?.tsrc=rss",
+      "published": "2026-08-04T20:13:00Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "Oil rebounds as markets trade mixed following Wall Street rally - Euronews",
+      "source": "Euronews",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM29EN0dnaGJLdy1RMHFqcWVNQUNoTl80dkJEMUFNa2pLQTc4REVmSDJMd1RjSW1GVm1STHRRLWNkWnlRZDVvRUZLdXk0REdhdU9DeG82Z0pLbG9FR3dGMW16aXVCYUFrTGp0RExkQ05TalV4MWhKQVczSDlHZ1loM3p0SUFtbFVseWlHMjdQTmxrdUhtbldpdEd6UmYxVTNMMUJ4b2ZqMkZzTjRG?oc=5",
       "published": "2026-08-04T06:09:40Z",
       "tone": "bullish"
@@ -31,13 +38,6 @@
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA?oc=5",
       "published": "2026-08-03T23:22:02Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Wall Street rallies to kick off August on Iran talks optimism - KSL News",
-      "source": "KSL News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNEV2RnhSRGp1Y3Z2ODYzU3d3Qkx4RFdYYmJUVlZQVC10WDJhMERCLTJtbzQyNTZXc09QdEF2TDRfNnJkdXNrSl9JalpIRmsxNlZIWXd6ejBrTklEZWJkVGZKUmVIMklwN1g3cllxYU90LU90cW51ZVRCZURSZlB1TXVhX2ZDU3IwWVhNMWxIOVlKS0s3MHdIN245c2RCWE0?oc=5",
-      "published": "2026-08-03T19:09:04Z",
       "tone": "bullish"
     }
   ],
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 89
+        "articles": 90
       }
     ],
-    "headline_count": 139,
+    "headline_count": 140,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
