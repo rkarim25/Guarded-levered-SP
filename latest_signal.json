@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-08-04T14:24:26Z",
+  "generated_at_utc": "2026-08-04T16:25:38Z",
   "data_asof": "2026-08-04",
   "daily_rows": 7547,
-  "quote_price": 7669.5,
+  "quote_price": 7715.10986328125,
   "quote_timestamp": "2026-08-04",
   "quote_source": "Yahoo Finance chart endpoint",
   "sources": {
@@ -30,10 +30,10 @@
   "official_signal": {
     "latest": {
       "date": "2026-08-04",
-      "close": 7669.5
+      "close": 7715.10986328125
     },
-    "latestSma": 7492.585473632813,
-    "highWater": 7669.5,
+    "latestSma": 7494.865966796875,
+    "highWater": 7715.10986328125,
     "highWaterDate": "2026-08-04",
     "latestDd": 0.0,
     "regime": "tier2",
@@ -46,16 +46,16 @@
     "activeEntryClose": 6575.31982421875,
     "activeEntryDate": "2026-04-01",
     "activeEntryLeverage": 2,
-    "activeEntryPnl": 0.16640714140642676,
+    "activeEntryPnl": 0.1733436653323437,
     "explanation": "2x recovery tier is active and price is inside the 0.75% SMA20 lead guard."
   },
   "provisional_signal": {
     "latest": {
       "date": "2026-08-04",
-      "close": 7669.5
+      "close": 7715.10986328125
     },
-    "latestSma": 7501.924975585937,
-    "highWater": 7669.5,
+    "latestSma": 7506.4859619140625,
+    "highWater": 7715.10986328125,
     "highWaterDate": "2026-08-04",
     "latestDd": 0.0,
     "regime": "tier2",
@@ -68,14 +68,14 @@
     "activeEntryClose": 6575.31982421875,
     "activeEntryDate": "2026-04-01",
     "activeEntryLeverage": 2,
-    "activeEntryPnl": 0.16640714140642676,
+    "activeEntryPnl": 0.1733436653323437,
     "explanation": "2x recovery tier is active and price is inside the 0.75% SMA20 lead guard."
   },
   "trade_alert_state": {
     "last_observed_asof": "2026-08-04",
     "last_observed_target_leverage": 2,
     "last_observed_target_label": "2x",
-    "last_checked_at_utc": "2026-08-04T14:24:26Z",
+    "last_checked_at_utc": "2026-08-04T16:25:38Z",
     "last_email_sent_on": "2026-07-30",
     "last_transition": {
       "id": "2026-07-30:0->2026-07-30:2",

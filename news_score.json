@@ -1,36 +1,15 @@
 {
-  "generated_at_utc": "2026-08-04T14:24:31Z",
+  "generated_at_utc": "2026-08-04T16:25:43Z",
   "window_days": 7,
   "score": 10,
   "label": "Bullish",
-  "explanation": "10/10 is bullish from a 7-day headline keyword scan. Bullish drivers: S&P 500 climbs to new record high as Palantir and Caterpillar surge; S&P 500 Chases Record High as Tech Rebound Rages On After Palantir Boost.",
+  "explanation": "10/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Today's Trade Is to Buy Chips and Sell the Magnificent 7; Oil rebounds as markets trade mixed following Wall Street rally - Euronews.com.",
   "articles": [
     {
-      "title": "S&P 500 climbs to new record high as Palantir and Caterpillar surge",
+      "title": "Today's Trade Is to Buy Chips and Sell the Magnificent 7",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://www.proactiveinvestors.com/companies/news/1096503/s-p-500-poised-to-reach-new-record-high-as-palantir-and-caterpillar-surge-1096503.html?.tsrc=rss",
-      "published": "2026-08-04T12:09:00Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "S&P 500 Chases Record High as Tech Rebound Rages On After Palantir Boost",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/4e1b2d0c-b856-3363-844a-926979b33a5e/s%26p-500-chases-record-high-as.html?.tsrc=rss",
-      "published": "2026-08-04T12:29:55Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Update: Palantir Earnings Beat, Tech Stock Rally Lift US Equity Futures Pre-Bell",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-earnings-beat-tech-stock-125626524.html?.tsrc=rss",
-      "published": "2026-08-04T12:56:26Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Stock Market Today: Dow Rallies On U.S.-Iran Hopes; Caterpillar, Palantir Soar On Earnings (Live Coverage)",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/9e9492e8-dc43-3309-bb2e-9b428195c126/stock-market-today%3A-dow.html?.tsrc=rss",
-      "published": "2026-08-04T13:48:27Z",
+      "url": "https://finance.yahoo.com/m/8d769202-dcb1-3cdd-8bd9-9c84eaea2bc1/today%27s-trade-is-to-buy-chips.html?.tsrc=rss",
+      "published": "2026-08-04T14:02:26Z",
       "tone": "bullish"
     },
     {
@@ -38,6 +17,27 @@
       "source": "Euronews.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM29EN0dnaGJLdy1RMHFqcWVNQUNoTl80dkJEMUFNa2pLQTc4REVmSDJMd1RjSW1GVm1STHRRLWNkWnlRZDVvRUZLdXk0REdhdU9DeG82Z0pLbG9FR3dGMW16aXVCYUFrTGp0RExkQ05TalV4MWhKQVczSDlHZ1loM3p0SUFtbFVseWlHMjdQTmxrdUhtbldpdEd6UmYxVTNMMUJ4b2ZqMkZzTjRG?oc=5",
       "published": "2026-08-04T06:09:40Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA?oc=5",
+      "published": "2026-08-03T23:22:02Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "Wall Street rallies to kick off August on Iran talks optimism - KSL News",
+      "source": "KSL News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNEV2RnhSRGp1Y3Z2ODYzU3d3Qkx4RFdYYmJUVlZQVC10WDJhMERCLTJtbzQyNTZXc09QdEF2TDRfNnJkdXNrSl9JalpIRmsxNlZIWXd6ejBrTklEZWJkVGZKUmVIMklwN1g3cllxYU90LU90cW51ZVRCZURSZlB1TXVhX2ZDU3IwWVhNMWxIOVlKS0s3MHdIN245c2RCWE0?oc=5",
+      "published": "2026-08-03T19:09:04Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "Asia Stocks to Gain as US Peers Rebound, Yen Gains: Markets Wrap - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSWZGU1ZQVkpXWXc5VDdpcFpmM195NHhoZUhsRzQ3MDZDVE9Md2VoTUdPY0JCc3NLMWxZSUNHczVJWmJ2cmp6SzVOOGhOY2lnVEtnd2x1eU5zUlp5V1NiYjRaUFQ2T0pQdUMxWHJIbnR1T0tJQ3NucVMzZDlCREV5emJWamVqUWRZUFRvYWdBazNNdTY2?oc=5",
+      "published": "2026-07-30T22:15:33Z",
       "tone": "bullish"
     }
   ],
