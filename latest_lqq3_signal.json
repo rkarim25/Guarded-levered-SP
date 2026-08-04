@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-08-04T09:35:53Z",
+  "generated_at_utc": "2026-08-04T11:59:00Z",
   "data_asof": "2026-08-04",
   "daily_rows": 3423,
-  "quote_price": 29911.517578125,
+  "quote_price": 30426.861328125,
   "quote_timestamp": "2026-08-04",
   "quote_source": "Yahoo Finance chart endpoint",
   "sources": {
     "daily_yahoo": {
-      "url": "https://query1.finance.yahoo.com/v8/finance/chart/LQQ3.L?period1=0&period2=1785922553&interval=1d&events=history&includeAdjustedClose=true",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/LQQ3.L?period1=0&period2=1785931140&interval=1d&events=history&includeAdjustedClose=true",
       "ok": true,
       "status": 200
     }
@@ -26,20 +26,20 @@
   "official_signal": {
     "latest": {
       "date": "2026-08-04",
-      "close": 29911.517578125
+      "close": 30426.861328125
     },
-    "latestSma": 30059.02587890625,
+    "latestSma": 30084.79306640625,
     "highWater": 37632.0,
     "highWaterDate": "2026-06-02",
-    "latestDd": -0.20515737728196748,
+    "latestDd": -0.19146308120416133,
     "regime": "tier2",
     "entryClose": 31980.5,
     "entryDate": "2026-05-18",
     "recoveryTarget": 44772.7,
-    "aboveSma": false,
+    "aboveSma": true,
     "recoveryOk": true,
     "targetLeverage": 1,
-    "activeEntryClose": 29911.517578125,
+    "activeEntryClose": 30426.861328125,
     "activeEntryDate": "2026-08-04",
     "activeEntryLeverage": 1,
     "activeEntryPnl": 0.0,
@@ -48,20 +48,20 @@
   "provisional_signal": {
     "latest": {
       "date": "2026-08-04",
-      "close": 29911.517578125
+      "close": 30426.861328125
     },
-    "latestSma": 29996.1517578125,
+    "latestSma": 30047.6861328125,
     "highWater": 37632.0,
     "highWaterDate": "2026-06-02",
-    "latestDd": -0.20515737728196748,
+    "latestDd": -0.19146308120416133,
     "regime": "tier2",
     "entryClose": 31980.5,
     "entryDate": "2026-05-18",
     "recoveryTarget": 44772.7,
-    "aboveSma": false,
+    "aboveSma": true,
     "recoveryOk": true,
     "targetLeverage": 1,
-    "activeEntryClose": 29911.517578125,
+    "activeEntryClose": 30426.861328125,
     "activeEntryDate": "2026-08-04",
     "activeEntryLeverage": 1,
     "activeEntryPnl": 0.0,
@@ -71,9 +71,8 @@
     "last_observed_asof": "2026-08-04",
     "last_observed_target_leverage": 1,
     "last_observed_target_label": "1x",
-    "last_checked_at_utc": "2026-08-04T09:35:53Z",
+    "last_checked_at_utc": "2026-08-04T11:59:00Z",
     "last_email_sent_on": "2026-08-04",
-    "last_email_sent_timezone": "Europe/London",
     "last_transition": {
       "id": "2026-08-03:0->2026-08-04:1",
       "detected_at_utc": "2026-08-04T09:35:53Z",

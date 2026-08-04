@@ -1,36 +1,36 @@
 {
-  "generated_at_utc": "2026-08-04T09:35:56Z",
+  "generated_at_utc": "2026-08-04T11:59:01Z",
   "window_days": 7,
   "score": 10,
   "label": "Bullish",
-  "explanation": "10/10 is bullish from a 7-day headline keyword scan. Bullish drivers: S&P 500 Chases Record High as Tech Rebound Rages On After Palantir Boost; Oil prices gain and global shares are mostly higher after a rally on Wall Street.",
+  "explanation": "10/10 is bullish from a 7-day headline keyword scan. Bullish drivers: S&P 500 Chases Record High as Tech Rebound Rages On After Palantir Boost; Coca-Cola Europacific Beats First-Half Forecasts Despite Premarket Share Decline.",
   "articles": [
     {
       "title": "S&P 500 Chases Record High as Tech Rebound Rages On After Palantir Boost",
       "source": "Yahoo Finance S&P 500",
       "url": "https://finance.yahoo.com/m/4e1b2d0c-b856-3363-844a-926979b33a5e/s%26p-500-chases-record-high-as.html?.tsrc=rss",
-      "published": "2026-08-04T08:54:21Z",
+      "published": "2026-08-04T10:20:36Z",
       "tone": "bullish"
     },
     {
-      "title": "Oil prices gain and global shares are mostly higher after a rally on Wall Street",
+      "title": "Coca-Cola Europacific Beats First-Half Forecasts Despite Premarket Share Decline",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/asian-shares-mostly-dip-us-033425629.html?.tsrc=rss",
-      "published": "2026-08-04T03:34:25Z",
+      "url": "https://investorshub.advfn.com/market-news/article/33288/coca-cola-europacific-beats-first-half-forecasts-despite-premarket-share-decline?.tsrc=rss",
+      "published": "2026-08-04T10:17:00Z",
       "tone": "bullish"
     },
     {
-      "title": "Nasdaq, S&P 500, Dow Futures Extend Gains After Hot Rally As Big Tech Earnings Deliver: PLTR, GME, SNAP, SLS In Focus",
+      "title": "Palantir, Coherent, Lumentum, ON Semi, and More Stocks That Explain Today\u2019s Market",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-s-and-p-500-dow-futures-extend-gains-after-hot-rally-as-big-tech-earnings-deliver-pltr-gme-snap-sls-in-focus/cZo52YLRJ3F?.tsrc=rss",
-      "published": "2026-08-04T02:06:08Z",
+      "url": "https://finance.yahoo.com/m/f980eaa4-35b7-39d3-a22e-1529b3162dbb/palantir%2C-coherent%2C-lumentum%2C.html?.tsrc=rss",
+      "published": "2026-08-04T11:12:00Z",
       "tone": "bullish"
     },
     {
-      "title": "Amazon tops $3 trillion market cap as stock continues post-earnings surge",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/03/amazon-amzn-stock-market-cap-earnings.html",
-      "published": "2026-08-03T20:02:17Z",
+      "title": "Oil rebounds as markets trade mixed following Wall Street rally - Euronews.com",
+      "source": "Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM29EN0dnaGJLdy1RMHFqcWVNQUNoTl80dkJEMUFNa2pLQTc4REVmSDJMd1RjSW1GVm1STHRRLWNkWnlRZDVvRUZLdXk0REdhdU9DeG82Z0pLbG9FR3dGMW16aXVCYUFrTGp0RExkQ05TalV4MWhKQVczSDlHZ1loM3p0SUFtbFVseWlHMjdQTmxrdUhtbldpdEd6UmYxVTNMMUJ4b2ZqMkZzTjRG?oc=5",
+      "published": "2026-08-04T06:09:40Z",
       "tone": "bullish"
     },
     {
