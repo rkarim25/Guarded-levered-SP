@@ -1,29 +1,22 @@
 {
-  "generated_at_utc": "2026-08-05T11:53:26Z",
+  "generated_at_utc": "2026-08-05T13:52:20Z",
   "window_days": 7,
   "score": 10,
   "label": "Bullish",
-  "explanation": "10/10 is bullish from a 7-day headline keyword scan. Bullish drivers: SoftBank jumps 13% as Asia tech stocks track Wall Street AI rally; US stock market today: Wall Street near new record high as earnings drive rally; crude prices slip - timesofindia.indiatimes.com.",
+  "explanation": "10/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Semiconductor Rally Powers S&P 500 to Fresh Record High; US stock market today: Wall Street near new record high as earnings drive rally; crude prices slip - The Times of India.",
   "articles": [
     {
-      "title": "SoftBank jumps 13% as Asia tech stocks track Wall Street AI rally",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/05/softbank-samsung-sk-hynix-samsung-tech-rally.html",
-      "published": "2026-08-05T08:05:03Z",
+      "title": "Semiconductor Rally Powers S&P 500 to Fresh Record High",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/technology/articles/semiconductor-rally-powers-p-500-120000858.html?.tsrc=rss",
+      "published": "2026-08-05T12:00:00Z",
       "tone": "bullish"
     },
     {
-      "title": "US stock market today: Wall Street near new record high as earnings drive rally; crude prices slip - timesofindia.indiatimes.com",
-      "source": "timesofindia.indiatimes.com",
+      "title": "US stock market today: Wall Street near new record high as earnings drive rally; crude prices slip - The Times of India",
+      "source": "The Times of India",
       "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQY2JnOHdPNThqcWIzTWFtMHR2dzhJeTROY1JySXpwNkIwckdULVJITDY5Q0FiWi00cHFlSDJiajVDVDRBUnNvZ1RueU9nWkpLNkN4Uk91MldubWtrS2tDcjBLS2ZWMlRLckh3a0psNHZXc042UmlrY0ZGd0hDYXpDUDYwcm4wNWlrRFlENjc2MFlNYkZQVzN6R0NqQzZwMTBwUF9ibVVNWXo2OGRzRnNSZmo2ckhLczhnQ2JSTzFlcy1GQnFyOVp5djJFbWRRQ2w3czd6TzZGV3FQNkpWZ2xxU2E0Y2hUendKMTh1LVZxNjdrdGc3dW1BNXJKejUtbjdvNnpibFFkbi13amtjR2J0S1VnLTRqTTRiOWJyaHVOZVdHRDFObXpwTFEydlMyZWs5YlMtUERXOFUzZXNSV2lzSmFLQms4QTJS0gHOAkFVX3lxTE1GVmJCcWR5UHRTejJMMHd1Qzd0bjZXZ08yVkZBYVpJTjAyZE5BMmV4cHV2NTZoTWFKR2otY2N5bllXM3hnNW5CMndlcmJpWGlxenUtTUxCWkhxYlMtS2VUZWRRcE9CQzJBVDc1RWFrYzc5Z3hDdW91TEN6blRDYmpMdU5zLWJpbG5XTVA4S3NiQmtGQUtJaFhnblluLU1PUjMzX3lvcDczZlRTUXJLR1hmWGx3Z0JCSTNMMnl6X1FyYjFzaHdZZFhZTlFoNWJtLXhYeGVZdUw3aTFsaERrX1hpM3FnRGdnSHJ0b1F2OEl3X3FUTlRxc1EtblI5Vi1paTNoSWkycXp2MHJnWWNkdExGUktycmp6MmdSREFMQWNjTkY0OVlobTFScUpLQ1BJZXRyNDZqYWFBNG92SnhoclU1UW1LbVNiVmY2OWQ1eEE?oc=5",
       "published": "2026-08-04T14:10:00Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Oil rebounds as markets trade mixed following Wall Street rally - Euronews.com",
-      "source": "Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM29EN0dnaGJLdy1RMHFqcWVNQUNoTl80dkJEMUFNa2pLQTc4REVmSDJMd1RjSW1GVm1STHRRLWNkWnlRZDVvRUZLdXk0REdhdU9DeG82Z0pLbG9FR3dGMW16aXVCYUFrTGp0RExkQ05TalV4MWhKQVczSDlHZ1loM3p0SUFtbFVseWlHMjdQTmxrdUhtbldpdEd6UmYxVTNMMUJ4b2ZqMkZzTjRG?oc=5",
-      "published": "2026-08-04T06:09:40Z",
       "tone": "bullish"
     },
     {
@@ -38,6 +31,13 @@
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSWZGU1ZQVkpXWXc5VDdpcFpmM195NHhoZUhsRzQ3MDZDVE9Md2VoTUdPY0JCc3NLMWxZSUNHczVJWmJ2cmp6SzVOOGhOY2lnVEtnd2x1eU5zUlp5V1NiYjRaUFQ2T0pQdUMxWHJIbnR1T0tJQ3NucVMzZDlCREV5emJWamVqUWRZUFRvYWdBazNNdTY2?oc=5",
       "published": "2026-07-30T22:15:33Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "Stock index futures edge higher as Wall Street looks to extend rally (SPX:) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcXpBNllKbUhLWkNSUUd5RDR1NTRfNmpiZnBIWFg0LVU1dVN1QURwZ3VERjBHR3M0aDRZUWF4d2VsWFBsTlJLeHBuQUtLc05OM2taaXdQQ3pNZmlTWDNZZUpGWGZ3TzJJaWpMSUtzNnZrTGhqcVhOUTljR0FDZ1dlczdVUUN2QmlC?oc=5",
+      "published": "2026-08-05T08:12:16Z",
       "tone": "bullish"
     }
   ],
