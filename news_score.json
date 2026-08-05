@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-05T22:05:31Z",
+  "generated_at_utc": "2026-08-05T22:55:39Z",
   "window_days": 7,
   "score": 10,
   "label": "Bullish",
-  "explanation": "10/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Dow hits fresh record high while S&P 500 and Nasdaq surge on hopes for Middle East talks - eciks.org; Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters. Bearish offsets: Trump admin refunds $100 billion in 'liberation day' tariffs.",
+  "explanation": "10/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Dow hits fresh record high while S&P 500 and Nasdaq surge on hopes for Middle East talks - eciks.org; Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters. Bearish offsets: Trump admin refunds $100 billion in 'liberation day' tariffs; Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation.",
   "articles": [
     {
       "title": "Dow hits fresh record high while S&P 500 and Nasdaq surge on hopes for Middle East talks - eciks.org",
@@ -27,17 +27,17 @@
       "tone": "bullish"
     },
     {
-      "title": "Dow Weathers Mag 7 Slide, Cruises to Third-Straight Record High",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/2f6666af-c943-3b12-8ac1-ecb1e8b5df9d/dow-weathers-mag-7-slide%2C.html?.tsrc=rss",
-      "published": "2026-08-05T20:02:00Z",
-      "tone": "bullish"
-    },
-    {
       "title": "Trump admin refunds $100 billion in 'liberation day' tariffs",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/05/trump-tariffs-refunds-ieepa-lawsuit.html",
       "published": "2026-08-05T19:31:26Z",
+      "tone": "bearish"
+    },
+    {
+      "title": "Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html",
+      "published": "2026-08-05T20:36:16Z",
       "tone": "bearish"
     }
   ],
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 87
+        "articles": 89
       }
     ],
-    "headline_count": 137,
+    "headline_count": 139,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
