@@ -1,15 +1,15 @@
 {
-  "generated_at_utc": "2026-08-05T15:57:33Z",
+  "generated_at_utc": "2026-08-05T17:36:37Z",
   "window_days": 7,
   "score": 10,
   "label": "Bullish",
-  "explanation": "10/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Wall Street Extends Record-Setting Stock Rally; Dow hits fresh record high while S&P 500 and Nasdaq surge on hopes for Middle East talks - eciks.org.",
+  "explanation": "10/10 is bullish from a 7-day headline keyword scan. Bullish drivers: COR Stock Gains as Q3 Earnings Beat on Segment Growth, EPS View Raised; Dow hits fresh record high while S&P 500 and Nasdaq surge on hopes for Middle East talks - eciks.org.",
   "articles": [
     {
-      "title": "Wall Street Extends Record-Setting Stock Rally",
+      "title": "COR Stock Gains as Q3 Earnings Beat on Segment Growth, EPS View Raised",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/3082dbf0-c418-37ce-9a8f-878315e2ec51/wall-street-extends.html?.tsrc=rss",
-      "published": "2026-08-05T14:14:30Z",
+      "url": "https://finance.yahoo.com/healthcare/articles/cor-stock-gains-q3-earnings-145000957.html?.tsrc=rss",
+      "published": "2026-08-05T14:50:00Z",
       "tone": "bullish"
     },
     {
@@ -37,7 +37,7 @@
       "title": "S&P 500 gives up gain as 4-day rally loses momentum; Dow boosted by Nvidia: Live updates",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/04/stock-market-today-live-updates.html",
-      "published": "2026-08-05T15:55:58Z",
+      "published": "2026-08-05T17:23:43Z",
       "tone": "bullish"
     }
   ],
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 87
+        "articles": 91
       }
     ],
-    "headline_count": 137,
+    "headline_count": 141,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
