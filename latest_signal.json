@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-08-06T11:59:04Z",
+  "generated_at_utc": "2026-08-06T14:22:39Z",
   "data_asof": "2026-08-05",
   "daily_rows": 7547,
-  "quote_price": 7723.5498046875,
-  "quote_timestamp": "2026-08-05",
-  "quote_source": "Yahoo Finance chart endpoint",
+  "quote_price": null,
+  "quote_timestamp": null,
+  "quote_source": null,
   "sources": {
     "daily_worker": {
       "url": "https://spx-quote-proxy.rkarim88.workers.dev/?mode=daily",
@@ -13,8 +13,8 @@
     },
     "quote_worker": {
       "url": "https://spx-quote-proxy.rkarim88.workers.dev/?mode=quote",
-      "ok": true,
-      "status": 200
+      "ok": false,
+      "error": "HTTP Error 500: Internal Server Error"
     }
   },
   "strategy": {
@@ -49,33 +49,12 @@
     "activeEntryPnl": 0.17462724417441966,
     "explanation": "2x recovery tier is active and price is inside the 0.75% SMA20 lead guard."
   },
-  "provisional_signal": {
-    "latest": {
-      "date": "2026-08-05",
-      "close": 7723.5498046875
-    },
-    "latestSma": 7516.973950195313,
-    "highWater": 7736.52001953125,
-    "highWaterDate": "2026-08-04",
-    "latestDd": -0.0016764921193257454,
-    "regime": "tier2",
-    "entryClose": 6575.31982421875,
-    "entryDate": "2026-04-01",
-    "recoveryTarget": 9205.44775390625,
-    "aboveSma": true,
-    "recoveryOk": true,
-    "targetLeverage": 2,
-    "activeEntryClose": 6575.31982421875,
-    "activeEntryDate": "2026-04-01",
-    "activeEntryLeverage": 2,
-    "activeEntryPnl": 0.17462724417441966,
-    "explanation": "2x recovery tier is active and price is inside the 0.75% SMA20 lead guard."
-  },
+  "provisional_signal": null,
   "trade_alert_state": {
     "last_observed_asof": "2026-08-05",
     "last_observed_target_leverage": 2,
     "last_observed_target_label": "2x",
-    "last_checked_at_utc": "2026-08-06T11:59:04Z",
+    "last_checked_at_utc": "2026-08-06T14:22:39Z",
     "last_email_sent_on": "2026-07-30",
     "last_transition": {
       "id": "2026-07-30:0->2026-07-30:2",

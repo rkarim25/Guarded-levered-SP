@@ -1,27 +1,13 @@
 {
-  "generated_at_utc": "2026-08-06T11:59:07Z",
+  "generated_at_utc": "2026-08-06T14:22:42Z",
   "window_days": 7,
   "score": 10,
   "label": "Bullish",
-  "explanation": "10/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Dow hits fresh record high while S&P 500 and Nasdaq surge on hopes for Middle East talks - eciks.org; Wall Street rallies, Dow closes at record on Iran talks optimism - reuters.com. Bearish offsets: Asian tech stocks drop with SK Hynix plunging 10% after Wall Street AI names fall.",
+  "explanation": "10/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters; Asia Stocks to Gain as US Peers Rebound, Yen Gains: Markets Wrap - Bloomberg.com.",
   "articles": [
     {
-      "title": "Asian tech stocks drop with SK Hynix plunging 10% after Wall Street AI names fall",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/06/asia-tech-selloff-wall-street-samsung-sk-hynix.html",
-      "published": "2026-08-06T05:27:12Z",
-      "tone": "bearish"
-    },
-    {
-      "title": "Dow hits fresh record high while S&P 500 and Nasdaq surge on hopes for Middle East talks - eciks.org",
-      "source": "eciks.org",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IX1BkZzR3YXJuSldyX2dManloREd3OHctWVpUVjVVcnljTng5MUZ4OEk0akRoZkExQjN5alFnUlJEVGFCcGxTc0dfaW9iNGt0V01zVlF0MnFmVllnam9lUEh3U2tLNndjWXo5WnlHS3RxekhCMDVfVFI3MWNtM0k?oc=5",
-      "published": "2026-08-04T11:03:12Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Wall Street rallies, Dow closes at record on Iran talks optimism - reuters.com",
-      "source": "reuters.com",
+      "title": "Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters",
+      "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA?oc=5",
       "published": "2026-08-03T23:22:02Z",
       "tone": "bullish"
@@ -38,6 +24,20 @@
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc2d6NUFOclFucUtZODNBTGl5ZVVFMGN0ZHlPNmRocXRHZmpkcHQ2Ty00T2RoWXZaMnNzdHZOaTFPaUZ1WXY5bHc2d2plS25GTlIxb1FsODRiQjlPcU42ODdkeldYYlk1bHJXX3Jpbjh4UFZYd1EyS2NRN19scVk1SU9CQV9ua3dRREp3RDhKeE9YVnRj?oc=5",
       "published": "2026-08-03T22:13:40Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "Wall Street finishes higher as Amazon rally lifts tech - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNlZaUmNhS3dnYUVNenZqTUk1QmE0ZDF0NkVEdmQ1ZjBrU0xaUEd5UmkwVC1zYXFxaWthTDRnQXVyOEhwWGZnYTJkVDFfWlRNQzl2ZF9CTnQ2a3JtdUZCVHVsZi1WTkltZlViY0NTS3V2dm1DWkRrR3hBU3FYOFFVTHRoV1FQM1diODlTQU1OaFhLdkJMeHBDOEJvZUYxVUU?oc=5",
+      "published": "2026-07-31T20:11:00Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "Correction: S&P 500 Posts Weekly Gain Amid AI Monetization Optimism",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/correction-p-500-posts-weekly-135622152.html?.tsrc=rss",
+      "published": "2026-08-06T13:56:22Z",
       "tone": "bullish"
     }
   ],
