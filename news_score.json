@@ -1,17 +1,10 @@
 {
-  "generated_at_utc": "2026-08-06T09:36:03Z",
+  "generated_at_utc": "2026-08-06T11:59:07Z",
   "window_days": 7,
   "score": 10,
   "label": "Bullish",
-  "explanation": "10/10 is bullish from a 7-day headline keyword scan. Bullish drivers: S&P 500\u2019s New Record High Forms a Pattern That\u2019s Only Happened 3 Times Before; Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq. Bearish offsets: Asian tech stocks drop with SK Hynix plunging 10% after Wall Street AI names fall.",
+  "explanation": "10/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Dow hits fresh record high while S&P 500 and Nasdaq surge on hopes for Middle East talks - eciks.org; Wall Street rallies, Dow closes at record on Iran talks optimism - reuters.com. Bearish offsets: Asian tech stocks drop with SK Hynix plunging 10% after Wall Street AI names fall.",
   "articles": [
-    {
-      "title": "S&P 500\u2019s New Record High Forms a Pattern That\u2019s Only Happened 3 Times Before",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://beincrypto.com/sp-500-record-high-rally-pattern/?.tsrc=rss",
-      "published": "2026-08-06T03:33:25Z",
-      "tone": "bullish"
-    },
     {
       "title": "Asian tech stocks drop with SK Hynix plunging 10% after Wall Street AI names fall",
       "source": "CNBC Markets",
@@ -20,15 +13,15 @@
       "tone": "bearish"
     },
     {
-      "title": "Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/video/dow-closes-record-mideast-optimism-224157101.html?.tsrc=rss",
-      "published": "2026-08-05T22:41:57Z",
+      "title": "Dow hits fresh record high while S&P 500 and Nasdaq surge on hopes for Middle East talks - eciks.org",
+      "source": "eciks.org",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IX1BkZzR3YXJuSldyX2dManloREd3OHctWVpUVjVVcnljTng5MUZ4OEk0akRoZkExQjN5alFnUlJEVGFCcGxTc0dfaW9iNGt0V01zVlF0MnFmVllnam9lUEh3U2tLNndjWXo5WnlHS3RxekhCMDVfVFI3MWNtM0k?oc=5",
+      "published": "2026-08-04T11:03:12Z",
       "tone": "bullish"
     },
     {
-      "title": "Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters",
-      "source": "Reuters",
+      "title": "Wall Street rallies, Dow closes at record on Iran talks optimism - reuters.com",
+      "source": "reuters.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA?oc=5",
       "published": "2026-08-03T23:22:02Z",
       "tone": "bullish"
@@ -38,6 +31,13 @@
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSWZGU1ZQVkpXWXc5VDdpcFpmM195NHhoZUhsRzQ3MDZDVE9Md2VoTUdPY0JCc3NLMWxZSUNHczVJWmJ2cmp6SzVOOGhOY2lnVEtnd2x1eU5zUlp5V1NiYjRaUFQ2T0pQdUMxWHJIbnR1T0tJQ3NucVMzZDlCREV5emJWamVqUWRZUFRvYWdBazNNdTY2?oc=5",
       "published": "2026-07-30T22:15:33Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "S&P 500 Rises to All-Time High on Hormuz Deal Push: Markets Wrap - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc2d6NUFOclFucUtZODNBTGl5ZVVFMGN0ZHlPNmRocXRHZmpkcHQ2Ty00T2RoWXZaMnNzdHZOaTFPaUZ1WXY5bHc2d2plS25GTlIxb1FsODRiQjlPcU42ODdkeldYYlk1bHJXX3Jpbjh4UFZYd1EyS2NRN19scVk1SU9CQV9ua3dRREp3RDhKeE9YVnRj?oc=5",
+      "published": "2026-08-03T22:13:40Z",
       "tone": "bullish"
     }
   ],
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 90
+        "articles": 92
       }
     ],
-    "headline_count": 140,
+    "headline_count": 142,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
