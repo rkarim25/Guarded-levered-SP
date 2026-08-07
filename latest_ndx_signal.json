@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-07T01:28:51Z",
+  "generated_at_utc": "2026-08-07T08:09:34Z",
   "data_asof": "2026-08-06",
   "daily_rows": 7547,
   "quote_price": 29373.333984375,
@@ -30,12 +30,12 @@
   "official_signal": {
     "latest": {
       "date": "2026-08-06",
-      "close": 29373.333984375
+      "close": 29373.330078125
     },
-    "latestSma": 28794.1736328125,
+    "latestSma": 28794.1734375,
     "highWater": 30660.599609375,
     "highWaterDate": "2026-06-02",
-    "latestDd": -0.041984359125396775,
+    "latestDd": -0.04198448652831943,
     "regime": "tier2",
     "entryClose": 28776.80078125,
     "entryDate": "2026-08-03",
@@ -46,7 +46,7 @@
     "activeEntryClose": 28776.80078125,
     "activeEntryDate": "2026-08-03",
     "activeEntryLeverage": 2,
-    "activeEntryPnl": 0.020729656769687965,
+    "activeEntryPnl": 0.02072952102666248,
     "explanation": "2x recovery tier is active and price is inside the 0.75% SMA20 lead guard."
   },
   "provisional_signal": {
@@ -54,7 +54,7 @@
       "date": "2026-08-06",
       "close": 29373.333984375
     },
-    "latestSma": 28771.58486328125,
+    "latestSma": 28771.58466796875,
     "highWater": 30660.599609375,
     "highWaterDate": "2026-06-02",
     "latestDd": -0.041984359125396775,
@@ -75,7 +75,7 @@
     "last_observed_asof": "2026-08-06",
     "last_observed_target_leverage": 2,
     "last_observed_target_label": "2x",
-    "last_checked_at_utc": "2026-08-07T01:28:51Z",
+    "last_checked_at_utc": "2026-08-07T08:09:34Z",
     "last_email_sent_on": "2026-08-04",
     "last_transition": {
       "id": "2026-07-31:0->2026-08-04:2",

@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-08-07T01:28:53Z",
+  "generated_at_utc": "2026-08-07T08:09:37Z",
   "window_days": 7,
-  "score": 10,
+  "score": 9,
   "label": "Bullish",
-  "explanation": "10/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Dow hits fresh record high while S&P 500 and Nasdaq surge on hopes for Middle East talks - eciks.org; Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters.",
+  "explanation": "9/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters; China's exports growth beats estimates in July, as AI-driven shipments surge.",
   "articles": [
-    {
-      "title": "Dow hits fresh record high while S&P 500 and Nasdaq surge on hopes for Middle East talks - eciks.org",
-      "source": "eciks.org",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IX1BkZzR3YXJuSldyX2dManloREd3OHctWVpUVjVVcnljTng5MUZ4OEk0akRoZkExQjN5alFnUlJEVGFCcGxTc0dfaW9iNGt0V01zVlF0MnFmVllnam9lUEh3U2tLNndjWXo5WnlHS3RxekhCMDVfVFI3MWNtM0k?oc=5",
-      "published": "2026-08-04T11:03:12Z",
-      "tone": "bullish"
-    },
     {
       "title": "Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA?oc=5",
       "published": "2026-08-03T23:22:02Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "China's exports growth beats estimates in July, as AI-driven shipments surge",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/07/china-july-trade-exports-imports-surplus-imbalance-tariffs-.html",
+      "published": "2026-08-07T06:09:26Z",
       "tone": "bullish"
     },
     {
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 20
+        "articles": 15
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 92
+        "articles": 94
       }
     ],
-    "headline_count": 142,
+    "headline_count": 139,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
