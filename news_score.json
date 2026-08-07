@@ -1,22 +1,15 @@
 {
-  "generated_at_utc": "2026-08-07T11:39:53Z",
+  "generated_at_utc": "2026-08-07T12:47:49Z",
   "window_days": 7,
   "score": 10,
   "label": "Bullish",
-  "explanation": "10/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters; China's exports growth beats estimates in July, as AI-driven shipments surge.",
+  "explanation": "10/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters; S&P 500 Rises to All-Time High on Hormuz Deal Push: Markets Wrap - Bloomberg.com.",
   "articles": [
     {
       "title": "Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA?oc=5",
       "published": "2026-08-03T23:22:02Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "China's exports growth beats estimates in July, as AI-driven shipments surge",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/07/china-july-trade-exports-imports-surplus-imbalance-tariffs-.html",
-      "published": "2026-08-07T06:09:26Z",
       "tone": "bullish"
     },
     {
@@ -38,6 +31,13 @@
       "source": "whbl.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGV6czM0UHFzcERhVk5sOGhrYnItNndaSHRrcjZlRWh3dmR3YkVYNFcwc0F3V05oZ1RFQ01icU8tcXdycGZGdU80SVdaOGVUbGtSNEg3c1hRd3NFWUlkT21XMnRNcTlIdG1QVm5VdHU5QW05NkhsY1F3Z1JrdXNLY1piM2psT1J2bUpHS1JvNWlaajFrd3E4ZVczb09MUURjMFE?oc=5",
       "published": "2026-08-04T07:00:00Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "Doximity, Cloudflare and Atlassian surge premarket",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/doximity-cloudflare-atlassian-surge-premarket-123745630.html?.tsrc=rss",
+      "published": "2026-08-07T12:37:45Z",
       "tone": "bullish"
     }
   ],
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 95
+        "articles": 93
       }
     ],
-    "headline_count": 145,
+    "headline_count": 143,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
