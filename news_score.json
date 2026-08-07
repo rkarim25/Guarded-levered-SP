@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-06T14:22:42Z",
+  "generated_at_utc": "2026-08-07T00:59:09Z",
   "window_days": 7,
-  "score": 10,
+  "score": 9,
   "label": "Bullish",
-  "explanation": "10/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters; Asia Stocks to Gain as US Peers Rebound, Yen Gains: Markets Wrap - Bloomberg.com.",
+  "explanation": "9/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters; Tom Lee Sees S&P 500 at 8,000, Names Ethereum the Next Rally Leader.",
   "articles": [
     {
       "title": "Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters",
@@ -13,31 +13,31 @@
       "tone": "bullish"
     },
     {
-      "title": "Asia Stocks to Gain as US Peers Rebound, Yen Gains: Markets Wrap - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSWZGU1ZQVkpXWXc5VDdpcFpmM195NHhoZUhsRzQ3MDZDVE9Md2VoTUdPY0JCc3NLMWxZSUNHczVJWmJ2cmp6SzVOOGhOY2lnVEtnd2x1eU5zUlp5V1NiYjRaUFQ2T0pQdUMxWHJIbnR1T0tJQ3NucVMzZDlCREV5emJWamVqUWRZUFRvYWdBazNNdTY2?oc=5",
-      "published": "2026-07-30T22:15:33Z",
+      "title": "Tom Lee Sees S&P 500 at 8,000, Names Ethereum the Next Rally Leader",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://beincrypto.com/tom-lee-ethereum-magnificent-seven-rally/?.tsrc=rss",
+      "published": "2026-08-06T23:43:00Z",
       "tone": "bullish"
     },
     {
-      "title": "S&P 500 Rises to All-Time High on Hormuz Deal Push: Markets Wrap - Bloomberg.com",
-      "source": "Bloomberg.com",
+      "title": "S&P 500 Rises to All-Time High on Hormuz Deal Push: Markets Wrap - bloomberg.com",
+      "source": "bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc2d6NUFOclFucUtZODNBTGl5ZVVFMGN0ZHlPNmRocXRHZmpkcHQ2Ty00T2RoWXZaMnNzdHZOaTFPaUZ1WXY5bHc2d2plS25GTlIxb1FsODRiQjlPcU42ODdkeldYYlk1bHJXX3Jpbjh4UFZYd1EyS2NRN19scVk1SU9CQV9ua3dRREp3RDhKeE9YVnRj?oc=5",
       "published": "2026-08-03T22:13:40Z",
       "tone": "bullish"
     },
     {
-      "title": "Wall Street finishes higher as Amazon rally lifts tech - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNlZaUmNhS3dnYUVNenZqTUk1QmE0ZDF0NkVEdmQ1ZjBrU0xaUEd5UmkwVC1zYXFxaWthTDRnQXVyOEhwWGZnYTJkVDFfWlRNQzl2ZF9CTnQ2a3JtdUZCVHVsZi1WTkltZlViY0NTS3V2dm1DWkRrR3hBU3FYOFFVTHRoV1FQM1diODlTQU1OaFhLdkJMeHBDOEJvZUYxVUU?oc=5",
-      "published": "2026-07-31T20:11:00Z",
+      "title": "Stock Market Today, Aug. 6: SoundHound AI Surges 10% on Record Q2 Revenue and Raised 2026 Guidance",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/08/06/stock-market-today-aug-6-soundhound-ai-surges-10-on-record-q2-revenue-and-raised-2026-guidance/?.tsrc=rss",
+      "published": "2026-08-06T22:41:32Z",
       "tone": "bullish"
     },
     {
-      "title": "Correction: S&P 500 Posts Weekly Gain Amid AI Monetization Optimism",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/correction-p-500-posts-weekly-135622152.html?.tsrc=rss",
-      "published": "2026-08-06T13:56:22Z",
+      "title": "Wall Street Hits Record Highs as AI, Strong Earnings Drive Rally - Gotrade",
+      "source": "Gotrade",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcDJ4S0lxaFRselk0bE0tU21uRGFQUzUwR0Nmc3RiRWlvYzQ1dmJWZWRzcUFQa3VyQmFwMURkRWh1TXk5dmc4bVB3VkRoWkZOajNkTGVubDY1MFk1elJyc3JvMGx6Y294cVFyMDZJbFlSRm5lbWNmY0x5emd3VFBOdDlJcVNnUS1MbXV6RjFn?oc=5",
+      "published": "2026-08-04T14:45:00Z",
       "tone": "bullish"
     }
   ],
