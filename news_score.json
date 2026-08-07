@@ -1,20 +1,13 @@
 {
-  "generated_at_utc": "2026-08-07T15:22:35Z",
+  "generated_at_utc": "2026-08-07T16:14:04Z",
   "window_days": 7,
   "score": 10,
   "label": "Bullish",
-  "explanation": "10/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Schwab Stock Gains 6% in a Month: Buy Now or Wait for a Pullback?; Wall Street rallies, Dow closes at record on Iran talks optimism - reuters.com.",
+  "explanation": "10/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters; S&P 500 Rises to All-Time High on Hormuz Deal Push: Markets Wrap - Bloomberg.com.",
   "articles": [
     {
-      "title": "Schwab Stock Gains 6% in a Month: Buy Now or Wait for a Pullback?",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/schwab-stock-gains-6-month-125300385.html?.tsrc=rss",
-      "published": "2026-08-07T12:53:00Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Wall Street rallies, Dow closes at record on Iran talks optimism - reuters.com",
-      "source": "reuters.com",
+      "title": "Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters",
+      "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA?oc=5",
       "published": "2026-08-03T23:22:02Z",
       "tone": "bullish"
@@ -34,10 +27,17 @@
       "tone": "bullish"
     },
     {
-      "title": "SNAPSHOT S&P 500 hits record high on strong AI-linked earnings, Mideast deal hopes - reuters.com",
-      "source": "reuters.com",
+      "title": "SNAPSHOT S&P 500 hits record high on strong AI-linked earnings, Mideast deal hopes - Reuters",
+      "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVWVrcU9yUnMxanV0UXpWcVpYcWFpWU4tWklEOEZTSTBjSUVBY1otLW5xekdzOGRrS2ZHNGtNSUVlT2tsOVl6T3FDWDUxaUhYNmxqWlZ4Q3JpOS02cFVmVF9Yb1pRVHhDbVhhbkpnTFByU1BteEU2OFN0NS04NlpTOG9qNWpSRkZxVUxSUURzVmdoOTRzOW56OTM3cUFrbEJyNlRuaDJSekxkcWQ4aWtiZjNWOHhsb2NNT3o4R3RvOA?oc=5",
       "published": "2026-08-04T13:35:24Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "S&P 500 hits record high on strong AI-linked earnings, Mideast deal hopes - whbl.com",
+      "source": "whbl.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGV6czM0UHFzcERhVk5sOGhrYnItNndaSHRrcjZlRWh3dmR3YkVYNFcwc0F3V05oZ1RFQ01icU8tcXdycGZGdU80SVdaOGVUbGtSNEg3c1hRd3NFWUlkT21XMnRNcTlIdG1QVm5VdHU5QW05NkhsY1F3Z1JrdXNLY1piM2psT1J2bUpHS1JvNWlaajFrd3E4ZVczb09MUURjMFE?oc=5",
+      "published": "2026-08-04T07:00:00Z",
       "tone": "bullish"
     }
   ],
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 98
+        "articles": 95
       }
     ],
-    "headline_count": 148,
+    "headline_count": 145,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
