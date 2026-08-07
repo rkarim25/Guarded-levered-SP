@@ -1,10 +1,17 @@
 {
-  "generated_at_utc": "2026-08-07T00:59:09Z",
+  "generated_at_utc": "2026-08-07T01:28:53Z",
   "window_days": 7,
-  "score": 9,
+  "score": 10,
   "label": "Bullish",
-  "explanation": "9/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters; Tom Lee Sees S&P 500 at 8,000, Names Ethereum the Next Rally Leader.",
+  "explanation": "10/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Dow hits fresh record high while S&P 500 and Nasdaq surge on hopes for Middle East talks - eciks.org; Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters.",
   "articles": [
+    {
+      "title": "Dow hits fresh record high while S&P 500 and Nasdaq surge on hopes for Middle East talks - eciks.org",
+      "source": "eciks.org",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IX1BkZzR3YXJuSldyX2dManloREd3OHctWVpUVjVVcnljTng5MUZ4OEk0akRoZkExQjN5alFnUlJEVGFCcGxTc0dfaW9iNGt0V01zVlF0MnFmVllnam9lUEh3U2tLNndjWXo5WnlHS3RxekhCMDVfVFI3MWNtM0k?oc=5",
+      "published": "2026-08-04T11:03:12Z",
+      "tone": "bullish"
+    },
     {
       "title": "Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters",
       "source": "Reuters",
@@ -20,8 +27,8 @@
       "tone": "bullish"
     },
     {
-      "title": "S&P 500 Rises to All-Time High on Hormuz Deal Push: Markets Wrap - bloomberg.com",
-      "source": "bloomberg.com",
+      "title": "S&P 500 Rises to All-Time High on Hormuz Deal Push: Markets Wrap - Bloomberg.com",
+      "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc2d6NUFOclFucUtZODNBTGl5ZVVFMGN0ZHlPNmRocXRHZmpkcHQ2Ty00T2RoWXZaMnNzdHZOaTFPaUZ1WXY5bHc2d2plS25GTlIxb1FsODRiQjlPcU42ODdkeldYYlk1bHJXX3Jpbjh4UFZYd1EyS2NRN19scVk1SU9CQV9ua3dRREp3RDhKeE9YVnRj?oc=5",
       "published": "2026-08-03T22:13:40Z",
       "tone": "bullish"
@@ -31,13 +38,6 @@
       "source": "Yahoo Finance S&P 500",
       "url": "https://www.fool.com/coverage/stock-market-today/2026/08/06/stock-market-today-aug-6-soundhound-ai-surges-10-on-record-q2-revenue-and-raised-2026-guidance/?.tsrc=rss",
       "published": "2026-08-06T22:41:32Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Wall Street Hits Record Highs as AI, Strong Earnings Drive Rally - Gotrade",
-      "source": "Gotrade",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcDJ4S0lxaFRselk0bE0tU21uRGFQUzUwR0Nmc3RiRWlvYzQ1dmJWZWRzcUFQa3VyQmFwMURkRWh1TXk5dmc4bVB3VkRoWkZOajNkTGVubDY1MFk1elJyc3JvMGx6Y294cVFyMDZJbFlSRm5lbWNmY0x5emd3VFBOdDlJcVNnUS1MbXV6RjFn?oc=5",
-      "published": "2026-08-04T14:45:00Z",
       "tone": "bullish"
     }
   ],
