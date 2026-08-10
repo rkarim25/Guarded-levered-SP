@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-07T22:31:08Z",
+  "generated_at_utc": "2026-08-10T08:23:01Z",
   "window_days": 7,
-  "score": 10,
+  "score": 9,
   "label": "Bullish",
-  "explanation": "10/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters; S&P 500 Rises to All-Time High on Hormuz Deal Push: Markets Wrap - Bloomberg.com.",
+  "explanation": "9/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters; Wall Street Today: DJIA, S&P 500, Nasdaq Comp Rise as SPCX, PLTR, AAOI, TEAM, TSLA and NVDA Rally - Moomoo.",
   "articles": [
     {
       "title": "Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters",
@@ -13,17 +13,17 @@
       "tone": "bullish"
     },
     {
+      "title": "Wall Street Today: DJIA, S&P 500, Nasdaq Comp Rise as SPCX, PLTR, AAOI, TEAM, TSLA and NVDA Rally - Moomoo",
+      "source": "Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa1U4eGh3UV9UN2hhYTlYbjIxaEFOTzNMb2JjSTVVd2NMcGIwTjVpeDFfNXlMUEFiRWNTTVduQmJKQXZYQmNzbFdJbFZmblg0WExGX3I2RVI1SXI5UnVKVzFJcF9OMnpaczRZRXp1cjZRR20tSThfSGwyZnVSMnJ1Wk1CcEY0bDhyYzNVSFkyVjZYa0NMQjBqdElPSm1EOUNLSDlR?oc=5",
+      "published": "2026-08-07T20:09:15Z",
+      "tone": "bullish"
+    },
+    {
       "title": "S&P 500 Rises to All-Time High on Hormuz Deal Push: Markets Wrap - Bloomberg.com",
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc2d6NUFOclFucUtZODNBTGl5ZVVFMGN0ZHlPNmRocXRHZmpkcHQ2Ty00T2RoWXZaMnNzdHZOaTFPaUZ1WXY5bHc2d2plS25GTlIxb1FsODRiQjlPcU42ODdkeldYYlk1bHJXX3Jpbjh4UFZYd1EyS2NRN19scVk1SU9CQV9ua3dRREp3RDhKeE9YVnRj?oc=5",
       "published": "2026-08-03T22:13:40Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Stock Market Today, Aug. 7: Palantir Surges on Bank of America Upbeat View After Strong Earnings",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/08/07/stock-market-today-aug-7-palantir-surges-on-bank-of-america-upbeat-view-after-strong-earnings/?.tsrc=rss",
-      "published": "2026-08-07T21:05:16Z",
       "tone": "bullish"
     },
     {
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 20
+        "articles": 18
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -72,7 +72,7 @@
         "articles": 92
       }
     ],
-    "headline_count": 142,
+    "headline_count": 140,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
