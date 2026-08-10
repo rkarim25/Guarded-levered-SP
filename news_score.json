@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-10T15:54:03Z",
+  "generated_at_utc": "2026-08-10T16:46:50Z",
   "window_days": 7,
   "score": 10,
   "label": "Bullish",
-  "explanation": "10/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Dow hits fresh record high while S&P 500 and Nasdaq surge on hopes for Middle East talks - eciks.org; Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters.",
+  "explanation": "10/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Dow hits fresh record high while S&P 500 and Nasdaq surge on hopes for Middle East talks - eciks.org; Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters. Bearish offsets: Tesla Stock Slips as Army of Fans Fails to Help It Claw Back Losses.",
   "articles": [
     {
       "title": "Dow hits fresh record high while S&P 500 and Nasdaq surge on hopes for Middle East talks - eciks.org",
@@ -20,13 +20,6 @@
       "tone": "bullish"
     },
     {
-      "title": "5 Stocks With Recent Price Strength to Tap August Rally",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-recent-price-strength-132200095.html?.tsrc=rss",
-      "published": "2026-08-10T13:22:00Z",
-      "tone": "bullish"
-    },
-    {
       "title": "Wall Street Today: DJIA, S&P 500, Nasdaq Comp Rise as SPCX, PLTR, AAOI, TEAM, TSLA and NVDA Rally - Moomoo",
       "source": "Moomoo",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa1U4eGh3UV9UN2hhYTlYbjIxaEFOTzNMb2JjSTVVd2NMcGIwTjVpeDFfNXlMUEFiRWNTTVduQmJKQXZYQmNzbFdJbFZmblg0WExGX3I2RVI1SXI5UnVKVzFJcF9OMnpaczRZRXp1cjZRR20tSThfSGwyZnVSMnJ1Wk1CcEY0bDhyYzNVSFkyVjZYa0NMQjBqdElPSm1EOUNLSDlR?oc=5",
@@ -39,6 +32,13 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc2d6NUFOclFucUtZODNBTGl5ZVVFMGN0ZHlPNmRocXRHZmpkcHQ2Ty00T2RoWXZaMnNzdHZOaTFPaUZ1WXY5bHc2d2plS25GTlIxb1FsODRiQjlPcU42ODdkeldYYlk1bHJXX3Jpbjh4UFZYd1EyS2NRN19scVk1SU9CQV9ua3dRREp3RDhKeE9YVnRj?oc=5",
       "published": "2026-08-03T22:13:40Z",
       "tone": "bullish"
+    },
+    {
+      "title": "Tesla Stock Slips as Army of Fans Fails to Help It Claw Back Losses",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/m/eb2f1d94-7a47-3ba4-bf36-689dfc421047/tesla-stock-slips-as-army-of.html?.tsrc=rss",
+      "published": "2026-08-10T14:14:00Z",
+      "tone": "bearish"
     }
   ],
   "data_source": {
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 15
+        "articles": 14
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -69,7 +69,7 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 93
+        "articles": 94
       }
     ],
     "headline_count": 138,
