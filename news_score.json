@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-10T11:02:55Z",
+  "generated_at_utc": "2026-08-10T12:06:37Z",
   "window_days": 7,
   "score": 10,
   "label": "Bullish",
-  "explanation": "10/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters; Wall Street Today: DJIA, S&P 500, Nasdaq Comp Rise as SPCX, PLTR, AAOI, TEAM, TSLA and NVDA Rally - Moomoo.",
+  "explanation": "10/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters; S&P 500 hits record high as Iran nuclear deal stalls.",
   "articles": [
     {
       "title": "Wall Street rallies, Dow closes at record on Iran talks optimism - Reuters",
@@ -13,8 +13,15 @@
       "tone": "bullish"
     },
     {
-      "title": "Wall Street Today: DJIA, S&P 500, Nasdaq Comp Rise as SPCX, PLTR, AAOI, TEAM, TSLA and NVDA Rally - Moomoo",
-      "source": "Moomoo",
+      "title": "S&P 500 hits record high as Iran nuclear deal stalls",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://qz.com/sp500-record-high-iran-deal-stalled-081026?.tsrc=rss",
+      "published": "2026-08-10T11:28:12Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "Wall Street Today: DJIA, S&P 500, Nasdaq Comp Rise as SPCX, PLTR, AAOI, TEAM, TSLA and NVDA Rally - moomoo.com",
+      "source": "moomoo.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa1U4eGh3UV9UN2hhYTlYbjIxaEFOTzNMb2JjSTVVd2NMcGIwTjVpeDFfNXlMUEFiRWNTTVduQmJKQXZYQmNzbFdJbFZmblg0WExGX3I2RVI1SXI5UnVKVzFJcF9OMnpaczRZRXp1cjZRR20tSThfSGwyZnVSMnJ1Wk1CcEY0bDhyYzNVSFkyVjZYa0NMQjBqdElPSm1EOUNLSDlR?oc=5",
       "published": "2026-08-07T20:09:15Z",
       "tone": "bullish"
@@ -31,13 +38,6 @@
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVWVrcU9yUnMxanV0UXpWcVpYcWFpWU4tWklEOEZTSTBjSUVBY1otLW5xekdzOGRrS2ZHNGtNSUVlT2tsOVl6T3FDWDUxaUhYNmxqWlZ4Q3JpOS02cFVmVF9Yb1pRVHhDbVhhbkpnTFByU1BteEU2OFN0NS04NlpTOG9qNWpSRkZxVUxSUURzVmdoOTRzOW56OTM3cUFrbEJyNlRuaDJSekxkcWQ4aWtiZjNWOHhsb2NNT3o4R3RvOA?oc=5",
       "published": "2026-08-04T13:35:24Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "S&P 500 hits record high on strong AI-linked earnings, Mideast deal hopes - whbl.com",
-      "source": "whbl.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGV6czM0UHFzcERhVk5sOGhrYnItNndaSHRrcjZlRWh3dmR3YkVYNFcwc0F3V05oZ1RFQ01icU8tcXdycGZGdU80SVdaOGVUbGtSNEg3c1hRd3NFWUlkT21XMnRNcTlIdG1QVm5VdHU5QW05NkhsY1F3Z1JrdXNLY1piM2psT1J2bUpHS1JvNWlaajFrd3E4ZVczb09MUURjMFE?oc=5",
-      "published": "2026-08-04T07:00:00Z",
       "tone": "bullish"
     }
   ],
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 94
+        "articles": 95
       }
     ],
-    "headline_count": 144,
+    "headline_count": 145,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
