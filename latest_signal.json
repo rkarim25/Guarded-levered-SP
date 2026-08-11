@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-10T22:33:33Z",
+  "generated_at_utc": "2026-08-11T08:06:40Z",
   "data_asof": "2026-08-10",
   "daily_rows": 7546,
   "quote_price": 7753.10986328125,
@@ -75,7 +75,7 @@
     "last_observed_asof": "2026-08-10",
     "last_observed_target_leverage": 2,
     "last_observed_target_label": "2x",
-    "last_checked_at_utc": "2026-08-10T22:33:33Z",
+    "last_checked_at_utc": "2026-08-11T08:06:40Z",
     "last_email_sent_on": "2026-07-30",
     "last_transition": {
       "id": "2026-07-30:0->2026-07-30:2",
