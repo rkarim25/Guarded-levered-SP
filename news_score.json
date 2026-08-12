@@ -1,16 +1,30 @@
 {
-  "generated_at_utc": "2026-08-12T09:38:36Z",
+  "generated_at_utc": "2026-08-12T10:55:23Z",
   "window_days": 7,
-  "score": 6,
-  "label": "Neutral",
-  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Gold may be ready to cool off again, history shows; CoreWeave Reports Solid Earnings. The Stock Jumps.. Bearish offsets: US Stock Market Today: S&P 500 Futures Stall As Traders Eye Inflation Signals; The Odds of a September Rate Hike Have Plunged, but the Federal Reserve's Job Just Became Infinitely More Challenging.",
+  "score": 9,
+  "label": "Bullish",
+  "explanation": "9/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Will the Wall Street Rally Gain Momentum? \ud83d\uddfd A Recap of the US Earnings Season - XTB.com; US stock market today: Wall Street drifts near all-time high; crude oil prices rise - timesofindia.indiatimes.com.",
   "articles": [
     {
-      "title": "US Stock Market Today: S&P 500 Futures Stall As Traders Eye Inflation Signals",
+      "title": "Will the Wall Street Rally Gain Momentum? \ud83d\uddfd A Recap of the US Earnings Season - XTB.com",
+      "source": "XTB.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMmdhcE1JTDlLNTZndFlHQ21ORVA5bFdRcy1mMm1mYlBSSXQtdFN6QlVETExJRk9zUUdIMnEyUnRxQ0ZRZldGN09TbDB0MjdNenhVbGpoa05sV0Job2VvUlpySHo4NUswQUthRUdVN0QxcVpzQmU1dEpIZXM2UWQ2clloTFVWREprQ0E4WklsWU9tZFRzNktrb1pMSXNHOWJyNXZ2VWxDZ2plbGJfdFlRVnpZWHpveXJCbV93dUtuY0hNVzV0TWFQeFpzRTY?oc=5",
+      "published": "2026-08-11T09:09:27Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "US stock market today: Wall Street drifts near all-time high; crude oil prices rise - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNTi1iaUVrRGNybm9ERGhheDEzRXBkdjMwcDNxOEIxMTRTdUpBRkVDNTFhM0MxZUpKOGhOTjJVN2dxZXZ1Tm9sVUFobFZvT0NScUZNWGcwYTYwQlhfMTA4RGlSeHprSGRqMGhVbFVDUHpUME1DRUNpZ25QdnladlJENFdqak8tM1k3Q1AtNjJmTDJFckQ1MlNLTlRveDItWkpwRWE5VVAwRmtjUmxoUFlzTHBvWWdCNnV0NXBaZE51VkJJdzFUWEd0S0RqRndWYmhfbzktUlRVZ2lXNWRSRWQxbTVjNGdIOVp0eEVINlU1amRSeGxOZlpwRkVPNmNaU2pYR1hGOU9oMVhsS2E3dm9PVE1zVFhzY3NEYUd5alBvaXhjbjF2RHB6RjlJTkJVN3YwOWlobFExTVh5VXVmeXR4UUppVVgwQ0xKMi1xbnhOeWRBMWpFbG4ySGl2V0ZkQTBIZVYw0gHoAkFVX3lxTFBUX2FUcTE5TUxOa3ZxbE1hM0RPS0RaSjJmdUJhUmJjMEZRZWRYRVlFNnYzQ3g1VjRYa0gzaHhDbmwzRGs4RTA2eW04cTZPZVphZmxnOE1odTlLdTludURwVDcwNXJ1Rjc2LUdCazZlSFRHaEdYeGpjUU1HUUNiUnpjOWFVUUVhNzBEUzFJRjF0OC11SmFZSU9razFoeWpsaHRsNjBFaEJpMUhRNnE4LWJQeWtkOWFrV2c2S010bENYMEpGUGRsanhaWGwwT3o5cjNLQ0NUbVg2djVaUlJsbDlkUGtwUUtaWDJQWXZCVko2dFg5cE0zU0RYLVRWdk1pa0g0eVRFTzJ1M3E1REFjdHdwSEZhTjZRVTRBZTNxVVF2MFRCUGR0RndyQzZnQll1ZElLVEJrMXY4VTdNM2NKQjVEY0hJZnM4MVR3eXhiWVVuTk5aVWNmLVpBYXBadzhjVzR6VWRMTExKZA?oc=5",
+      "published": "2026-08-10T15:09:00Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "Dow Jones Futures Rise With CPI Inflation Due; AI Stocks Rally As 3 Nvidia Partners Lead Earnings Movers",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081201698.html?.tsrc=rss",
-      "published": "2026-08-12T08:12:01Z",
-      "tone": "bearish"
+      "url": "https://finance.yahoo.com/m/7170c7f6-3bd3-35bf-bee2-a691a7f3afbd/dow-jones-futures-rise-with.html?.tsrc=rss",
+      "published": "2026-08-12T10:37:20Z",
+      "tone": "bullish"
     },
     {
       "title": "Gold may be ready to cool off again, history shows",
@@ -20,24 +34,10 @@
       "tone": "bullish"
     },
     {
-      "title": "The Odds of a September Rate Hike Have Plunged, but the Federal Reserve's Job Just Became Infinitely More Challenging",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://www.fool.com/investing/2026/08/12/odds-september-rate-hike-plunge-fed-job-challenge/?.tsrc=rss",
-      "published": "2026-08-12T08:26:00Z",
-      "tone": "bearish"
-    },
-    {
-      "title": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
-      "published": "2026-08-12T06:30:07Z",
-      "tone": "bearish"
-    },
-    {
-      "title": "CoreWeave Reports Solid Earnings. The Stock Jumps.",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/48aa52e4-83ba-370f-a920-f4f43486ddba/coreweave-reports-solid.html?.tsrc=rss",
-      "published": "2026-08-12T00:28:00Z",
+      "title": "Wall Street drifts near its all-time high as oil prices keep swinging - Orlando Sentinel",
+      "source": "Orlando Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOHdLNEFGZ1JPV1JjbXFWUVdFal9aWGs3Yk5vRWVpd3VqbFQxQWROUGpoQlgyem1nbVJ1SUdWbHktc2xhVUxDWGV0aTZhV2FkMDBZOTJkM3F4cUdwaFNuS01wZmNmdUpHeXJLWkJ0TjNHSU43U0IzTzl1dXduek9tR2ZnS21aclJpU1dhTg?oc=5",
+      "published": "2026-08-11T13:37:45Z",
       "tone": "bullish"
     }
   ],
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 17
+        "articles": 20
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -66,12 +66,13 @@
       },
       {
         "url": "https://news.google.com/rss/search?q=%28S%26P%20500%20OR%20stock%20market%20OR%20Wall%20Street%29%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
-        "ok": false,
-        "error": "HTTP Error 503: Service Unavailable",
-        "name": "Google News market query"
+        "ok": true,
+        "status": 200,
+        "name": "Google News market query",
+        "articles": 95
       }
     ],
-    "headline_count": 47,
+    "headline_count": 145,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
