@@ -1,29 +1,36 @@
 {
-  "generated_at_utc": "2026-08-11T22:37:46Z",
+  "generated_at_utc": "2026-08-12T08:10:54Z",
   "window_days": 7,
-  "score": 9,
+  "score": 8,
   "label": "Bullish",
-  "explanation": "9/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Will the Wall Street Rally Gain Momentum? \ud83d\uddfd A Recap of the US Earnings Season - xtb.com; US stock market today: Wall Street drifts near all-time high; crude oil prices rise - timesofindia.indiatimes.com.",
+  "explanation": "8/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Will the Wall Street Rally Gain Momentum? \ud83d\uddfd A Recap of the US Earnings Season - XTB.com; US stock market today: Wall Street drifts near all-time high; crude oil prices rise - The Times of India. Bearish offsets: S&P500, Nasdaq, Dow Futures Rangebound As Investors Await Key Inflation Data To Judge Rate Hike Possibilities \u2014 ORCL, AAPL, NVDA, CURLF In Focus.",
   "articles": [
     {
-      "title": "Will the Wall Street Rally Gain Momentum? \ud83d\uddfd A Recap of the US Earnings Season - xtb.com",
-      "source": "xtb.com",
+      "title": "Will the Wall Street Rally Gain Momentum? \ud83d\uddfd A Recap of the US Earnings Season - XTB.com",
+      "source": "XTB.com",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMmdhcE1JTDlLNTZndFlHQ21ORVA5bFdRcy1mMm1mYlBSSXQtdFN6QlVETExJRk9zUUdIMnEyUnRxQ0ZRZldGN09TbDB0MjdNenhVbGpoa05sV0Job2VvUlpySHo4NUswQUthRUdVN0QxcVpzQmU1dEpIZXM2UWQ2clloTFVWREprQ0E4WklsWU9tZFRzNktrb1pMSXNHOWJyNXZ2VWxDZ2plbGJfdFlRVnpZWHpveXJCbV93dUtuY0hNVzV0TWFQeFpzRTY?oc=5",
       "published": "2026-08-11T09:09:27Z",
       "tone": "bullish"
     },
     {
-      "title": "US stock market today: Wall Street drifts near all-time high; crude oil prices rise - timesofindia.indiatimes.com",
-      "source": "timesofindia.indiatimes.com",
+      "title": "US stock market today: Wall Street drifts near all-time high; crude oil prices rise - The Times of India",
+      "source": "The Times of India",
       "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNTi1iaUVrRGNybm9ERGhheDEzRXBkdjMwcDNxOEIxMTRTdUpBRkVDNTFhM0MxZUpKOGhOTjJVN2dxZXZ1Tm9sVUFobFZvT0NScUZNWGcwYTYwQlhfMTA4RGlSeHprSGRqMGhVbFVDUHpUME1DRUNpZ25QdnladlJENFdqak8tM1k3Q1AtNjJmTDJFckQ1MlNLTlRveDItWkpwRWE5VVAwRmtjUmxoUFlzTHBvWWdCNnV0NXBaZE51VkJJdzFUWEd0S0RqRndWYmhfbzktUlRVZ2lXNWRSRWQxbTVjNGdIOVp0eEVINlU1amRSeGxOZlpwRkVPNmNaU2pYR1hGOU9oMVhsS2E3dm9PVE1zVFhzY3NEYUd5alBvaXhjbjF2RHB6RjlJTkJVN3YwOWlobFExTVh5VXVmeXR4UUppVVgwQ0xKMi1xbnhOeWRBMWpFbG4ySGl2V0ZkQTBIZVYw0gHoAkFVX3lxTFBUX2FUcTE5TUxOa3ZxbE1hM0RPS0RaSjJmdUJhUmJjMEZRZWRYRVlFNnYzQ3g1VjRYa0gzaHhDbmwzRGs4RTA2eW04cTZPZVphZmxnOE1odTlLdTludURwVDcwNXJ1Rjc2LUdCazZlSFRHaEdYeGpjUU1HUUNiUnpjOWFVUUVhNzBEUzFJRjF0OC11SmFZSU9razFoeWpsaHRsNjBFaEJpMUhRNnE4LWJQeWtkOWFrV2c2S010bENYMEpGUGRsanhaWGwwT3o5cjNLQ0NUbVg2djVaUlJsbDlkUGtwUUtaWDJQWXZCVko2dFg5cE0zU0RYLVRWdk1pa0g0eVRFTzJ1M3E1REFjdHdwSEZhTjZRVTRBZTNxVVF2MFRCUGR0RndyQzZnQll1ZElLVEJrMXY4VTdNM2NKQjVEY0hJZnM4MVR3eXhiWVVuTk5aVWNmLVpBYXBadzhjVzR6VWRMTExKZA?oc=5",
       "published": "2026-08-10T15:09:00Z",
       "tone": "bullish"
     },
     {
-      "title": "Stock Market Today: Dow Skids, Oil Pops As Iran Says This On Hormuz; SpaceX Shares Take A Dive (Live Coverage)",
+      "title": "S&P500, Nasdaq, Dow Futures Rangebound As Investors Await Key Inflation Data To Judge Rate Hike Possibilities \u2014 ORCL, AAPL, NVDA, CURLF In Focus",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/88069686-fb31-35fa-b6c9-0c1477a53816/stock-market-today%3A-dow.html?.tsrc=rss",
-      "published": "2026-08-11T20:32:59Z",
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p500-nasdaq-dow-futures-rangebound-investors-await-key-inflation-data/cZoFmoDRJXo?.tsrc=rss",
+      "published": "2026-08-12T00:07:19Z",
+      "tone": "bearish"
+    },
+    {
+      "title": "This Mag 7 Dividend Stock Is Trading Near 2026 Highs. Why It's Still a Buy.",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://www.barchart.com/story/news/3792100/this-mag-7-dividend-stock-is-trading-near-2026-highs-why-it-s-still-a-buy?.tsrc=rss",
+      "published": "2026-08-11T23:30:02Z",
       "tone": "bullish"
     },
     {
@@ -31,13 +38,6 @@
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/11/gold-may-be-ready-to-cool-off-again-history-shows.html",
       "published": "2026-08-11T16:03:55Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Wall Street drifts near its all-time high as oil prices keep swinging - Orlando Sentinel",
-      "source": "Orlando Sentinel",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOHdLNEFGZ1JPV1JjbXFWUVdFal9aWGs3Yk5vRWVpd3VqbFQxQWROUGpoQlgyem1nbVJ1SUdWbHktc2xhVUxDWGV0aTZhV2FkMDBZOTJkM3F4cUdwaFNuS01wZmNmdUpHeXJLWkJ0TjNHSU43U0IzTzl1dXduek9tR2ZnS21aclJpU1dhTg?oc=5",
-      "published": "2026-08-11T13:37:45Z",
       "tone": "bullish"
     }
   ],
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 20
+        "articles": 19
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 94
+        "articles": 93
       }
     ],
-    "headline_count": 144,
+    "headline_count": 142,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
