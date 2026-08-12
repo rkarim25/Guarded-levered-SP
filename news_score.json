@@ -1,24 +1,10 @@
 {
-  "generated_at_utc": "2026-08-12T15:27:27Z",
+  "generated_at_utc": "2026-08-12T16:25:00Z",
   "window_days": 7,
-  "score": 9,
+  "score": 8,
   "label": "Bullish",
-  "explanation": "9/10 is bullish from a 7-day headline keyword scan. Bullish drivers: S&P 500 hits record high after July CPI data; CoreWeave stock jumps 21%; Will the Wall Street Rally Gain Momentum? \ud83d\uddfd A Recap of the US Earnings Season - XTB.com. Bearish offsets: CPI Inflation Data Cools As Expected, May Keep Fed Rate Hikes On Hold (Live Coverage); US Stocks Close Lower as Tech-Led Selloff Weighs on Wall Street - CryptoRank.",
+  "explanation": "8/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Will the Wall Street Rally Gain Momentum? \ud83d\uddfd A Recap of the US Earnings Season - XTB.com; US stock market today: Wall Street drifts near all-time high; crude oil prices rise - The Times of India. Bearish offsets: US Stocks Close Lower as Tech-Led Selloff Weighs on Wall Street - CryptoRank.",
   "articles": [
-    {
-      "title": "S&P 500 hits record high after July CPI data; CoreWeave stock jumps 21%",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://qz.com/sp500-record-high-cpi-inflation-coreweave-super-micro-081226?.tsrc=rss",
-      "published": "2026-08-12T13:54:34Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "CPI Inflation Data Cools As Expected, May Keep Fed Rate Hikes On Hold (Live Coverage)",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/fc381ce1-32d1-3e4b-b42f-7d39e2664a53/cpi-inflation-data-cools-as.html?.tsrc=rss",
-      "published": "2026-08-12T13:45:11Z",
-      "tone": "bearish"
-    },
     {
       "title": "US Stocks Close Lower as Tech-Led Selloff Weighs on Wall Street - CryptoRank",
       "source": "CryptoRank",
@@ -39,6 +25,20 @@
       "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNTi1iaUVrRGNybm9ERGhheDEzRXBkdjMwcDNxOEIxMTRTdUpBRkVDNTFhM0MxZUpKOGhOTjJVN2dxZXZ1Tm9sVUFobFZvT0NScUZNWGcwYTYwQlhfMTA4RGlSeHprSGRqMGhVbFVDUHpUME1DRUNpZ25QdnladlJENFdqak8tM1k3Q1AtNjJmTDJFckQ1MlNLTlRveDItWkpwRWE5VVAwRmtjUmxoUFlzTHBvWWdCNnV0NXBaZE51VkJJdzFUWEd0S0RqRndWYmhfbzktUlRVZ2lXNWRSRWQxbTVjNGdIOVp0eEVINlU1amRSeGxOZlpwRkVPNmNaU2pYR1hGOU9oMVhsS2E3dm9PVE1zVFhzY3NEYUd5alBvaXhjbjF2RHB6RjlJTkJVN3YwOWlobFExTVh5VXVmeXR4UUppVVgwQ0xKMi1xbnhOeWRBMWpFbG4ySGl2V0ZkQTBIZVYw0gHoAkFVX3lxTFBUX2FUcTE5TUxOa3ZxbE1hM0RPS0RaSjJmdUJhUmJjMEZRZWRYRVlFNnYzQ3g1VjRYa0gzaHhDbmwzRGs4RTA2eW04cTZPZVphZmxnOE1odTlLdTludURwVDcwNXJ1Rjc2LUdCazZlSFRHaEdYeGpjUU1HUUNiUnpjOWFVUUVhNzBEUzFJRjF0OC11SmFZSU9razFoeWpsaHRsNjBFaEJpMUhRNnE4LWJQeWtkOWFrV2c2S010bENYMEpGUGRsanhaWGwwT3o5cjNLQ0NUbVg2djVaUlJsbDlkUGtwUUtaWDJQWXZCVko2dFg5cE0zU0RYLVRWdk1pa0g0eVRFTzJ1M3E1REFjdHdwSEZhTjZRVTRBZTNxVVF2MFRCUGR0RndyQzZnQll1ZElLVEJrMXY4VTdNM2NKQjVEY0hJZnM4MVR3eXhiWVVuTk5aVWNmLVpBYXBadzhjVzR6VWRMTExKZA?oc=5",
       "published": "2026-08-10T15:09:00Z",
       "tone": "bullish"
+    },
+    {
+      "title": "Baron Opportunity Fund Trimmed Datadog (DDOG) After Rally",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/baron-opportunity-fund-trimmed-datadog-145853537.html?.tsrc=rss",
+      "published": "2026-08-12T14:58:53Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "Wall Street drifts near its all-time high as oil prices keep swinging - orlandosentinel.com",
+      "source": "orlandosentinel.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOHdLNEFGZ1JPV1JjbXFWUVdFal9aWGs3Yk5vRWVpd3VqbFQxQWROUGpoQlgyem1nbVJ1SUdWbHktc2xhVUxDWGV0aTZhV2FkMDBZOTJkM3F4cUdwaFNuS01wZmNmdUpHeXJLWkJ0TjNHSU43U0IzTzl1dXduek9tR2ZnS21aclJpU1dhTg?oc=5",
+      "published": "2026-08-11T13:37:45Z",
+      "tone": "bullish"
     }
   ],
   "data_source": {
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 17
+        "articles": 20
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 95
+        "articles": 94
       }
     ],
-    "headline_count": 142,
+    "headline_count": 144,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
