@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-08-13T14:18:57Z",
+  "generated_at_utc": "2026-08-13T15:29:04Z",
   "data_asof": "2026-08-13",
   "daily_rows": 7545,
-  "quote_price": 7808.9501953125,
+  "quote_price": 7782.93994140625,
   "quote_timestamp": "2026-08-13",
   "quote_source": "Yahoo Finance chart endpoint",
   "sources": {
@@ -30,10 +30,10 @@
   "official_signal": {
     "latest": {
       "date": "2026-08-13",
-      "close": 7808.9501953125
+      "close": 7782.93994140625
     },
-    "latestSma": 7576.6839599609375,
-    "highWater": 7808.9501953125,
+    "latestSma": 7575.383447265625,
+    "highWater": 7782.93994140625,
     "highWaterDate": "2026-08-13",
     "latestDd": 0.0,
     "regime": "tier2",
@@ -46,16 +46,16 @@
     "activeEntryClose": 6575.31982421875,
     "activeEntryDate": "2026-04-01",
     "activeEntryLeverage": 2,
-    "activeEntryPnl": 0.1876152649715901,
+    "activeEntryPnl": 0.18365952523548668,
     "explanation": "2x recovery tier is active and price is inside the 0.75% SMA20 lead guard."
   },
   "provisional_signal": {
     "latest": {
       "date": "2026-08-13",
-      "close": 7808.9501953125
+      "close": 7782.93994140625
     },
-    "latestSma": 7589.951977539063,
-    "highWater": 7808.9501953125,
+    "latestSma": 7587.3509521484375,
+    "highWater": 7782.93994140625,
     "highWaterDate": "2026-08-13",
     "latestDd": 0.0,
     "regime": "tier2",
@@ -68,14 +68,14 @@
     "activeEntryClose": 6575.31982421875,
     "activeEntryDate": "2026-04-01",
     "activeEntryLeverage": 2,
-    "activeEntryPnl": 0.1876152649715901,
+    "activeEntryPnl": 0.18365952523548668,
     "explanation": "2x recovery tier is active and price is inside the 0.75% SMA20 lead guard."
   },
   "trade_alert_state": {
     "last_observed_asof": "2026-08-13",
     "last_observed_target_leverage": 2,
     "last_observed_target_label": "2x",
-    "last_checked_at_utc": "2026-08-13T14:18:57Z",
+    "last_checked_at_utc": "2026-08-13T15:29:04Z",
     "last_email_sent_on": "2026-07-30",
     "last_transition": {
       "id": "2026-07-30:0->2026-07-30:2",
