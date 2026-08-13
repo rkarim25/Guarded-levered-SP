@@ -1,10 +1,17 @@
 {
-  "generated_at_utc": "2026-08-13T12:55:00Z",
+  "generated_at_utc": "2026-08-13T14:19:02Z",
   "window_days": 7,
   "score": 9,
   "label": "Bullish",
-  "explanation": "9/10 is bullish from a 7-day headline keyword scan. Bullish drivers: US stock market today: Wall Street drifts near all-time high; crude oil prices rise - The Times of India; S&P 500 ends higher as CoreWeave results fuel AI optimism - Reuters. Bearish offsets: US Stocks Close Lower as Tech-Led Selloff Weighs on Wall Street - CryptoRank.",
+  "explanation": "9/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Stock Market Today: S&P 500 Rises as Nvidia & AI Stocks Rally, Dow Jones Lags - CryptoRank; US stock market today: Wall Street drifts near all-time high; crude oil prices rise - timesofindia.indiatimes.com. Bearish offsets: US Stocks Close Lower as Tech-Led Selloff Weighs on Wall Street - CryptoRank.",
   "articles": [
+    {
+      "title": "Stock Market Today: S&P 500 Rises as Nvidia & AI Stocks Rally, Dow Jones Lags - CryptoRank",
+      "source": "CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZHVOMjZ1N1FzaEtFZWdjUHhlZ05tRkE4UkVMNy1rNnN2dDBrLXlQMUtUTFdDakF4Uk5JajhEU3hBQy15TmhYdzBqTUlmempEbnZfY3c1QzlDWDZpN0wzdDRLUExjTnBZQTQ2b2tyNkRTZE9kdnBOaVJldldCcERoWTY4TlBEUmtHNk8tU3VySEcxQTdIVHlwWFQxM0Nab1B6YkdOeHBIalNjSFNrOVQ4?oc=5",
+      "published": "2026-08-12T16:30:10Z",
+      "tone": "bullish"
+    },
     {
       "title": "US Stocks Close Lower as Tech-Led Selloff Weighs on Wall Street - CryptoRank",
       "source": "CryptoRank",
@@ -13,8 +20,8 @@
       "tone": "bearish"
     },
     {
-      "title": "US stock market today: Wall Street drifts near all-time high; crude oil prices rise - The Times of India",
-      "source": "The Times of India",
+      "title": "US stock market today: Wall Street drifts near all-time high; crude oil prices rise - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
       "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNTi1iaUVrRGNybm9ERGhheDEzRXBkdjMwcDNxOEIxMTRTdUpBRkVDNTFhM0MxZUpKOGhOTjJVN2dxZXZ1Tm9sVUFobFZvT0NScUZNWGcwYTYwQlhfMTA4RGlSeHprSGRqMGhVbFVDUHpUME1DRUNpZ25QdnladlJENFdqak8tM1k3Q1AtNjJmTDJFckQ1MlNLTlRveDItWkpwRWE5VVAwRmtjUmxoUFlzTHBvWWdCNnV0NXBaZE51VkJJdzFUWEd0S0RqRndWYmhfbzktUlRVZ2lXNWRSRWQxbTVjNGdIOVp0eEVINlU1amRSeGxOZlpwRkVPNmNaU2pYR1hGOU9oMVhsS2E3dm9PVE1zVFhzY3NEYUd5alBvaXhjbjF2RHB6RjlJTkJVN3YwOWlobFExTVh5VXVmeXR4UUppVVgwQ0xKMi1xbnhOeWRBMWpFbG4ySGl2V0ZkQTBIZVYw0gHoAkFVX3lxTFBUX2FUcTE5TUxOa3ZxbE1hM0RPS0RaSjJmdUJhUmJjMEZRZWRYRVlFNnYzQ3g1VjRYa0gzaHhDbmwzRGs4RTA2eW04cTZPZVphZmxnOE1odTlLdTludURwVDcwNXJ1Rjc2LUdCazZlSFRHaEdYeGpjUU1HUUNiUnpjOWFVUUVhNzBEUzFJRjF0OC11SmFZSU9razFoeWpsaHRsNjBFaEJpMUhRNnE4LWJQeWtkOWFrV2c2S010bENYMEpGUGRsanhaWGwwT3o5cjNLQ0NUbVg2djVaUlJsbDlkUGtwUUtaWDJQWXZCVko2dFg5cE0zU0RYLVRWdk1pa0g0eVRFTzJ1M3E1REFjdHdwSEZhTjZRVTRBZTNxVVF2MFRCUGR0RndyQzZnQll1ZElLVEJrMXY4VTdNM2NKQjVEY0hJZnM4MVR3eXhiWVVuTk5aVWNmLVpBYXBadzhjVzR6VWRMTExKZA?oc=5",
       "published": "2026-08-10T15:09:00Z",
       "tone": "bullish"
@@ -32,13 +39,6 @@
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTUpHRENYRk5kYXZScE1ULWo4a1llVVlfOGNqYlhWb3VoX25OUmxkRGZHdFVMdVpVbm42Tm5nMHBab3VwS0hhM0trMUlRSnhxS0pWYWpZN0xkMWNQNkNBNG5VQ2lZRFV4cU5QaDlrcnpRV0xaZXBnU3R3VWRVU1BJV2NmaHFiQkpOZ2xVSF9Lc0trZXFhck0waUhXWTFjUWdBTGpZYTdpMnRSbnpCM0V3SkJmeWRiRjdMMm8zVm9FVHQ2QjdYNnZVcnhXa3pLODhaUktuMHlPckdxaGdfR2Q4?oc=5",
       "published": "2026-08-12T08:49:13Z",
       "tone": "bullish"
-    },
-    {
-      "title": "Dow Jones Futures: Cisco, Coherent Are Earnings Losers After Nebius, Lumentum, CoreWeave Lead AI Rally",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/1a4df130-7c08-3f7f-8a30-395b0e9950f6/dow-jones-futures%3A-cisco%2C.html?.tsrc=rss",
-      "published": "2026-08-13T12:13:33Z",
-      "tone": "bullish"
     }
   ],
   "data_source": {
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 20
+        "articles": 19
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -69,7 +69,7 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 93
+        "articles": 94
       }
     ],
     "headline_count": 143,
