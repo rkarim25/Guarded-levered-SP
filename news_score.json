@@ -1,17 +1,10 @@
 {
-  "generated_at_utc": "2026-08-14T14:11:44Z",
+  "generated_at_utc": "2026-08-14T15:13:49Z",
   "window_days": 7,
   "score": 9,
   "label": "Bullish",
-  "explanation": "9/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Sandisk Jumps 7%, Western Digital Gains 4%, Micron Climbs 3% as the Kospi Returns to a Bull Market; Stock Market Today: S&P 500 Rises as Nvidia & AI Stocks Rally, Dow Jones Lags - CryptoRank.",
+  "explanation": "9/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Stock Market Today: S&P 500 Rises as Nvidia & AI Stocks Rally, Dow Jones Lags - CryptoRank; U.S. Stocks Rise, S&P 500 Closes at Record High - WSJ.",
   "articles": [
-    {
-      "title": "Sandisk Jumps 7%, Western Digital Gains 4%, Micron Climbs 3% as the Kospi Returns to a Bull Market",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://247wallst.com/investing/2026/08/14/sandisk-jumps-7-western-digital-gains-4-micron-climbs-3-as-the-kospi-returns-to-a-bull-market/?.tsrc=rss",
-      "published": "2026-08-14T13:03:30Z",
-      "tone": "bullish"
-    },
     {
       "title": "Stock Market Today: S&P 500 Rises as Nvidia & AI Stocks Rally, Dow Jones Lags - CryptoRank",
       "source": "CryptoRank",
@@ -34,10 +27,17 @@
       "tone": "bullish"
     },
     {
-      "title": "S&P 500 ends higher as CoreWeave results fuel AI optimism - Reuters",
-      "source": "Reuters",
+      "title": "S&P 500 ends higher as CoreWeave results fuel AI optimism - reuters.com",
+      "source": "reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYklxZWxQWEI4bU5nVHpWUVJkQWo4YmQ5ZWpfTXNWWHBjNlE0d09NNEdtbWMtQldtbndIMzNBU1Z3TldjNEF5YUoxMHJSdHlXak50XzBMYlh4dHh2OWxVckViSjVxYUFCVlBvcnQ4Vk9vLVF0MWhGR3BidXQzOGItYUVjbnNYSk1pdS1XeTZqUGtaVTZzcDRkR1N1V0xkN0o5STBZ?oc=5",
       "published": "2026-08-12T23:02:09Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "S&P Steady After Record Close",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://www.wsj.com/finance/stocks/u-s-futures-fall-gold-on-track-for-weekly-loss-54d90885?.tsrc=rss",
+      "published": "2026-08-14T13:49:00Z",
       "tone": "bullish"
     }
   ],
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 11
+        "articles": 13
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 95
+        "articles": 94
       }
     ],
-    "headline_count": 136,
+    "headline_count": 137,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
