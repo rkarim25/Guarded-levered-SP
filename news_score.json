@@ -1,10 +1,17 @@
 {
-  "generated_at_utc": "2026-08-17T15:47:48Z",
+  "generated_at_utc": "2026-08-17T16:19:37Z",
   "window_days": 7,
-  "score": 7,
+  "score": 8,
   "label": "Bullish",
-  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: S&P 500 ends higher as CoreWeave results fuel AI optimism - Yahoo Finance; Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - barrons.com.",
+  "explanation": "8/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Jim Cramer says these 2 cybersecurity stocks can keep climbing as AI threats grow; S&P 500 ends higher as CoreWeave results fuel AI optimism - Yahoo Finance.",
   "articles": [
+    {
+      "title": "Jim Cramer says these 2 cybersecurity stocks can keep climbing as AI threats grow",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/17/cramer-2-cybersecurity-stocks-can-keep-climbing-as-ai-threats-grow.html",
+      "published": "2026-08-17T16:13:00Z",
+      "tone": "bullish"
+    },
     {
       "title": "S&P 500 ends higher as CoreWeave results fuel AI optimism - Yahoo Finance",
       "source": "Yahoo Finance",
@@ -13,10 +20,17 @@
       "tone": "bullish"
     },
     {
-      "title": "Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - barrons.com",
-      "source": "barrons.com",
+      "title": "Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's",
+      "source": "Barron's",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XYnJNYUxJeldxNTQ5MFFxaVJrUUMxZmdWWmVGU1czWERoMjZpMm5mMElJekpFaUNCUzFWVFdZbi13NTVUeDB0eWhWcE5mREMxM0REblpGQ2cwWWN5Rm1QSmwzSlJtbGJFNTh6OVFTWQ?oc=5",
       "published": "2026-08-14T17:08:00Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "Chart analyst says it's time to hedge. The typical midterm election year turbulence starts this week",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/17/chart-analyst-says-its-time-to-hedge.html",
+      "published": "2026-08-17T16:01:12Z",
       "tone": "bullish"
     },
     {
@@ -24,20 +38,6 @@
       "source": "Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYXd5a3RoVTFtSUw1UUNiN0JxZVQxeUpfZDU0TTFzb1k2TGdiN3pDRmdnRFppVGFLa2FNRGZPSUNVLWc1VktIUE5kQlFOZWdEajVJTkl0OU16NkI3VjhOa3JGdTR4NnYweUNXay1rUnp3NjJNRGVwZkVody00aXFFcUxUMHVpQ1hPck4wR2t3?oc=5",
       "published": "2026-08-17T11:35:32Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Here's the bull and bear case for investing in stocks with the market at an all-time high - Business Insider",
-      "source": "Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSGhnX1U0LWpudS1NNGk4c3pqTjJIcUJPc2J0T0FIUE84S3lnQUFPXzlNeGlwZGpBTGtBX3h1SGMtLUVCN3FLYTV3a19neWVaQ2JQX0ZtSkhtT1paMjVmSUJrRUlYV2JobVNHb3NUSFNYdEpJODVNM0UxaWpuaWY2ZWUxMWpwdjRiaGFzMjJKQk1zOGJF?oc=5",
-      "published": "2026-08-17T09:01:14Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Russell 2000 Extends Records, SanDisk Rallies 7%: Stock Market Today - TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMEgtMlppOU5BRWlCWDR3d1hLY0FrcE0wbWV3ZlVQbUljSzVDd3FWSWM0VDItZkpqN3oycU1scXdnTjdOMkN0TEx4NGE4Y2NGU2loWGxZUENTeGV3eDFDY3FWbzYzT0NQeWFYelk4N1liRWVtWlZuU2VUUjNTODc4RjdPRTA5LTJYWWhUSHBQRk1yRG5qMGNnRHNoNHJSR1FTS25DdWI1NlJYVTRoQUxSOFVYb3g4bnJmejJCejJEek04UQ?oc=5",
-      "published": "2026-08-14T17:22:50Z",
       "tone": "bullish"
     }
   ],
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 17
+        "articles": 16
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -72,7 +72,7 @@
         "articles": 90
       }
     ],
-    "headline_count": 137,
+    "headline_count": 136,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
