@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-17T11:48:24Z",
+  "generated_at_utc": "2026-08-17T12:30:21Z",
   "window_days": 7,
   "score": 8,
   "label": "Bullish",
@@ -20,8 +20,8 @@
       "tone": "bullish"
     },
     {
-      "title": "S&P 500 ends higher as CoreWeave results fuel AI optimism - finance.yahoo.com",
-      "source": "finance.yahoo.com",
+      "title": "S&P 500 ends higher as CoreWeave results fuel AI optimism - Yahoo Finance",
+      "source": "Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObWNna256d1lRaTVoaVlpX2E2dXY3RS1lWWlXVV9wRlRPOHV6d1c3MWFvbnY5Q25ILXhwMFJZWEFPZnUyRGowUzFoNUdUN0RaLTAybVNyV2NiMXZaS2dBR0IxQmpWZ1p1bUh3NTNCNV9WcTFmVWltUVBRTXh3SHVWTGxFOThEYlRlLTZDVXBLY1ZzZ3oyUUtzMw?oc=5",
       "published": "2026-08-12T20:25:31Z",
       "tone": "bullish"
@@ -34,10 +34,10 @@
       "tone": "bullish"
     },
     {
-      "title": "Stock Futures Rise in Thin Trading",
+      "title": "U.S. Futures Mostly Higher as Tech Stocks Make Gains",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/45e1ff37-65fc-332a-84a3-b11d0d446101/stock-futures-rise-in-thin.html?.tsrc=rss",
-      "published": "2026-08-17T09:57:22Z",
+      "url": "https://www.wsj.com/finance/stocks/u-s-futures-mostly-higher-as-iran-ceasefire-set-to-expire-794f8b05?.tsrc=rss",
+      "published": "2026-08-17T11:10:00Z",
       "tone": "bullish"
     }
   ],
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 16
+        "articles": 17
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 86
+        "articles": 88
       }
     ],
-    "headline_count": 132,
+    "headline_count": 135,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
