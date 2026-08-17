@@ -1,29 +1,15 @@
 {
-  "generated_at_utc": "2026-08-17T16:53:39Z",
+  "generated_at_utc": "2026-08-17T21:16:12Z",
   "window_days": 7,
-  "score": 8,
+  "score": 7,
   "label": "Bullish",
-  "explanation": "8/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Jim Cramer says these 2 cybersecurity stocks can keep climbing as AI threats grow; Fastenal Stock Climbs 14% in a Month: Buy the High Now or Wait?.",
+  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Jim Cramer says these 2 cybersecurity stocks can keep climbing as AI threats grow; Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's.",
   "articles": [
     {
       "title": "Jim Cramer says these 2 cybersecurity stocks can keep climbing as AI threats grow",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/17/cramer-2-cybersecurity-stocks-can-keep-climbing-as-ai-threats-grow.html",
       "published": "2026-08-17T16:13:00Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Fastenal Stock Climbs 14% in a Month: Buy the High Now or Wait?",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fastenal-stock-climbs-14-month-151200885.html?.tsrc=rss",
-      "published": "2026-08-17T15:12:00Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "S&P 500 ends higher as CoreWeave results fuel AI optimism - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObWNna256d1lRaTVoaVlpX2E2dXY3RS1lWWlXVV9wRlRPOHV6d1c3MWFvbnY5Q25ILXhwMFJZWEFPZnUyRGowUzFoNUdUN0RaLTAybVNyV2NiMXZaS2dBR0IxQmpWZ1p1bUh3NTNCNV9WcTFmVWltUVBRTXh3SHVWTGxFOThEYlRlLTZDVXBLY1ZzZ3oyUUtzMw?oc=5",
-      "published": "2026-08-12T20:25:31Z",
       "tone": "bullish"
     },
     {
@@ -34,10 +20,24 @@
       "tone": "bullish"
     },
     {
-      "title": "Chart analyst says it's time to hedge. The typical midterm election year turbulence starts this week",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/17/chart-analyst-says-its-time-to-hedge.html",
-      "published": "2026-08-17T16:01:12Z",
+      "title": "S&P 500 hits all-time high; Wall Street futures slip Monday - qz.com",
+      "source": "qz.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LRk1UdWNYWFZTaFFTZDNTY3VEdHZNRmowZGMyRlVKV01DSE1BZTNGY2NsSVJTYU96S2FINV9Pa3ZzUGNBU2V1VGRDZ0N3T052TkhDakt2ODR5V3dBX2xRVFpIdkZrSVNpaktLNWx3?oc=5",
+      "published": "2026-08-17T11:36:15Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "Russell 2000 Extends Records, SanDisk Rallies 7%: Stock Market Today - TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMEgtMlppOU5BRWlCWDR3d1hLY0FrcE0wbWV3ZlVQbUljSzVDd3FWSWM0VDItZkpqN3oycU1scXdnTjdOMkN0TEx4NGE4Y2NGU2loWGxZUENTeGV3eDFDY3FWbzYzT0NQeWFYelk4N1liRWVtWlZuU2VUUjNTODc4RjdPRTA5LTJYWWhUSHBQRk1yRG5qMGNnRHNoNHJSR1FTS25DdWI1NlJYVTRoQUxSOFVYb3g4bnJmejJCejJEek04UQ?oc=5",
+      "published": "2026-08-14T17:22:50Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "Wall St subdued as markets pause after S&P record high; data, Mideast in focus - KITCO",
+      "source": "KITCO",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORG84SE05dnE0aS02VTFCZXhsYno0czhFUV9NeVIxbkZvMUNaeGFseGY2amI1Skpfbkhjcy1KeGdaNFJpVFctMGdIUHFsby13VzQzSGJPYk9jSlhEQ043RHloV3N4VmVDWWFvdmR2T18yb2tMTkh1RDdrb0xjUzBxYkF4c1o4YThaRXNzZ2VxRWEwMkxhbTdSdks3M1c1MlI0Q01fM2xXSnJ1dzdUdjBjb3o3VzlHUVJMbTZNOA?oc=5",
+      "published": "2026-08-14T13:42:00Z",
       "tone": "bullish"
     }
   ],
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 91
+        "articles": 88
       }
     ],
-    "headline_count": 137,
+    "headline_count": 134,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
