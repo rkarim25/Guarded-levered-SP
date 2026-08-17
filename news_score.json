@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-17T14:20:38Z",
+  "generated_at_utc": "2026-08-17T14:51:45Z",
   "window_days": 7,
   "score": 8,
   "label": "Bullish",
@@ -20,13 +20,6 @@
       "tone": "bullish"
     },
     {
-      "title": "\u2018Boring, Not Broken\u2019 \u2013 Claude AI Just Bought Uber (UBER). Should You?",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/boring-not-broken-claude-ai-132804912.html?.tsrc=rss",
-      "published": "2026-08-17T13:28:04Z",
-      "tone": "bullish"
-    },
-    {
       "title": "Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - barrons.com",
       "source": "barrons.com",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XYnJNYUxJeldxNTQ5MFFxaVJrUUMxZmdWWmVGU1czWERoMjZpMm5mMElJekpFaUNCUzFWVFdZbi13NTVUeDB0eWhWcE5mREMxM0REblpGQ2cwWWN5Rm1QSmwzSlJtbGJFNTh6OVFTWQ?oc=5",
@@ -34,10 +27,17 @@
       "tone": "bullish"
     },
     {
-      "title": "This digital gatekeeper's rally will continue, Wells Fargo says",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/17/oktas-rally-will-accelerate-wells-fargo-says-.html",
-      "published": "2026-08-17T13:15:23Z",
+      "title": "S&P 500 hits all-time high; Wall Street futures slip Monday - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYXd5a3RoVTFtSUw1UUNiN0JxZVQxeUpfZDU0TTFzb1k2TGdiN3pDRmdnRFppVGFLa2FNRGZPSUNVLWc1VktIUE5kQlFOZWdEajVJTkl0OU16NkI3VjhOa3JGdTR4NnYweUNXay1rUnp3NjJNRGVwZkVody00aXFFcUxUMHVpQ1hPck4wR2t3?oc=5",
+      "published": "2026-08-17T11:35:32Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "Here's the bull and bear case for investing in stocks with the market at an all-time high - Business Insider",
+      "source": "Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSGhnX1U0LWpudS1NNGk4c3pqTjJIcUJPc2J0T0FIUE84S3lnQUFPXzlNeGlwZGpBTGtBX3h1SGMtLUVCN3FLYTV3a19neWVaQ2JQX0ZtSkhtT1paMjVmSUJrRUlYV2JobVNHb3NUSFNYdEpJODVNM0UxaWpuaWY2ZWUxMWpwdjRiaGFzMjJKQk1zOGJF?oc=5",
+      "published": "2026-08-17T09:00:00Z",
       "tone": "bullish"
     }
   ],
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 17
+        "articles": 16
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 90
+        "articles": 89
       }
     ],
-    "headline_count": 137,
+    "headline_count": 135,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
