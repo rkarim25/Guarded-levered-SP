@@ -1,43 +1,43 @@
 {
-  "generated_at_utc": "2026-08-17T10:55:42Z",
+  "generated_at_utc": "2026-08-17T11:20:14Z",
   "window_days": 7,
-  "score": 7,
-  "label": "Bullish",
-  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: U.S. Stocks Rise, S&P 500 Closes at Record High - WSJ; US stock market today: Wall Street drifts near all-time high; crude oil prices rise - The Times of India. Bearish offsets: World shares are mixed and Brent crude is higher after worries over stagflation pull US stocks lower; Most stocks rise as US data ease rate fears but fuel economic worries.",
+  "score": 5,
+  "label": "Neutral",
+  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Stock Futures Rise in Thin Trading. Bearish offsets: Most stocks rise as US data ease rate fears but fuel economic worries; US Stock Market Today S&P 500 Futures Dip As Inflation Concerns Resurface.",
   "articles": [
-    {
-      "title": "U.S. Stocks Rise, S&P 500 Closes at Record High - WSJ",
-      "source": "WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON0pPVVFlN2tNRkljUDRXUmxkZ0xiUDdCMHFpcDdoQjE0UFJHZEdfV3VuaS1mOXhFMG5qN2FiZVN5ZE5taDJLX0tsdC1QbzVnQ1lkVDV1VXpyeGdUbjI0MXJoRnZnS0tsWkNxN21MSm4yS1JXdFltYkh6d2E4VE9TTzFCV1I3LS1yektxVzJ1Nm5LZ3duaHpLX21EYTJlWVBTQVBUYmI2YnV0RXJaRndZ?oc=5",
-      "published": "2026-08-13T21:09:00Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "US stock market today: Wall Street drifts near all-time high; crude oil prices rise - The Times of India",
-      "source": "The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNTi1iaUVrRGNybm9ERGhheDEzRXBkdjMwcDNxOEIxMTRTdUpBRkVDNTFhM0MxZUpKOGhOTjJVN2dxZXZ1Tm9sVUFobFZvT0NScUZNWGcwYTYwQlhfMTA4RGlSeHprSGRqMGhVbFVDUHpUME1DRUNpZ25QdnladlJENFdqak8tM1k3Q1AtNjJmTDJFckQ1MlNLTlRveDItWkpwRWE5VVAwRmtjUmxoUFlzTHBvWWdCNnV0NXBaZE51VkJJdzFUWEd0S0RqRndWYmhfbzktUlRVZ2lXNWRSRWQxbTVjNGdIOVp0eEVINlU1amRSeGxOZlpwRkVPNmNaU2pYR1hGOU9oMVhsS2E3dm9PVE1zVFhzY3NEYUd5alBvaXhjbjF2RHB6RjlJTkJVN3YwOWlobFExTVh5VXVmeXR4UUppVVgwQ0xKMi1xbnhOeWRBMWpFbG4ySGl2V0ZkQTBIZVYw0gHoAkFVX3lxTFBUX2FUcTE5TUxOa3ZxbE1hM0RPS0RaSjJmdUJhUmJjMEZRZWRYRVlFNnYzQ3g1VjRYa0gzaHhDbmwzRGs4RTA2eW04cTZPZVphZmxnOE1odTlLdTludURwVDcwNXJ1Rjc2LUdCazZlSFRHaEdYeGpjUU1HUUNiUnpjOWFVUUVhNzBEUzFJRjF0OC11SmFZSU9razFoeWpsaHRsNjBFaEJpMUhRNnE4LWJQeWtkOWFrV2c2S010bENYMEpGUGRsanhaWGwwT3o5cjNLQ0NUbVg2djVaUlJsbDlkUGtwUUtaWDJQWXZCVko2dFg5cE0zU0RYLVRWdk1pa0g0eVRFTzJ1M3E1REFjdHdwSEZhTjZRVTRBZTNxVVF2MFRCUGR0RndyQzZnQll1ZElLVEJrMXY4VTdNM2NKQjVEY0hJZnM4MVR3eXhiWVVuTk5aVWNmLVpBYXBadzhjVzR6VWRMTExKZA?oc=5",
-      "published": "2026-08-10T15:09:00Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "World shares are mixed and Brent crude is higher after worries over stagflation pull US stocks lower",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-higher-while-051542671.html?.tsrc=rss",
-      "published": "2026-08-17T05:15:42Z",
-      "tone": "bearish"
-    },
-    {
-      "title": "S&P 500 ends higher as CoreWeave results fuel AI optimism - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObWNna256d1lRaTVoaVlpX2E2dXY3RS1lWWlXVV9wRlRPOHV6d1c3MWFvbnY5Q25ILXhwMFJZWEFPZnUyRGowUzFoNUdUN0RaLTAybVNyV2NiMXZaS2dBR0IxQmpWZ1p1bUh3NTNCNV9WcTFmVWltUVBRTXh3SHVWTGxFOThEYlRlLTZDVXBLY1ZzZ3oyUUtzMw?oc=5",
-      "published": "2026-08-12T20:25:31Z",
-      "tone": "bullish"
-    },
     {
       "title": "Most stocks rise as US data ease rate fears but fuel economic worries",
       "source": "Yahoo Finance S&P 500",
       "url": "https://finance.yahoo.com/economy/articles/most-stocks-rise-us-data-072725261.html?.tsrc=rss",
       "published": "2026-08-17T08:35:43Z",
+      "tone": "bearish"
+    },
+    {
+      "title": "Stock Futures Rise in Thin Trading",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/m/45e1ff37-65fc-332a-84a3-b11d0d446101/stock-futures-rise-in-thin.html?.tsrc=rss",
+      "published": "2026-08-17T09:57:22Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "US Stock Market Today S&P 500 Futures Dip As Inflation Concerns Resurface",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081043474.html?.tsrc=rss",
+      "published": "2026-08-17T08:10:43Z",
+      "tone": "bearish"
+    },
+    {
+      "title": "Fed rate hike bets retreat as markets await retail earnings and fresh economic signals: Dow Jones, S&P, Nasdaq, Wall Street Futures",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://investorshub.advfn.com/market-news/article/34357/fed-rate-hike-bets-retreat-as-markets-await-retail-earnings-and-fresh-economic-signals-dow-jones-sp-nasdaq-wall-street-futures?.tsrc=rss",
+      "published": "2026-08-17T09:15:50Z",
+      "tone": "bearish"
+    },
+    {
+      "title": "Russia targets Danube port after one of Ukraine\u2019s largest aerial attacks of the war",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/17/ukraine-war-russia-putin-moscow.html",
+      "published": "2026-08-17T09:46:08Z",
       "tone": "bearish"
     }
   ],
@@ -66,13 +66,12 @@
       },
       {
         "url": "https://news.google.com/rss/search?q=%28S%26P%20500%20OR%20stock%20market%20OR%20Wall%20Street%29%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
-        "ok": true,
-        "status": 200,
-        "name": "Google News market query",
-        "articles": 85
+        "ok": false,
+        "error": "HTTP Error 503: Service Unavailable",
+        "name": "Google News market query"
       }
     ],
-    "headline_count": 135,
+    "headline_count": 50,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
