@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-17T21:16:12Z",
+  "generated_at_utc": "2026-08-17T22:20:40Z",
   "window_days": 7,
   "score": 7,
   "label": "Bullish",
-  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Jim Cramer says these 2 cybersecurity stocks can keep climbing as AI threats grow; Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's.",
+  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Jim Cramer says these 2 cybersecurity stocks can keep climbing as AI threats grow; Goldman says AI productivity gains are not here yet. But these stocks will benefit most when they begin. Bearish offsets: L3Harris ousts CEO Chris Kubasik over unspecified 'conduct,' stock drops 4%.",
   "articles": [
     {
       "title": "Jim Cramer says these 2 cybersecurity stocks can keep climbing as AI threats grow",
@@ -13,32 +13,32 @@
       "tone": "bullish"
     },
     {
-      "title": "Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's",
-      "source": "Barron's",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XYnJNYUxJeldxNTQ5MFFxaVJrUUMxZmdWWmVGU1czWERoMjZpMm5mMElJekpFaUNCUzFWVFdZbi13NTVUeDB0eWhWcE5mREMxM0REblpGQ2cwWWN5Rm1QSmwzSlJtbGJFNTh6OVFTWQ?oc=5",
-      "published": "2026-08-14T17:08:00Z",
+      "title": "Goldman says AI productivity gains are not here yet. But these stocks will benefit most when they begin",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/17/these-stocks-will-benefit-most-from-ai-productivity-gains-per-goldman.html",
+      "published": "2026-08-17T19:59:01Z",
       "tone": "bullish"
     },
     {
-      "title": "S&P 500 hits all-time high; Wall Street futures slip Monday - qz.com",
-      "source": "qz.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LRk1UdWNYWFZTaFFTZDNTY3VEdHZNRmowZGMyRlVKV01DSE1BZTNGY2NsSVJTYU96S2FINV9Pa3ZzUGNBU2V1VGRDZ0N3T052TkhDakt2ODR5V3dBX2xRVFpIdkZrSVNpaktLNWx3?oc=5",
-      "published": "2026-08-17T11:36:15Z",
+      "title": "Guardant Health (GH) Surges on FDA Approval and Cancer Screening Momentum",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/healthcare/articles/guardant-health-gh-surges-fda-194840110.html?.tsrc=rss",
+      "published": "2026-08-17T19:48:40Z",
       "tone": "bullish"
     },
     {
-      "title": "Russell 2000 Extends Records, SanDisk Rallies 7%: Stock Market Today - TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMEgtMlppOU5BRWlCWDR3d1hLY0FrcE0wbWV3ZlVQbUljSzVDd3FWSWM0VDItZkpqN3oycU1scXdnTjdOMkN0TEx4NGE4Y2NGU2loWGxZUENTeGV3eDFDY3FWbzYzT0NQeWFYelk4N1liRWVtWlZuU2VUUjNTODc4RjdPRTA5LTJYWWhUSHBQRk1yRG5qMGNnRHNoNHJSR1FTS25DdWI1NlJYVTRoQUxSOFVYb3g4bnJmejJCejJEek04UQ?oc=5",
-      "published": "2026-08-14T17:22:50Z",
+      "title": "Why Investors Are Moving On From Synopsys (SNPS)",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-investors-moving-synopsys-snps-194830437.html?.tsrc=rss",
+      "published": "2026-08-17T19:48:30Z",
       "tone": "bullish"
     },
     {
-      "title": "Wall St subdued as markets pause after S&P record high; data, Mideast in focus - KITCO",
-      "source": "KITCO",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORG84SE05dnE0aS02VTFCZXhsYno0czhFUV9NeVIxbkZvMUNaeGFseGY2amI1Skpfbkhjcy1KeGdaNFJpVFctMGdIUHFsby13VzQzSGJPYk9jSlhEQ043RHloV3N4VmVDWWFvdmR2T18yb2tMTkh1RDdrb0xjUzBxYkF4c1o4YThaRXNzZ2VxRWEwMkxhbTdSdks3M1c1MlI0Q01fM2xXSnJ1dzdUdjBjb3o3VzlHUVJMbTZNOA?oc=5",
-      "published": "2026-08-14T13:42:00Z",
-      "tone": "bullish"
+      "title": "L3Harris ousts CEO Chris Kubasik over unspecified 'conduct,' stock drops 4%",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/17/l3harris-ceo-chris-kubasik-lhx-defense-mehta.html",
+      "published": "2026-08-17T21:29:34Z",
+      "tone": "bearish"
     }
   ],
   "data_source": {
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 16
+        "articles": 17
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -66,13 +66,12 @@
       },
       {
         "url": "https://news.google.com/rss/search?q=%28S%26P%20500%20OR%20stock%20market%20OR%20Wall%20Street%29%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
-        "ok": true,
-        "status": 200,
-        "name": "Google News market query",
-        "articles": 88
+        "ok": false,
+        "error": "HTTP Error 503: Service Unavailable",
+        "name": "Google News market query"
       }
     ],
-    "headline_count": 134,
+    "headline_count": 47,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
