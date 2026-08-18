@@ -1,43 +1,43 @@
 {
-  "generated_at_utc": "2026-08-18T21:13:43Z",
+  "generated_at_utc": "2026-08-18T22:19:16Z",
   "window_days": 7,
-  "score": 6,
+  "score": 5,
   "label": "Neutral",
-  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: S&P 500 ends higher as CoreWeave results fuel AI optimism - Yahoo Finance; Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's. Bearish offsets: Wall Street Futures Fall as Middle East Risks, Oil Prices and Canada Tariffs Take Focus: Dow Jones, S&P, Nasdaq - Yahoo Finance; Dow Drops 116, Nasdaq Sinks 355, S&P 500 Falls 53 - TV News Check.",
+  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Dow Jones Futures: Sandisk, Micron, Credo Lead Painful AI Losses; Market Rally Near Key Test; Stock Market Today, Aug. 18: CoreWeave Falls as Debt-Financing Concerns and Capital Spending Pressures Rise With Interest Rates. Bearish offsets: S&P 500 falls for a third day, as elevated global bond yields and oil prices weigh on market; Trump, Carney reportedly in talks ahead of new 50% tariffs on Canadian goods.",
   "articles": [
     {
-      "title": "S&P 500 ends higher as CoreWeave results fuel AI optimism - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObWNna256d1lRaTVoaVlpX2E2dXY3RS1lWWlXVV9wRlRPOHV6d1c3MWFvbnY5Q25ILXhwMFJZWEFPZnUyRGowUzFoNUdUN0RaLTAybVNyV2NiMXZaS2dBR0IxQmpWZ1p1bUh3NTNCNV9WcTFmVWltUVBRTXh3SHVWTGxFOThEYlRlLTZDVXBLY1ZzZ3oyUUtzMw?oc=5",
-      "published": "2026-08-12T20:25:31Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's",
-      "source": "Barron's",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XYnJNYUxJeldxNTQ5MFFxaVJrUUMxZmdWWmVGU1czWERoMjZpMm5mMElJekpFaUNCUzFWVFdZbi13NTVUeDB0eWhWcE5mREMxM0REblpGQ2cwWWN5Rm1QSmwzSlJtbGJFNTh6OVFTWQ?oc=5",
-      "published": "2026-08-14T17:08:00Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Wall Street Futures Fall as Middle East Risks, Oil Prices and Canada Tariffs Take Focus: Dow Jones, S&P, Nasdaq - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbW91d1V5MnA5VmJnVW9nWEhSTVdJTFlueXZRbnI4M0ZKdFdPV3ZlZ3hfcmZpTTdBb095bXd0VXhwSkh6a19kbDZyWW5ha0dBNVdCYXRkd3lNSktyZDUxQ0tMQ05IT3JiS3U2bXMtY3JyNWRYaFF2eWNlT09Bb0NtS21YS0FyUXpyckRwTW9jQmFfYkU?oc=5",
-      "published": "2026-08-18T09:28:15Z",
-      "tone": "bearish"
-    },
-    {
-      "title": "Dow Drops 116, Nasdaq Sinks 355, S&P 500 Falls 53 - TV News Check",
-      "source": "TV News Check",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdS1KeDRRWlJxVXJhN0NOQTYyazJ2M3l4dXd4dktYSjhvVHNJbUx4N1FsajRpZUxsaXd1NzY4MWFUb2poWHZpM1pMUnlmNy1CdjlHOWRYN2JvUWs5NzQxNkttejFSandNdmtJbEVOQnM4b3FvazJQYWw3aThQLTZaUXFIMEEwdml1M1cyc21HOHZnQQ?oc=5",
-      "published": "2026-08-18T20:34:21Z",
-      "tone": "bearish"
-    },
-    {
-      "title": "Update: US Equity Indexes Fall as 30-Year Yield Hits 19-Year High, Crude Oil Advances",
+      "title": "Dow Jones Futures: Sandisk, Micron, Credo Lead Painful AI Losses; Market Rally Near Key Test",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-fall-30-195215372.html?.tsrc=rss",
-      "published": "2026-08-18T19:52:15Z",
+      "url": "https://finance.yahoo.com/m/ae8bbbcf-7a5d-37db-bb3e-baf2ff1d28ef/dow-jones-futures%3A-sandisk%2C.html?.tsrc=rss",
+      "published": "2026-08-18T21:54:46Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "S&P 500 falls for a third day, as elevated global bond yields and oil prices weigh on market",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/17/stock-market-today-live-updates.html",
+      "published": "2026-08-18T20:21:11Z",
+      "tone": "bearish"
+    },
+    {
+      "title": "Stock Market Today, Aug. 18: CoreWeave Falls as Debt-Financing Concerns and Capital Spending Pressures Rise With Interest Rates",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/08/18/stock-market-today-aug-18-coreweave-falls-as-debt-financing-concerns-and-capital-spending-pressures-rise-with-interest-rates/?.tsrc=rss",
+      "published": "2026-08-18T21:24:29Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "Trump, Carney reportedly in talks ahead of new 50% tariffs on Canadian goods",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine-talks.html",
+      "published": "2026-08-18T20:20:24Z",
+      "tone": "bearish"
+    },
+    {
+      "title": "Analysis: Bond market pressure is squeezing Main Street as Wall Street waits on Warsh",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/18/bond-market-treasury-yields-warsh-main-street.html",
+      "published": "2026-08-18T16:48:00Z",
       "tone": "bearish"
     }
   ],
@@ -66,13 +66,12 @@
       },
       {
         "url": "https://news.google.com/rss/search?q=%28S%26P%20500%20OR%20stock%20market%20OR%20Wall%20Street%29%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
-        "ok": true,
-        "status": 200,
-        "name": "Google News market query",
-        "articles": 89
+        "ok": false,
+        "error": "HTTP Error 503: Service Unavailable",
+        "name": "Google News market query"
       }
     ],
-    "headline_count": 133,
+    "headline_count": 44,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
