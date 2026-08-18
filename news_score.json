@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-18T16:23:36Z",
+  "generated_at_utc": "2026-08-18T16:56:52Z",
   "window_days": 7,
   "score": 6,
   "label": "Neutral",
-  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: S&P 500 ends higher as CoreWeave results fuel AI optimism - Yahoo Finance; Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's. Bearish offsets: Wall Street Futures Fall as Middle East Risks, Oil Prices and Canada Tariffs Take Focus: Dow Jones, S&P, Nasdaq - Yahoo Finance; Stock Market Today: Nasdaq Retreats As Chipmakers Sell-Off; Micron, Sandisk, And A Fintech Fall (Live Coverage).",
+  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: S&P 500 ends higher as CoreWeave results fuel AI optimism - Yahoo Finance; Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's. Bearish offsets: Wall Street Futures Fall as Middle East Risks, Oil Prices and Canada Tariffs Take Focus: Dow Jones, S&P, Nasdaq - Yahoo Finance; S&P 500 falls, hurt by elevated global bond yields and oil prices: Live updates.",
   "articles": [
     {
       "title": "S&P 500 ends higher as CoreWeave results fuel AI optimism - Yahoo Finance",
@@ -27,17 +27,17 @@
       "tone": "bearish"
     },
     {
-      "title": "Stock Market Today: Nasdaq Retreats As Chipmakers Sell-Off; Micron, Sandisk, And A Fintech Fall (Live Coverage)",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/fdb8b55e-c80b-38c5-bab0-70133d76c05f/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "published": "2026-08-18T16:02:47Z",
-      "tone": "bearish"
-    },
-    {
       "title": "S&P 500 falls, hurt by elevated global bond yields and oil prices: Live updates",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/17/stock-market-today-live-updates.html",
-      "published": "2026-08-18T16:07:04Z",
+      "published": "2026-08-18T16:38:15Z",
+      "tone": "bearish"
+    },
+    {
+      "title": "Tech selloff pulls Wall Street to two-week lows as oil and yields climb - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw?oc=5",
+      "published": "2026-08-18T16:31:13Z",
       "tone": "bearish"
     }
   ],
