@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-18T10:23:57Z",
+  "generated_at_utc": "2026-08-18T10:54:23Z",
   "window_days": 7,
   "score": 6,
   "label": "Neutral",
-  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: S&P 500 ends higher as CoreWeave results fuel AI optimism - Yahoo Finance; Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - barrons.com. Bearish offsets: Wall Street Futures Fall as Middle East Risks, Oil Prices and Canada Tariffs Take Focus: Dow Jones, S&P, Nasdaq; Russia says its economy is strong. It just fired a top economist who warned otherwise.",
+  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: S&P 500 ends higher as CoreWeave results fuel AI optimism - Yahoo Finance; Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's. Bearish offsets: Wall Street Futures Fall as Middle East Risks, Oil Prices and Canada Tariffs Take Focus: Dow Jones, S&P, Nasdaq; Russia says its economy is strong. It just fired a top economist who warned otherwise.",
   "articles": [
     {
       "title": "S&P 500 ends higher as CoreWeave results fuel AI optimism - Yahoo Finance",
@@ -20,8 +20,8 @@
       "tone": "bearish"
     },
     {
-      "title": "Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - barrons.com",
-      "source": "barrons.com",
+      "title": "Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's",
+      "source": "Barron's",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XYnJNYUxJeldxNTQ5MFFxaVJrUUMxZmdWWmVGU1czWERoMjZpMm5mMElJekpFaUNCUzFWVFdZbi13NTVUeDB0eWhWcE5mREMxM0REblpGQ2cwWWN5Rm1QSmwzSlJtbGJFNTh6OVFTWQ?oc=5",
       "published": "2026-08-14T17:08:00Z",
       "tone": "bullish"
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 17
+        "articles": 15
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 82
+        "articles": 83
       }
     ],
-    "headline_count": 129,
+    "headline_count": 128,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
