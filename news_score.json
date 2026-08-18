@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-18T14:26:11Z",
+  "generated_at_utc": "2026-08-18T15:00:53Z",
   "window_days": 7,
-  "score": 4,
+  "score": 6,
   "label": "Neutral",
-  "explanation": "4/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Nasdaq Falls 1.1%. The Chip Stock Rally Is Reversing.. Bearish offsets: Micron Falls 5%, SanDisk Sinks 6%, Western Digital Drops 7% as Higher Rates Test the Memory Boom; Global bond sell-off pressures stocks: AlphaCheck.",
+  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: S&P 500 ends higher as CoreWeave results fuel AI optimism - Yahoo Finance; Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's. Bearish offsets: Micron Falls 5%, SanDisk Sinks 6%, Western Digital Drops 7% as Higher Rates Test the Memory Boom; Global bond sell-off pressures stocks: AlphaCheck.",
   "articles": [
     {
       "title": "Micron Falls 5%, SanDisk Sinks 6%, Western Digital Drops 7% as Higher Rates Test the Memory Boom",
@@ -20,25 +20,25 @@
       "tone": "bearish"
     },
     {
-      "title": "Russia says its economy is strong. It just fired a top economist who warned otherwise",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/18/ukraine-war-russia-economy-klepach.html",
-      "published": "2026-08-18T11:51:15Z",
-      "tone": "bearish"
-    },
-    {
-      "title": "Stock Market Sell-Off: History Says This Is the Smartest Investing Move to Make Right Now",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://www.fool.com/investing/2026/08/18/stock-market-sell-off-history-says-smartest-move/?.tsrc=rss",
-      "published": "2026-08-18T13:20:00Z",
-      "tone": "bearish"
-    },
-    {
-      "title": "Nasdaq Falls 1.1%. The Chip Stock Rally Is Reversing.",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/ab9f6510-d693-3e57-8cc7-f5dafaf84649/nasdaq-falls-1.1%25.-the-chip.html?.tsrc=rss",
-      "published": "2026-08-18T13:33:01Z",
+      "title": "S&P 500 ends higher as CoreWeave results fuel AI optimism - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObWNna256d1lRaTVoaVlpX2E2dXY3RS1lWWlXVV9wRlRPOHV6d1c3MWFvbnY5Q25ILXhwMFJZWEFPZnUyRGowUzFoNUdUN0RaLTAybVNyV2NiMXZaS2dBR0IxQmpWZ1p1bUh3NTNCNV9WcTFmVWltUVBRTXh3SHVWTGxFOThEYlRlLTZDVXBLY1ZzZ3oyUUtzMw?oc=5",
+      "published": "2026-08-12T20:25:31Z",
       "tone": "bullish"
+    },
+    {
+      "title": "Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XYnJNYUxJeldxNTQ5MFFxaVJrUUMxZmdWWmVGU1czWERoMjZpMm5mMElJekpFaUNCUzFWVFdZbi13NTVUeDB0eWhWcE5mREMxM0REblpGQ2cwWWN5Rm1QSmwzSlJtbGJFNTh6OVFTWQ?oc=5",
+      "published": "2026-08-14T17:08:00Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "Wall Street Futures Fall as Middle East Risks, Oil Prices and Canada Tariffs Take Focus: Dow Jones, S&P, Nasdaq - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbW91d1V5MnA5VmJnVW9nWEhSTVdJTFlueXZRbnI4M0ZKdFdPV3ZlZ3hfcmZpTTdBb095bXd0VXhwSkh6a19kbDZyWW5ha0dBNVdCYXRkd3lNSktyZDUxQ0tMQ05IT3JiS3U2bXMtY3JyNWRYaFF2eWNlT09Bb0NtS21YS0FyUXpyckRwTW9jQmFfYkU?oc=5",
+      "published": "2026-08-18T09:28:15Z",
+      "tone": "bearish"
     }
   ],
   "data_source": {
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 15
+        "articles": 16
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -66,12 +66,13 @@
       },
       {
         "url": "https://news.google.com/rss/search?q=%28S%26P%20500%20OR%20stock%20market%20OR%20Wall%20Street%29%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
-        "ok": false,
-        "error": "HTTP Error 503: Service Unavailable",
-        "name": "Google News market query"
+        "ok": true,
+        "status": 200,
+        "name": "Google News market query",
+        "articles": 86
       }
     ],
-    "headline_count": 45,
+    "headline_count": 132,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
