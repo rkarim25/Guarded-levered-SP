@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-18T12:32:22Z",
+  "generated_at_utc": "2026-08-18T13:36:40Z",
   "window_days": 7,
   "score": 6,
   "label": "Neutral",
@@ -34,11 +34,11 @@
       "tone": "bearish"
     },
     {
-      "title": "S&P 500 futures fall as U.S.-Iran truce expires, yields spike",
+      "title": "5 ETF Areas of Last Week",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://qz.com/stocks-fall-us-iran-truce-expires-bond-yields-19-year-high-081826?.tsrc=rss",
-      "published": "2026-08-18T11:26:26Z",
-      "tone": "bearish"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-etf-areas-last-week-120000460.html?.tsrc=rss",
+      "published": "2026-08-18T12:00:00Z",
+      "tone": "bullish"
     }
   ],
   "data_source": {
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 16
+        "articles": 17
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -72,7 +72,7 @@
         "articles": 86
       }
     ],
-    "headline_count": 132,
+    "headline_count": 133,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
