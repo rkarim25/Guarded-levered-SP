@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-08-18T07:31:53Z",
+  "generated_at_utc": "2026-08-18T08:27:39Z",
   "window_days": 7,
   "score": 6,
   "label": "Neutral",
-  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: S&P 500 ends higher as CoreWeave results fuel AI optimism - Yahoo Finance; Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's. Bearish offsets: Stock Market: Will S&P 500 Open Up or Down Today?.",
+  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: S&P 500 ends higher as CoreWeave results fuel AI optimism - finance.yahoo.com; Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's. Bearish offsets: Stock Market: Will S&P 500 Open Up or Down Today?.",
   "articles": [
     {
-      "title": "S&P 500 ends higher as CoreWeave results fuel AI optimism - Yahoo Finance",
-      "source": "Yahoo Finance",
+      "title": "S&P 500 ends higher as CoreWeave results fuel AI optimism - finance.yahoo.com",
+      "source": "finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObWNna256d1lRaTVoaVlpX2E2dXY3RS1lWWlXVV9wRlRPOHV6d1c3MWFvbnY5Q25ILXhwMFJZWEFPZnUyRGowUzFoNUdUN0RaLTAybVNyV2NiMXZaS2dBR0IxQmpWZ1p1bUh3NTNCNV9WcTFmVWltUVBRTXh3SHVWTGxFOThEYlRlLTZDVXBLY1ZzZ3oyUUtzMw?oc=5",
       "published": "2026-08-12T20:25:31Z",
       "tone": "bullish"
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 85
+        "articles": 86
       }
     ],
-    "headline_count": 135,
+    "headline_count": 136,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
