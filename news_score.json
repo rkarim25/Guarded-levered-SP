@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-19T14:25:56Z",
+  "generated_at_utc": "2026-08-19T15:00:45Z",
   "window_days": 7,
-  "score": 7,
-  "label": "Bullish",
-  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: S&P 500 ends higher as CoreWeave results fuel AI optimism - Yahoo Finance; Why the S&P 500\u2019s Path to 9,000 Runs Into Trouble in 2027. Bearish offsets: Wall Street Highlights: S&P 500, Nasdaq Drop, Led By Tech, As Bond-Yield Spike Sparks Angst - NDTV Profit; Wall Street Futures Fall as Middle East Risks, Oil Prices and Canada Tariffs Take Focus: Dow Jones, S&P, Nasdaq - Yahoo Finance.",
+  "score": 6,
+  "label": "Neutral",
+  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: S&P 500 ends higher as CoreWeave results fuel AI optimism - Yahoo Finance; Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's. Bearish offsets: Wall Street Highlights: S&P 500, Nasdaq Drop, Led By Tech, As Bond-Yield Spike Sparks Angst - ndtvprofit.com; Wall Street Futures Fall as Middle East Risks, Oil Prices and Canada Tariffs Take Focus: Dow Jones, S&P, Nasdaq - Yahoo Finance.",
   "articles": [
     {
       "title": "S&P 500 ends higher as CoreWeave results fuel AI optimism - Yahoo Finance",
@@ -13,18 +13,11 @@
       "tone": "bullish"
     },
     {
-      "title": "Wall Street Highlights: S&P 500, Nasdaq Drop, Led By Tech, As Bond-Yield Spike Sparks Angst - NDTV Profit",
-      "source": "NDTV Profit",
+      "title": "Wall Street Highlights: S&P 500, Nasdaq Drop, Led By Tech, As Bond-Yield Spike Sparks Angst - ndtvprofit.com",
+      "source": "ndtvprofit.com",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMmw4WVBUMWhFb3AycU5VcUhwbGtuZGN4cW1yMHczNVVaSUthUGo5LXU4WDY4MkV0d2xaZFFLaUhNaDVqd0VPMlpOWVlMVlNsajNPTEtpS2VkNzhZcWVVNkRPdkJBV2lJSjEzVEE3T3I4YzVLTko2a2tqbHRqM3BjNEdnNmd0VUo1eFJQRlZvTG9nSlZNR0tTR0Y0VnN4bXV4T3JIRlg5LWMtaEtEYnVqM0hUUnJqamJaNElUMUd3dlJxQXNBdktYWnZwUdIB0wFBVV95cUxNeXh0eVhUQ0ViY2JPeC0zTWJrSTg5QVBiUnp4SHU1NFp0XzRWZi04b05kdmsxYTBQOUQwZ2drT3pNbGNXYkl0WVpIczB0TnZXaGdxUy1pb0xJS1VOUWgtMThKbnBOdlc0dS1aV3dqM1IwV0pXTERKUWpTWEt6clVxRVk4WC1vZjFhczV0T0VUZl9abXNrOUVTY2FJd0ZoNm92cWEwNjJtb1ptbXdUclpweFh4ZVNUOHlUYlVHa2VONDZQZ1BRdXF1Vmp2eWR4c1dHWFV3?oc=5",
       "published": "2026-08-19T00:42:14Z",
       "tone": "bearish"
-    },
-    {
-      "title": "Why the S&P 500\u2019s Path to 9,000 Runs Into Trouble in 2027",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://beincrypto.com/sp-500-forecast-9000-2026-ai-2027-risk/?.tsrc=rss",
-      "published": "2026-08-19T13:12:51Z",
-      "tone": "bullish"
     },
     {
       "title": "Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's",
@@ -39,6 +32,13 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbW91d1V5MnA5VmJnVW9nWEhSTVdJTFlueXZRbnI4M0ZKdFdPV3ZlZ3hfcmZpTTdBb095bXd0VXhwSkh6a19kbDZyWW5ha0dBNVdCYXRkd3lNSktyZDUxQ0tMQ05IT3JiS3U2bXMtY3JyNWRYaFF2eWNlT09Bb0NtS21YS0FyUXpyckRwTW9jQmFfYkU?oc=5",
       "published": "2026-08-18T09:28:15Z",
       "tone": "bearish"
+    },
+    {
+      "title": "Stock Market Today: Dow Jumps On Treasury News; Bitcoin Rises Ahead Of White House Meet (Live Coverage)",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/m/599de245-de49-38e2-a285-7e90c4c3ce76/stock-market-today%3A-dow-jumps.html?.tsrc=rss",
+      "published": "2026-08-19T14:17:53Z",
+      "tone": "bullish"
     }
   ],
   "data_source": {
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 17
+        "articles": 13
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 88
+        "articles": 90
       }
     ],
-    "headline_count": 135,
+    "headline_count": 133,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
