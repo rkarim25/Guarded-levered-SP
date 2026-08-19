@@ -1,44 +1,44 @@
 {
-  "generated_at_utc": "2026-08-18T22:19:16Z",
+  "generated_at_utc": "2026-08-19T07:32:16Z",
   "window_days": 7,
   "score": 5,
   "label": "Neutral",
-  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Dow Jones Futures: Sandisk, Micron, Credo Lead Painful AI Losses; Market Rally Near Key Test; Stock Market Today, Aug. 18: CoreWeave Falls as Debt-Financing Concerns and Capital Spending Pressures Rise With Interest Rates. Bearish offsets: S&P 500 falls for a third day, as elevated global bond yields and oil prices weigh on market; Trump, Carney reportedly in talks ahead of new 50% tariffs on Canadian goods.",
+  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: S&P 500 ends higher as CoreWeave results fuel AI optimism - Yahoo Finance; Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's. Bearish offsets: Tech selloff weighs down Wall Street as bond yields climb; Stock Market: Will S&P 500 Open Up or Down Today?.",
   "articles": [
     {
-      "title": "Dow Jones Futures: Sandisk, Micron, Credo Lead Painful AI Losses; Market Rally Near Key Test",
+      "title": "Tech selloff weighs down Wall Street as bond yields climb",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/ae8bbbcf-7a5d-37db-bb3e-baf2ff1d28ef/dow-jones-futures%3A-sandisk%2C.html?.tsrc=rss",
-      "published": "2026-08-18T21:54:46Z",
+      "url": "https://finance.yahoo.com/video/tech-selloff-weighs-down-wall-224124196.html?.tsrc=rss",
+      "published": "2026-08-18T22:41:24Z",
+      "tone": "bearish"
+    },
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61292397/stock-market-will-sp-500-open-up-or-down-today-19?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "published": "2026-08-19T06:04:10Z",
+      "tone": "bearish"
+    },
+    {
+      "title": "S&P 500 ends higher as CoreWeave results fuel AI optimism - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObWNna256d1lRaTVoaVlpX2E2dXY3RS1lWWlXVV9wRlRPOHV6d1c3MWFvbnY5Q25ILXhwMFJZWEFPZnUyRGowUzFoNUdUN0RaLTAybVNyV2NiMXZaS2dBR0IxQmpWZ1p1bUh3NTNCNV9WcTFmVWltUVBRTXh3SHVWTGxFOThEYlRlLTZDVXBLY1ZzZ3oyUUtzMw?oc=5",
+      "published": "2026-08-12T20:25:31Z",
       "tone": "bullish"
     },
     {
-      "title": "S&P 500 falls for a third day, as elevated global bond yields and oil prices weigh on market",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/17/stock-market-today-live-updates.html",
-      "published": "2026-08-18T20:21:11Z",
+      "title": "Wall Street Highlights: S&P 500, Nasdaq Drop, Led By Tech, As Bond-Yield Spike Sparks Angst - NDTV Profit",
+      "source": "NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMmw4WVBUMWhFb3AycU5VcUhwbGtuZGN4cW1yMHczNVVaSUthUGo5LXU4WDY4MkV0d2xaZFFLaUhNaDVqd0VPMlpOWVlMVlNsajNPTEtpS2VkNzhZcWVVNkRPdkJBV2lJSjEzVEE3T3I4YzVLTko2a2tqbHRqM3BjNEdnNmd0VUo1eFJQRlZvTG9nSlZNR0tTR0Y0VnN4bXV4T3JIRlg5LWMtaEtEYnVqM0hUUnJqamJaNElUMUd3dlJxQXNBdktYWnZwUdIB0wFBVV95cUxNeXh0eVhUQ0ViY2JPeC0zTWJrSTg5QVBiUnp4SHU1NFp0XzRWZi04b05kdmsxYTBQOUQwZ2drT3pNbGNXYkl0WVpIczB0TnZXaGdxUy1pb0xJS1VOUWgtMThKbnBOdlc0dS1aV3dqM1IwV0pXTERKUWpTWEt6clVxRVk4WC1vZjFhczV0T0VUZl9abXNrOUVTY2FJd0ZoNm92cWEwNjJtb1ptbXdUclpweFh4ZVNUOHlUYlVHa2VONDZQZ1BRdXF1Vmp2eWR4c1dHWFV3?oc=5",
+      "published": "2026-08-19T00:42:14Z",
       "tone": "bearish"
     },
     {
-      "title": "Stock Market Today, Aug. 18: CoreWeave Falls as Debt-Financing Concerns and Capital Spending Pressures Rise With Interest Rates",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/08/18/stock-market-today-aug-18-coreweave-falls-as-debt-financing-concerns-and-capital-spending-pressures-rise-with-interest-rates/?.tsrc=rss",
-      "published": "2026-08-18T21:24:29Z",
+      "title": "Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XYnJNYUxJeldxNTQ5MFFxaVJrUUMxZmdWWmVGU1czWERoMjZpMm5mMElJekpFaUNCUzFWVFdZbi13NTVUeDB0eWhWcE5mREMxM0REblpGQ2cwWWN5Rm1QSmwzSlJtbGJFNTh6OVFTWQ?oc=5",
+      "published": "2026-08-14T17:08:00Z",
       "tone": "bullish"
-    },
-    {
-      "title": "Trump, Carney reportedly in talks ahead of new 50% tariffs on Canadian goods",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine-talks.html",
-      "published": "2026-08-18T20:20:24Z",
-      "tone": "bearish"
-    },
-    {
-      "title": "Analysis: Bond market pressure is squeezing Main Street as Wall Street waits on Warsh",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/18/bond-market-treasury-yields-warsh-main-street.html",
-      "published": "2026-08-18T16:48:00Z",
-      "tone": "bearish"
     }
   ],
   "data_source": {
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 14
+        "articles": 15
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -66,12 +66,13 @@
       },
       {
         "url": "https://news.google.com/rss/search?q=%28S%26P%20500%20OR%20stock%20market%20OR%20Wall%20Street%29%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
-        "ok": false,
-        "error": "HTTP Error 503: Service Unavailable",
-        "name": "Google News market query"
+        "ok": true,
+        "status": 200,
+        "name": "Google News market query",
+        "articles": 83
       }
     ],
-    "headline_count": 44,
+    "headline_count": 128,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
