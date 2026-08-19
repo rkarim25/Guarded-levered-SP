@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-19T10:25:58Z",
+  "generated_at_utc": "2026-08-19T10:53:51Z",
   "window_days": 7,
   "score": 6,
   "label": "Neutral",
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 16
+        "articles": 17
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -69,7 +69,7 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 86
+        "articles": 85
       }
     ],
     "headline_count": 132,
