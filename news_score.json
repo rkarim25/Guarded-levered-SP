@@ -1,44 +1,44 @@
 {
-  "generated_at_utc": "2026-08-19T16:54:46Z",
+  "generated_at_utc": "2026-08-19T21:15:54Z",
   "window_days": 7,
   "score": 6,
   "label": "Neutral",
-  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Cramer on Treasury buying: People want to preserve the stock rally \u2018in the worst way\u2019; Lowe\u2019s Stock Shrugs Off Weak Guidance After a Second-Quarter Earnings Beat. Bearish offsets: U.S. warns Siemens devices can be hacked amid fears Iran is breaching water plants; Zelenskyy faces challenge to his wartime rule as former defense chief calls for election.",
+  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Stocks Hitch a Ride on the Bond Market's Rally; Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's. Bearish offsets: Bessent moves to curb Treasury yields, putting new pressure on Warsh's Fed; Wall Street Highlights: S&P 500, Nasdaq Drop, Led By Tech, As Bond-Yield Spike Sparks Angst - ndtvprofit.com.",
   "articles": [
     {
-      "title": "Cramer on Treasury buying: People want to preserve the stock rally \u2018in the worst way\u2019",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/19/cramer-on-treasury-buying-people-want-to-preserve-the-stock-rally-in-the-worst-way.html",
-      "published": "2026-08-19T16:44:34Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "U.S. warns Siemens devices can be hacked amid fears Iran is breaching water plants",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/19/us-cybersecurity-siemens-devices-hacked-iran-war.html",
-      "published": "2026-08-19T16:20:27Z",
-      "tone": "bearish"
-    },
-    {
-      "title": "Lowe\u2019s Stock Shrugs Off Weak Guidance After a Second-Quarter Earnings Beat",
+      "title": "Stocks Hitch a Ride on the Bond Market's Rally",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/1bc0bfcd-9002-3f93-b22c-c05660850041/lowe%E2%80%99s-stock-shrugs-off-weak.html?.tsrc=rss",
-      "published": "2026-08-19T14:53:00Z",
+      "url": "https://finance.yahoo.com/m/9bc4f2ab-2a03-37e6-8332-20aa8a9d3111/stocks-hitch-a-ride-on-the.html?.tsrc=rss",
+      "published": "2026-08-19T20:01:15Z",
       "tone": "bullish"
     },
     {
-      "title": "Zelenskyy faces challenge to his wartime rule as former defense chief calls for election",
+      "title": "Bessent moves to curb Treasury yields, putting new pressure on Warsh's Fed",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/19/ukraine-war-fedorov-zelenskky-election.html",
-      "published": "2026-08-19T09:30:25Z",
+      "url": "https://www.cnbc.com/2026/08/19/bessent-treasury-buybacks-yields-warsh-fed.html",
+      "published": "2026-08-19T20:02:32Z",
       "tone": "bearish"
     },
     {
-      "title": "Trump touted a deal to avert new tariffs on Canada. Here's what we know so far",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/19/trump-canada-tariffs-deal-carney.html",
-      "published": "2026-08-19T16:40:21Z",
+      "title": "Wall Street Highlights: S&P 500, Nasdaq Drop, Led By Tech, As Bond-Yield Spike Sparks Angst - ndtvprofit.com",
+      "source": "ndtvprofit.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMmw4WVBUMWhFb3AycU5VcUhwbGtuZGN4cW1yMHczNVVaSUthUGo5LXU4WDY4MkV0d2xaZFFLaUhNaDVqd0VPMlpOWVlMVlNsajNPTEtpS2VkNzhZcWVVNkRPdkJBV2lJSjEzVEE3T3I4YzVLTko2a2tqbHRqM3BjNEdnNmd0VUo1eFJQRlZvTG9nSlZNR0tTR0Y0VnN4bXV4T3JIRlg5LWMtaEtEYnVqM0hUUnJqamJaNElUMUd3dlJxQXNBdktYWnZwUdIB0wFBVV95cUxNeXh0eVhUQ0ViY2JPeC0zTWJrSTg5QVBiUnp4SHU1NFp0XzRWZi04b05kdmsxYTBQOUQwZ2drT3pNbGNXYkl0WVpIczB0TnZXaGdxUy1pb0xJS1VOUWgtMThKbnBOdlc0dS1aV3dqM1IwV0pXTERKUWpTWEt6clVxRVk4WC1vZjFhczV0T0VUZl9abXNrOUVTY2FJd0ZoNm92cWEwNjJtb1ptbXdUclpweFh4ZVNUOHlUYlVHa2VONDZQZ1BRdXF1Vmp2eWR4c1dHWFV3?oc=5",
+      "published": "2026-08-19T00:42:14Z",
       "tone": "bearish"
+    },
+    {
+      "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
+      "published": "2026-08-19T18:54:50Z",
+      "tone": "bearish"
+    },
+    {
+      "title": "Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XYnJNYUxJeldxNTQ5MFFxaVJrUUMxZmdWWmVGU1czWERoMjZpMm5mMElJekpFaUNCUzFWVFdZbi13NTVUeDB0eWhWcE5mREMxM0REblpGQ2cwWWN5Rm1QSmwzSlJtbGJFNTh6OVFTWQ?oc=5",
+      "published": "2026-08-14T17:08:00Z",
+      "tone": "bullish"
     }
   ],
   "data_source": {
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 18
+        "articles": 20
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -66,12 +66,13 @@
       },
       {
         "url": "https://news.google.com/rss/search?q=%28S%26P%20500%20OR%20stock%20market%20OR%20Wall%20Street%29%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
-        "ok": false,
-        "error": "HTTP Error 503: Service Unavailable",
-        "name": "Google News market query"
+        "ok": true,
+        "status": 200,
+        "name": "Google News market query",
+        "articles": 91
       }
     ],
-    "headline_count": 48,
+    "headline_count": 141,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
