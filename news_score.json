@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-19T08:28:44Z",
+  "generated_at_utc": "2026-08-19T09:05:06Z",
   "window_days": 7,
-  "score": 5,
+  "score": 6,
   "label": "Neutral",
-  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: S&P 500 ends higher as CoreWeave results fuel AI optimism - Yahoo Finance; Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's. Bearish offsets: Tech selloff weighs down Wall Street as bond yields climb; Stock Market: Will S&P 500 Open Up or Down Today?.",
+  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: S&P 500 ends higher as CoreWeave results fuel AI optimism - Yahoo Finance; Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's. Bearish offsets: Tech selloff weighs down Wall Street as bond yields climb; Stock Market: Will S&P 500 Open Up or Down Today?.",
   "articles": [
     {
       "title": "Tech selloff weighs down Wall Street as bond yields climb",
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 84
+        "articles": 85
       }
     ],
-    "headline_count": 130,
+    "headline_count": 131,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
