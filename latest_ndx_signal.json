@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-19T12:32:48Z",
-  "data_asof": "2026-08-18",
-  "daily_rows": 7547,
-  "quote_price": 29490.95703125,
-  "quote_timestamp": "2026-08-18",
+  "generated_at_utc": "2026-08-19T13:38:28Z",
+  "data_asof": "2026-08-19",
+  "daily_rows": 7545,
+  "quote_price": 29531.75,
+  "quote_timestamp": "2026-08-19",
   "quote_source": "Yahoo Finance chart endpoint",
   "sources": {
     "daily_worker": {
@@ -29,13 +29,13 @@
   },
   "official_signal": {
     "latest": {
-      "date": "2026-08-18",
-      "close": 29490.9609375
+      "date": "2026-08-19",
+      "close": 29531.75
     },
-    "latestSma": 29027.834765625,
+    "latestSma": 29071.01884765625,
     "highWater": 30660.599609375,
     "highWaterDate": "2026-06-02",
-    "latestDd": -0.03814793861752663,
+    "latestDd": -0.03681759729936385,
     "regime": "tier2",
     "entryClose": 28776.80078125,
     "entryDate": "2026-08-03",
@@ -46,18 +46,18 @@
     "activeEntryClose": 28776.80078125,
     "activeEntryDate": "2026-08-03",
     "activeEntryLeverage": 2,
-    "activeEntryPnl": 0.02481721862269426,
+    "activeEntryPnl": 0.02623464729414615,
     "explanation": "2x recovery tier is active and price is inside the 0.75% SMA20 lead guard."
   },
   "provisional_signal": {
     "latest": {
-      "date": "2026-08-18",
-      "close": 29490.95703125
+      "date": "2026-08-19",
+      "close": 29531.75
     },
-    "latestSma": 29052.47763671875,
+    "latestSma": 29117.39482421875,
     "highWater": 30660.599609375,
     "highWaterDate": "2026-06-02",
-    "latestDd": -0.03814806602044929,
+    "latestDd": -0.03681759729936385,
     "regime": "tier2",
     "entryClose": 28776.80078125,
     "entryDate": "2026-08-03",
@@ -68,14 +68,14 @@
     "activeEntryClose": 28776.80078125,
     "activeEntryDate": "2026-08-03",
     "activeEntryLeverage": 2,
-    "activeEntryPnl": 0.024817082879668773,
+    "activeEntryPnl": 0.02623464729414615,
     "explanation": "2x recovery tier is active and price is inside the 0.75% SMA20 lead guard."
   },
   "trade_alert_state": {
-    "last_observed_asof": "2026-08-18",
+    "last_observed_asof": "2026-08-19",
     "last_observed_target_leverage": 2,
     "last_observed_target_label": "2x",
-    "last_checked_at_utc": "2026-08-19T12:32:48Z",
+    "last_checked_at_utc": "2026-08-19T13:38:28Z",
     "last_email_sent_on": "2026-08-04",
     "last_transition": {
       "id": "2026-07-31:0->2026-08-04:2",
