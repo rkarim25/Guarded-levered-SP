@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-20T13:40:08Z",
+  "generated_at_utc": "2026-08-20T14:29:09Z",
   "window_days": 7,
   "score": 7,
   "label": "Bullish",
-  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Premarket movers: Deere jumps following upbeat Q3, Wolfspeed plunges; Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's. Bearish offsets: Wall Street Highlights: S&P 500, Nasdaq Drop, Led By Tech, As Bond-Yield Spike Sparks Angst - NDTV Profit; Stock Market Today: Dow Falls On Trump's 'Economic D-Day' Threat; Walmart Takes A Dive (Live Coverage).",
+  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Premarket movers: Deere jumps following upbeat Q3, Wolfspeed plunges; Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's. Bearish offsets: Wall Street Highlights: S&P 500, Nasdaq Drop, Led By Tech, As Bond-Yield Spike Sparks Angst - NDTV Profit; Walmart hikes full-year outlook and gets huge tariff refund, but stock falls on sales concerns.",
   "articles": [
     {
       "title": "Premarket movers: Deere jumps following upbeat Q3, Wolfspeed plunges",
@@ -27,18 +27,18 @@
       "tone": "bullish"
     },
     {
-      "title": "Stock Market Today: Dow Falls On Trump's 'Economic D-Day' Threat; Walmart Takes A Dive (Live Coverage)",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/77cf6327-9179-33fc-abf6-23d5531abe3a/stock-market-today%3A-dow-falls.html?.tsrc=rss",
-      "published": "2026-08-20T13:07:02Z",
+      "title": "Walmart hikes full-year outlook and gets huge tariff refund, but stock falls on sales concerns",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
+      "published": "2026-08-20T14:21:29Z",
       "tone": "bearish"
     },
     {
-      "title": "Treasury yields rebound, wiping out the decline following Bessent's intervention",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/20/bond-yields-edge-higher-as-traders-digest-treasury-debt-buyback-plan.html",
-      "published": "2026-08-20T13:04:26Z",
-      "tone": "bullish"
+      "title": "Stock Market Today: Dow Falls On Trump's 'Economic D-Day' Threat; Energy Giant Breaks Out (Live Coverage)",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/m/77cf6327-9179-33fc-abf6-23d5531abe3a/stock-market-today%3A-dow-falls.html?.tsrc=rss",
+      "published": "2026-08-20T14:06:37Z",
+      "tone": "bearish"
     }
   ],
   "data_source": {
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 20
+        "articles": 19
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -72,7 +72,7 @@
         "articles": 94
       }
     ],
-    "headline_count": 144,
+    "headline_count": 143,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
