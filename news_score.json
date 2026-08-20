@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-08-20T11:19:57Z",
+  "generated_at_utc": "2026-08-20T11:50:56Z",
   "window_days": 7,
   "score": 7,
   "label": "Bullish",
-  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Gains in AI company stakes juice second-quarter earnings for S&P 500; Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's. Bearish offsets: Bessent moves to curb Treasury yields, putting new pressure on Warsh's Fed; Wall Street Highlights: S&P 500, Nasdaq Drop, Led By Tech, As Bond-Yield Spike Sparks Angst - NDTV Profit.",
+  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Gains in AI company stakes juice second-quarter earnings for S&P 500; Dow Futures Slide as Treasury Rally Falters. Bearish offsets: Bessent moves to curb Treasury yields, putting new pressure on Warsh's Fed.",
   "articles": [
     {
       "title": "Gains in AI company stakes juice second-quarter earnings for S&P 500",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/gains-ai-company-stakes-juice-100419261.html?.tsrc=rss",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gains-in-ai-company-stakes-juice-second-quarter-earnings-for-sp-500-100419261.html?.tsrc=rss",
       "published": "2026-08-20T10:04:19Z",
       "tone": "bullish"
     },
@@ -20,24 +20,24 @@
       "tone": "bearish"
     },
     {
-      "title": "Wall Street Highlights: S&P 500, Nasdaq Drop, Led By Tech, As Bond-Yield Spike Sparks Angst - NDTV Profit",
-      "source": "NDTV Profit",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMmw4WVBUMWhFb3AycU5VcUhwbGtuZGN4cW1yMHczNVVaSUthUGo5LXU4WDY4MkV0d2xaZFFLaUhNaDVqd0VPMlpOWVlMVlNsajNPTEtpS2VkNzhZcWVVNkRPdkJBV2lJSjEzVEE3T3I4YzVLTko2a2tqbHRqM3BjNEdnNmd0VUo1eFJQRlZvTG9nSlZNR0tTR0Y0VnN4bXV4T3JIRlg5LWMtaEtEYnVqM0hUUnJqamJaNElUMUd3dlJxQXNBdktYWnZwUdIB0wFBVV95cUxNeXh0eVhUQ0ViY2JPeC0zTWJrSTg5QVBiUnp4SHU1NFp0XzRWZi04b05kdmsxYTBQOUQwZ2drT3pNbGNXYkl0WVpIczB0TnZXaGdxUy1pb0xJS1VOUWgtMThKbnBOdlc0dS1aV3dqM1IwV0pXTERKUWpTWEt6clVxRVk4WC1vZjFhczV0T0VUZl9abXNrOUVTY2FJd0ZoNm92cWEwNjJtb1ptbXdUclpweFh4ZVNUOHlUYlVHa2VONDZQZ1BRdXF1Vmp2eWR4c1dHWFV3?oc=5",
-      "published": "2026-08-19T00:42:14Z",
-      "tone": "bearish"
+      "title": "Dow Futures Slide as Treasury Rally Falters",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/m/887d7c2a-d824-3f31-9cf8-5181ebf9ec75/dow-futures-slide-as-treasury.html?.tsrc=rss",
+      "published": "2026-08-20T08:51:58Z",
+      "tone": "bullish"
     },
     {
-      "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
+      "title": "Cramer on Treasury buying: People want to preserve the stock rally \u2018in the worst way\u2019",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
-      "published": "2026-08-19T18:54:50Z",
-      "tone": "bearish"
+      "url": "https://www.cnbc.com/2026/08/19/cramer-on-treasury-buying-people-want-to-preserve-the-stock-rally-in-the-worst-way.html",
+      "published": "2026-08-19T16:44:34Z",
+      "tone": "bullish"
     },
     {
-      "title": "Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's",
-      "source": "Barron's",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XYnJNYUxJeldxNTQ5MFFxaVJrUUMxZmdWWmVGU1czWERoMjZpMm5mMElJekpFaUNCUzFWVFdZbi13NTVUeDB0eWhWcE5mREMxM0REblpGQ2cwWWN5Rm1QSmwzSlJtbGJFNTh6OVFTWQ?oc=5",
-      "published": "2026-08-14T17:08:00Z",
+      "title": "Bond yields edge higher as traders digest Treasury debt buyback plan",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/20/bond-yields-edge-higher-as-traders-digest-treasury-debt-buyback-plan.html",
+      "published": "2026-08-20T08:57:47Z",
       "tone": "bullish"
     }
   ],
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 18
+        "articles": 19
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -66,13 +66,12 @@
       },
       {
         "url": "https://news.google.com/rss/search?q=%28S%26P%20500%20OR%20stock%20market%20OR%20Wall%20Street%29%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
-        "ok": true,
-        "status": 200,
-        "name": "Google News market query",
-        "articles": 92
+        "ok": false,
+        "error": "HTTP Error 503: Service Unavailable",
+        "name": "Google News market query"
       }
     ],
-    "headline_count": 140,
+    "headline_count": 49,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
