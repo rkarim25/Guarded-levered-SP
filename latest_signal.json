@@ -1,18 +1,13 @@
 {
-  "generated_at_utc": "2026-08-20T08:29:44Z",
+  "generated_at_utc": "2026-08-20T09:06:49Z",
   "data_asof": "2026-08-19",
-  "daily_rows": 14279,
+  "daily_rows": 7547,
   "quote_price": 7707.97998046875,
   "quote_timestamp": "2026-08-19",
   "quote_source": "Yahoo Finance chart endpoint",
   "sources": {
     "daily_worker": {
       "url": "https://spx-quote-proxy.rkarim88.workers.dev/?mode=daily",
-      "ok": false,
-      "error": "HTTP Error 500: Internal Server Error"
-    },
-    "daily_yahoo": {
-      "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?period1=0&period2=1787300984&interval=1d&events=history&includeAdjustedClose=true",
       "ok": true,
       "status": 200
     },
@@ -80,7 +75,7 @@
     "last_observed_asof": "2026-08-19",
     "last_observed_target_leverage": 2,
     "last_observed_target_label": "2x",
-    "last_checked_at_utc": "2026-08-20T08:29:44Z",
+    "last_checked_at_utc": "2026-08-20T09:06:49Z",
     "last_email_sent_on": "2026-07-30",
     "last_transition": {
       "id": "2026-07-30:0->2026-07-30:2",
