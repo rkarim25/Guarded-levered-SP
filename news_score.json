@@ -1,23 +1,23 @@
 {
-  "generated_at_utc": "2026-08-20T21:17:58Z",
+  "generated_at_utc": "2026-08-20T22:22:33Z",
   "window_days": 7,
-  "score": 5,
+  "score": 6,
   "label": "Neutral",
-  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's; Oil prices rise after Treasury Secretary says U.S. will collapse Iran with economic pressure. Bearish offsets: Home Depot's Tariff Refund Never Made It To The Guide; US Equity Indexes Fall After Trump Warns of Severe Economic Actions Against Iran, Driving Up Oil Prices, Bond Yields.",
+  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Stock Market Today, Aug. 20: Webull Initially Surges 14%, Ends 2% Higher After Record Q2 Revenue and Earnings Beat; Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's. Bearish offsets: US Equity Indexes Fall After Trump Warns of Severe Economic Actions Against Iran, Driving Up Oil Prices, Bond Yields.",
   "articles": [
+    {
+      "title": "Stock Market Today, Aug. 20: Webull Initially Surges 14%, Ends 2% Higher After Record Q2 Revenue and Earnings Beat",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/08/20/stock-market-today-aug-20-webull-initially-surges-14-ends-2-higher-after-record-q2-revenue-and-earnings-beat/?.tsrc=rss",
+      "published": "2026-08-20T21:18:09Z",
+      "tone": "bullish"
+    },
     {
       "title": "Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's",
       "source": "Barron's",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XYnJNYUxJeldxNTQ5MFFxaVJrUUMxZmdWWmVGU1czWERoMjZpMm5mMElJekpFaUNCUzFWVFdZbi13NTVUeDB0eWhWcE5mREMxM0REblpGQ2cwWWN5Rm1QSmwzSlJtbGJFNTh6OVFTWQ?oc=5",
       "published": "2026-08-14T17:08:00Z",
       "tone": "bullish"
-    },
-    {
-      "title": "Home Depot's Tariff Refund Never Made It To The Guide",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://www.trefis.com/articles/612243/home-depots-tariff-refund-never-made-it-to-the-guide/2026-08-20?.tsrc=rss",
-      "published": "2026-08-20T19:45:05Z",
-      "tone": "bearish"
     },
     {
       "title": "US Equity Indexes Fall After Trump Warns of Severe Economic Actions Against Iran, Driving Up Oil Prices, Bond Yields",
@@ -27,17 +27,17 @@
       "tone": "bearish"
     },
     {
+      "title": "Dow Jones Futures: Market Triggers This Bearish Signal As Walmart, SpaceX, CrowdStrike Tumble",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/m/91327cea-fed2-33ed-a182-385b27c0298f/dow-jones-futures%3A-market.html?.tsrc=rss",
+      "published": "2026-08-20T22:14:04Z",
+      "tone": "bullish"
+    },
+    {
       "title": "Oil prices rise after Treasury Secretary says U.S. will collapse Iran with economic pressure",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/20/oil-prices-brent-wti-hormuz-trump.html",
       "published": "2026-08-20T19:43:30Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Wall Street Rebounds as Treasury Buyback Plan Eases Bond Yields - Gotrade",
-      "source": "Gotrade",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdC1jblJmOHFCZHJOUjRVVFRHdl9PaGZPYmU1ZzhzMXlqTXFrZF9ZXy1LVzJJQ3BoYUVUcUhjeVd1SlJkOTVxM2R0Y25aVWJ0Tm1wRjVnSFpIa0xnTzBsRHFqVVFoZFNBMllRMnJ0SzJoV2VUazhvSnJSMXdwVGtYaVhZblRGcVBua3pWTDQyVQ?oc=5",
-      "published": "2026-08-20T09:02:00Z",
       "tone": "bullish"
     }
   ],
