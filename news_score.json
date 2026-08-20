@@ -1,10 +1,17 @@
 {
-  "generated_at_utc": "2026-08-20T11:50:56Z",
+  "generated_at_utc": "2026-08-20T12:34:22Z",
   "window_days": 7,
   "score": 7,
   "label": "Bullish",
-  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Gains in AI company stakes juice second-quarter earnings for S&P 500; Dow Futures Slide as Treasury Rally Falters. Bearish offsets: Bessent moves to curb Treasury yields, putting new pressure on Warsh's Fed.",
+  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Premarket movers: Deere jumps following upbeat Q3, Wolfspeed plunges; Gains in AI company stakes juice second-quarter earnings for S&P 500. Bearish offsets: Wall Street Highlights: S&P 500, Nasdaq Drop, Led By Tech, As Bond-Yield Spike Sparks Angst - NDTV Profit; Wall Street Futures Fall as Middle East Risks, Oil Prices and Canada Tariffs Take Focus: Dow Jones, S&P, Nasdaq - Yahoo Finance.",
   "articles": [
+    {
+      "title": "Premarket movers: Deere jumps following upbeat Q3, Wolfspeed plunges",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-deere-jumps-following-115748573.html?.tsrc=rss",
+      "published": "2026-08-20T11:57:48Z",
+      "tone": "bullish"
+    },
     {
       "title": "Gains in AI company stakes juice second-quarter earnings for S&P 500",
       "source": "Yahoo Finance S&P 500",
@@ -13,32 +20,25 @@
       "tone": "bullish"
     },
     {
-      "title": "Bessent moves to curb Treasury yields, putting new pressure on Warsh's Fed",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/19/bessent-treasury-buybacks-yields-warsh-fed.html",
-      "published": "2026-08-19T20:02:32Z",
+      "title": "Wall Street Highlights: S&P 500, Nasdaq Drop, Led By Tech, As Bond-Yield Spike Sparks Angst - NDTV Profit",
+      "source": "NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMmw4WVBUMWhFb3AycU5VcUhwbGtuZGN4cW1yMHczNVVaSUthUGo5LXU4WDY4MkV0d2xaZFFLaUhNaDVqd0VPMlpOWVlMVlNsajNPTEtpS2VkNzhZcWVVNkRPdkJBV2lJSjEzVEE3T3I4YzVLTko2a2tqbHRqM3BjNEdnNmd0VUo1eFJQRlZvTG9nSlZNR0tTR0Y0VnN4bXV4T3JIRlg5LWMtaEtEYnVqM0hUUnJqamJaNElUMUd3dlJxQXNBdktYWnZwUdIB0wFBVV95cUxNeXh0eVhUQ0ViY2JPeC0zTWJrSTg5QVBiUnp4SHU1NFp0XzRWZi04b05kdmsxYTBQOUQwZ2drT3pNbGNXYkl0WVpIczB0TnZXaGdxUy1pb0xJS1VOUWgtMThKbnBOdlc0dS1aV3dqM1IwV0pXTERKUWpTWEt6clVxRVk4WC1vZjFhczV0T0VUZl9abXNrOUVTY2FJd0ZoNm92cWEwNjJtb1ptbXdUclpweFh4ZVNUOHlUYlVHa2VONDZQZ1BRdXF1Vmp2eWR4c1dHWFV3?oc=5",
+      "published": "2026-08-19T00:42:14Z",
       "tone": "bearish"
     },
     {
-      "title": "Dow Futures Slide as Treasury Rally Falters",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/887d7c2a-d824-3f31-9cf8-5181ebf9ec75/dow-futures-slide-as-treasury.html?.tsrc=rss",
-      "published": "2026-08-20T08:51:58Z",
+      "title": "Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's",
+      "source": "Barron's",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XYnJNYUxJeldxNTQ5MFFxaVJrUUMxZmdWWmVGU1czWERoMjZpMm5mMElJekpFaUNCUzFWVFdZbi13NTVUeDB0eWhWcE5mREMxM0REblpGQ2cwWWN5Rm1QSmwzSlJtbGJFNTh6OVFTWQ?oc=5",
+      "published": "2026-08-14T17:08:00Z",
       "tone": "bullish"
     },
     {
-      "title": "Cramer on Treasury buying: People want to preserve the stock rally \u2018in the worst way\u2019",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/19/cramer-on-treasury-buying-people-want-to-preserve-the-stock-rally-in-the-worst-way.html",
-      "published": "2026-08-19T16:44:34Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Bond yields edge higher as traders digest Treasury debt buyback plan",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/20/bond-yields-edge-higher-as-traders-digest-treasury-debt-buyback-plan.html",
-      "published": "2026-08-20T08:57:47Z",
-      "tone": "bullish"
+      "title": "Wall Street Futures Fall as Middle East Risks, Oil Prices and Canada Tariffs Take Focus: Dow Jones, S&P, Nasdaq - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbW91d1V5MnA5VmJnVW9nWEhSTVdJTFlueXZRbnI4M0ZKdFdPV3ZlZ3hfcmZpTTdBb095bXd0VXhwSkh6a19kbDZyWW5ha0dBNVdCYXRkd3lNSktyZDUxQ0tMQ05IT3JiS3U2bXMtY3JyNWRYaFF2eWNlT09Bb0NtS21YS0FyUXpyckRwTW9jQmFfYkU?oc=5",
+      "published": "2026-08-18T09:28:15Z",
+      "tone": "bearish"
     }
   ],
   "data_source": {
@@ -66,12 +66,13 @@
       },
       {
         "url": "https://news.google.com/rss/search?q=%28S%26P%20500%20OR%20stock%20market%20OR%20Wall%20Street%29%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
-        "ok": false,
-        "error": "HTTP Error 503: Service Unavailable",
-        "name": "Google News market query"
+        "ok": true,
+        "status": 200,
+        "name": "Google News market query",
+        "articles": 93
       }
     ],
-    "headline_count": 49,
+    "headline_count": 142,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
