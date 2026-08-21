@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-21T10:01:48Z",
+  "generated_at_utc": "2026-08-21T10:55:40Z",
   "window_days": 7,
   "score": 6,
   "label": "Neutral",
-  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out; These 3 Artificial Intelligence Stocks Can Double by the End of 2027.",
+  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out; These 3 Artificial Intelligence Stocks Can Double by the End of 2027. Bearish offsets: Stock Market News for Aug 21, 2026.",
   "articles": [
     {
       "title": "Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out",
@@ -34,11 +34,11 @@
       "tone": "bullish"
     },
     {
-      "title": "Oil prices head for second weekly rise as U.S. vows to turn up economic pressure on Iran",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/21/oil-prices-us-iran.html",
-      "published": "2026-08-21T08:55:28Z",
-      "tone": "bullish"
+      "title": "Stock Market News for Aug 21, 2026",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-aug-21-090400012.html?.tsrc=rss",
+      "published": "2026-08-21T09:04:00Z",
+      "tone": "bearish"
     }
   ],
   "data_source": {
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 18
+        "articles": 17
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -69,7 +69,7 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 93
+        "articles": 94
       }
     ],
     "headline_count": 141,
