@@ -1,29 +1,22 @@
 {
-  "generated_at_utc": "2026-08-21T15:03:48Z",
+  "generated_at_utc": "2026-08-21T15:56:45Z",
   "window_days": 7,
   "score": 7,
   "label": "Bullish",
-  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Strategy Rallies 8%, MARA Holdings Climbs 6%, Coinbase Jumps 5% as Bitcoin Breaks Out of Its 2026 Range; Charles River Gains 88.6% in a Year: What's Driving the Rally?.",
+  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Moderna, Robinhood, Marvell, Tesla, SpaceX, and More Stocks That Explain Today\u2019s Market; BNY Gains 35.4% YTD: Should You Add the Stock to Your Portfolio Now?. Bearish offsets: International student enrollment falls amid tighter U.S. visa policies, reports show.",
   "articles": [
     {
-      "title": "Strategy Rallies 8%, MARA Holdings Climbs 6%, Coinbase Jumps 5% as Bitcoin Breaks Out of Its 2026 Range",
+      "title": "Moderna, Robinhood, Marvell, Tesla, SpaceX, and More Stocks That Explain Today\u2019s Market",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://247wallst.com/investing/2026/08/21/strategy-rallies-8-mara-holdings-climbs-6-coinbase-jumps-5-as-bitcoin-breaks-out-of-its-2026-range/?.tsrc=rss",
-      "published": "2026-08-21T13:25:23Z",
+      "url": "https://finance.yahoo.com/m/8441cc58-de4e-35b7-8284-d4ebc8ed02e5/moderna%2C-robinhood%2C-marvell%2C.html?.tsrc=rss",
+      "published": "2026-08-21T15:14:00Z",
       "tone": "bullish"
     },
     {
-      "title": "Charles River Gains 88.6% in a Year: What's Driving the Rally?",
+      "title": "BNY Gains 35.4% YTD: Should You Add the Stock to Your Portfolio Now?",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/healthcare/articles/charles-river-gains-88-6-135000623.html?.tsrc=rss",
-      "published": "2026-08-21T13:50:00Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Wall Street rises as yields stabilize, Bitcoin extends rally (SP500:) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSTMtR0Z5ZjhkVHRPQ2thMjFHaW9mQ2taVnR4eGxxam1EQkJPMnRvQ3gwZkRjVzFNYmZ3UXZYbHJLMTA5cmhJZUtrbDd4UzVKSjN2cC1CTGtacGMwd1lKZjRuU0xmTGZaQ19UeVBkSG9hcUdwdGNPdDBQNjN5RENPZGI5VWlOYnFi?oc=5",
-      "published": "2026-08-21T13:32:00Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bny-gains-35-4-ytd-135600631.html?.tsrc=rss",
+      "published": "2026-08-21T13:56:00Z",
       "tone": "bullish"
     },
     {
@@ -39,6 +32,13 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XYnJNYUxJeldxNTQ5MFFxaVJrUUMxZmdWWmVGU1czWERoMjZpMm5mMElJekpFaUNCUzFWVFdZbi13NTVUeDB0eWhWcE5mREMxM0REblpGQ2cwWWN5Rm1QSmwzSlJtbGJFNTh6OVFTWQ?oc=5",
       "published": "2026-08-14T17:08:00Z",
       "tone": "bullish"
+    },
+    {
+      "title": "International student enrollment falls amid tighter U.S. visa policies, reports show",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/21/international-student-enrollment-us-visa-policies.html",
+      "published": "2026-08-21T13:46:01Z",
+      "tone": "bearish"
     }
   ],
   "data_source": {
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 18
+        "articles": 19
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -72,7 +72,7 @@
         "articles": 95
       }
     ],
-    "headline_count": 143,
+    "headline_count": 144,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
