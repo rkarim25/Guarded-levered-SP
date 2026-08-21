@@ -1,15 +1,15 @@
 {
-  "generated_at_utc": "2026-08-21T08:32:02Z",
+  "generated_at_utc": "2026-08-21T09:29:33Z",
   "window_days": 7,
   "score": 6,
   "label": "Neutral",
-  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: How higher bond yields can prove a stumbling block for the stock market; These 3 Artificial Intelligence Stocks Can Double by the End of 2027.",
+  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out; These 3 Artificial Intelligence Stocks Can Double by the End of 2027.",
   "articles": [
     {
-      "title": "How higher bond yields can prove a stumbling block for the stock market",
+      "title": "Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/20/how-higher-bond-yields-can-prove-a-stumbling-block-for-the-stock-market.html",
-      "published": "2026-08-20T20:20:15Z",
+      "url": "https://www.cnbc.com/2026/08/21/treasury-yields-bonds-inflation-rates.html",
+      "published": "2026-08-21T08:36:34Z",
       "tone": "bullish"
     },
     {
@@ -30,14 +30,14 @@
       "title": "Bitcoin on track for 20% weekly gain as investor optimism floods back",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
-      "published": "2026-08-21T08:28:18Z",
+      "published": "2026-08-21T09:20:31Z",
       "tone": "bullish"
     },
     {
-      "title": "Dow Jones Futures: Market Triggers This Bearish Signal As Walmart, SpaceX, CrowdStrike Tumble",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/91327cea-fed2-33ed-a182-385b27c0298f/dow-jones-futures%3A-market.html?.tsrc=rss",
-      "published": "2026-08-21T03:09:23Z",
+      "title": "Oil prices head for second weekly rise as U.S. vows to turn up economic pressure on Iran",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/21/oil-prices-us-iran.html",
+      "published": "2026-08-21T08:55:28Z",
       "tone": "bullish"
     }
   ],
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 19
+        "articles": 18
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 90
+        "articles": 92
       }
     ],
-    "headline_count": 139,
+    "headline_count": 140,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
