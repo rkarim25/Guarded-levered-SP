@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-08-21T15:56:37Z",
+  "generated_at_utc": "2026-08-21T16:30:26Z",
   "data_asof": "2026-08-21",
   "daily_rows": 7548,
-  "quote_price": null,
-  "quote_timestamp": null,
-  "quote_source": null,
+  "quote_price": 7682.5400390625,
+  "quote_timestamp": "2026-08-21",
+  "quote_source": "Yahoo Finance chart endpoint",
   "sources": {
     "daily_worker": {
       "url": "https://spx-quote-proxy.rkarim88.workers.dev/?mode=daily",
@@ -13,8 +13,8 @@
     },
     "quote_worker": {
       "url": "https://spx-quote-proxy.rkarim88.workers.dev/?mode=quote",
-      "ok": false,
-      "error": "HTTP Error 500: Internal Server Error"
+      "ok": true,
+      "status": 200
     }
   },
   "strategy": {
@@ -30,12 +30,12 @@
   "official_signal": {
     "latest": {
       "date": "2026-08-21",
-      "close": 7693.9501953125
+      "close": 7682.5400390625
     },
-    "latestSma": 7645.405004882812,
+    "latestSma": 7644.834497070313,
     "highWater": 7798.990234375,
     "highWaterDate": "2026-08-13",
-    "latestDd": -0.01346841525708331,
+    "latestDd": -0.014931445201614935,
     "regime": "tier2",
     "entryClose": 6575.31982421875,
     "entryDate": "2026-04-01",
@@ -46,15 +46,36 @@
     "activeEntryClose": 6575.31982421875,
     "activeEntryDate": "2026-04-01",
     "activeEntryLeverage": 2,
-    "activeEntryPnl": 0.1701256214144169,
+    "activeEntryPnl": 0.16839032084272865,
     "explanation": "2x recovery tier is active and price is inside the 0.75% SMA20 lead guard."
   },
-  "provisional_signal": null,
+  "provisional_signal": {
+    "latest": {
+      "date": "2026-08-21",
+      "close": 7682.5400390625
+    },
+    "latestSma": 7658.302490234375,
+    "highWater": 7798.990234375,
+    "highWaterDate": "2026-08-13",
+    "latestDd": -0.014931445201614935,
+    "regime": "tier2",
+    "entryClose": 6575.31982421875,
+    "entryDate": "2026-04-01",
+    "recoveryTarget": 9205.44775390625,
+    "aboveSma": true,
+    "recoveryOk": true,
+    "targetLeverage": 2,
+    "activeEntryClose": 6575.31982421875,
+    "activeEntryDate": "2026-04-01",
+    "activeEntryLeverage": 2,
+    "activeEntryPnl": 0.16839032084272865,
+    "explanation": "2x recovery tier is active and price is inside the 0.75% SMA20 lead guard."
+  },
   "trade_alert_state": {
     "last_observed_asof": "2026-08-21",
     "last_observed_target_leverage": 2,
     "last_observed_target_label": "2x",
-    "last_checked_at_utc": "2026-08-21T15:56:37Z",
+    "last_checked_at_utc": "2026-08-21T16:30:26Z",
     "last_email_sent_on": "2026-07-30",
     "last_transition": {
       "id": "2026-07-30:0->2026-07-30:2",

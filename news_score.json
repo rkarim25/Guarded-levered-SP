@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-08-21T15:56:45Z",
+  "generated_at_utc": "2026-08-21T16:30:35Z",
   "window_days": 7,
-  "score": 7,
+  "score": 8,
   "label": "Bullish",
-  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Moderna, Robinhood, Marvell, Tesla, SpaceX, and More Stocks That Explain Today\u2019s Market; BNY Gains 35.4% YTD: Should You Add the Stock to Your Portfolio Now?. Bearish offsets: International student enrollment falls amid tighter U.S. visa policies, reports show.",
+  "explanation": "8/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out; Moderna, Robinhood, Marvell, Tesla, SpaceX, and More Stocks That Explain Today\u2019s Market.",
   "articles": [
+    {
+      "title": "Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/21/treasury-yields-bonds-inflation-rates.html",
+      "published": "2026-08-21T16:23:34Z",
+      "tone": "bullish"
+    },
     {
       "title": "Moderna, Robinhood, Marvell, Tesla, SpaceX, and More Stocks That Explain Today\u2019s Market",
       "source": "Yahoo Finance S&P 500",
       "url": "https://finance.yahoo.com/m/8441cc58-de4e-35b7-8284-d4ebc8ed02e5/moderna%2C-robinhood%2C-marvell%2C.html?.tsrc=rss",
       "published": "2026-08-21T15:14:00Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "BNY Gains 35.4% YTD: Should You Add the Stock to Your Portfolio Now?",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bny-gains-35-4-ytd-135600631.html?.tsrc=rss",
-      "published": "2026-08-21T13:56:00Z",
       "tone": "bullish"
     },
     {
@@ -27,18 +27,18 @@
       "tone": "bullish"
     },
     {
+      "title": "HIMS Stock More Than Doubled in 6 Months: What's Driving the Rally?",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/healthcare/articles/hims-stock-more-doubled-6-150300524.html?.tsrc=rss",
+      "published": "2026-08-21T15:03:00Z",
+      "tone": "bullish"
+    },
+    {
       "title": "Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's",
       "source": "Barron's",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XYnJNYUxJeldxNTQ5MFFxaVJrUUMxZmdWWmVGU1czWERoMjZpMm5mMElJekpFaUNCUzFWVFdZbi13NTVUeDB0eWhWcE5mREMxM0REblpGQ2cwWWN5Rm1QSmwzSlJtbGJFNTh6OVFTWQ?oc=5",
       "published": "2026-08-14T17:08:00Z",
       "tone": "bullish"
-    },
-    {
-      "title": "International student enrollment falls amid tighter U.S. visa policies, reports show",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/21/international-student-enrollment-us-visa-policies.html",
-      "published": "2026-08-21T13:46:01Z",
-      "tone": "bearish"
     }
   ],
   "data_source": {
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 19
+        "articles": 18
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -72,7 +72,7 @@
         "articles": 95
       }
     ],
-    "headline_count": 144,
+    "headline_count": 143,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
