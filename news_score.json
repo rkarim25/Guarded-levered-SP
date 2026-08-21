@@ -1,10 +1,17 @@
 {
-  "generated_at_utc": "2026-08-21T13:39:38Z",
+  "generated_at_utc": "2026-08-21T14:27:31Z",
   "window_days": 7,
   "score": 6,
   "label": "Neutral",
-  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's; Bitcoin on track for 20% weekly gain as investor optimism floods back.",
+  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Strategy Rallies 8%, MARA Holdings Climbs 6%, Coinbase Jumps 5% as Bitcoin Breaks Out of Its 2026 Range; Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's. Bearish offsets: International student enrollment falls amid tighter U.S. visa policies, reports show.",
   "articles": [
+    {
+      "title": "Strategy Rallies 8%, MARA Holdings Climbs 6%, Coinbase Jumps 5% as Bitcoin Breaks Out of Its 2026 Range",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://247wallst.com/investing/2026/08/21/strategy-rallies-8-mara-holdings-climbs-6-coinbase-jumps-5-as-bitcoin-breaks-out-of-its-2026-range/?.tsrc=rss",
+      "published": "2026-08-21T13:25:23Z",
+      "tone": "bullish"
+    },
     {
       "title": "Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's",
       "source": "Barron's",
@@ -13,31 +20,24 @@
       "tone": "bullish"
     },
     {
-      "title": "Bitcoin on track for 20% weekly gain as investor optimism floods back",
+      "title": "International student enrollment falls amid tighter U.S. visa policies, reports show",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/21/international-student-enrollment-us-visa-policies.html",
+      "published": "2026-08-21T13:46:01Z",
+      "tone": "bearish"
+    },
+    {
+      "title": "Bitcoin on track for 23% weekly gain as investor optimism floods back",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
-      "published": "2026-08-21T12:07:14Z",
+      "published": "2026-08-21T13:53:19Z",
       "tone": "bullish"
     },
     {
-      "title": "Wall Street Rebounds as Treasury Buyback Plan Eases Bond Yields - Gotrade",
-      "source": "Gotrade",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdC1jblJmOHFCZHJOUjRVVFRHdl9PaGZPYmU1ZzhzMXlqTXFrZF9ZXy1LVzJJQ3BoYUVUcUhjeVd1SlJkOTVxM2R0Y25aVWJ0Tm1wRjVnSFpIa0xnTzBsRHFqVVFoZFNBMllRMnJ0SzJoV2VUazhvSnJSMXdwVGtYaVhZblRGcVBua3pWTDQyVQ?oc=5",
-      "published": "2026-08-20T09:02:00Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "S&P 500 Rally: Why Wall Street Remains Upbeat on Stocks Despite Rising Oil Prices - Barron's",
-      "source": "Barron's",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeEdNdVhoWjJoUk5SVC0tMEp4WEx2VWZVby1MV0MtSFhKcU9SUWVSNjZ3bzM2Q3k1WHNVeTlLVlNwbGZGYWY4YWtNR2VHWHB1TGRuOThqMTJ1QThVVVByY2t4YjhvdDIwOVlEOXh6M3NLcnRjR1ZXYkZjYWw3WDY5bzNwVGNEbkg1Rzk4Vg?oc=5",
-      "published": "2026-08-19T12:31:00Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Dow, S&P 500 snap 3-day losing streak as bonds rally - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOFdRelJyYnRvb19mczN4bDRFaFd0Rk1hTGhWelRZa0ZXcHhsTzM0X2RRWEN5ZW93UmV3OWZCa1dKX09nWDM2cmV2U0treV9ZeDVRWVoza0MtYzUzaDlDLXhkSFgtQTJoN21jYW5qcF9kQnZzUmQ3VXJrRFdRM0tmZ1J0bUZacFRNZ3NsZWxDWFBlZFRFSkx6cE02YTBQQQ?oc=5",
-      "published": "2026-08-19T11:52:00Z",
+      "title": "Dow Rises to Wrap Tumultuous Late-Summer Week",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/m/c36d98c2-71bb-39db-aafc-ffd1fd11a662/dow-rises-to-wrap-tumultuous.html?.tsrc=rss",
+      "published": "2026-08-21T13:32:44Z",
       "tone": "bullish"
     }
   ],
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 18
+        "articles": 17
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -69,7 +69,7 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 94
+        "articles": 95
       }
     ],
     "headline_count": 142,
