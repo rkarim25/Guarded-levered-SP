@@ -1,15 +1,15 @@
 {
-  "generated_at_utc": "2026-08-20T22:22:33Z",
+  "generated_at_utc": "2026-08-21T07:37:00Z",
   "window_days": 7,
   "score": 6,
   "label": "Neutral",
-  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Stock Market Today, Aug. 20: Webull Initially Surges 14%, Ends 2% Higher After Record Q2 Revenue and Earnings Beat; Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's. Bearish offsets: US Equity Indexes Fall After Trump Warns of Severe Economic Actions Against Iran, Driving Up Oil Prices, Bond Yields.",
+  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: How higher bond yields can prove a stumbling block for the stock market; Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's. Bearish offsets: Dow, S&P 500, Nasdaq Futures Climb After Sharp Selloff On Rising Treasury Yields: MSTR, MARA, COIN, WMT Stocks In Focus; Which Streaming Stock Would Hold Up Better in a Recession: Netflix or Walt Disney?.",
   "articles": [
     {
-      "title": "Stock Market Today, Aug. 20: Webull Initially Surges 14%, Ends 2% Higher After Record Q2 Revenue and Earnings Beat",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/08/20/stock-market-today-aug-20-webull-initially-surges-14-ends-2-higher-after-record-q2-revenue-and-earnings-beat/?.tsrc=rss",
-      "published": "2026-08-20T21:18:09Z",
+      "title": "How higher bond yields can prove a stumbling block for the stock market",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/20/how-higher-bond-yields-can-prove-a-stumbling-block-for-the-stock-market.html",
+      "published": "2026-08-20T20:20:15Z",
       "tone": "bullish"
     },
     {
@@ -20,25 +20,25 @@
       "tone": "bullish"
     },
     {
-      "title": "US Equity Indexes Fall After Trump Warns of Severe Economic Actions Against Iran, Driving Up Oil Prices, Bond Yields",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-fall-trump-203003295.html?.tsrc=rss",
-      "published": "2026-08-20T20:30:03Z",
-      "tone": "bearish"
-    },
-    {
       "title": "Dow Jones Futures: Market Triggers This Bearish Signal As Walmart, SpaceX, CrowdStrike Tumble",
       "source": "Yahoo Finance S&P 500",
       "url": "https://finance.yahoo.com/m/91327cea-fed2-33ed-a182-385b27c0298f/dow-jones-futures%3A-market.html?.tsrc=rss",
-      "published": "2026-08-20T22:14:04Z",
+      "published": "2026-08-21T03:09:23Z",
       "tone": "bullish"
     },
     {
-      "title": "Oil prices rise after Treasury Secretary says U.S. will collapse Iran with economic pressure",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/20/oil-prices-brent-wti-hormuz-trump.html",
-      "published": "2026-08-20T19:43:30Z",
-      "tone": "bullish"
+      "title": "Dow, S&P 500, Nasdaq Futures Climb After Sharp Selloff On Rising Treasury Yields: MSTR, MARA, COIN, WMT Stocks In Focus",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-climb-after-sharp-selloff-on-rising-treasury-yields-mstr-mara-coin-wmt-stocks-in-focus/cZYBibfRJZz?.tsrc=rss",
+      "published": "2026-08-21T02:38:54Z",
+      "tone": "bearish"
+    },
+    {
+      "title": "Which Streaming Stock Would Hold Up Better in a Recession: Netflix or Walt Disney?",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://www.fool.com/investing/2026/08/20/streaming-better-recession-netflix-walt-disney/?.tsrc=rss",
+      "published": "2026-08-21T00:25:00Z",
+      "tone": "bearish"
     }
   ],
   "data_source": {
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 16
+        "articles": 19
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -69,7 +69,7 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 92
+        "articles": 89
       }
     ],
     "headline_count": 138,
