@@ -1,10 +1,17 @@
 {
-  "generated_at_utc": "2026-08-21T21:14:03Z",
+  "generated_at_utc": "2026-08-21T22:20:24Z",
   "window_days": 7,
   "score": 6,
   "label": "Neutral",
-  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Wall Street rises as yields stabilize, Bitcoin extends rally (SP500:) - Seeking Alpha; Dow Jumps 518, Nasdaq Adds 113, S&P 500 Rises 33 - TV News Check. Bearish offsets: Dow surges 500 points Friday, but index posts back-to-back weekly losses: Live updates; International student enrollment falls amid tighter U.S. visa policies, reports show.",
+  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Moderna, Robinhood, Marvell, Tesla, SpaceX, and More Stocks That Explain Today\u2019s Market; Wall Street rises as yields stabilize, Bitcoin extends rally (SP500:) - Seeking Alpha. Bearish offsets: Dow surges 500 points Friday, but index posts back-to-back weekly losses: Live updates; Trump says U.S., Canada 'should be able' to reach trade deal as tariff deadline looms.",
   "articles": [
+    {
+      "title": "Moderna, Robinhood, Marvell, Tesla, SpaceX, and More Stocks That Explain Today\u2019s Market",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/m/8441cc58-de4e-35b7-8284-d4ebc8ed02e5/moderna%2C-robinhood%2C-marvell%2C.html?.tsrc=rss",
+      "published": "2026-08-21T20:18:00Z",
+      "tone": "bullish"
+    },
     {
       "title": "Dow surges 500 points Friday, but index posts back-to-back weekly losses: Live updates",
       "source": "CNBC Markets",
@@ -20,25 +27,18 @@
       "tone": "bullish"
     },
     {
+      "title": "Trump says U.S., Canada 'should be able' to reach trade deal as tariff deadline looms",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html",
+      "published": "2026-08-21T21:31:24Z",
+      "tone": "bearish"
+    },
+    {
       "title": "International student enrollment falls amid tighter U.S. visa policies, reports show",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/21/international-student-enrollment-us-visa-policies.html",
       "published": "2026-08-21T20:16:27Z",
       "tone": "bearish"
-    },
-    {
-      "title": "Dow Jumps 518, Nasdaq Adds 113, S&P 500 Rises 33 - TV News Check",
-      "source": "TV News Check",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObHNfM3ZkcHFqdVhCQXJnU3BTdzNreExBbnZuNlM1WElCSWt1YnJlY1k3cmNKZjhaM0N0eXBPbUw2Sk9KdEpfQ2lVeFVSSERNa1NfY2NTU2hqMi1uWmJOaHRsWW9aSlI5RWF2RXFrY1gzMGd5VkM0RU5SV3A3bm43bXRzakJVVjRZZGJ4SDVmbVk?oc=5",
-      "published": "2026-08-21T20:29:07Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Dow Jones Futures: Market Rally Repairs Some Damage; Nvidia, CrowdStrike, Warsh In Focus",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/0e4d198b-0fbe-345f-9a59-99f6074c2273/dow-jones-futures%3A-market.html?.tsrc=rss",
-      "published": "2026-08-21T20:48:30Z",
-      "tone": "bullish"
     }
   ],
   "data_source": {
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 14
+        "articles": 15
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -69,7 +69,7 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 92
+        "articles": 91
       }
     ],
     "headline_count": 136,
