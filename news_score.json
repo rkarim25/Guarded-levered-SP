@@ -1,10 +1,17 @@
 {
-  "generated_at_utc": "2026-08-21T11:49:58Z",
+  "generated_at_utc": "2026-08-21T12:33:26Z",
   "window_days": 7,
   "score": 6,
   "label": "Neutral",
-  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's; Bitcoin on track for 20% weekly gain as investor optimism floods back. Bearish offsets: S&P 500 and Nasdaq set for first weekly loss since late July; Jim Cramer warns of gap between stock prices and reality.",
+  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Premarket movers: Crypto stocks rally, Ross Stores jump on upbeat forecast; Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion - Barron's. Bearish offsets: S&P 500 and Nasdaq set for first weekly loss since late July.",
   "articles": [
+    {
+      "title": "Premarket movers: Crypto stocks rally, Ross Stores jump on upbeat forecast",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/premarket-movers-crypto-stocks-rally-114620552.html?.tsrc=rss",
+      "published": "2026-08-21T11:46:20Z",
+      "tone": "bullish"
+    },
     {
       "title": "S&P 500 and Nasdaq set for first weekly loss since late July",
       "source": "Yahoo Finance S&P 500",
@@ -23,22 +30,15 @@
       "title": "Bitcoin on track for 20% weekly gain as investor optimism floods back",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
-      "published": "2026-08-21T11:24:25Z",
+      "published": "2026-08-21T12:07:14Z",
       "tone": "bullish"
     },
     {
-      "title": "Jim Cramer warns of gap between stock prices and reality",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://qz.com/jim-cramer-stock-prices-market-disconnect-082126?.tsrc=rss",
-      "published": "2026-08-21T11:18:13Z",
-      "tone": "bearish"
-    },
-    {
-      "title": "Stock Market News for Aug 21, 2026",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-aug-21-090400012.html?.tsrc=rss",
-      "published": "2026-08-21T09:04:00Z",
-      "tone": "bearish"
+      "title": "Wall Street Rebounds as Treasury Buyback Plan Eases Bond Yields - Gotrade",
+      "source": "Gotrade",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdC1jblJmOHFCZHJOUjRVVFRHdl9PaGZPYmU1ZzhzMXlqTXFrZF9ZXy1LVzJJQ3BoYUVUcUhjeVd1SlJkOTVxM2R0Y25aVWJ0Tm1wRjVnSFpIa0xnTzBsRHFqVVFoZFNBMllRMnJ0SzJoV2VUazhvSnJSMXdwVGtYaVhZblRGcVBua3pWTDQyVQ?oc=5",
+      "published": "2026-08-20T09:02:00Z",
+      "tone": "bullish"
     }
   ],
   "data_source": {
