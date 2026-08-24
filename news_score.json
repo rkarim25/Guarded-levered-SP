@@ -1,15 +1,15 @@
 {
-  "generated_at_utc": "2026-08-24T11:20:49Z",
+  "generated_at_utc": "2026-08-24T11:51:46Z",
   "window_days": 7,
   "score": 5,
   "label": "Neutral",
-  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Wall Street rises as yields stabilize, Bitcoin extends rally (SP500:) - Seeking Alpha; SPX: S&P 500 Futures Flatline Ahead of Big Week. Nvidia, Iran and Fed Test Rally.` - TradingView. Bearish offsets: 'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war; Trump Just Restarted the Trade War With Canada. Should Stock Investors Be Worried? - 24/7 Wall St..",
+  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Wall Street rises as yields stabilize, Bitcoin extends rally (SP500:) - Seeking Alpha; Marvell Technology has nearly tripled in 2026. Wells Fargo says there are more gains ahead. Bearish offsets: 'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war; Trump Just Restarted the Trade War With Canada. Should Stock Investors Be Worried? - 24/7 Wall St..",
   "articles": [
     {
       "title": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html",
-      "published": "2026-08-24T11:03:57Z",
+      "published": "2026-08-24T11:42:34Z",
       "tone": "bearish"
     },
     {
@@ -27,17 +27,17 @@
       "tone": "bullish"
     },
     {
+      "title": "Marvell Technology has nearly tripled in 2026. Wells Fargo says there are more gains ahead",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/24/mrvl-has-nearly-tripled-in-2026-wells-fargo-says-there-are-more-gains-ahead.html",
+      "published": "2026-08-24T11:20:20Z",
+      "tone": "bullish"
+    },
+    {
       "title": "SPX: S&P 500 Futures Flatline Ahead of Big Week. Nvidia, Iran and Fed Test Rally.` - TradingView",
       "source": "TradingView",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWElYRE1YbXlYM2o5NXhCS1M3eTl3VUJjTnZkLV9sdkFVM3F2SHl5RDFVVm02UkszWXRHUk9yU1l1S05DRl80OFhicUk5STdhaFN0ZW4yc2g4XzJ6THV0YUE0c0gyS2FOUTM5Ml9OcnpGRTFoc1ZmODcxRmxRT2phWUI4Z0JUT0RjckR1VlVnX3k1SlkxOW9ZbnI0aXFYN21WQ040dnN4MUR2dGUyc3hfTHhXV3kwX3hpQnJBU1JkY21vUGxOR1RwdDducmtuY1dtTl9LbnZn?oc=5",
       "published": "2026-08-24T05:19:00Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Wall Street Closes Higher as All Three Major Indexes Post Gains - CryptoRank",
-      "source": "CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56VmxDY2ZyMURJWHIyTzJWRUZPYTQzaVoxZVhVRUREOVdUbVIyWlB3QXg3Q2dCd2dxNUt5ZmNralBRNHdxSk1pOTdtRl9McXhHWXNSWWhkNFI3c0R0dGxobFg2UV9mZm9ZRzY3U01rOA?oc=5",
-      "published": "2026-08-21T23:42:44Z",
       "tone": "bullish"
     }
   ],
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 89
+        "articles": 90
       }
     ],
-    "headline_count": 138,
+    "headline_count": 139,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
