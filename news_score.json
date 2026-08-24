@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24T14:35:06Z",
+  "generated_at_utc": "2026-08-24T15:32:43Z",
   "window_days": 7,
   "score": 5,
   "label": "Neutral",
@@ -9,7 +9,7 @@
       "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
-      "published": "2026-08-24T14:16:53Z",
+      "published": "2026-08-24T15:00:10Z",
       "tone": "bearish"
     },
     {
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 18
+        "articles": 19
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 89
+        "articles": 90
       }
     ],
-    "headline_count": 137,
+    "headline_count": 139,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
