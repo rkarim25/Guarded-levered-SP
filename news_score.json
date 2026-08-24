@@ -1,15 +1,29 @@
 {
-  "generated_at_utc": "2026-08-24T07:52:19Z",
+  "generated_at_utc": "2026-08-24T08:39:43Z",
   "window_days": 7,
   "score": 6,
   "label": "Neutral",
-  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Wall Street rises as yields stabilize, Bitcoin extends rally (SP500:) - Seeking Alpha; 3 Bank Stocks We Keep Off Our Radar.",
+  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Wall Street rises as yields stabilize, Bitcoin extends rally (SP500:) - Seeking Alpha; 1 Financials Stock to Own for Decades and 2 Facing Challenges. Bearish offsets: Trump Just Restarted the Trade War With Canada. Should Stock Investors Be Worried? - 24/7 Wall St..",
   "articles": [
+    {
+      "title": "Trump Just Restarted the Trade War With Canada. Should Stock Investors Be Worried? - 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY0RMaUhJblMtQ2RiNy1Jd3NJR21xY3NublZLNXA4NU1YN1NDRTN2S2tXc1ZJdFc5MkQ0WElHS2E3ZTZKRUhzS3lXRU5aU1VGb2ZLVF9uZFdlcVp6Q3lGcXpNZ0V1UGpBdVA2M0xuMEdRM2NqYUlBbnNZT1VENmNiMkJmdEg1TlM0TzcyU0lXeE04ekpkeVhZRVcyR0h6MHdQSmdudVN0NzFpMXBPdnRLS3Izemk5aFhxMFFscmJURzV0Zw?oc=5",
+      "published": "2026-08-23T15:38:20Z",
+      "tone": "bearish"
+    },
     {
       "title": "Wall Street rises as yields stabilize, Bitcoin extends rally (SP500:) - Seeking Alpha",
       "source": "Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSTMtR0Z5ZjhkVHRPQ2thMjFHaW9mQ2taVnR4eGxxam1EQkJPMnRvQ3gwZkRjVzFNYmZ3UXZYbHJLMTA5cmhJZUtrbDd4UzVKSjN2cC1CTGtacGMwd1lKZjRuU0xmTGZaQ19UeVBkSG9hcUdwdGNPdDBQNjN5RENPZGI5VWlOYnFi?oc=5",
       "published": "2026-08-21T13:32:00Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "1 Financials Stock to Own for Decades and 2 Facing Challenges",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-financials-stock-own-decades-080136512.html?.tsrc=rss",
+      "published": "2026-08-24T08:01:36Z",
       "tone": "bullish"
     },
     {
@@ -24,20 +38,6 @@
       "source": "TradingView",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWElYRE1YbXlYM2o5NXhCS1M3eTl3VUJjTnZkLV9sdkFVM3F2SHl5RDFVVm02UkszWXRHUk9yU1l1S05DRl80OFhicUk5STdhaFN0ZW4yc2g4XzJ6THV0YUE0c0gyS2FOUTM5Ml9OcnpGRTFoc1ZmODcxRmxRT2phWUI4Z0JUT0RjckR1VlVnX3k1SlkxOW9ZbnI0aXFYN21WQ040dnN4MUR2dGUyc3hfTHhXV3kwX3hpQnJBU1JkY21vUGxOR1RwdDducmtuY1dtTl9LbnZn?oc=5",
       "published": "2026-08-24T05:19:00Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Microsoft Stock Dropped 30% From Its All-Time High: 2 Reasons It Could Double by 2030",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://www.fool.com/investing/2026/08/23/microsoft-stock-dropped-30-from-its-all-time-high/?.tsrc=rss",
-      "published": "2026-08-23T11:44:00Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Wall Street Closes Higher as All Three Major Indexes Post Gains - CryptoRank",
-      "source": "CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56VmxDY2ZyMURJWHIyTzJWRUZPYTQzaVoxZVhVRUREOVdUbVIyWlB3QXg3Q2dCd2dxNUt5ZmNralBRNHdxSk1pOTdtRl9McXhHWXNSWWhkNFI3c0R0dGxobFg2UV9mZm9ZRzY3U01rOA?oc=5",
-      "published": "2026-08-21T23:42:44Z",
       "tone": "bullish"
     }
   ],
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 87
+        "articles": 88
       }
     ],
-    "headline_count": 137,
+    "headline_count": 138,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
