@@ -1,16 +1,16 @@
 {
-  "generated_at_utc": "2026-08-24T17:05:09Z",
+  "generated_at_utc": "2026-08-24T21:19:13Z",
   "window_days": 7,
   "score": 5,
   "label": "Neutral",
-  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: ATI Shares Rally 28% in 3 Months: What's Driving the Upside?. Bearish offsets: Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates; JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St..",
+  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Why bitcoin has more room to run after biggest 3-day gain since 2023, according to analysts; AMN Stock Rallies Nearly 119% YTD: What's Behind the Momentum?. Bearish offsets: JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St.; From Nvidia earnings to trade war tape bombs, a simple strategy could be this week's best bet.",
   "articles": [
     {
-      "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
+      "title": "Why bitcoin has more room to run after biggest 3-day gain since 2023, according to analysts",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
-      "published": "2026-08-24T16:31:04Z",
-      "tone": "bearish"
+      "url": "https://www.cnbc.com/2026/08/24/bitcoin-has-more-room-to-run-after-explosive-rebound-analysts-say.html",
+      "published": "2026-08-24T18:14:03Z",
+      "tone": "bullish"
     },
     {
       "title": "JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St.",
@@ -18,6 +18,13 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSHI3UklrTVpmcldIQk9wTF9sY095Y3hoQzBkdHRNS3N1dVItbDEwV0ZPVHBuN0Y1NkVQVGlES2lKdE96c01zbHI1aUk2RFJyWXE5NEZGR2tTUkZhN1JnR1YtNnYxYUVHMEd4b1l6UUtJUVFYMFVkUXZTbGJ5ZUphLVRCWmp6RnI0M0l1eEJXVlk5VzE1bm54d1d2Vk5iVXZwQ1JIYzl2Ung1MnlrNjl3TG1GeHR3bm9ZZ2ljVA?oc=5",
       "published": "2026-08-24T12:20:53Z",
       "tone": "bearish"
+    },
+    {
+      "title": "AMN Stock Rallies Nearly 119% YTD: What's Behind the Momentum?",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/healthcare/articles/amn-stock-rallies-nearly-119-182300380.html?.tsrc=rss",
+      "published": "2026-08-24T18:23:00Z",
+      "tone": "bullish"
     },
     {
       "title": "From Nvidia earnings to trade war tape bombs, a simple strategy could be this week's best bet",
@@ -32,13 +39,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY0RMaUhJblMtQ2RiNy1Jd3NJR21xY3NublZLNXA4NU1YN1NDRTN2S2tXc1ZJdFc5MkQ0WElHS2E3ZTZKRUhzS3lXRU5aU1VGb2ZLVF9uZFdlcVp6Q3lGcXpNZ0V1UGpBdVA2M0xuMEdRM2NqYUlBbnNZT1VENmNiMkJmdEg1TlM0TzcyU0lXeE04ekpkeVhZRVcyR0h6MHdQSmdudVN0NzFpMXBPdnRLS3Izemk5aFhxMFFscmJURzV0Zw?oc=5",
       "published": "2026-08-23T15:38:20Z",
       "tone": "bearish"
-    },
-    {
-      "title": "ATI Shares Rally 28% in 3 Months: What's Driving the Upside?",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ati-shares-rally-28-3-165200095.html?.tsrc=rss",
-      "published": "2026-08-24T16:52:00Z",
-      "tone": "bullish"
     }
   ],
   "data_source": {
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 18
+        "articles": 17
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 90
+        "articles": 88
       }
     ],
-    "headline_count": 138,
+    "headline_count": 135,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
