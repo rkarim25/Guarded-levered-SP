@@ -1,10 +1,17 @@
 {
-  "generated_at_utc": "2026-08-24T11:51:46Z",
+  "generated_at_utc": "2026-08-24T12:35:24Z",
   "window_days": 7,
   "score": 5,
   "label": "Neutral",
-  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Wall Street rises as yields stabilize, Bitcoin extends rally (SP500:) - Seeking Alpha; Marvell Technology has nearly tripled in 2026. Wells Fargo says there are more gains ahead. Bearish offsets: 'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war; Trump Just Restarted the Trade War With Canada. Should Stock Investors Be Worried? - 24/7 Wall St..",
+  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: CoreWeave shares are set to nearly double even as chip costs rise, Truist says; Wall Street rises as yields stabilize, Bitcoin extends rally (SP500:) - Seeking Alpha. Bearish offsets: JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy; 'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war.",
   "articles": [
+    {
+      "title": "JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://247wallst.com/investing/2026/08/24/jpmorgan-warns-of-fall-sell-off-potential-5-defensive-dividend-stocks-to-buy/?.tsrc=rss",
+      "published": "2026-08-24T12:20:53Z",
+      "tone": "bearish"
+    },
     {
       "title": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war",
       "source": "CNBC Markets",
@@ -20,24 +27,17 @@
       "tone": "bearish"
     },
     {
+      "title": "CoreWeave shares are set to nearly double even as chip costs rise, Truist says",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/24/coreweave-shares-are-set-to-nearly-double-even-as-chip-costs-rise-truist-says.html",
+      "published": "2026-08-24T12:08:06Z",
+      "tone": "bullish"
+    },
+    {
       "title": "Wall Street rises as yields stabilize, Bitcoin extends rally (SP500:) - Seeking Alpha",
       "source": "Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSTMtR0Z5ZjhkVHRPQ2thMjFHaW9mQ2taVnR4eGxxam1EQkJPMnRvQ3gwZkRjVzFNYmZ3UXZYbHJLMTA5cmhJZUtrbDd4UzVKSjN2cC1CTGtacGMwd1lKZjRuU0xmTGZaQ19UeVBkSG9hcUdwdGNPdDBQNjN5RENPZGI5VWlOYnFi?oc=5",
       "published": "2026-08-21T13:32:00Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Marvell Technology has nearly tripled in 2026. Wells Fargo says there are more gains ahead",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/24/mrvl-has-nearly-tripled-in-2026-wells-fargo-says-there-are-more-gains-ahead.html",
-      "published": "2026-08-24T11:20:20Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "SPX: S&P 500 Futures Flatline Ahead of Big Week. Nvidia, Iran and Fed Test Rally.` - TradingView",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWElYRE1YbXlYM2o5NXhCS1M3eTl3VUJjTnZkLV9sdkFVM3F2SHl5RDFVVm02UkszWXRHUk9yU1l1S05DRl80OFhicUk5STdhaFN0ZW4yc2g4XzJ6THV0YUE0c0gyS2FOUTM5Ml9OcnpGRTFoc1ZmODcxRmxRT2phWUI4Z0JUT0RjckR1VlVnX3k1SlkxOW9ZbnI0aXFYN21WQ040dnN4MUR2dGUyc3hfTHhXV3kwX3hpQnJBU1JkY21vUGxOR1RwdDducmtuY1dtTl9LbnZn?oc=5",
-      "published": "2026-08-24T05:19:00Z",
       "tone": "bullish"
     }
   ],
