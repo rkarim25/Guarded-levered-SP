@@ -1,15 +1,15 @@
 {
-  "generated_at_utc": "2026-08-24T10:31:11Z",
+  "generated_at_utc": "2026-08-24T11:20:49Z",
   "window_days": 7,
   "score": 5,
   "label": "Neutral",
-  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Wall Street rises as yields stabilize, Bitcoin extends rally (SP500:) - Seeking Alpha; 1 Financials Stock to Own for Decades and 2 Facing Challenges. Bearish offsets: 'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war; Trump Just Restarted the Trade War With Canada. Should Stock Investors Be Worried? - 24/7 Wall St..",
+  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Wall Street rises as yields stabilize, Bitcoin extends rally (SP500:) - Seeking Alpha; SPX: S&P 500 Futures Flatline Ahead of Big Week. Nvidia, Iran and Fed Test Rally.` - TradingView. Bearish offsets: 'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war; Trump Just Restarted the Trade War With Canada. Should Stock Investors Be Worried? - 24/7 Wall St..",
   "articles": [
     {
       "title": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html",
-      "published": "2026-08-24T10:25:05Z",
+      "published": "2026-08-24T11:03:57Z",
       "tone": "bearish"
     },
     {
@@ -27,17 +27,17 @@
       "tone": "bullish"
     },
     {
-      "title": "1 Financials Stock to Own for Decades and 2 Facing Challenges",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/1-financials-stock-own-decades-080136512.html?.tsrc=rss",
-      "published": "2026-08-24T08:01:36Z",
+      "title": "SPX: S&P 500 Futures Flatline Ahead of Big Week. Nvidia, Iran and Fed Test Rally.` - TradingView",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWElYRE1YbXlYM2o5NXhCS1M3eTl3VUJjTnZkLV9sdkFVM3F2SHl5RDFVVm02UkszWXRHUk9yU1l1S05DRl80OFhicUk5STdhaFN0ZW4yc2g4XzJ6THV0YUE0c0gyS2FOUTM5Ml9OcnpGRTFoc1ZmODcxRmxRT2phWUI4Z0JUT0RjckR1VlVnX3k1SlkxOW9ZbnI0aXFYN21WQ040dnN4MUR2dGUyc3hfTHhXV3kwX3hpQnJBU1JkY21vUGxOR1RwdDducmtuY1dtTl9LbnZn?oc=5",
+      "published": "2026-08-24T05:19:00Z",
       "tone": "bullish"
     },
     {
-      "title": "3 Bank Stocks We Keep Off Our Radar",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-bank-stocks-keep-off-073736275.html?.tsrc=rss",
-      "published": "2026-08-24T07:37:36Z",
+      "title": "Wall Street Closes Higher as All Three Major Indexes Post Gains - CryptoRank",
+      "source": "CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56VmxDY2ZyMURJWHIyTzJWRUZPYTQzaVoxZVhVRUREOVdUbVIyWlB3QXg3Q2dCd2dxNUt5ZmNralBRNHdxSk1pOTdtRl9McXhHWXNSWWhkNFI3c0R0dGxobFg2UV9mZm9ZRzY3U01rOA?oc=5",
+      "published": "2026-08-21T23:42:44Z",
       "tone": "bullish"
     }
   ],
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 88
+        "articles": 89
       }
     ],
-    "headline_count": 137,
+    "headline_count": 138,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
