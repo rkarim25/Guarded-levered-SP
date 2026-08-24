@@ -1,15 +1,15 @@
 {
-  "generated_at_utc": "2026-08-24T09:39:41Z",
+  "generated_at_utc": "2026-08-24T10:31:11Z",
   "window_days": 7,
-  "score": 6,
+  "score": 5,
   "label": "Neutral",
-  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Wall Street rises as yields stabilize, Bitcoin extends rally (SP500:) - Seeking Alpha; 1 Financials Stock to Own for Decades and 2 Facing Challenges. Bearish offsets: 'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war; Trump Just Restarted the Trade War With Canada. Should Stock Investors Be Worried? - 24/7 Wall St..",
+  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Wall Street rises as yields stabilize, Bitcoin extends rally (SP500:) - Seeking Alpha; 1 Financials Stock to Own for Decades and 2 Facing Challenges. Bearish offsets: 'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war; Trump Just Restarted the Trade War With Canada. Should Stock Investors Be Worried? - 24/7 Wall St..",
   "articles": [
     {
       "title": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html",
-      "published": "2026-08-24T09:11:23Z",
+      "published": "2026-08-24T10:25:05Z",
       "tone": "bearish"
     },
     {
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 20
+        "articles": 19
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -72,7 +72,7 @@
         "articles": 88
       }
     ],
-    "headline_count": 138,
+    "headline_count": 137,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
