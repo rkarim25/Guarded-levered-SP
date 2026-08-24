@@ -1,15 +1,15 @@
 {
-  "generated_at_utc": "2026-08-24T15:32:43Z",
+  "generated_at_utc": "2026-08-24T16:27:56Z",
   "window_days": 7,
   "score": 5,
   "label": "Neutral",
-  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Crypto extends gains after biggest 3-day rally since 2023; Wall Street rises as yields stabilize, Bitcoin extends rally (SP500:) - Seeking Alpha. Bearish offsets: Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates; JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St..",
+  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Crypto extends gains after biggest 3-day rally since 2023. Bearish offsets: Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates; JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St..",
   "articles": [
     {
       "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
-      "published": "2026-08-24T15:00:10Z",
+      "published": "2026-08-24T15:45:13Z",
       "tone": "bearish"
     },
     {
@@ -17,6 +17,13 @@
       "source": "24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSHI3UklrTVpmcldIQk9wTF9sY095Y3hoQzBkdHRNS3N1dVItbDEwV0ZPVHBuN0Y1NkVQVGlES2lKdE96c01zbHI1aUk2RFJyWXE5NEZGR2tTUkZhN1JnR1YtNnYxYUVHMEd4b1l6UUtJUVFYMFVkUXZTbGJ5ZUphLVRCWmp6RnI0M0l1eEJXVlk5VzE1bm54d1d2Vk5iVXZwQ1JIYzl2Ung1MnlrNjl3TG1GeHR3bm9ZZ2ljVA?oc=5",
       "published": "2026-08-24T12:20:53Z",
+      "tone": "bearish"
+    },
+    {
+      "title": "From Nvidia earnings to trade war tape bombs, a simple strategy could be this week's best bet",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/24/from-nvidia-earnings-to-trade-war-tape-bombs-a-simple-strategy-could-be-this-weeks-best-bet.html",
+      "published": "2026-08-24T16:07:35Z",
       "tone": "bearish"
     },
     {
@@ -32,13 +39,6 @@
       "url": "https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html",
       "published": "2026-08-24T14:02:54Z",
       "tone": "bullish"
-    },
-    {
-      "title": "Wall Street rises as yields stabilize, Bitcoin extends rally (SP500:) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSTMtR0Z5ZjhkVHRPQ2thMjFHaW9mQ2taVnR4eGxxam1EQkJPMnRvQ3gwZkRjVzFNYmZ3UXZYbHJLMTA5cmhJZUtrbDd4UzVKSjN2cC1CTGtacGMwd1lKZjRuU0xmTGZaQ19UeVBkSG9hcUdwdGNPdDBQNjN5RENPZGI5VWlOYnFi?oc=5",
-      "published": "2026-08-21T13:32:00Z",
-      "tone": "bullish"
     }
   ],
   "data_source": {
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 19
+        "articles": 18
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 90
+        "articles": 88
       }
     ],
-    "headline_count": 139,
+    "headline_count": 136,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
