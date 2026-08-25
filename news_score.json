@@ -1,17 +1,10 @@
 {
-  "generated_at_utc": "2026-08-25T11:27:52Z",
+  "generated_at_utc": "2026-08-25T11:54:41Z",
   "window_days": 7,
-  "score": 5,
+  "score": 6,
   "label": "Neutral",
-  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Why bitcoin has more room to run after biggest 3-day gain since 2023, according to analysts. Bearish offsets: Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates; JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St..",
+  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Why bitcoin has more room to run after biggest 3-day gain since 2023, according to analysts; US Stock Market Prediction: Dow Jones Futures Rise, S&P 500 Futures Hold Higher & Nasdaq Futures Remain Flat After Wall Street Rebound; Check Monday Market Outlook & Key Things To Watch - The Sunday Guardian. Bearish offsets: JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St.; Trump Just Restarted the Trade War With Canada. Should Stock Investors Be Worried? - 24/7 Wall St..",
   "articles": [
-    {
-      "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
-      "published": "2026-08-24T23:27:01Z",
-      "tone": "bearish"
-    },
     {
       "title": "Why bitcoin has more room to run after biggest 3-day gain since 2023, according to analysts",
       "source": "CNBC Markets",
@@ -27,18 +20,25 @@
       "tone": "bearish"
     },
     {
-      "title": "LIVE | US Stock Market Today: Dow Jones Gains 0.31%, S&P 500 & Nasdaq Drops 0.94% as Oil Prices Falls; Nvidia Earnings, Micron, Intel & AMD Lead Tech Sell-Off \u2014 What Investors Should Watch - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOcmJsX2ZqV2xuNTlrdFlpaGh5MVhaTXNSSmJRVTBGRkFoOFdoUkI1VGdvQWc2clhTSXlWZmgzYmVOdi1XYWdDTEJkQUlwNzVvRUlDUVlBb0s0bEdVdU8waGpScGFET1cxWS1sR1luaHZENy1ENVM3czFxdGh0M0NfS0NJenNPTTliMTY0VktDSkdjNmdhVV9sTTNZVnpIMUVhaEJ2WWh5ajhnSmRHNXk2d1NfcW9obHk4aElYVkFaVExxM0dZaU5jQU5Xc3RGVVZvVHYyYWVpMXZHazVjeXowaC1LZzJ0SnVlUUJKY1BmWDYtVkM5WXJDY3R5OXBMUXZncjFoVGNyYUhRSGZmWEQ2MFRUVEZVdHlLU1lnS0lKdVdyNWdCc2ZFWEVzSkE3UzZpMmJMMlF3bHVLTjZ4ZVBtYkx1eEzSAcQCQVVfeXFMTnJibF9maldsbjU5a3RZaWhoeTFYWk1zUkpiUVUwRkZBaDhXaFJCNVRnb0FnNnJYU0l5VmZoM2JlTnYtV2FnQ0xCZEFJcDc1b0VJQ1FZQW9LNGxHVXVPMGhqUnBhRE9XMVktbEdZbmh2RDctRDVTN3MxcXRodDNDX0tDSXpzT005YjE2NFZLQ0pHYzZnYVVfbE0zWVZ6SDFFYWhCdlloeWo4Z0pkRzV5NndTX3FvaGx5OGhJWFZBWlRMcTNHWWlOY0FOV3N0RlVWb1R2MmFlaTF2R2s1Y3l6MGgtS2cydEp1ZVFCSmNQZlg2LVZDOVlyQ2N0eTlwTFF2Z3IxaFRjcmFIUUhmZlhENjBUVFRGVXR5S1NZZ0tJSnVXcjVnQnNmRVhFc0pBN1M2aTJiTDJRd2x1S042eGVQbWJMdXhM?oc=5",
-      "published": "2026-08-24T14:34:20Z",
-      "tone": "bearish"
-    },
-    {
       "title": "Trump Just Restarted the Trade War With Canada. Should Stock Investors Be Worried? - 24/7 Wall St.",
       "source": "24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY0RMaUhJblMtQ2RiNy1Jd3NJR21xY3NublZLNXA4NU1YN1NDRTN2S2tXc1ZJdFc5MkQ0WElHS2E3ZTZKRUhzS3lXRU5aU1VGb2ZLVF9uZFdlcVp6Q3lGcXpNZ0V1UGpBdVA2M0xuMEdRM2NqYUlBbnNZT1VENmNiMkJmdEg1TlM0TzcyU0lXeE04ekpkeVhZRVcyR0h6MHdQSmdudVN0NzFpMXBPdnRLS3Izemk5aFhxMFFscmJURzV0Zw?oc=5",
       "published": "2026-08-23T15:38:20Z",
       "tone": "bearish"
+    },
+    {
+      "title": "US Stock Market Prediction: Dow Jones Futures Rise, S&P 500 Futures Hold Higher & Nasdaq Futures Remain Flat After Wall Street Rebound; Check Monday Market Outlook & Key Things To Watch - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPZjBZU2tsR3ZFWWtDVTVyOWxZOTJsa3paTHlQMndxNmpCeGtXalkzYTEyNjdINV9PVkg1WjE2RThKbnFfRlhJaUFUUGM3cTNsTkVuRFpBN3lWa0pnSTAxaGo0ZzYyWHlYOU91VU5BTWp1Qi1xbTZ3U2FjVU54eHdCRFI0UngxXzJjZVRoUWswTmV3cVQybk5BQTN3TVBQYUdEVGY1ajJzRmhKdEZ4ZVlFSW04S1B2Z19sM3NORVBnUVduT3E0cVJoNS03c2JGMXU4SG9IWXdPeHZ2d0lqSGFUbEZTRF9XTGR3VXNsUkxOcUZKcFZSa2RPTTJsc3I2OFRiOHc1U0dYR3R4aVdOb0RlblhFeE9Qeno1WmJLak56OW5DMWdSRG8zd2psTm1tY29wTnBfTUVpSTY0dlpudDI0SFp6aGE0WTFn0gHOAkFVX3lxTE9qam9raTBXNTQyS1NwVUczdHpCZzJUZDR0TkNTUkZIWnE2Y3BSTzZIeUZuUHU0aV9GTG94akNxV3hodmJKYTd6SndsQ3dPREI0b1I0cElwSzEwV3dTRzZlcUpVZnFhTkZEQ0U5QXBnNWR4dThuMzJqMXlSRVNYQXZqTDY2VmN6UlpwNmFLSlEtOF8xOVdMenYtdXRwRGJXLU14OEpGWkJZSkppUEM0aXNBV3RDWWh1TDk5WUdmYXZya2d4X2NtWnl4WlpiZEdfWFYtQUNMRUpfS0xvYkNPQ1U5WEdndTFIUjlsajFlR3AtREd0UEFCVHU2TjlaMHItYkhqQlh2clAzcG9XV3FkVTZLRzRUaGUzSnJEN1V0MC1uMkZTdFZDaXpNOVBjYVM4NVFYVkVrc3dtQ0VxVlkwQkZLeXJYQXZhN1RIWFZVZGc?oc=5",
+      "published": "2026-08-22T18:00:43Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "Wall Street Futures Rise as Iran Sanctions, Nvidia Earnings and Bitcoin Rally Take Focus: Dow Jones, S&P, Nasdaq - Yahoo Finance UK",
+      "source": "Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTC1QZXVDWmxIWUVVb0RwNGZHVmdhVVkwZjRIdzVCRDdyaERScGdHbTZmb0kzX0phdkk3OWdCZkdpYVB0UWVra3UxNFJCa0VCX0pHNHhIZE8xclI2QTVkTkdFbXFCQjdYdHB6cURNNnZzcVRQLXpzVU9FNEp1d3pySFhISjE?oc=5",
+      "published": "2026-08-25T09:23:52Z",
+      "tone": "bullish"
     }
   ],
   "data_source": {
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 20
+        "articles": 19
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -69,7 +69,7 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 87
+        "articles": 88
       }
     ],
     "headline_count": 137,
