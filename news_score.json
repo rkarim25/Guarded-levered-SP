@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-25T14:37:32Z",
+  "generated_at_utc": "2026-08-25T15:35:56Z",
   "window_days": 7,
-  "score": 4,
+  "score": 5,
   "label": "Neutral",
-  "explanation": "4/10 is neutral from a 7-day headline keyword scan. Bearish offsets: JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St.; LIVE | US Stock Market Today: Dow Jones Gains 0.31%, S&P 500 & Nasdaq Drops 0.94% as Oil Prices Falls; Nvidia Earnings, Micron, Intel & AMD Lead Tech Sell-Off \u2014 What Investors Should Watch - The Sunday Guardian.",
+  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Bitcoin price extends gains, briefly tops $81,000 as crypto rally gathers pace. Bearish offsets: JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St.; LIVE | US Stock Market Today: Dow Jones Gains 0.31%, S&P 500 & Nasdaq Drops 0.94% as Oil Prices Falls; Nvidia Earnings, Micron, Intel & AMD Lead Tech Sell-Off \u2014 What Investors Should Watch - The Sunday Guardian.",
   "articles": [
     {
       "title": "JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St.",
@@ -34,11 +34,11 @@
       "tone": "bearish"
     },
     {
-      "title": "Stock Market News for Aug 25, 2026",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-aug-25-132700491.html?.tsrc=rss",
-      "published": "2026-08-25T13:27:00Z",
-      "tone": "bearish"
+      "title": "Bitcoin price extends gains, briefly tops $81,000 as crypto rally gathers pace",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
+      "published": "2026-08-25T13:09:31Z",
+      "tone": "bullish"
     }
   ],
   "data_source": {
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 18
+        "articles": 20
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 91
+        "articles": 94
       }
     ],
-    "headline_count": 139,
+    "headline_count": 144,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
