@@ -1,15 +1,22 @@
 {
-  "generated_at_utc": "2026-08-25T12:35:04Z",
+  "generated_at_utc": "2026-08-25T13:42:57Z",
   "window_days": 7,
-  "score": 5,
+  "score": 4,
   "label": "Neutral",
-  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: US Stock Market Prediction: Dow Jones Futures Rise, S&P 500 Futures Hold Higher & Nasdaq Futures Remain Flat After Wall Street Rebound; Check Monday Market Outlook & Key Things To Watch - The Sunday Guardian; Stock futures rise as Treasury yields decline, chipmakers gain ahead of Nvidia earnings: Live updates. Bearish offsets: JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St.; Trump Just Restarted the Trade War With Canada. Should Stock Investors Be Worried? - 24/7 Wall St..",
+  "explanation": "4/10 is neutral from a 7-day headline keyword scan. Bullish drivers: US Stock Market Prediction: Dow Jones Futures Rise, S&P 500 Futures Hold Higher & Nasdaq Futures Remain Flat After Wall Street Rebound; Check Monday Market Outlook & Key Things To Watch - The Sunday Guardian. Bearish offsets: JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St.; LIVE | US Stock Market Today: Dow Jones Gains 0.31%, S&P 500 & Nasdaq Drops 0.94% as Oil Prices Falls; Nvidia Earnings, Micron, Intel & AMD Lead Tech Sell-Off \u2014 What Investors Should Watch - The Sunday Guardian.",
   "articles": [
     {
       "title": "JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St.",
       "source": "24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSHI3UklrTVpmcldIQk9wTF9sY095Y3hoQzBkdHRNS3N1dVItbDEwV0ZPVHBuN0Y1NkVQVGlES2lKdE96c01zbHI1aUk2RFJyWXE5NEZGR2tTUkZhN1JnR1YtNnYxYUVHMEd4b1l6UUtJUVFYMFVkUXZTbGJ5ZUphLVRCWmp6RnI0M0l1eEJXVlk5VzE1bm54d1d2Vk5iVXZwQ1JIYzl2Ung1MnlrNjl3TG1GeHR3bm9ZZ2ljVA?oc=5",
       "published": "2026-08-24T12:20:53Z",
+      "tone": "bearish"
+    },
+    {
+      "title": "LIVE | US Stock Market Today: Dow Jones Gains 0.31%, S&P 500 & Nasdaq Drops 0.94% as Oil Prices Falls; Nvidia Earnings, Micron, Intel & AMD Lead Tech Sell-Off \u2014 What Investors Should Watch - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOcmJsX2ZqV2xuNTlrdFlpaGh5MVhaTXNSSmJRVTBGRkFoOFdoUkI1VGdvQWc2clhTSXlWZmgzYmVOdi1XYWdDTEJkQUlwNzVvRUlDUVlBb0s0bEdVdU8waGpScGFET1cxWS1sR1luaHZENy1ENVM3czFxdGh0M0NfS0NJenNPTTliMTY0VktDSkdjNmdhVV9sTTNZVnpIMUVhaEJ2WWh5ajhnSmRHNXk2d1NfcW9obHk4aElYVkFaVExxM0dZaU5jQU5Xc3RGVVZvVHYyYWVpMXZHazVjeXowaC1LZzJ0SnVlUUJKY1BmWDYtVkM5WXJDY3R5OXBMUXZncjFoVGNyYUhRSGZmWEQ2MFRUVEZVdHlLU1lnS0lKdVdyNWdCc2ZFWEVzSkE3UzZpMmJMMlF3bHVLTjZ4ZVBtYkx1eEzSAcQCQVVfeXFMTnJibF9maldsbjU5a3RZaWhoeTFYWk1zUkpiUVUwRkZBaDhXaFJCNVRnb0FnNnJYU0l5VmZoM2JlTnYtV2FnQ0xCZEFJcDc1b0VJQ1FZQW9LNGxHVXVPMGhqUnBhRE9XMVktbEdZbmh2RDctRDVTN3MxcXRodDNDX0tDSXpzT005YjE2NFZLQ0pHYzZnYVVfbE0zWVZ6SDFFYWhCdlloeWo4Z0pkRzV5NndTX3FvaGx5OGhJWFZBWlRMcTNHWWlOY0FOV3N0RlVWb1R2MmFlaTF2R2s1Y3l6MGgtS2cydEp1ZVFCSmNQZlg2LVZDOVlyQ2N0eTlwTFF2Z3IxaFRjcmFIUUhmZlhENjBUVFRGVXR5S1NZZ0tJSnVXcjVnQnNmRVhFc0pBN1M2aTJiTDJRd2x1S042eGVQbWJMdXhM?oc=5",
+      "published": "2026-08-24T14:34:20Z",
       "tone": "bearish"
     },
     {
@@ -27,18 +34,11 @@
       "tone": "bullish"
     },
     {
-      "title": "Stock futures rise as Treasury yields decline, chipmakers gain ahead of Nvidia earnings: Live updates",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html",
-      "published": "2026-08-25T12:11:24Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Wall Street Futures Rise as Iran Sanctions, Nvidia Earnings and Bitcoin Rally Take Focus: Dow Jones, S&P, Nasdaq - Yahoo Finance UK",
-      "source": "Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTC1QZXVDWmxIWUVVb0RwNGZHVmdhVVkwZjRIdzVCRDdyaERScGdHbTZmb0kzX0phdkk3OWdCZkdpYVB0UWVra3UxNFJCa0VCX0pHNHhIZE8xclI2QTVkTkdFbXFCQjdYdHB6cURNNnZzcVRQLXpzVU9FNEp1d3pySFhISjE?oc=5",
-      "published": "2026-08-25T09:23:52Z",
-      "tone": "bullish"
+      "title": "Stock Market News for Aug 25, 2026",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-aug-25-132700491.html?.tsrc=rss",
+      "published": "2026-08-25T13:27:00Z",
+      "tone": "bearish"
     }
   ],
   "data_source": {
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 91
+        "articles": 89
       }
     ],
-    "headline_count": 141,
+    "headline_count": 139,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
