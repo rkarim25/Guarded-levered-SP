@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-25T08:34:07Z",
+  "generated_at_utc": "2026-08-25T09:28:26Z",
   "window_days": 7,
   "score": 5,
   "label": "Neutral",
-  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Why bitcoin has more room to run after biggest 3-day gain since 2023, according to analysts; Bitcoin price extends gains as crypto rally gathers pace. Bearish offsets: Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates; JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St..",
+  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Why bitcoin has more room to run after biggest 3-day gain since 2023, according to analysts; US Stock Market Prediction: Dow Jones Futures Rise, S&P 500 Futures Hold Higher & Nasdaq Futures Remain Flat After Wall Street Rebound; Check Monday Market Outlook & Key Things To Watch - The Sunday Guardian. Bearish offsets: Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates; JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St..",
   "articles": [
     {
       "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
@@ -34,10 +34,10 @@
       "tone": "bearish"
     },
     {
-      "title": "Bitcoin price extends gains as crypto rally gathers pace",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
-      "published": "2026-08-25T08:29:11Z",
+      "title": "US Stock Market Prediction: Dow Jones Futures Rise, S&P 500 Futures Hold Higher & Nasdaq Futures Remain Flat After Wall Street Rebound; Check Monday Market Outlook & Key Things To Watch - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPZjBZU2tsR3ZFWWtDVTVyOWxZOTJsa3paTHlQMndxNmpCeGtXalkzYTEyNjdINV9PVkg1WjE2RThKbnFfRlhJaUFUUGM3cTNsTkVuRFpBN3lWa0pnSTAxaGo0ZzYyWHlYOU91VU5BTWp1Qi1xbTZ3U2FjVU54eHdCRFI0UngxXzJjZVRoUWswTmV3cVQybk5BQTN3TVBQYUdEVGY1ajJzRmhKdEZ4ZVlFSW04S1B2Z19sM3NORVBnUVduT3E0cVJoNS03c2JGMXU4SG9IWXdPeHZ2d0lqSGFUbEZTRF9XTGR3VXNsUkxOcUZKcFZSa2RPTTJsc3I2OFRiOHc1U0dYR3R4aVdOb0RlblhFeE9Qeno1WmJLak56OW5DMWdSRG8zd2psTm1tY29wTnBfTUVpSTY0dlpudDI0SFp6aGE0WTFn0gHOAkFVX3lxTE9qam9raTBXNTQyS1NwVUczdHpCZzJUZDR0TkNTUkZIWnE2Y3BSTzZIeUZuUHU0aV9GTG94akNxV3hodmJKYTd6SndsQ3dPREI0b1I0cElwSzEwV3dTRzZlcUpVZnFhTkZEQ0U5QXBnNWR4dThuMzJqMXlSRVNYQXZqTDY2VmN6UlpwNmFLSlEtOF8xOVdMenYtdXRwRGJXLU14OEpGWkJZSkppUEM0aXNBV3RDWWh1TDk5WUdmYXZya2d4X2NtWnl4WlpiZEdfWFYtQUNMRUpfS0xvYkNPQ1U5WEdndTFIUjlsajFlR3AtREd0UEFCVHU2TjlaMHItYkhqQlh2clAzcG9XV3FkVTZLRzRUaGUzSnJEN1V0MC1uMkZTdFZDaXpNOVBjYVM4NVFYVkVrc3dtQ0VxVlkwQkZLeXJYQXZhN1RIWFZVZGc?oc=5",
+      "published": "2026-08-22T18:00:43Z",
       "tone": "bullish"
     }
   ],
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 19
+        "articles": 20
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 88
+        "articles": 86
       }
     ],
-    "headline_count": 137,
+    "headline_count": 136,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
