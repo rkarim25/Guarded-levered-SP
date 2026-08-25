@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-25T17:05:44Z",
+  "generated_at_utc": "2026-08-25T21:17:37Z",
   "window_days": 7,
   "score": 5,
   "label": "Neutral",
-  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Bitcoin price extends gains, briefly tops $81,000 as crypto rally gathers pace; ET Stock Rallies Past Industry in a Month: Should You Buy or Hold?. Bearish offsets: JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St.; Trump Just Restarted the Trade War With Canada. Should Stock Investors Be Worried? - 24/7 Wall St..",
+  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Bitcoin price extends gains, briefly tops $81,000 as crypto rally gathers pace; Wall Street rises as yields stabilize, Bitcoin extends rally (SP500:) - Seeking Alpha. Bearish offsets: JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St.; Trump Just Restarted the Trade War With Canada. Should Stock Investors Be Worried? - 24/7 Wall St..",
   "articles": [
     {
       "title": "JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St.",
@@ -23,7 +23,7 @@
       "title": "Why Dick\u2019s Sporting Goods\u2019 Same-Store Sales Ring Warning Bells",
       "source": "Yahoo Finance S&P 500",
       "url": "https://finance.yahoo.com/m/96c519d8-49a4-3823-9a77-01bf8f822224/why-dick%E2%80%99s-sporting-goods%E2%80%99.html?.tsrc=rss",
-      "published": "2026-08-25T15:46:00Z",
+      "published": "2026-08-25T18:52:00Z",
       "tone": "bearish"
     },
     {
@@ -34,10 +34,10 @@
       "tone": "bullish"
     },
     {
-      "title": "ET Stock Rallies Past Industry in a Month: Should You Buy or Hold?",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/et-stock-rallies-past-industry-155400611.html?.tsrc=rss",
-      "published": "2026-08-25T15:54:00Z",
+      "title": "Wall Street rises as yields stabilize, Bitcoin extends rally (SP500:) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSTMtR0Z5ZjhkVHRPQ2thMjFHaW9mQ2taVnR4eGxxam1EQkJPMnRvQ3gwZkRjVzFNYmZ3UXZYbHJLMTA5cmhJZUtrbDd4UzVKSjN2cC1CTGtacGMwd1lKZjRuU0xmTGZaQ19UeVBkSG9hcUdwdGNPdDBQNjN5RENPZGI5VWlOYnFi?oc=5",
+      "published": "2026-08-21T13:32:00Z",
       "tone": "bullish"
     }
   ],
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 20
+        "articles": 19
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -72,7 +72,7 @@
         "articles": 92
       }
     ],
-    "headline_count": 142,
+    "headline_count": 141,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
