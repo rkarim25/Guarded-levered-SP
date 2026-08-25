@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-25T07:38:45Z",
+  "generated_at_utc": "2026-08-25T08:34:07Z",
   "window_days": 7,
   "score": 5,
   "label": "Neutral",
-  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Why bitcoin has more room to run after biggest 3-day gain since 2023, according to analysts; Crypto extends gains after biggest 3-day rally since 2023. Bearish offsets: Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates; JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St..",
+  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Why bitcoin has more room to run after biggest 3-day gain since 2023, according to analysts; Bitcoin price extends gains as crypto rally gathers pace. Bearish offsets: Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates; JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St..",
   "articles": [
     {
       "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
@@ -34,10 +34,10 @@
       "tone": "bearish"
     },
     {
-      "title": "Crypto extends gains after biggest 3-day rally since 2023",
+      "title": "Bitcoin price extends gains as crypto rally gathers pace",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html",
-      "published": "2026-08-24T20:02:22Z",
+      "url": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
+      "published": "2026-08-25T08:29:11Z",
       "tone": "bullish"
     }
   ],
