@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-26T11:01:55Z",
+  "generated_at_utc": "2026-08-26T11:54:04Z",
   "window_days": 7,
   "score": 6,
   "label": "Neutral",
-  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Avient (AVNT) Gains On Analyst Optimism As Fair Value Debate Comes Into Focus; Wall Street Futures Rise as Iran Sanctions, Nvidia Earnings and Bitcoin Rally Take Focus: Dow Jones, S&P, Nasdaq - Yahoo Finance UK. Bearish offsets: JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St.; Nvidia earnings and PCE inflation data take centre stage as oil prices slide: Dow Jones, S&P, Nasdaq, Wall Street Futures.",
+  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Wall Street Futures Rise as Iran Sanctions, Nvidia Earnings and Bitcoin Rally Take Focus: Dow Jones, S&P, Nasdaq - Yahoo Finance UK; Wall Street ends higher on tech stocks, falling oil prices, and bond market rally - Investing.com. Bearish offsets: JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St.; If Donald Trump's Trade War Triggers a Stock Market Crash, History Says This Is the First Thing Investors Should Do.",
   "articles": [
     {
       "title": "JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St.",
@@ -13,10 +13,10 @@
       "tone": "bearish"
     },
     {
-      "title": "Nvidia earnings and PCE inflation data take centre stage as oil prices slide: Dow Jones, S&P, Nasdaq, Wall Street Futures",
+      "title": "If Donald Trump's Trade War Triggers a Stock Market Crash, History Says This Is the First Thing Investors Should Do",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://investorshub.advfn.com/market-news/article/35061/nvidia-earnings-and-pce-inflation-data-take-centre-stage-as-oil-prices-slide-dow-jones-sp-nasdaq-wall-street-futures?.tsrc=rss",
-      "published": "2026-08-26T09:13:51Z",
+      "url": "https://www.fool.com/investing/2026/08/26/if-donald-trump-trade-war-trigger-market-crash/?.tsrc=rss",
+      "published": "2026-08-26T11:35:00Z",
       "tone": "bearish"
     },
     {
@@ -27,17 +27,17 @@
       "tone": "bearish"
     },
     {
-      "title": "Avient (AVNT) Gains On Analyst Optimism As Fair Value Debate Comes Into Focus",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/avient-avnt-gains-analyst-optimism-101442667.html?.tsrc=rss",
-      "published": "2026-08-26T10:14:42Z",
-      "tone": "bullish"
-    },
-    {
       "title": "Wall Street Futures Rise as Iran Sanctions, Nvidia Earnings and Bitcoin Rally Take Focus: Dow Jones, S&P, Nasdaq - Yahoo Finance UK",
       "source": "Yahoo Finance UK",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTC1QZXVDWmxIWUVVb0RwNGZHVmdhVVkwZjRIdzVCRDdyaERScGdHbTZmb0kzX0phdkk3OWdCZkdpYVB0UWVra3UxNFJCa0VCX0pHNHhIZE8xclI2QTVkTkdFbXFCQjdYdHB6cURNNnZzcVRQLXpzVU9FNEp1d3pySFhISjE?oc=5",
       "published": "2026-08-25T09:23:52Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "Wall Street ends higher on tech stocks, falling oil prices, and bond market rally - Investing.com",
+      "source": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbkNQZVZCVUJNYUlsVWZKek9MOThDek50T00tU2Y4a3JPZmNvem1tRDRHNlJkQmtxa2x1MWtCSko1b1dScmdRekF6MS1VNU83b1pBd2ZaX1NpRmRKN1NCYV9rTGV5Zk9PNUFnYXVxUnZTWDBlZEgzYklWanBtbXJQYjlpRkZYbVU4MDM2dkllNmZNX1lYRm92V255dTI1QXVmR2h1VDA0bEtMTkt5NTZXbHNscjNhWEVBNk0wX1Y3R00tTHFmTlpONg?oc=5",
+      "published": "2026-08-25T01:08:47Z",
       "tone": "bullish"
     }
   ],
