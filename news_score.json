@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-26T14:37:17Z",
+  "generated_at_utc": "2026-08-26T16:12:39Z",
   "window_days": 7,
-  "score": 5,
-  "label": "Neutral",
-  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Wall Street Futures Rise as Iran Sanctions, Nvidia Earnings and Bitcoin Rally Take Focus: Dow Jones, S&P, Nasdaq - Yahoo Finance UK; Wall Street ends higher on tech stocks, falling oil prices, and bond market rally - Investing.com. Bearish offsets: JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St.; Trump Just Restarted the Trade War With Canada. Should Stock Investors Be Worried? - 24/7 Wall St..",
+  "score": 7,
+  "label": "Bullish",
+  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Here's Why Investors Must Hold XRX Stock in Their Portfolios Now; Wall Street Futures Rise as Iran Sanctions, Nvidia Earnings and Bitcoin Rally Take Focus: Dow Jones, S&P, Nasdaq - Yahoo Finance UK. Bearish offsets: JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St.; Trump Just Restarted the Trade War With Canada. Should Stock Investors Be Worried? - 24/7 Wall St..",
   "articles": [
     {
       "title": "JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St.",
@@ -20,6 +20,13 @@
       "tone": "bearish"
     },
     {
+      "title": "Here's Why Investors Must Hold XRX Stock in Their Portfolios Now",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-investors-must-hold-145700946.html?.tsrc=rss",
+      "published": "2026-08-26T14:57:00Z",
+      "tone": "bullish"
+    },
+    {
       "title": "Wall Street Futures Rise as Iran Sanctions, Nvidia Earnings and Bitcoin Rally Take Focus: Dow Jones, S&P, Nasdaq - Yahoo Finance UK",
       "source": "Yahoo Finance UK",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTC1QZXVDWmxIWUVVb0RwNGZHVmdhVVkwZjRIdzVCRDdyaERScGdHbTZmb0kzX0phdkk3OWdCZkdpYVB0UWVra3UxNFJCa0VCX0pHNHhIZE8xclI2QTVkTkdFbXFCQjdYdHB6cURNNnZzcVRQLXpzVU9FNEp1d3pySFhISjE?oc=5",
@@ -32,13 +39,6 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbkNQZVZCVUJNYUlsVWZKek9MOThDek50T00tU2Y4a3JPZmNvem1tRDRHNlJkQmtxa2x1MWtCSko1b1dScmdRekF6MS1VNU83b1pBd2ZaX1NpRmRKN1NCYV9rTGV5Zk9PNUFnYXVxUnZTWDBlZEgzYklWanBtbXJQYjlpRkZYbVU4MDM2dkllNmZNX1lYRm92V255dTI1QXVmR2h1VDA0bEtMTkt5NTZXbHNscjNhWEVBNk0wX1Y3R00tTHFmTlpONg?oc=5",
       "published": "2026-08-25T01:08:47Z",
       "tone": "bullish"
-    },
-    {
-      "title": "Wall Street rises as yields stabilize, Bitcoin extends rally (SP500:) - Seeking Alpha",
-      "source": "Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSTMtR0Z5ZjhkVHRPQ2thMjFHaW9mQ2taVnR4eGxxam1EQkJPMnRvQ3gwZkRjVzFNYmZ3UXZYbHJLMTA5cmhJZUtrbDd4UzVKSjN2cC1CTGtacGMwd1lKZjRuU0xmTGZaQ19UeVBkSG9hcUdwdGNPdDBQNjN5RENPZGI5VWlOYnFi?oc=5",
-      "published": "2026-08-21T13:32:00Z",
-      "tone": "bullish"
     }
   ],
   "data_source": {
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 19
+        "articles": 20
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 91
+        "articles": 92
       }
     ],
-    "headline_count": 140,
+    "headline_count": 142,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
