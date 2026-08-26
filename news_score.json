@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-26T16:12:39Z",
+  "generated_at_utc": "2026-08-26T18:12:29Z",
   "window_days": 7,
-  "score": 7,
-  "label": "Bullish",
-  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Here's Why Investors Must Hold XRX Stock in Their Portfolios Now; Wall Street Futures Rise as Iran Sanctions, Nvidia Earnings and Bitcoin Rally Take Focus: Dow Jones, S&P, Nasdaq - Yahoo Finance UK. Bearish offsets: JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St.; Trump Just Restarted the Trade War With Canada. Should Stock Investors Be Worried? - 24/7 Wall St..",
+  "score": 5,
+  "label": "Neutral",
+  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Wall Street Futures Rise as Iran Sanctions, Nvidia Earnings and Bitcoin Rally Take Focus: Dow Jones, S&P, Nasdaq - Yahoo Finance UK; Wall Street ends higher on tech stocks, falling oil prices, and bond market rally - Investing.com. Bearish offsets: JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St.; Trump Just Restarted the Trade War With Canada. Should Stock Investors Be Worried? - 24/7 Wall St..",
   "articles": [
     {
       "title": "JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St.",
@@ -20,11 +20,11 @@
       "tone": "bearish"
     },
     {
-      "title": "Here's Why Investors Must Hold XRX Stock in Their Portfolios Now",
+      "title": "Update: Equities Fall Intraday After Inflation Report; Nvidia Earnings On Deck",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-investors-must-hold-145700946.html?.tsrc=rss",
-      "published": "2026-08-26T14:57:00Z",
-      "tone": "bullish"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/equities-fall-intraday-inflation-report-175239244.html?.tsrc=rss",
+      "published": "2026-08-26T17:52:39Z",
+      "tone": "bearish"
     },
     {
       "title": "Wall Street Futures Rise as Iran Sanctions, Nvidia Earnings and Bitcoin Rally Take Focus: Dow Jones, S&P, Nasdaq - Yahoo Finance UK",
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 92
+        "articles": 90
       }
     ],
-    "headline_count": 142,
+    "headline_count": 140,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
