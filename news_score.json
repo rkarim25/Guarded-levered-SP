@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-08-27T00:20:26Z",
+  "generated_at_utc": "2026-08-27T02:52:30Z",
   "window_days": 7,
   "score": 6,
   "label": "Neutral",
-  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Salesforce stock jumps 12% on AI growth and Anthropic investment gain; Wall Street Futures Rise as Iran Sanctions, Nvidia Earnings and Bitcoin Rally Take Focus: Dow Jones, S&P, Nasdaq - Yahoo Finance UK. Bearish offsets: JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St.; Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters.",
+  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Salesforce stock jumps 12% on AI growth and Anthropic investment gain; Wall Street ends higher on tech stocks, falling oil prices, and bond market rally - Investing.com. Bearish offsets: JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St.; Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters.",
   "articles": [
     {
       "title": "JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St.",
       "source": "24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSHI3UklrTVpmcldIQk9wTF9sY095Y3hoQzBkdHRNS3N1dVItbDEwV0ZPVHBuN0Y1NkVQVGlES2lKdE96c01zbHI1aUk2RFJyWXE5NEZGR2tTUkZhN1JnR1YtNnYxYUVHMEd4b1l6UUtJUVFYMFVkUXZTbGJ5ZUphLVRCWmp6RnI0M0l1eEJXVlk5VzE1bm54d1d2Vk5iVXZwQ1JIYzl2Ung1MnlrNjl3TG1GeHR3bm9ZZ2ljVA?oc=5",
-      "published": "2026-08-24T12:20:53Z",
+      "published": "2026-08-24T12:20:00Z",
       "tone": "bearish"
     },
     {
       "title": "Salesforce stock jumps 12% on AI growth and Anthropic investment gain",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
-      "published": "2026-08-26T22:39:49Z",
+      "published": "2026-08-27T01:01:00Z",
       "tone": "bullish"
     },
     {
@@ -34,10 +34,10 @@
       "tone": "bearish"
     },
     {
-      "title": "Wall Street Futures Rise as Iran Sanctions, Nvidia Earnings and Bitcoin Rally Take Focus: Dow Jones, S&P, Nasdaq - Yahoo Finance UK",
-      "source": "Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTC1QZXVDWmxIWUVVb0RwNGZHVmdhVVkwZjRIdzVCRDdyaERScGdHbTZmb0kzX0phdkk3OWdCZkdpYVB0UWVra3UxNFJCa0VCX0pHNHhIZE8xclI2QTVkTkdFbXFCQjdYdHB6cURNNnZzcVRQLXpzVU9FNEp1d3pySFhISjE?oc=5",
-      "published": "2026-08-25T09:23:52Z",
+      "title": "Wall Street ends higher on tech stocks, falling oil prices, and bond market rally - Investing.com",
+      "source": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbkNQZVZCVUJNYUlsVWZKek9MOThDek50T00tU2Y4a3JPZmNvem1tRDRHNlJkQmtxa2x1MWtCSko1b1dScmdRekF6MS1VNU83b1pBd2ZaX1NpRmRKN1NCYV9rTGV5Zk9PNUFnYXVxUnZTWDBlZEgzYklWanBtbXJQYjlpRkZYbVU4MDM2dkllNmZNX1lYRm92V255dTI1QXVmR2h1VDA0bEtMTkt5NTZXbHNscjNhWEVBNk0wX1Y3R00tTHFmTlpONg?oc=5",
+      "published": "2026-08-25T01:08:47Z",
       "tone": "bullish"
     }
   ],
