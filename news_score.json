@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-27T02:52:30Z",
+  "generated_at_utc": "2026-08-27T18:01:40Z",
   "window_days": 7,
-  "score": 6,
-  "label": "Neutral",
-  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Salesforce stock jumps 12% on AI growth and Anthropic investment gain; Wall Street ends higher on tech stocks, falling oil prices, and bond market rally - Investing.com. Bearish offsets: JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St.; Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters.",
+  "score": 7,
+  "label": "Bullish",
+  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Update: Equity Markets Rise Intraday Amid Tech Boost; Nvidia Rallies; Nvidia Delivers and the Nasdaq Jumps 1.3%. Bearish offsets: JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St.; Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters.",
   "articles": [
     {
       "title": "JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St.",
@@ -13,10 +13,10 @@
       "tone": "bearish"
     },
     {
-      "title": "Salesforce stock jumps 12% on AI growth and Anthropic investment gain",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
-      "published": "2026-08-27T01:01:00Z",
+      "title": "Update: Equity Markets Rise Intraday Amid Tech Boost; Nvidia Rallies",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/equity-markets-rise-intraday-amid-174501170.html?.tsrc=rss",
+      "published": "2026-08-27T17:45:01Z",
       "tone": "bullish"
     },
     {
@@ -27,17 +27,17 @@
       "tone": "bearish"
     },
     {
-      "title": "Trump Just Restarted the Trade War With Canada. Should Stock Investors Be Worried? - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY0RMaUhJblMtQ2RiNy1Jd3NJR21xY3NublZLNXA4NU1YN1NDRTN2S2tXc1ZJdFc5MkQ0WElHS2E3ZTZKRUhzS3lXRU5aU1VGb2ZLVF9uZFdlcVp6Q3lGcXpNZ0V1UGpBdVA2M0xuMEdRM2NqYUlBbnNZT1VENmNiMkJmdEg1TlM0TzcyU0lXeE04ekpkeVhZRVcyR0h6MHdQSmdudVN0NzFpMXBPdnRLS3Izemk5aFhxMFFscmJURzV0Zw?oc=5",
-      "published": "2026-08-23T15:38:20Z",
+      "title": "Trump signs order to rename Lake Ontario 'Lake America' amid Canada trade war",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/27/trump-canada-lake-america-ontario.html",
+      "published": "2026-08-27T17:46:43Z",
       "tone": "bearish"
     },
     {
-      "title": "Wall Street ends higher on tech stocks, falling oil prices, and bond market rally - Investing.com",
-      "source": "Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbkNQZVZCVUJNYUlsVWZKek9MOThDek50T00tU2Y4a3JPZmNvem1tRDRHNlJkQmtxa2x1MWtCSko1b1dScmdRekF6MS1VNU83b1pBd2ZaX1NpRmRKN1NCYV9rTGV5Zk9PNUFnYXVxUnZTWDBlZEgzYklWanBtbXJQYjlpRkZYbVU4MDM2dkllNmZNX1lYRm92V255dTI1QXVmR2h1VDA0bEtMTkt5NTZXbHNscjNhWEVBNk0wX1Y3R00tTHFmTlpONg?oc=5",
-      "published": "2026-08-25T01:08:47Z",
+      "title": "Nvidia Delivers and the Nasdaq Jumps 1.3%",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://www.fool.com/investing/2026/08/27/nvidia-delivers-and-the-nasdaq-jumps-13/?.tsrc=rss",
+      "published": "2026-08-27T17:14:17Z",
       "tone": "bullish"
     }
   ],
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 89
+        "articles": 91
       }
     ],
-    "headline_count": 139,
+    "headline_count": 141,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
