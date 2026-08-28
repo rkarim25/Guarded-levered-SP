@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-28T05:56:17Z",
+  "generated_at_utc": "2026-08-28T19:11:22Z",
   "window_days": 7,
-  "score": 7,
-  "label": "Bullish",
-  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Stock Market Today, Aug. 27: Tech Strength Powers Nasdaq Higher as Nvidia Leads Rally. Bearish offsets: JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St.; Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters.",
+  "score": 5,
+  "label": "Neutral",
+  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Wall Street ends higher on tech stocks, falling oil prices, and bond market rally - Investing.com. Bearish offsets: JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St.; Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters.",
   "articles": [
     {
       "title": "JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St.",
@@ -20,13 +20,6 @@
       "tone": "bearish"
     },
     {
-      "title": "Trump signs order to rename Lake Ontario 'Lake America' amid Canada trade war",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/27/trump-canada-lake-america-ontario.html",
-      "published": "2026-08-27T21:16:40Z",
-      "tone": "bearish"
-    },
-    {
       "title": "Trump Just Restarted the Trade War With Canada. Should Stock Investors Be Worried? - 24/7 Wall St.",
       "source": "24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY0RMaUhJblMtQ2RiNy1Jd3NJR21xY3NublZLNXA4NU1YN1NDRTN2S2tXc1ZJdFc5MkQ0WElHS2E3ZTZKRUhzS3lXRU5aU1VGb2ZLVF9uZFdlcVp6Q3lGcXpNZ0V1UGpBdVA2M0xuMEdRM2NqYUlBbnNZT1VENmNiMkJmdEg1TlM0TzcyU0lXeE04ekpkeVhZRVcyR0h6MHdQSmdudVN0NzFpMXBPdnRLS3Izemk5aFhxMFFscmJURzV0Zw?oc=5",
@@ -34,11 +27,18 @@
       "tone": "bearish"
     },
     {
-      "title": "Stock Market Today, Aug. 27: Tech Strength Powers Nasdaq Higher as Nvidia Leads Rally",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/08/27/stock-market-today-aug-27-tech-strength-powers-nasdaq-higher-as-nvidia-leads-rally/?.tsrc=rss",
-      "published": "2026-08-27T22:18:42Z",
+      "title": "Wall Street ends higher on tech stocks, falling oil prices, and bond market rally - Investing.com",
+      "source": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbkNQZVZCVUJNYUlsVWZKek9MOThDek50T00tU2Y4a3JPZmNvem1tRDRHNlJkQmtxa2x1MWtCSko1b1dScmdRekF6MS1VNU83b1pBd2ZaX1NpRmRKN1NCYV9rTGV5Zk9PNUFnYXVxUnZTWDBlZEgzYklWanBtbXJQYjlpRkZYbVU4MDM2dkllNmZNX1lYRm92V255dTI1QXVmR2h1VDA0bEtMTkt5NTZXbHNscjNhWEVBNk0wX1Y3R00tTHFmTlpONg?oc=5",
+      "published": "2026-08-25T01:08:47Z",
       "tone": "bullish"
+    },
+    {
+      "title": "Why Is AST SpaceMobile Stock Down This Week?",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://www.fool.com/investing/2026/08/28/why-is-ast-space-mobile-stock-down-this-week/?.tsrc=rss",
+      "published": "2026-08-28T18:42:18Z",
+      "tone": "bearish"
     }
   ],
   "data_source": {
