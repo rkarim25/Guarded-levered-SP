@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-27T18:01:40Z",
+  "generated_at_utc": "2026-08-28T05:01:14Z",
   "window_days": 7,
   "score": 7,
   "label": "Bullish",
-  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Update: Equity Markets Rise Intraday Amid Tech Boost; Nvidia Rallies; Nvidia Delivers and the Nasdaq Jumps 1.3%. Bearish offsets: JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St.; Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters.",
+  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Stock Market Today, Aug. 27: Tech Strength Powers Nasdaq Higher as Nvidia Leads Rally. Bearish offsets: JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St.; Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters.",
   "articles": [
     {
       "title": "JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy - 24/7 Wall St.",
@@ -11,13 +11,6 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSHI3UklrTVpmcldIQk9wTF9sY095Y3hoQzBkdHRNS3N1dVItbDEwV0ZPVHBuN0Y1NkVQVGlES2lKdE96c01zbHI1aUk2RFJyWXE5NEZGR2tTUkZhN1JnR1YtNnYxYUVHMEd4b1l6UUtJUVFYMFVkUXZTbGJ5ZUphLVRCWmp6RnI0M0l1eEJXVlk5VzE1bm54d1d2Vk5iVXZwQ1JIYzl2Ung1MnlrNjl3TG1GeHR3bm9ZZ2ljVA?oc=5",
       "published": "2026-08-24T12:20:00Z",
       "tone": "bearish"
-    },
-    {
-      "title": "Update: Equity Markets Rise Intraday Amid Tech Boost; Nvidia Rallies",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/equity-markets-rise-intraday-amid-174501170.html?.tsrc=rss",
-      "published": "2026-08-27T17:45:01Z",
-      "tone": "bullish"
     },
     {
       "title": "Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters",
@@ -30,14 +23,21 @@
       "title": "Trump signs order to rename Lake Ontario 'Lake America' amid Canada trade war",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/08/27/trump-canada-lake-america-ontario.html",
-      "published": "2026-08-27T17:46:43Z",
+      "published": "2026-08-27T21:16:40Z",
       "tone": "bearish"
     },
     {
-      "title": "Nvidia Delivers and the Nasdaq Jumps 1.3%",
+      "title": "Trump Just Restarted the Trade War With Canada. Should Stock Investors Be Worried? - 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY0RMaUhJblMtQ2RiNy1Jd3NJR21xY3NublZLNXA4NU1YN1NDRTN2S2tXc1ZJdFc5MkQ0WElHS2E3ZTZKRUhzS3lXRU5aU1VGb2ZLVF9uZFdlcVp6Q3lGcXpNZ0V1UGpBdVA2M0xuMEdRM2NqYUlBbnNZT1VENmNiMkJmdEg1TlM0TzcyU0lXeE04ekpkeVhZRVcyR0h6MHdQSmdudVN0NzFpMXBPdnRLS3Izemk5aFhxMFFscmJURzV0Zw?oc=5",
+      "published": "2026-08-23T15:38:00Z",
+      "tone": "bearish"
+    },
+    {
+      "title": "Stock Market Today, Aug. 27: Tech Strength Powers Nasdaq Higher as Nvidia Leads Rally",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://www.fool.com/investing/2026/08/27/nvidia-delivers-and-the-nasdaq-jumps-13/?.tsrc=rss",
-      "published": "2026-08-27T17:14:17Z",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/08/27/stock-market-today-aug-27-tech-strength-powers-nasdaq-higher-as-nvidia-leads-rally/?.tsrc=rss",
+      "published": "2026-08-27T22:18:42Z",
       "tone": "bullish"
     }
   ],
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 91
+        "articles": 88
       }
     ],
-    "headline_count": 141,
+    "headline_count": 138,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
