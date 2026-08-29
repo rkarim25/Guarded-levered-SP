@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-28T19:11:22Z",
+  "generated_at_utc": "2026-08-29T02:56:24Z",
   "window_days": 7,
   "score": 5,
   "label": "Neutral",
@@ -34,10 +34,10 @@
       "tone": "bullish"
     },
     {
-      "title": "Why Is AST SpaceMobile Stock Down This Week?",
+      "title": "Review & Preview: Warsh Gets Real on Inflation",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://www.fool.com/investing/2026/08/28/why-is-ast-space-mobile-stock-down-this-week/?.tsrc=rss",
-      "published": "2026-08-28T18:42:18Z",
+      "url": "https://finance.yahoo.com/m/6081bfc8-098f-3e6b-90be-d6e767fee376/review-%26-preview%3A-warsh-gets.html?.tsrc=rss",
+      "published": "2026-08-28T23:55:00Z",
       "tone": "bearish"
     }
   ],
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 88
+        "articles": 89
       }
     ],
-    "headline_count": 138,
+    "headline_count": 139,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
