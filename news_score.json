@@ -1,17 +1,10 @@
 {
-  "generated_at_utc": "2026-08-31T14:43:53Z",
+  "generated_at_utc": "2026-08-31T20:34:10Z",
   "window_days": 7,
   "score": 5,
   "label": "Neutral",
-  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Neogen Surges 102.8% in a Year: What's Driving the Rally?; JPM Stock Gains 20.6% in 3 Months: Key Factors to Watch Before Buying. Bearish offsets: What new tariff walls in U.S.-Canada trade war mean for the economy's critical metals; Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters.",
+  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Wall Street ends higher on tech stocks, falling oil prices, and bond market rally - Investing.com; Brent jumps above $90 after flare-up in U.S.-Iran hostilities. Bearish offsets: Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters; Dow, S&P 500 and Nasdaq Fall as Middle East Conflict Lifts Oil Prices.",
   "articles": [
-    {
-      "title": "What new tariff walls in U.S.-Canada trade war mean for the economy's critical metals",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/30/us-canada-trade-war-tariffs-steel-aluminum-metals-economy.html",
-      "published": "2026-08-30T13:00:01Z",
-      "tone": "bearish"
-    },
     {
       "title": "Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters",
       "source": "Reuters",
@@ -20,24 +13,31 @@
       "tone": "bearish"
     },
     {
-      "title": "Neogen Surges 102.8% in a Year: What's Driving the Rally?",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/healthcare/articles/neogen-surges-102-8-whats-141300121.html?.tsrc=rss",
-      "published": "2026-08-31T14:13:00Z",
+      "title": "Wall Street ends higher on tech stocks, falling oil prices, and bond market rally - Investing.com",
+      "source": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbkNQZVZCVUJNYUlsVWZKek9MOThDek50T00tU2Y4a3JPZmNvem1tRDRHNlJkQmtxa2x1MWtCSko1b1dScmdRekF6MS1VNU83b1pBd2ZaX1NpRmRKN1NCYV9rTGV5Zk9PNUFnYXVxUnZTWDBlZEgzYklWanBtbXJQYjlpRkZYbVU4MDM2dkllNmZNX1lYRm92V255dTI1QXVmR2h1VDA0bEtMTkt5NTZXbHNscjNhWEVBNk0wX1Y3R00tTHFmTlpONg?oc=5",
+      "published": "2026-08-25T01:08:47Z",
       "tone": "bullish"
     },
     {
-      "title": "JPM Stock Gains 20.6% in 3 Months: Key Factors to Watch Before Buying",
+      "title": "Dow, S&P 500 and Nasdaq Fall as Middle East Conflict Lifts Oil Prices",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jpm-stock-gains-20-6-135800820.html?.tsrc=rss",
-      "published": "2026-08-31T13:58:00Z",
-      "tone": "bullish"
+      "url": "https://finance.yahoo.com/economy/articles/dow-p-500-nasdaq-fall-175651937.html?.tsrc=rss",
+      "published": "2026-08-31T17:56:51Z",
+      "tone": "bearish"
     },
     {
-      "title": "Why is Micron so cheap? AI rally leader has the third-lowest valuation in the S&P 500",
+      "title": "Brent jumps above $90 after flare-up in U.S.-Iran hostilities",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/31/why-is-micron-so-cheap-ai-rally-leader-has-the-third-lowest-valuation-in-the-sp-500.html",
-      "published": "2026-08-31T13:48:23Z",
+      "url": "https://www.cnbc.com/2026/08/31/oil-prices-hormuz-iran-larak-island-centcom.html",
+      "published": "2026-08-31T19:44:53Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "Wall Street ends higher as tech rebounds before Nvidia results - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdmhxOE10Q2J5RzR6U1lxZjRCX0FUYmdxdkl5SE5fT1N2SG5RSmMxb0xPekZ2eDNjbVhyVE54N0FIOTByZEdrMFUtSmp0U3A0R2RLVldRczJ2aW5PU2QzUzZ6Y0FYUThQU01jdEJOdzdtbndvdThwXzhUbDAzQ2lHeVIwbHE4dkZITlhxZ0JLLWVEVHdzZmcxYTdub3dWRjh1QnRNUzRhU0V3bnJZV2c?oc=5",
+      "published": "2026-08-25T23:14:21Z",
       "tone": "bullish"
     }
   ],
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 42
+        "articles": 91
       }
     ],
-    "headline_count": 92,
+    "headline_count": 141,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
