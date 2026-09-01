@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-09-01T00:57:59Z",
+  "generated_at_utc": "2026-09-01T12:16:58Z",
   "window_days": 7,
   "score": 4,
   "label": "Neutral",
-  "explanation": "4/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Wall Street ends higher on tech stocks, falling oil prices, and bond market rally - Investing.com. Bearish offsets: Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters; ACN Got Cheaper. The Business Did Not Get Worse.",
+  "explanation": "4/10 is neutral from a 7-day headline keyword scan. Bearish offsets: Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters; Indian Prime Minister Modi asks Putin to end Ukraine war amid U.S. tariff threat on Russian oil.",
   "articles": [
     {
       "title": "Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters",
@@ -13,18 +13,18 @@
       "tone": "bearish"
     },
     {
-      "title": "ACN Got Cheaper. The Business Did Not Get Worse",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://www.trefis.com/articles/613696/acn-got-cheaper-the-business-did-not-get-worse-2/2026-08-31?.tsrc=rss",
-      "published": "2026-09-01T00:33:40Z",
+      "title": "Indian Prime Minister Modi asks Putin to end Ukraine war amid U.S. tariff threat on Russian oil",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/01/russia-india-ukraine-war-oil-modi-putin.html",
+      "published": "2026-09-01T06:23:21Z",
       "tone": "bearish"
     },
     {
-      "title": "Wall Street ends higher on tech stocks, falling oil prices, and bond market rally - Investing.com",
-      "source": "Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbkNQZVZCVUJNYUlsVWZKek9MOThDek50T00tU2Y4a3JPZmNvem1tRDRHNlJkQmtxa2x1MWtCSko1b1dScmdRekF6MS1VNU83b1pBd2ZaX1NpRmRKN1NCYV9rTGV5Zk9PNUFnYXVxUnZTWDBlZEgzYklWanBtbXJQYjlpRkZYbVU4MDM2dkllNmZNX1lYRm92V255dTI1QXVmR2h1VDA0bEtMTkt5NTZXbHNscjNhWEVBNk0wX1Y3R00tTHFmTlpONg?oc=5",
-      "published": "2026-08-25T01:08:47Z",
-      "tone": "bullish"
+      "title": "US Stock Market Today: S&P 500 Futures Edge Lower As Rate Hike Jitters Build - simplywall.st",
+      "source": "simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSlBkSThJdFZ1TUs4cnUtME81ZHpYOFRJbDk0QmVfdWs4bjFNTzZFdV9oeGVSWGZCMHJqSUxtSEo4Zm16WmMxT2R1ZF9ETDlIU3ZKZXR0OGdwcGdNNUt5R2ctc0lteVB2d29XNE9mby1xbmpodHhyOGpZUllkbWw1Wi1FQjdCQ3ZkbzJ1ajcxSmNuOXIybGhCYzlhLTNwVXJCNndSbHdORzhCaV9ta3lKNmxUV3dBSVo0UlpaaTQwTVN6WkkyZjZzX1ktQ0VrbENHdGs00gHYAUFVX3lxTE51SEItdDNhbWZjUkF1SC1UdWpXal9KeG1QSVNIUTAzS3RWNmhiSHlPOFM1d0cteFBtSGpmUHUxRnJISTR3c1VPTnU1NHcwOVg3LXBvYlc4RVA4RDZmZzNYeDlTcU16b2FIOXJKQjhHVXItLWRpV0dNeGRFRFdxcEh1NGZQMXFtQzV6b3BBZmJLTzAzNC1lakhld1UyMlRPVHFxeUE1OTFYak1GWFpRd3ZuZGwwczd4Rk5JVTdHaWtIREVTMllwQVBIMzBKSlpJRzJUSUNNU0lreg?oc=5",
+      "published": "2026-09-01T08:33:14Z",
+      "tone": "bearish"
     },
     {
       "title": "Trump says U.S. growth could hit 20%. It\u2019s happened only once since WWII",
@@ -34,10 +34,10 @@
       "tone": "bearish"
     },
     {
-      "title": "Wall Street Today: DJIA, S&P 500, Nasdaq Comp Fall on U.S.-Iran and MRVL, AMZN, GOOGL Losses - Moomoo",
-      "source": "Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSHJVSGdEakxhS2VONWJ5cHNlVno3Zk56WktkN0RXRWNiTW1nQUI1SUItT2hidDQ0NlFXZS0yQjZKNko0UG5ITTBOZ0FzVXZHRmxEZVAzV1N2MUFBREh5UVVEME94SHJ0NXFhN2tpT0hpMWt4UkRrZmtFM3dyNHR6ajB4SjhhZEdJV1hSUldFbV9tYWVTZm5aOGpkTG9NTUNrSnVZ?oc=5",
-      "published": "2026-08-30T16:52:00Z",
+      "title": "Stock Market Today: Dow Falls As Oil Prices, Treasury Yields Jump; Nvidia, Micron Shares Slide (Live Coverage)",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/m/01f4a532-05e7-3571-8eb1-b7afa3f67969/stock-market-today%3A-dow-falls.html?.tsrc=rss",
+      "published": "2026-09-01T12:05:48Z",
       "tone": "bearish"
     }
   ],
