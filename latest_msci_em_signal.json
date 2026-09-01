@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-09-01T12:16:52Z",
-  "data_asof": "2026-08-31",
+  "generated_at_utc": "2026-09-01T16:48:14Z",
+  "data_asof": "2026-09-01",
   "daily_rows": 5883,
   "quote_price": 67.0199966430664,
-  "quote_timestamp": "2026-08-31",
+  "quote_timestamp": "2026-09-01",
   "quote_source": "Yahoo Finance chart endpoint",
   "sources": {
     "daily_yahoo": {
-      "url": "https://query1.finance.yahoo.com/v8/finance/chart/EEM?period1=0&period2=1788351412&interval=1d&events=history&includeAdjustedClose=true",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/EEM?period1=0&period2=1788367693&interval=1d&events=history&includeAdjustedClose=true",
       "ok": true,
       "status": 200
     }
@@ -25,10 +25,10 @@
   },
   "official_signal": {
     "latest": {
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "close": 67.0199966430664
     },
-    "latestSma": 66.37699966430664,
+    "latestSma": 66.37099952697754,
     "highWater": 71.20999908447266,
     "highWaterDate": "2026-06-22",
     "latestDd": -0.05884008559578646,
@@ -47,10 +47,10 @@
   },
   "provisional_signal": {
     "latest": {
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "close": 67.0199966430664
     },
-    "latestSma": 66.42799949645996,
+    "latestSma": 66.42199935913087,
     "highWater": 71.20999908447266,
     "highWaterDate": "2026-06-22",
     "latestDd": -0.05884008559578646,
@@ -68,10 +68,10 @@
     "explanation": "Recovery tier2 armed at 1x max (lead guard passed)."
   },
   "trade_alert_state": {
-    "last_observed_asof": "2026-08-31",
+    "last_observed_asof": "2026-09-01",
     "last_observed_target_leverage": 1,
     "last_observed_target_label": "1x",
-    "last_checked_at_utc": "2026-09-01T12:16:52Z",
+    "last_checked_at_utc": "2026-09-01T16:48:14Z",
     "last_email_sent_on": "2026-08-04",
     "last_transition": {
       "id": "2026-07-31:0->2026-08-04:1",
