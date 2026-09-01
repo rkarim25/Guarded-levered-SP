@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-31T20:34:10Z",
+  "generated_at_utc": "2026-09-01T00:11:21Z",
   "window_days": 7,
-  "score": 5,
+  "score": 4,
   "label": "Neutral",
-  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Wall Street ends higher on tech stocks, falling oil prices, and bond market rally - Investing.com; Brent jumps above $90 after flare-up in U.S.-Iran hostilities. Bearish offsets: Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters; Dow, S&P 500 and Nasdaq Fall as Middle East Conflict Lifts Oil Prices.",
+  "explanation": "4/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Wall Street ends higher on tech stocks, falling oil prices, and bond market rally - Investing.com; Wall Street ends higher as tech rebounds before Nvidia results - Reuters. Bearish offsets: Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters; Trump says U.S. growth could hit 20%. It\u2019s happened only once since WWII.",
   "articles": [
     {
       "title": "Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters",
@@ -20,18 +20,18 @@
       "tone": "bullish"
     },
     {
-      "title": "Dow, S&P 500 and Nasdaq Fall as Middle East Conflict Lifts Oil Prices",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/economy/articles/dow-p-500-nasdaq-fall-175651937.html?.tsrc=rss",
-      "published": "2026-08-31T17:56:51Z",
+      "title": "Trump says U.S. growth could hit 20%. It\u2019s happened only once since WWII",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/31/trump-us-gdp-growth-20-percent-economy.html",
+      "published": "2026-08-31T20:50:01Z",
       "tone": "bearish"
     },
     {
-      "title": "Brent jumps above $90 after flare-up in U.S.-Iran hostilities",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/08/31/oil-prices-hormuz-iran-larak-island-centcom.html",
-      "published": "2026-08-31T19:44:53Z",
-      "tone": "bullish"
+      "title": "Wall Street Today: DJIA, S&P 500, Nasdaq Comp Fall on U.S.-Iran and MRVL, AMZN, GOOGL Losses - Moomoo",
+      "source": "Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSHJVSGdEakxhS2VONWJ5cHNlVno3Zk56WktkN0RXRWNiTW1nQUI1SUItT2hidDQ0NlFXZS0yQjZKNko0UG5ITTBOZ0FzVXZHRmxEZVAzV1N2MUFBREh5UVVEME94SHJ0NXFhN2tpT0hpMWt4UkRrZmtFM3dyNHR6ajB4SjhhZEdJV1hSUldFbV9tYWVTZm5aOGpkTG9NTUNrSnVZ?oc=5",
+      "published": "2026-08-30T16:52:00Z",
+      "tone": "bearish"
     },
     {
       "title": "Wall Street ends higher as tech rebounds before Nvidia results - Reuters",
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 20
+        "articles": 18
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 91
+        "articles": 92
       }
     ],
-    "headline_count": 141,
+    "headline_count": 140,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
