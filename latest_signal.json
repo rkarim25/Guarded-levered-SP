@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-09-01T22:53:37Z",
+  "generated_at_utc": "2026-09-01T23:45:48Z",
   "data_asof": "2026-09-01",
   "daily_rows": 7546,
-  "quote_price": 7631.47021484375,
-  "quote_timestamp": "2026-09-01",
-  "quote_source": "Yahoo Finance chart endpoint",
+  "quote_price": null,
+  "quote_timestamp": null,
+  "quote_source": null,
   "sources": {
     "daily_worker": {
       "url": "https://spx-quote-proxy.rkarim88.workers.dev/?mode=daily",
@@ -13,8 +13,8 @@
     },
     "quote_worker": {
       "url": "https://spx-quote-proxy.rkarim88.workers.dev/?mode=quote",
-      "ok": true,
-      "status": 200
+      "ok": false,
+      "error": "HTTP Error 500: Internal Server Error"
     }
   },
   "strategy": {
@@ -49,33 +49,12 @@
     "activeEntryPnl": null,
     "explanation": "2x tier is armed, but lead guard failed; using base cash/1x rule."
   },
-  "provisional_signal": {
-    "latest": {
-      "date": "2026-09-01",
-      "close": 7631.47021484375
-    },
-    "latestSma": 7707.5975341796875,
-    "highWater": 7798.990234375,
-    "highWaterDate": "2026-08-13",
-    "latestDd": -0.021479706282088284,
-    "regime": "tier2",
-    "entryClose": 6575.31982421875,
-    "entryDate": "2026-04-01",
-    "recoveryTarget": 9205.44775390625,
-    "aboveSma": false,
-    "recoveryOk": false,
-    "targetLeverage": 0,
-    "activeEntryClose": null,
-    "activeEntryDate": null,
-    "activeEntryLeverage": null,
-    "activeEntryPnl": null,
-    "explanation": "2x tier is armed, but lead guard failed; using base cash/1x rule."
-  },
+  "provisional_signal": null,
   "trade_alert_state": {
     "last_observed_asof": "2026-09-01",
     "last_observed_target_leverage": 0,
     "last_observed_target_label": "cash",
-    "last_checked_at_utc": "2026-09-01T22:53:37Z",
+    "last_checked_at_utc": "2026-09-01T23:45:48Z",
     "last_email_sent_on": "2026-09-01",
     "last_transition": {
       "id": "2026-08-31:2->2026-09-01:0",
