@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-09-01T16:48:12Z",
+  "generated_at_utc": "2026-09-01T22:53:38Z",
   "data_asof": "2026-09-01",
   "daily_rows": 6525,
-  "quote_price": 4401.39990234375,
+  "quote_price": 4374.10009765625,
   "quote_timestamp": "2026-09-01",
   "quote_source": "Yahoo Finance chart endpoint",
   "sources": {
     "daily_yahoo_gold": {
-      "url": "https://query1.finance.yahoo.com/v8/finance/chart/GC%3DF?period1=0&period2=1788367691&interval=1d&events=history&includeAdjustedClose=true",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/GC%3DF?period1=0&period2=1788389617&interval=1d&events=history&includeAdjustedClose=true",
       "ok": true,
       "status": 200
     },
@@ -31,12 +31,12 @@
   "official_signal": {
     "latest": {
       "date": "2026-09-01",
-      "close": 4401.2998046875
+      "close": 4374.10009765625
     },
-    "latestSma": 4446.85498046875,
+    "latestSma": 4445.4949951171875,
     "highWater": 5318.39990234375,
     "highWaterDate": "2026-01-29",
-    "latestDd": -0.17243910095066295,
+    "latestDd": -0.17755336605495942,
     "regime": "tier2",
     "entryClose": 4087.699951171875,
     "entryDate": "2025-10-21",
@@ -53,12 +53,12 @@
   "provisional_signal": {
     "latest": {
       "date": "2026-09-01",
-      "close": 4401.39990234375
+      "close": 4374.10009765625
     },
-    "latestSma": 4454.634985351562,
+    "latestSma": 4451.910009765625,
     "highWater": 5318.39990234375,
     "highWaterDate": "2026-01-29",
-    "latestDd": -0.17242027994094422,
+    "latestDd": -0.17755336605495942,
     "regime": "tier2",
     "entryClose": 4087.699951171875,
     "entryDate": "2025-10-21",
@@ -76,9 +76,8 @@
     "last_observed_asof": "2026-09-01",
     "last_observed_target_leverage": 0,
     "last_observed_target_label": "cash",
-    "last_checked_at_utc": "2026-09-01T16:48:12Z",
+    "last_checked_at_utc": "2026-09-01T22:53:38Z",
     "last_email_sent_on": "2026-09-01",
-    "last_email_sent_timezone": "Europe/London",
     "last_transition": {
       "id": "2026-09-01:1->2026-09-01:0",
       "detected_at_utc": "2026-09-01T16:48:12Z",

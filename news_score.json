@@ -1,44 +1,44 @@
 {
-  "generated_at_utc": "2026-09-01T16:48:17Z",
+  "generated_at_utc": "2026-09-01T22:53:40Z",
   "window_days": 7,
-  "score": 4,
-  "label": "Neutral",
-  "explanation": "4/10 is neutral from a 7-day headline keyword scan. Bullish drivers: 1 Magnificent Artificial Intelligence (AI) Stock to Buy With $25 Before 2026 Is Over; Alphabet (GOOG) Reports Strong Growth Fueled by AI Demand and Cloud Revenue. Bearish offsets: Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters; Indian Prime Minister Modi asks Putin to end Ukraine war amid U.S. tariff threat on Russian oil.",
+  "score": 3,
+  "label": "Bearish",
+  "explanation": "3/10 is bearish from a 7-day headline keyword scan. Bearish offsets: Stock market warning: S&P 500 faces correction risk as inflation stays high and Fed rate hikes loom | Business News - Hindustan Times; US Stock Market Today: S&P 500 Futures Edge Lower As Rate Hike Jitters Build - simplywall.st.",
   "articles": [
     {
-      "title": "Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3N4UlJubUVvNndNbHlFSTFtWlpoek1URGE5c3J4SDJEYlZ2aWYzaUNRWDluMnRua19BSENVRWdZZEFzZEh0VWFINF9Va3RPYVEtamhja1Rud3hVUFFWQUZBS1JlWE5wMk0yZUEyQ3lpV3pETVRMMnUxLWZ4Rm92OGZmVGpjY3BVZXl1dDBrR3RtX3RWZG9DOEFEMzFlV2NRSTVKYkxQb0hCZU0?oc=5",
-      "published": "2026-08-26T22:50:54Z",
-      "tone": "bearish"
-    },
-    {
-      "title": "Indian Prime Minister Modi asks Putin to end Ukraine war amid U.S. tariff threat on Russian oil",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/01/russia-india-ukraine-war-oil-modi-putin.html",
-      "published": "2026-09-01T14:23:00Z",
+      "title": "Stock market warning: S&P 500 faces correction risk as inflation stays high and Fed rate hikes loom | Business News - Hindustan Times",
+      "source": "Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVTdUMGVlanJwcWxjXzAtdEFFNUVlZjBqZVVhWTVMNFloNGtVMC15X3hRR05CTURBQ2FucXJ5d1hXRjZUTXp1SXlMekVvTzNLLTlDU3VjRHpoMDdNQldZTElCNkxnaGpDMWVUb2pIVEdwaEVzQTBraTBKakhrSklCNGFjejFDSDFNOTFRdWdBMFkwSzRxODdyWXJxUDZuQmdlNFdpR0MwQ29SYzgxb3JwYkk0czlBTWVIX0FOQ3JyaTNBMkdkMlhYY3N2QW5sQWdDNWpzNkMyQ3YzbzhqUzVSenoxbWEzTVRmTEtILXVJbUFrMm1ZT2fSAfYBQVVfeXFMTlU3VDBlZWpycHFsY18wLXRBRTVFZWYwamVVYVk1TDRZaDRrVTAteV94UUdOQk1EQUNhbnFyeXdYV0Y2VE16dUl5THpFb08zSy05Q1N1Y0R6aDA3TUJXWUxJQjZMZ2hqQzFlVG9qSFRHcGhFc0Ewa2kwSmpIa0pJQjRhY3oxQ0gxTTkxUXVnQTBZMEs0cTg3cllycVA2bkJnZTRXaUdDMENvUmM4MW9ycGJJNHM5QU1lSF9BTkNycmkzQTJHZDJYWGNzdkFubEFnQzVqczZDMkN2M284alM1Unp6MW1hM01UZkxLSC11SW1BazJtWU9n?oc=5",
+      "published": "2026-08-31T10:41:50Z",
       "tone": "bearish"
     },
     {
       "title": "US Stock Market Today: S&P 500 Futures Edge Lower As Rate Hike Jitters Build - simplywall.st",
       "source": "simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSlBkSThJdFZ1TUs4cnUtME81ZHpYOFRJbDk0QmVfdWs4bjFNTzZFdV9oeGVSWGZCMHJqSUxtSEo4Zm16WmMxT2R1ZF9ETDlIU3ZKZXR0OGdwcGdNNUt5R2ctc0lteVB2d29XNE9mby1xbmpodHhyOGpZUllkbWw1Wi1FQjdCQ3ZkbzJ1ajcxSmNuOXIybGhCYzlhLTNwVXJCNndSbHdORzhCaV9ta3lKNmxUV3dBSVo0UlpaaTQwTVN6WkkyZjZzX1ktQ0VrbENHdGs00gHYAUFVX3lxTE51SEItdDNhbWZjUkF1SC1UdWpXal9KeG1QSVNIUTAzS3RWNmhiSHlPOFM1d0cteFBtSGpmUHUxRnJISTR3c1VPTnU1NHcwOVg3LXBvYlc4RVA4RDZmZzNYeDlTcU16b2FIOXJKQjhHVXItLWRpV0dNeGRFRFdxcEh1NGZQMXFtQzV6b3BBZmJLTzAzNC1lakhld1UyMlRPVHFxeUE1OTFYak1GWFpRd3ZuZGwwczd4Rk5JVTdHaWtIREVTMllwQVBIMzBKSlpJRzJUSUNNU0lreg?oc=5",
-      "published": "2026-09-01T08:33:14Z",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdUhCLXQzYW1mY1JBdUgtVHVqV2pfSnhtUElTSFEwM0t0VjZoYkh5TzhTNXdHLXhQbUhqZlB1MUZySEk0d3NVT051NTR3MDlYNy1wb2JXOEVQOEQ2ZmczWHg5U3FNem9hSDlySkI4R1VyLS1kaVdHTXhkRURXcXBIdTRmUDFxbUM1em9wQWZiS08wMzQtZWpIZXdVMjJUT1RxcXlBNTkxWGpNRlhaUXd2bmRsMHM3eEZOSVU3R2lrSERFUzJZcEFQSDMwSkpaSUcyVElDTVNJa3rSAdgBQVVfeXFMTnVIQi10M2FtZmNSQXVILVR1aldqX0p4bVBJU0hRMDNLdFY2aGJIeU84UzV3Ry14UG1IamZQdTFGckhJNHdzVU9OdTU0dzA5WDctcG9iVzhFUDhENmZnM1h4OVNxTXpvYUg5ckpCOEdVci0tZGlXR014ZEVEV3FwSHU0ZlAxcW1DNXpvcEFmYktPMDM0LWVqSGV3VTIyVE9UcXF5QTU5MVhqTUZYWlF3dm5kbDBzN3hGTklVN0dpa0hERVMyWXBBUEgzMEpKWklHMlRJQ01TSWt6?oc=5",
+      "published": "2026-09-01T08:33:16Z",
       "tone": "bearish"
     },
     {
-      "title": "1 Magnificent Artificial Intelligence (AI) Stock to Buy With $25 Before 2026 Is Over",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://www.fool.com/investing/2026/09/01/magnificent-ai-stock-buy-with-25-before-2026-over/?.tsrc=rss",
-      "published": "2026-09-01T16:07:00Z",
-      "tone": "bullish"
+      "title": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
+      "published": "2026-09-01T14:01:27Z",
+      "tone": "bearish"
     },
     {
-      "title": "Alphabet (GOOG) Reports Strong Growth Fueled by AI Demand and Cloud Revenue",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-goog-reports-strong-growth-145316272.html?.tsrc=rss",
-      "published": "2026-09-01T14:53:16Z",
-      "tone": "bullish"
+      "title": "Trump says U.S. growth could hit 20%. It\u2019s happened only once since WWII",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/08/31/trump-us-gdp-growth-20-percent-economy.html",
+      "published": "2026-09-01T13:22:11Z",
+      "tone": "bearish"
+    },
+    {
+      "title": "Dow Drops 419, Nasdaq Loses 271, S&P 500 Falls 55 - tvnewscheck.com",
+      "source": "tvnewscheck.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQmJsQWMtTmEtcmUzd1pJSWd4VzQ5eDEwTUpfZlpBR3l1V0xfSVNTeHVGOXVVb3FnVXJVUGJkcjZnSUZUWUlVZHZVMDkzbnFtNWtfMWotaGhrc1ZLQXE3UGJrRmpyT1JVOEhBMkx0MXA4bExYTFRxclRFVEozbTQ0NTVHcU1ub0xCSmxmSXI3R3U0Zw?oc=5",
+      "published": "2026-09-01T20:36:47Z",
+      "tone": "bearish"
     }
   ],
   "data_source": {
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 19
+        "articles": 18
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -69,7 +69,7 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 92
+        "articles": 93
       }
     ],
     "headline_count": 141,
