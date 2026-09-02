@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-09-02T11:54:17Z",
+  "generated_at_utc": "2026-09-02T15:47:28Z",
   "data_asof": "2026-09-02",
-  "daily_rows": 10276,
-  "quote_price": 24329.7890625,
+  "daily_rows": 10275,
+  "quote_price": 24367.91015625,
   "quote_timestamp": "2026-09-02",
   "quote_source": "Yahoo Finance chart endpoint",
   "sources": {
     "daily_yahoo": {
-      "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EFTMC?period1=0&period2=1788436457&interval=1d&events=history&includeAdjustedClose=true",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EFTMC?period1=0&period2=1788450447&interval=1d&events=history&includeAdjustedClose=true",
       "ok": true,
       "status": 200
     }
@@ -26,12 +26,12 @@
   "official_signal": {
     "latest": {
       "date": "2026-09-02",
-      "close": 24329.7890625
+      "close": 24367.91015625
     },
-    "latestSma": 24727.20966796875,
-    "highWater": 24938.80078125,
-    "highWaterDate": "2026-08-28",
-    "latestDd": -0.024420248755821494,
+    "latestSma": 24705.14072265625,
+    "highWater": 24898.900390625,
+    "highWaterDate": "2026-08-27",
+    "latestDd": -0.02132585078234739,
     "regime": "tier2",
     "entryClose": 20492.0,
     "entryDate": "2024-05-08",
@@ -48,12 +48,12 @@
   "provisional_signal": {
     "latest": {
       "date": "2026-09-02",
-      "close": 24329.7890625
+      "close": 24367.91015625
     },
-    "latestSma": 24712.069140625,
-    "highWater": 24938.80078125,
-    "highWaterDate": "2026-08-28",
-    "latestDd": -0.024420248755821494,
+    "latestSma": 24700.57119140625,
+    "highWater": 24898.900390625,
+    "highWaterDate": "2026-08-27",
+    "latestDd": -0.02132585078234739,
     "regime": "tier2",
     "entryClose": 20492.0,
     "entryDate": "2024-05-08",
@@ -71,9 +71,8 @@
     "last_observed_asof": "2026-09-02",
     "last_observed_target_leverage": 0,
     "last_observed_target_label": "cash",
-    "last_checked_at_utc": "2026-09-02T11:54:17Z",
+    "last_checked_at_utc": "2026-09-02T15:47:28Z",
     "last_email_sent_on": "2026-09-02",
-    "last_email_sent_timezone": "Europe/London",
     "last_transition": {
       "id": "2026-08-27:1->2026-09-02:0",
       "detected_at_utc": "2026-09-02T11:54:17Z",

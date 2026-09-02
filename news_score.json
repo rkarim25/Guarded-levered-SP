@@ -1,44 +1,44 @@
 {
-  "generated_at_utc": "2026-09-02T11:54:21Z",
+  "generated_at_utc": "2026-09-02T15:47:31Z",
   "window_days": 7,
-  "score": 3,
-  "label": "Bearish",
-  "explanation": "3/10 is bearish from a 7-day headline keyword scan. Bullish drivers: US Stock Market Prediction: Dow Jones Futures Rise, S&P 500 Futures Gain & Nasdaq Futures Point Higher Ahead of Wall Street Opening; Check Monday Market Outlook, Key Things To Watch - The Sunday Guardian. Bearish offsets: Stock Futures Drop as Tech Selloff Rages Amid Bond Fears; US Stock Market Today: S&P 500 Futures Slip As Rising Yields Pressure Equities.",
+  "score": 4,
+  "label": "Neutral",
+  "explanation": "4/10 is neutral from a 7-day headline keyword scan. Bullish drivers: US stock market today: Nasdaq, S&P 500 futures rise up to 1% as Nvidia earnings spark rally in chip stocks - Livemint. Bearish offsets: World shares extend losses, while the global bond sell-off intensifies - KNWA FOX24; US Stock Market Today: S&P 500 Futures Edge Lower As Rate Hike Jitters Build - simplywall.st.",
   "articles": [
     {
-      "title": "Stock Futures Drop as Tech Selloff Rages Amid Bond Fears",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/8b033172-77a2-3450-a4a2-53149d89ad31/stock-futures-drop-as-tech.html?.tsrc=rss",
-      "published": "2026-09-02T10:05:59Z",
+      "title": "World shares extend losses, while the global bond sell-off intensifies - KNWA FOX24",
+      "source": "KNWA FOX24",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQ0lVNHBHNzUyU20tcXpEdGRkLV9UUkR2elE5WTlUczBiQmduZzd3UU1KcHRZaTFXWUhsRjlaRi04UVZUZUp2aGUycnNkcDZkM1VER0xVZk5ZYUJiRXpYZzVTdXI1NGlmUmdEMnVsVDJkV2dRM05QWDltOTd2cmZ6em53MjI2dkMyZ0pWQmRPRW5McTNla3BQdU41MjdQeVlJLXJza01fWVhqQUp2aFdvRFAySDdPTjQ0Y3JLTlY4bVJvQUJPaU9WWU5Pc05RaE5ILTZwVWdzaDB3NWU1OTQyZdIB4AFBVV95cUxQQ0lVNHBHNzUyU20tcXpEdGRkLV9UUkR2elE5WTlUczBiQmduZzd3UU1KcHRZaTFXWUhsRjlaRi04UVZUZUp2aGUycnNkcDZkM1VER0xVZk5ZYUJiRXpYZzVTdXI1NGlmUmdEMnVsVDJkV2dRM05QWDltOTd2cmZ6em53MjI2dkMyZ0pWQmRPRW5McTNla3BQdU41MjdQeVlJLXJza01fWVhqQUp2aFdvRFAySDdPTjQ0Y3JLTlY4bVJvQUJPaU9WWU5Pc05RaE5ILTZwVWdzaDB3NWU1OTQyZQ?oc=5",
+      "published": "2026-09-02T04:56:49Z",
       "tone": "bearish"
     },
     {
-      "title": "US Stock Market Today: S&P 500 Futures Slip As Rising Yields Pressure Equities",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081055905.html?.tsrc=rss",
-      "published": "2026-09-02T08:10:55Z",
-      "tone": "bearish"
-    },
-    {
-      "title": "Global Bond Selloff Undercuts Wall Street Pre-Bell; Asia, Europe Off",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/articles/global-bond-selloff-undercuts-wall-112339759.html?.tsrc=rss",
-      "published": "2026-09-02T11:23:39Z",
-      "tone": "bearish"
-    },
-    {
-      "title": "World shares extend losses, while the global bond sell-off intensifies - mymotherlode.com",
-      "source": "mymotherlode.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTXJQUmJUWUpmLWQ4ZnNLc3A3YXlQcGZtNlZDMHAtZHF6cUZtbDUxcnN1V18wb2VsbjhoWFRhWVg2Wk1pakI4ZlhNTlJDLUFhZ3dzd0hSQmR1eGJTcTYtRUduaEcwVjRrOElLTWRoaVJRVW0ydGRWOUVvdkpEdFNtd3JYS0pKTVp0bE1UVVB2ZC1aUVFESkd0Vkc1QkZ6MTZObndhdjlaODZ1R3hBSlgtRG9vTEVwTnhpZHhhMXdJZ9IBxAFBVV95cUxOTlRfRVhXZTFxSUVQUjR1Q3dRc0Y0c2ZWSU5va28zU01UQnpRVFVLSmpkOFJzbDR1VnRReVBWYmU0MVNLZlVlZGZld0hGREY5ZnlYNnNxRnRoQ19TWlNWeDNLRXlZM293aTNoeW1JUmNjazVBR1FZc1BrTVppVDBxX0swUzZLV1g4QUtIeFFQX1QwZ1FqZ1ZBbTNzdXY5d2w2SElCRGNPY0VYXzZXcExzQ0ZDMERxRi1OTE52WHBIb1BmNk1r?oc=5",
-      "published": "2026-09-02T11:20:39Z",
-      "tone": "bearish"
-    },
-    {
-      "title": "US Stock Market Prediction: Dow Jones Futures Rise, S&P 500 Futures Gain & Nasdaq Futures Point Higher Ahead of Wall Street Opening; Check Monday Market Outlook, Key Things To Watch - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQUWNTT3MtdW9pb3NmRE1ZSkdweUx6eGszUWFsOHhZTjFMamFtY25WLVZfa1VQRDJTcXhzc2N3WkdnRmtxUHptcEtiRkR3MGZBUUY2QVFxaGpYZVp1aWNRRTdxdkhzUnFaWDE5cWpSck1ydS03QXVRRW1VaWxrRWRVMm9kWVpaWktTMVlIUXpUTUd4TXA3MURmcWpEU2ZVMGdPU0RyM0pvSEpTSk9xQUdobnl3c25Ta0dBaDZycWFiVWhsUmVkWGRuUW5OQ3F6aW13eWFDZTg3U095d094LU1WM2tQal8zSHBFMUhCTW5mc2o5NTE0T2dEUTR6el8yOGVkZmw2eUFoeWRBRVNmSDI3Rk9wMm1PaUJvUVRrMTA4ZXZaWkMzWUgzbDBQNzZyZE9GMXZNOUx3TC1xM1RWM3BxYmNUdHd6Y1JlVGo3cGJVS21MUdIB1wJBVV95cUxOcDJhdmtwQ1FNYkl4QXI0Y3pNRkxsTDg2RHhKUmZhOWJJWTVvZlVRTHNVVW9YZ0NuM1otdjJwN3N6QVBGcW1QWXBrOTh5OXo2RG1QMTNTcmlvbUl1YmFRYnZFNmY3c1l3U1lDLW1GQ3JCSF95cVl2R1daTnpHajBfa244d2dyN0RJd1BsMm9YLTJvaHA1dENKSEI2LUw5WmFMZ0tJRzFvRXUzQ0s2Rk5zY0FNaWo2YWI0MkRiMFNRdmU2eFRRSzk3OWZjSm1aZmhtVFlYM01QR2QwUG9kaG5NOFhHQThUdTRTLVNyd1RpSTZtR3NmSjZ5WXRmc3RDaEE4THpxNm50SkxWNGNUeFh4RjJSQTkwbVdrUUN0X3V2S0YzSVE2cG9PQjAtS1VETTN5OHZQREl5R0QxcE9lRUpIZWtjalFETzJENmpNRVJVeHJHaHJSTncw?oc=5",
-      "published": "2026-08-29T16:54:30Z",
+      "title": "US stock market today: Nasdaq, S&P 500 futures rise up to 1% as Nvidia earnings spark rally in chip stocks - Livemint",
+      "source": "Livemint",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPejRoNlZWc29sMjhIT1dGd2U0dTNrcGttRGZUa3lLMmdLQzZxdG1LYW54NFplQ2ZlcFBmWVBSNWU0eGZXTDBuUWhYMFQ1MjRaRkpIUEpiMHpCUE1CRkxZU19Xc3hwS1Z2U3ZUN0hXdEVnRDNiR0NOaW9FVW5HNkx1aXUwMW9RbVRfbENqOUlndWIxc1BuUV8tWk8wc0NLTFRlVi1tcWVYbzNaejNxRWNaOXBCbVkxdE05SFVLWllpNFZRczZab3BXbGVfcG1pZ1Rab0lnd1BBYlpHeWE5U21ObDFfZ2pWb0ZrR3BfTDU2Q2xNQmxISkZBMHEwOGhKb2pTM3hN0gGIAkFVX3lxTE5DWW83aUZsbDROZTlpMkpGRWlfdlNUVHpqc2VVNVhQU0doR0tzc2U0SGp4SXVSaUNjblpjRkMyamV5aE5qYnNYWU0wckZkcEZEMHNESnhrS1NnZEVjWFBmNHMycmNYU3NRTHF1Q0l1MVlhaE1pSHFfNVJ1RTd4TWpRY3kwYzZMTlh6eHZVaC1DNEp0UzEyNm9wYWpCWlhEcWNXYUszTXpZa1lVbFZnT1pUdE9reG9mY0s1VWhqcGotaWxsd19fTDk5MzJxOGduRHdKSHpxdWM2UUE4dHFBMnlWdzlDVmpDX0FnMWNaUlEtVDQwWWlfM3hhSkllUjMyUE1zZy1XbGZ1Yw?oc=5",
+      "published": "2026-08-27T12:14:17Z",
       "tone": "bullish"
+    },
+    {
+      "title": "US Stock Market Today: S&P 500 Futures Edge Lower As Rate Hike Jitters Build - simplywall.st",
+      "source": "simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdUhCLXQzYW1mY1JBdUgtVHVqV2pfSnhtUElTSFEwM0t0VjZoYkh5TzhTNXdHLXhQbUhqZlB1MUZySEk0d3NVT051NTR3MDlYNy1wb2JXOEVQOEQ2ZmczWHg5U3FNem9hSDlySkI4R1VyLS1kaVdHTXhkRURXcXBIdTRmUDFxbUM1em9wQWZiS08wMzQtZWpIZXdVMjJUT1RxcXlBNTkxWGpNRlhaUXd2bmRsMHM3eEZOSVU3R2lrSERFUzJZcEFQSDMwSkpaSUcyVElDTVNJa3rSAdgBQVVfeXFMTnVIQi10M2FtZmNSQXVILVR1aldqX0p4bVBJU0hRMDNLdFY2aGJIeU84UzV3Ry14UG1IamZQdTFGckhJNHdzVU9OdTU0dzA5WDctcG9iVzhFUDhENmZnM1h4OVNxTXpvYUg5ckpCOEdVci0tZGlXR014ZEVEV3FwSHU0ZlAxcW1DNXpvcEFmYktPMDM0LWVqSGV3VTIyVE9UcXF5QTU5MVhqTUZYWlF3dm5kbDBzN3hGTklVN0dpa0hERVMyWXBBUEgzMEpKWklHMlRJQ01TSWt6?oc=5",
+      "published": "2026-09-01T08:33:16Z",
+      "tone": "bearish"
+    },
+    {
+      "title": "Wall Street dips as spiking crude prices revive fears of inflation, rate hike - marketscreener.com",
+      "source": "marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdlBCNWFPblcwa0RjcmNqT3lRbThIZEktNEhUY3pUR2JrZGFyZ2pxS25BQ000ZU9uRThuZHNzcUtwdVBjbmRsU29jR2ZZZG52Z05fdGJGMzZCTEZyRWtRNGF2MWtmZ0lmTTlpRll3WmdQSFlaem8tWXpuWHVIVGNxWmZoS196US1pSEJ3VUJzdk5TYm1ZYmRQeWl0WkxZdy1BMk1peWRDQ2hxZmhLNUNRUzdjdF9OZEQ5XzdMdmEteUs3TGJRNDl1Nw?oc=5",
+      "published": "2026-08-31T18:30:26Z",
+      "tone": "bearish"
+    },
+    {
+      "title": "Why is US Stock Market Down Today? Dow Jones Falls 0.35%, S&P 500 Slips 0.36%, Nasdaq Drop 0.53% as Oil Surges, Bond Yields & Fed Rate Concerns Amid US-Iran Tensions \u2013 Check What Investors Should Know - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPTFRHZ2tIN0hndnRLUzBmWW5STHktSFdYdzJyTnJ0dUJXY0FqZ2lBdmZkaXlIQktrRzRuTnBSVEdaeFNENlN2REJwQy1MYmxIX2MybndWd2lZcDRPTVo4U3N6Z1VTNHhfUEg1N2FOWk9kV3FtUm5VWVIwQnhfNFlhNVM0V1phQU9nOWl6QjlUNTZLMzNZTEtmeVJuNDhXdDhaSlhfT1BQM0VNbXBzcWFTOVUtSVZiNEFBTHBIWlpLakNhbXlsaDVldW9nVTBWRGRDdnVndFQ0dVAwZkNVcVhCYW9qZlh5elg0OWRrRXpqMG1TU0NVRXVRMWg3TEJONDNqWFo1N2l3Nk5YOW9Sb1FHUEMxOUY2UGNMX00wZWQ2VEFwTnVyUWZvRXNWR1dSZFpTWGM0U2ZvQnkzS083R0VwU3JPcHJZZUlfQzhBaWdoQ1FZQnMydkFzbtIB2AJBVV95cUxPTFRHZ2tIN0hndnRLUzBmWW5STHktSFdYdzJyTnJ0dUJXY0FqZ2lBdmZkaXlIQktrRzRuTnBSVEdaeFNENlN2REJwQy1MYmxIX2MybndWd2lZcDRPTVo4U3N6Z1VTNHhfUEg1N2FOWk9kV3FtUm5VWVIwQnhfNFlhNVM0V1phQU9nOWl6QjlUNTZLMzNZTEtmeVJuNDhXdDhaSlhfT1BQM0VNbXBzcWFTOVUtSVZiNEFBTHBIWlpLakNhbXlsaDVldW9nVTBWRGRDdnVndFQ0dVAwZkNVcVhCYW9qZlh5elg0OWRrRXpqMG1TU0NVRXVRMWg3TEJONDNqWFo1N2l3Nk5YOW9Sb1FHUEMxOUY2UGNMX00wZWQ2VEFwTnVyUWZvRXNWR1dSZFpTWGM0U2ZvQnkzS083R0VwU3JPcHJZZUlfQzhBaWdoQ1FZQnMydkFzbg?oc=5",
+      "published": "2026-09-01T16:43:12Z",
+      "tone": "bearish"
     }
   ],
   "data_source": {
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 19
+        "articles": 20
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 97
+        "articles": 94
       }
     ],
-    "headline_count": 146,
+    "headline_count": 144,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
