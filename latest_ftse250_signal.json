@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-09-02T23:49:36Z",
-  "data_asof": "2026-09-01",
-  "daily_rows": 10275,
-  "quote_price": 24521.30078125,
-  "quote_timestamp": "2026-09-01",
+  "generated_at_utc": "2026-09-03T11:52:58Z",
+  "data_asof": "2026-09-03",
+  "daily_rows": 10276,
+  "quote_price": 24374.7109375,
+  "quote_timestamp": "2026-09-03",
   "quote_source": "Yahoo Finance chart endpoint",
   "sources": {
     "daily_yahoo": {
-      "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EFTMC?period1=0&period2=1788479376&interval=1d&events=history&includeAdjustedClose=true",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EFTMC?period1=0&period2=1788522778&interval=1d&events=history&includeAdjustedClose=true",
       "ok": true,
       "status": 200
     }
@@ -25,13 +25,13 @@
   },
   "official_signal": {
     "latest": {
-      "date": "2026-09-01",
-      "close": 24521.30078125
+      "date": "2026-09-03",
+      "close": 24374.7109375
     },
-    "latestSma": 24733.68525390625,
-    "highWater": 24938.80078125,
-    "highWaterDate": "2026-08-28",
-    "latestDd": -0.016740981399309796,
+    "latestSma": 24698.720703125,
+    "highWater": 24898.900390625,
+    "highWaterDate": "2026-08-27",
+    "latestDd": -0.021052714975411946,
     "regime": "tier2",
     "entryClose": 20492.0,
     "entryDate": "2024-05-08",
@@ -47,13 +47,13 @@
   },
   "provisional_signal": {
     "latest": {
-      "date": "2026-09-01",
-      "close": 24521.30078125
+      "date": "2026-09-03",
+      "close": 24374.7109375
     },
-    "latestSma": 24736.78525390625,
-    "highWater": 24938.80078125,
-    "highWaterDate": "2026-08-28",
-    "latestDd": -0.016740981399309796,
+    "latestSma": 24685.82626953125,
+    "highWater": 24898.900390625,
+    "highWaterDate": "2026-08-27",
+    "latestDd": -0.021052714975411946,
     "regime": "tier2",
     "entryClose": 20492.0,
     "entryDate": "2024-05-08",
@@ -68,10 +68,10 @@
     "explanation": "2x tier is armed, but lead guard failed; using base cash/1x rule."
   },
   "trade_alert_state": {
-    "last_observed_asof": "2026-09-01",
+    "last_observed_asof": "2026-09-03",
     "last_observed_target_leverage": 0,
     "last_observed_target_label": "cash",
-    "last_checked_at_utc": "2026-09-02T23:49:36Z",
+    "last_checked_at_utc": "2026-09-03T11:52:58Z",
     "last_email_sent_on": "2026-09-02",
     "last_transition": {
       "id": "2026-08-27:1->2026-09-02:0",

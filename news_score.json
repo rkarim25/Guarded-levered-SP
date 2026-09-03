@@ -1,43 +1,43 @@
 {
-  "generated_at_utc": "2026-09-02T23:49:40Z",
+  "generated_at_utc": "2026-09-03T11:53:01Z",
   "window_days": 7,
-  "score": 6,
+  "score": 5,
   "label": "Neutral",
-  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: US Stock Market Today: Dow Jones Rises 0.04%, S&P 500 Climbs 0.34% & Nasdaq Jumps 0.87% as Nvidia Surge, Fed Signals & Chip Stocks Weigh on Wall Street \u2013 Check What Investors Should Know - The Sunday Guardian; Traders are piling into this international stock market that just pulled ahead of the Nasdaq. Bearish offsets: Market Wrap: Tech Selloff Sends S&P 500 Lower as Defensives Offer Support - Nasdaq Momentum Report - vinanet.vn; USTR's Greer huddles with House Republicans amid Trump trade spats.",
+  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bearish offsets: World shares extend losses, while the global bond sell-off intensifies - KNWA FOX24; Wall Street Highlights: S&P 500 Falls, Nasdaq 100 Sees Worst Day In Weeks As Iran War Weighs On Traders - NDTV Profit.",
   "articles": [
     {
-      "title": "US Stock Market Today: Dow Jones Rises 0.04%, S&P 500 Climbs 0.34% & Nasdaq Jumps 0.87% as Nvidia Surge, Fed Signals & Chip Stocks Weigh on Wall Street \u2013 Check What Investors Should Know - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNU2FxcGdqc3hGS2FVS1gtLWtuUjJtdkVrQm9PZmpkOTQ2Y044czlha1dndHdSSzJ4T25Wb1lnUno5a3lJelRNaGRUOWZfUWZIOGxvNGhZVGlqbF9oaGduOUFPalV0d2haX1RYSkFrR1o1ZFZpNE45T0E0YTRtY2ZhNk5XV2dPaVJTcFVRQjBQMDZrV3FxVzBkTnpvVUpVcTduRVNwT3cyUnpBQV9RdUNUc1JzcUVWeGdPYmdhT1NPRE9LdEJTWkRST3lhaFhsd3hsajRsTjdaNU80UUlWX3VkeEc2aU1wT0doQWhnMjhjZGpuYWFCMGY2SHdjaHZfUnVSck5ERjlnLV9vbC1aYXNFMjNaMGVwbGpMWmtKVDhCZ3FHQW5ub2k0ZUd5N2FiZGFpdHN1SEJEcTVpSXNVREI40gHEAkFVX3lxTE9TNkZXcTB1V2RMRXVWUU51WEptOEl6bUxaenhZM3hlYlZGNmJGVWdJR2txaDd6aEpfMEVMdHFXZ0ZsZzQtTTRweTJZRnJEXzlZUGVCOEtFRnNrUzJlOG5hY3VMTUgtdWtVWjM0c0hhU29pNWZLR2hsZjR5S1kwcUpkYUlEOE1MZk9ZRGtnTk5iWDE5ZWZHUzFsUzFabXE4RllLRy1COEdtR0owcjlZRUwtUU5UYkxnSjI4R1hiRHF5WmRkVk5RVmw4b1RuZFNRQ2EzdHV2TmpJdHVlNEJob0F2MkZYc0Z4dWZsSDBjVEhmSmZIXzFaV0EwZm05Tjd6RVMyV3k2VEdZMDg2MUlzUkVzRjNWSzhSemtxRWE2aWhSS3JOdlNKakVzeWhISGcxeEhsUEE0YlJHdUFmNUd2aE9KRk1WWA?oc=5",
-      "published": "2026-08-27T14:14:22Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Traders are piling into this international stock market that just pulled ahead of the Nasdaq",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/02/traders-pile-into-this-international-stock-market-thats-beating-the-nasdaq.html",
-      "published": "2026-09-02T19:11:07Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Market Wrap: Tech Selloff Sends S&P 500 Lower as Defensives Offer Support - Nasdaq Momentum Report - vinanet.vn",
-      "source": "vinanet.vn",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGxuUU9CUjlDN3VzeDVvVXdSVEFQZEVBVnljRE1NNk1WeWtvZktxQTItVkF1d0ZNd0FfenBrRnE4LTZqNDBvOFpoRkN1ZzJOcW1zTG4zeDBsSlkzNWdETVlfcDV2UXJ4bEpYa0VERGgzN01KNkE2Tml2UElZQ3hlQS1vdGxLT21RRmpmRnB1dEtjWVAzUjRVTnhiNWxtZXFyTHgtdXRUQ1A1VEtCREpldUN0Yw?oc=5",
-      "published": "2026-09-01T14:09:14Z",
+      "title": "World shares extend losses, while the global bond sell-off intensifies - KNWA FOX24",
+      "source": "KNWA FOX24",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQ0lVNHBHNzUyU20tcXpEdGRkLV9UUkR2elE5WTlUczBiQmduZzd3UU1KcHRZaTFXWUhsRjlaRi04UVZUZUp2aGUycnNkcDZkM1VER0xVZk5ZYUJiRXpYZzVTdXI1NGlmUmdEMnVsVDJkV2dRM05QWDltOTd2cmZ6em53MjI2dkMyZ0pWQmRPRW5McTNla3BQdU41MjdQeVlJLXJza01fWVhqQUp2aFdvRFAySDdPTjQ0Y3JLTlY4bVJvQUJPaU9WWU5Pc05RaE5ILTZwVWdzaDB3NWU1OTQyZdIB4AFBVV95cUxQQ0lVNHBHNzUyU20tcXpEdGRkLV9UUkR2elE5WTlUczBiQmduZzd3UU1KcHRZaTFXWUhsRjlaRi04UVZUZUp2aGUycnNkcDZkM1VER0xVZk5ZYUJiRXpYZzVTdXI1NGlmUmdEMnVsVDJkV2dRM05QWDltOTd2cmZ6em53MjI2dkMyZ0pWQmRPRW5McTNla3BQdU41MjdQeVlJLXJza01fWVhqQUp2aFdvRFAySDdPTjQ0Y3JLTlY4bVJvQUJPaU9WWU5Pc05RaE5ILTZwVWdzaDB3NWU1OTQyZQ?oc=5",
+      "published": "2026-09-02T04:56:49Z",
       "tone": "bearish"
     },
     {
-      "title": "US Stock Market Prediction: Dow Jones Futures Rise, S&P 500 Futures Gain & Nasdaq Futures Point Higher Ahead of Wall Street Opening; Check Monday Market Outlook, Key Things To Watch - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQUWNTT3MtdW9pb3NmRE1ZSkdweUx6eGszUWFsOHhZTjFMamFtY25WLVZfa1VQRDJTcXhzc2N3WkdnRmtxUHptcEtiRkR3MGZBUUY2QVFxaGpYZVp1aWNRRTdxdkhzUnFaWDE5cWpSck1ydS03QXVRRW1VaWxrRWRVMm9kWVpaWktTMVlIUXpUTUd4TXA3MURmcWpEU2ZVMGdPU0RyM0pvSEpTSk9xQUdobnl3c25Ta0dBaDZycWFiVWhsUmVkWGRuUW5OQ3F6aW13eWFDZTg3U095d094LU1WM2tQal8zSHBFMUhCTW5mc2o5NTE0T2dEUTR6el8yOGVkZmw2eUFoeWRBRVNmSDI3Rk9wMm1PaUJvUVRrMTA4ZXZaWkMzWUgzbDBQNzZyZE9GMXZNOUx3TC1xM1RWM3BxYmNUdHd6Y1JlVGo3cGJVS21MUdIB1wJBVV95cUxOcDJhdmtwQ1FNYkl4QXI0Y3pNRkxsTDg2RHhKUmZhOWJJWTVvZlVRTHNVVW9YZ0NuM1otdjJwN3N6QVBGcW1QWXBrOTh5OXo2RG1QMTNTcmlvbUl1YmFRYnZFNmY3c1l3U1lDLW1GQ3JCSF95cVl2R1daTnpHajBfa244d2dyN0RJd1BsMm9YLTJvaHA1dENKSEI2LUw5WmFMZ0tJRzFvRXUzQ0s2Rk5zY0FNaWo2YWI0MkRiMFNRdmU2eFRRSzk3OWZjSm1aZmhtVFlYM01QR2QwUG9kaG5NOFhHQThUdTRTLVNyd1RpSTZtR3NmSjZ5WXRmc3RDaEE4THpxNm50SkxWNGNUeFh4RjJSQTkwbVdrUUN0X3V2S0YzSVE2cG9PQjAtS1VETTN5OHZQREl5R0QxcE9lRUpIZWtjalFETzJENmpNRVJVeHJHaHJSTncw?oc=5",
-      "published": "2026-08-29T16:54:30Z",
-      "tone": "bullish"
+      "title": "Wall Street Highlights: S&P 500 Falls, Nasdaq 100 Sees Worst Day In Weeks As Iran War Weighs On Traders - NDTV Profit",
+      "source": "NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUWt0eTgwSzBfMkk4TlJYanZmN2k5eFNnVnU5UVd6MkJObHpjM3RZTXR5LW9LMmlXUjY1aWVEbGpDcnREaTdBc0kwbmIxM0tRMFhQUFlCTTdSbHZHYUJiWnVuS3Joc0lXdkNWajNBaUdqX1hEanBEd0N3UjZLUzBhU2k2Mm1mckdlNHZfZ1ZrSEd0bG8xbi1FLVA0RzYwTDRNVmNLSENYMllndElCVGpIODJNWXJJNW5OVEkxeVJ4djlLMVdtWWNKbHBDb2h4ekQ2b0hiSGJNVTdnT0xMSGdBNVEyQ0RMd9IB5gFBVV95cUxNUWt0eTgwSzBfMkk4TlJYanZmN2k5eFNnVnU5UVd6MkJObHpjM3RZTXR5LW9LMmlXUjY1aWVEbGpDcnREaTdBc0kwbmIxM0tRMFhQUFlCTTdSbHZHYUJiWnVuS3Joc0lXdkNWajNBaUdqX1hEanBEd0N3UjZLUzBhU2k2Mm1mckdlNHZfZ1ZrSEd0bG8xbi1FLVA0RzYwTDRNVmNLSENYMllndElCVGpIODJNWXJJNW5OVEkxeVJ4djlLMVdtWWNKbHBDb2h4ekQ2b0hiSGJNVTdnT0xMSGdBNVEyQ0RMdw?oc=5",
+      "published": "2026-09-02T01:09:58Z",
+      "tone": "bearish"
     },
     {
-      "title": "USTR's Greer huddles with House Republicans amid Trump trade spats",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/02/greer-trade-house-republicans-trump.html",
-      "published": "2026-09-02T20:50:51Z",
+      "title": "Why is US Stock Market Down Today? Dow Jones Falls 0.35%, S&P 500 Slips 0.36%, Nasdaq Drop 0.53% as Oil Surges, Bond Yields & Fed Rate Concerns Amid US-Iran Tensions \u2013 Check What Investors Should Know - sundayguardianlive.com",
+      "source": "sundayguardianlive.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPTFRHZ2tIN0hndnRLUzBmWW5STHktSFdYdzJyTnJ0dUJXY0FqZ2lBdmZkaXlIQktrRzRuTnBSVEdaeFNENlN2REJwQy1MYmxIX2MybndWd2lZcDRPTVo4U3N6Z1VTNHhfUEg1N2FOWk9kV3FtUm5VWVIwQnhfNFlhNVM0V1phQU9nOWl6QjlUNTZLMzNZTEtmeVJuNDhXdDhaSlhfT1BQM0VNbXBzcWFTOVUtSVZiNEFBTHBIWlpLakNhbXlsaDVldW9nVTBWRGRDdnVndFQ0dVAwZkNVcVhCYW9qZlh5elg0OWRrRXpqMG1TU0NVRXVRMWg3TEJONDNqWFo1N2l3Nk5YOW9Sb1FHUEMxOUY2UGNMX00wZWQ2VEFwTnVyUWZvRXNWR1dSZFpTWGM0U2ZvQnkzS083R0VwU3JPcHJZZUlfQzhBaWdoQ1FZQnMydkFzbtIB2AJBVV95cUxPTFRHZ2tIN0hndnRLUzBmWW5STHktSFdYdzJyTnJ0dUJXY0FqZ2lBdmZkaXlIQktrRzRuTnBSVEdaeFNENlN2REJwQy1MYmxIX2MybndWd2lZcDRPTVo4U3N6Z1VTNHhfUEg1N2FOWk9kV3FtUm5VWVIwQnhfNFlhNVM0V1phQU9nOWl6QjlUNTZLMzNZTEtmeVJuNDhXdDhaSlhfT1BQM0VNbXBzcWFTOVUtSVZiNEFBTHBIWlpLakNhbXlsaDVldW9nVTBWRGRDdnVndFQ0dVAwZkNVcVhCYW9qZlh5elg0OWRrRXpqMG1TU0NVRXVRMWg3TEJONDNqWFo1N2l3Nk5YOW9Sb1FHUEMxOUY2UGNMX00wZWQ2VEFwTnVyUWZvRXNWR1dSZFpTWGM0U2ZvQnkzS083R0VwU3JPcHJZZUlfQzhBaWdoQ1FZQnMydkFzbg?oc=5",
+      "published": "2026-09-01T16:43:12Z",
+      "tone": "bearish"
+    },
+    {
+      "title": "Why is US Stock Market Down Today? Dow Jones Falls 0.67%, S&P 500 Slips 0.51%, Nasdaq Drop 0.44% as Oil Surges & Fed Rate Outlook Amid US-Iran Tensions; Check What Investors Should Know - sundayguardianlive.com",
+      "source": "sundayguardianlive.com",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNbzlrUk5RbEJpTGNDZmhlZjJEajR4c3hDWXp4NzBLcmRuTFpLMlpfTUpfcExpTnJqeHNBWWI0LV9QZ1BQQXdSS3REc2xMdlN1dWU5SFZZMnltSVlLTHRhOEJlbmt2TnU2d1hMU1VRVWduYXd1aHRuTldFcHYtTEdYNG1hTU9VRHJVN3YzbGtoSTg0V2pORmY0SWdnZlVTbTBDSmRKcnQ0RVdUZ0ZVMGlVb2VXSEtFWmFNVGNtbDlXQS0wSE9GUGdYbjBKVk9kTmtPb2RkVlVNOS1pLXNBeDJlejh0S19NV0tQSUNrQ3l1eERYWlNQbDRJRTh2NXJSaTREZzRkTWRoVW1hSUI1am1vRnhVNnl1M1g2Tk9xLWlqRmE5dFJHeEVsNTRHNmJQZ0JmNGlPSWIzRzZGems4Y245dFJmNFFwRG_SAccCQVVfeXFMTW85a1JOUWxCaUxjQ2ZoZWYyRGo0eHN4Q1l6eDcwS3JkbkxaSzJaX01KX3BMaU5yanhzQVliNC1fUGdQUEF3Ukt0RHNsTHZTdXVlOUhWWTJ5bUlZS0x0YThCZW5rdk51NndYTFNVUVVnbmF3dWh0bk5XRXB2LUxHWDRtYU1PVURyVTd2M2xraEk4NFdqTkZmNElnZ2ZVU20wQ0pkSnJ0NEVXVGdGVTBpVW9lV0hLRVphTVRjbWw5V0EtMEhPRlBnWG4wSlZPZE5rT29kZFZVTTktaS1zQXgyZXo4dEtfTVdLUElDa0N5dXhEWFpTUGw0SUU4djVyUmk0RGc0ZE1kaFVtYUlCNWptb0Z4VTZ5dTNYNk5PcS1pakZhOXRSR3hFbDU0RzZiUGdCZjRpT0liM0c2RnprOGNuOXRSZjRRcERv?oc=5",
+      "published": "2026-08-31T16:35:36Z",
+      "tone": "bearish"
+    },
+    {
+      "title": "Stock market falls as Iran tensions return; Dow, S&P 500, Nasdaq drop | Business News - hindustantimes.com",
+      "source": "hindustantimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdXNfUUJZUGtRZ2FLdjN2Z0I0czBTd2IxWkpJci1DLURBRTJSQ2l2M3ZSMEJnb0I2T01BRmJBV25vZUFZdkxkeW9NMXFPRkZrMXhKVEJXMmpjU005Rm1INmY5WTE5eS1SMEtLWVAzT21VMmNWR0hVeE5aMUw1dE1oY2dfZGJIZkRpRHhZdHd2TXJMcDk5WmhFLXplTlRuMTZqdTRjYVdhdEdLcTByTlV1bjVmYm9CcEFvYzUxb1ViRjFQY2ZvWjJzejBhd9IBywFBVV95cUxQdXNfUUJZUGtRZ2FLdjN2Z0I0czBTd2IxWkpJci1DLURBRTJSQ2l2M3ZSMEJnb0I2T01BRmJBV25vZUFZdkxkeW9NMXFPRkZrMXhKVEJXMmpjU005Rm1INmY5WTE5eS1SMEtLWVAzT21VMmNWR0hVeE5aMUw1dE1oY2dfZGJIZkRpRHhZdHd2TXJMcDk5WmhFLXplTlRuMTZqdTRjYVdhdEdLcTByTlV1bjVmYm9CcEFvYzUxb1ViRjFQY2ZvWjJzejBhdw?oc=5",
+      "published": "2026-08-31T15:30:22Z",
       "tone": "bearish"
     }
   ],
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 89
+        "articles": 75
       }
     ],
-    "headline_count": 139,
+    "headline_count": 125,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
