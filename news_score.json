@@ -1,23 +1,30 @@
 {
-  "generated_at_utc": "2026-09-03T15:36:52Z",
+  "generated_at_utc": "2026-09-03T19:00:50Z",
   "window_days": 7,
   "score": 6,
   "label": "Neutral",
-  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Planet Labs Sinks 8% Despite New Defense Contract, Intuitive Machines Pulls Back, AST SpaceMobile Sits Out Broad-Market Rally; ViaSat (VSAT) Down 13.7% Since Last Earnings Report: Can It Rebound?. Bearish offsets: Dow rises 400 points as Treasury yields fall on lower Fed rate hike expectations: Live updates; Putin floats 'chance' at peace with Ukraine as NATO chief warns Russia is becoming 'increasingly reckless'.",
+  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Data Center Stocks Rally With Bitcoin: Cipher Mining Jumps 12%, TeraWulf Surges 8%, IREN Rises 4%; Oil prices edge higher, while world shares are mixed after Wall Street gains - Yakima Herald-Republic. Bearish offsets: US Stock Market Today: S&P 500 Futures Edge Lower As Rate Hike Jitters Build - simplywall.st; Wall Street Today: DJIA, S&P 500, Nasdaq Comp Fall on U.S.-Iran and MRVL, AMZN, GOOGL Losses - Moomoo.",
   "articles": [
     {
-      "title": "Dow rises 400 points as Treasury yields fall on lower Fed rate hike expectations: Live updates",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/02/stock-market-today-live-updates.html",
-      "published": "2026-09-03T15:04:47Z",
+      "title": "Data Center Stocks Rally With Bitcoin: Cipher Mining Jumps 12%, TeraWulf Surges 8%, IREN Rises 4%",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://247wallst.com/investing/2026/09/03/data-center-stocks-rally-with-bitcoin-cipher-mining-jumps-12-terawulf-surges-8-iren-rises-4/?.tsrc=rss",
+      "published": "2026-09-03T18:43:45Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "US Stock Market Today: S&P 500 Futures Edge Lower As Rate Hike Jitters Build - simplywall.st",
+      "source": "simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSlBkSThJdFZ1TUs4cnUtME81ZHpYOFRJbDk0QmVfdWs4bjFNTzZFdV9oeGVSWGZCMHJqSUxtSEo4Zm16WmMxT2R1ZF9ETDlIU3ZKZXR0OGdwcGdNNUt5R2ctc0lteVB2d29XNE9mby1xbmpodHhyOGpZUllkbWw1Wi1FQjdCQ3ZkbzJ1ajcxSmNuOXIybGhCYzlhLTNwVXJCNndSbHdORzhCaV9ta3lKNmxUV3dBSVo0UlpaaTQwTVN6WkkyZjZzX1ktQ0VrbENHdGs00gHYAUFVX3lxTE51SEItdDNhbWZjUkF1SC1UdWpXal9KeG1QSVNIUTAzS3RWNmhiSHlPOFM1d0cteFBtSGpmUHUxRnJISTR3c1VPTnU1NHcwOVg3LXBvYlc4RVA4RDZmZzNYeDlTcU16b2FIOXJKQjhHVXItLWRpV0dNeGRFRFdxcEh1NGZQMXFtQzV6b3BBZmJLTzAzNC1lakhld1UyMlRPVHFxeUE1OTFYak1GWFpRd3ZuZGwwczd4Rk5JVTdHaWtIREVTMllwQVBIMzBKSlpJRzJUSUNNU0lreg?oc=5",
+      "published": "2026-09-01T08:33:14Z",
       "tone": "bearish"
     },
     {
-      "title": "Planet Labs Sinks 8% Despite New Defense Contract, Intuitive Machines Pulls Back, AST SpaceMobile Sits Out Broad-Market Rally",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://247wallst.com/investing/2026/09/03/planet-labs-sinks-8-despite-new-defense-contract-intuitive-machines-pulls-back-ast-spacemobile-sits-out-broad-market-rally/?.tsrc=rss",
-      "published": "2026-09-03T15:07:06Z",
-      "tone": "bullish"
+      "title": "Wall Street Today: DJIA, S&P 500, Nasdaq Comp Fall on U.S.-Iran and MRVL, AMZN, GOOGL Losses - Moomoo",
+      "source": "Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ0pleVR3Z25IMjNZQUdOc2ZRWDE0TkUtRlN6Ni1VaGFab3Rtd1RkdndPOTNuWGtIR3NJV2tBTVhrSlJVSEV3Zk5VanhUeEZnQVdwY19WbG5GV0ExcEpvMjlPLVZXUk1EbXB5NU9TRnp0Rzg4ZHhLOGp6UFRYQ0kxdHpmOTNPaXRwcmRrUWNWVUc1am12aVNsZ2tQZzhyNUMtdXc?oc=5",
+      "published": "2026-08-30T16:52:00Z",
+      "tone": "bearish"
     },
     {
       "title": "Putin floats 'chance' at peace with Ukraine as NATO chief warns Russia is becoming 'increasingly reckless'",
@@ -27,17 +34,10 @@
       "tone": "bearish"
     },
     {
-      "title": "The world appears to be entering a higher-rate era. Here\u2019s who will pay the price",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/03/global-bond-yields-rising-treasuries-jgb-bunds.html",
-      "published": "2026-09-03T04:20:20Z",
-      "tone": "bearish"
-    },
-    {
-      "title": "ViaSat (VSAT) Down 13.7% Since Last Earnings Report: Can It Rebound?",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/viasat-vsat-down-13-7-153027389.html?.tsrc=rss",
-      "published": "2026-09-03T15:30:27Z",
+      "title": "Oil prices edge higher, while world shares are mixed after Wall Street gains - Yakima Herald-Republic",
+      "source": "Yakima Herald-Republic",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNX3k5Z3BaV2NraGFlNko3NXh4cHlPUFRWYkx1c2pKXzFpTkx5bE96QTB5VnJZM2FnZDJaZ2xsOWNRSWlUOXE0aE9BZzdla0JTc2cwSThzcGp0b2tETGNiTW9JNzdNWnNfTXpQREdwMTc4M2RiTXdpNE13LTRCUFFBRDJrRS01VFJvZmV1eEhONmRNZHBTYUZvdzVZMnJxTHBqUER0UWtUT1F4SS03U1dZcVpESUtkYkMwbG1LaUJ2azhyc3JqcFV4Z2tkenlIVmc2QlhBbTBWRnpsRldIbkNCR1dFXzNJZl8zcHBtQ0FDbVZXTlFzdmJTb2Y2Z0RMQmFjRnNfaVFEaVgtQ1dQb0VqX25HQdIBmAJBVV95cUxPejNSaXpRZlB4d2hzTjRZTTRWS1NMb085ZndpUUxvQ3o2SFItSXhaZWNiMjI0ZFl3a1p0Y0c3SFd4ekZhQW5xZlpheENEcHJaeG05RjBLSVpxd3hXZEdtTVd2QVlJcWNEX3NGa3BBUXFaMHhsS2EzVGZZTHNUeE5VZjV4S215ZFkwSUtkUFE4cUhXenpzaHY5cEJpbFVBR2M4dkFmNGZDNllXNEJWbkdXMXh3THc3RW13azU3SGlCMng2djdoUkZaOE9fN1ctTWRob0p3YTFIenNkMHF4cGxkenBTdDQ3TkNoVENPRndmVGNBdFdWTG9mSUJpOUxVTEh3b2xSXzlTdUNYRkhZRWZMSWRIRFF3ZmJy?oc=5",
+      "published": "2026-09-03T10:51:46Z",
       "tone": "bullish"
     }
   ],
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 20
+        "articles": 19
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 0
+        "articles": 48
       }
     ],
-    "headline_count": 50,
+    "headline_count": 97,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
