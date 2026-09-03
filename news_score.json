@@ -1,44 +1,44 @@
 {
-  "generated_at_utc": "2026-09-03T11:53:01Z",
+  "generated_at_utc": "2026-09-03T15:36:52Z",
   "window_days": 7,
-  "score": 5,
+  "score": 6,
   "label": "Neutral",
-  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bearish offsets: World shares extend losses, while the global bond sell-off intensifies - KNWA FOX24; Wall Street Highlights: S&P 500 Falls, Nasdaq 100 Sees Worst Day In Weeks As Iran War Weighs On Traders - NDTV Profit.",
+  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Planet Labs Sinks 8% Despite New Defense Contract, Intuitive Machines Pulls Back, AST SpaceMobile Sits Out Broad-Market Rally; ViaSat (VSAT) Down 13.7% Since Last Earnings Report: Can It Rebound?. Bearish offsets: Dow rises 400 points as Treasury yields fall on lower Fed rate hike expectations: Live updates; Putin floats 'chance' at peace with Ukraine as NATO chief warns Russia is becoming 'increasingly reckless'.",
   "articles": [
     {
-      "title": "World shares extend losses, while the global bond sell-off intensifies - KNWA FOX24",
-      "source": "KNWA FOX24",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQ0lVNHBHNzUyU20tcXpEdGRkLV9UUkR2elE5WTlUczBiQmduZzd3UU1KcHRZaTFXWUhsRjlaRi04UVZUZUp2aGUycnNkcDZkM1VER0xVZk5ZYUJiRXpYZzVTdXI1NGlmUmdEMnVsVDJkV2dRM05QWDltOTd2cmZ6em53MjI2dkMyZ0pWQmRPRW5McTNla3BQdU41MjdQeVlJLXJza01fWVhqQUp2aFdvRFAySDdPTjQ0Y3JLTlY4bVJvQUJPaU9WWU5Pc05RaE5ILTZwVWdzaDB3NWU1OTQyZdIB4AFBVV95cUxQQ0lVNHBHNzUyU20tcXpEdGRkLV9UUkR2elE5WTlUczBiQmduZzd3UU1KcHRZaTFXWUhsRjlaRi04UVZUZUp2aGUycnNkcDZkM1VER0xVZk5ZYUJiRXpYZzVTdXI1NGlmUmdEMnVsVDJkV2dRM05QWDltOTd2cmZ6em53MjI2dkMyZ0pWQmRPRW5McTNla3BQdU41MjdQeVlJLXJza01fWVhqQUp2aFdvRFAySDdPTjQ0Y3JLTlY4bVJvQUJPaU9WWU5Pc05RaE5ILTZwVWdzaDB3NWU1OTQyZQ?oc=5",
-      "published": "2026-09-02T04:56:49Z",
+      "title": "Dow rises 400 points as Treasury yields fall on lower Fed rate hike expectations: Live updates",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/02/stock-market-today-live-updates.html",
+      "published": "2026-09-03T15:04:47Z",
       "tone": "bearish"
     },
     {
-      "title": "Wall Street Highlights: S&P 500 Falls, Nasdaq 100 Sees Worst Day In Weeks As Iran War Weighs On Traders - NDTV Profit",
-      "source": "NDTV Profit",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUWt0eTgwSzBfMkk4TlJYanZmN2k5eFNnVnU5UVd6MkJObHpjM3RZTXR5LW9LMmlXUjY1aWVEbGpDcnREaTdBc0kwbmIxM0tRMFhQUFlCTTdSbHZHYUJiWnVuS3Joc0lXdkNWajNBaUdqX1hEanBEd0N3UjZLUzBhU2k2Mm1mckdlNHZfZ1ZrSEd0bG8xbi1FLVA0RzYwTDRNVmNLSENYMllndElCVGpIODJNWXJJNW5OVEkxeVJ4djlLMVdtWWNKbHBDb2h4ekQ2b0hiSGJNVTdnT0xMSGdBNVEyQ0RMd9IB5gFBVV95cUxNUWt0eTgwSzBfMkk4TlJYanZmN2k5eFNnVnU5UVd6MkJObHpjM3RZTXR5LW9LMmlXUjY1aWVEbGpDcnREaTdBc0kwbmIxM0tRMFhQUFlCTTdSbHZHYUJiWnVuS3Joc0lXdkNWajNBaUdqX1hEanBEd0N3UjZLUzBhU2k2Mm1mckdlNHZfZ1ZrSEd0bG8xbi1FLVA0RzYwTDRNVmNLSENYMllndElCVGpIODJNWXJJNW5OVEkxeVJ4djlLMVdtWWNKbHBDb2h4ekQ2b0hiSGJNVTdnT0xMSGdBNVEyQ0RMdw?oc=5",
-      "published": "2026-09-02T01:09:58Z",
+      "title": "Planet Labs Sinks 8% Despite New Defense Contract, Intuitive Machines Pulls Back, AST SpaceMobile Sits Out Broad-Market Rally",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://247wallst.com/investing/2026/09/03/planet-labs-sinks-8-despite-new-defense-contract-intuitive-machines-pulls-back-ast-spacemobile-sits-out-broad-market-rally/?.tsrc=rss",
+      "published": "2026-09-03T15:07:06Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "Putin floats 'chance' at peace with Ukraine as NATO chief warns Russia is becoming 'increasingly reckless'",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/03/putin-peace-russia-ukraine-nato-defense.html",
+      "published": "2026-09-03T11:41:40Z",
       "tone": "bearish"
     },
     {
-      "title": "Why is US Stock Market Down Today? Dow Jones Falls 0.35%, S&P 500 Slips 0.36%, Nasdaq Drop 0.53% as Oil Surges, Bond Yields & Fed Rate Concerns Amid US-Iran Tensions \u2013 Check What Investors Should Know - sundayguardianlive.com",
-      "source": "sundayguardianlive.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPTFRHZ2tIN0hndnRLUzBmWW5STHktSFdYdzJyTnJ0dUJXY0FqZ2lBdmZkaXlIQktrRzRuTnBSVEdaeFNENlN2REJwQy1MYmxIX2MybndWd2lZcDRPTVo4U3N6Z1VTNHhfUEg1N2FOWk9kV3FtUm5VWVIwQnhfNFlhNVM0V1phQU9nOWl6QjlUNTZLMzNZTEtmeVJuNDhXdDhaSlhfT1BQM0VNbXBzcWFTOVUtSVZiNEFBTHBIWlpLakNhbXlsaDVldW9nVTBWRGRDdnVndFQ0dVAwZkNVcVhCYW9qZlh5elg0OWRrRXpqMG1TU0NVRXVRMWg3TEJONDNqWFo1N2l3Nk5YOW9Sb1FHUEMxOUY2UGNMX00wZWQ2VEFwTnVyUWZvRXNWR1dSZFpTWGM0U2ZvQnkzS083R0VwU3JPcHJZZUlfQzhBaWdoQ1FZQnMydkFzbtIB2AJBVV95cUxPTFRHZ2tIN0hndnRLUzBmWW5STHktSFdYdzJyTnJ0dUJXY0FqZ2lBdmZkaXlIQktrRzRuTnBSVEdaeFNENlN2REJwQy1MYmxIX2MybndWd2lZcDRPTVo4U3N6Z1VTNHhfUEg1N2FOWk9kV3FtUm5VWVIwQnhfNFlhNVM0V1phQU9nOWl6QjlUNTZLMzNZTEtmeVJuNDhXdDhaSlhfT1BQM0VNbXBzcWFTOVUtSVZiNEFBTHBIWlpLakNhbXlsaDVldW9nVTBWRGRDdnVndFQ0dVAwZkNVcVhCYW9qZlh5elg0OWRrRXpqMG1TU0NVRXVRMWg3TEJONDNqWFo1N2l3Nk5YOW9Sb1FHUEMxOUY2UGNMX00wZWQ2VEFwTnVyUWZvRXNWR1dSZFpTWGM0U2ZvQnkzS083R0VwU3JPcHJZZUlfQzhBaWdoQ1FZQnMydkFzbg?oc=5",
-      "published": "2026-09-01T16:43:12Z",
+      "title": "The world appears to be entering a higher-rate era. Here\u2019s who will pay the price",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/03/global-bond-yields-rising-treasuries-jgb-bunds.html",
+      "published": "2026-09-03T04:20:20Z",
       "tone": "bearish"
     },
     {
-      "title": "Why is US Stock Market Down Today? Dow Jones Falls 0.67%, S&P 500 Slips 0.51%, Nasdaq Drop 0.44% as Oil Surges & Fed Rate Outlook Amid US-Iran Tensions; Check What Investors Should Know - sundayguardianlive.com",
-      "source": "sundayguardianlive.com",
-      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNbzlrUk5RbEJpTGNDZmhlZjJEajR4c3hDWXp4NzBLcmRuTFpLMlpfTUpfcExpTnJqeHNBWWI0LV9QZ1BQQXdSS3REc2xMdlN1dWU5SFZZMnltSVlLTHRhOEJlbmt2TnU2d1hMU1VRVWduYXd1aHRuTldFcHYtTEdYNG1hTU9VRHJVN3YzbGtoSTg0V2pORmY0SWdnZlVTbTBDSmRKcnQ0RVdUZ0ZVMGlVb2VXSEtFWmFNVGNtbDlXQS0wSE9GUGdYbjBKVk9kTmtPb2RkVlVNOS1pLXNBeDJlejh0S19NV0tQSUNrQ3l1eERYWlNQbDRJRTh2NXJSaTREZzRkTWRoVW1hSUI1am1vRnhVNnl1M1g2Tk9xLWlqRmE5dFJHeEVsNTRHNmJQZ0JmNGlPSWIzRzZGems4Y245dFJmNFFwRG_SAccCQVVfeXFMTW85a1JOUWxCaUxjQ2ZoZWYyRGo0eHN4Q1l6eDcwS3JkbkxaSzJaX01KX3BMaU5yanhzQVliNC1fUGdQUEF3Ukt0RHNsTHZTdXVlOUhWWTJ5bUlZS0x0YThCZW5rdk51NndYTFNVUVVnbmF3dWh0bk5XRXB2LUxHWDRtYU1PVURyVTd2M2xraEk4NFdqTkZmNElnZ2ZVU20wQ0pkSnJ0NEVXVGdGVTBpVW9lV0hLRVphTVRjbWw5V0EtMEhPRlBnWG4wSlZPZE5rT29kZFZVTTktaS1zQXgyZXo4dEtfTVdLUElDa0N5dXhEWFpTUGw0SUU4djVyUmk0RGc0ZE1kaFVtYUlCNWptb0Z4VTZ5dTNYNk5PcS1pakZhOXRSR3hFbDU0RzZiUGdCZjRpT0liM0c2RnprOGNuOXRSZjRRcERv?oc=5",
-      "published": "2026-08-31T16:35:36Z",
-      "tone": "bearish"
-    },
-    {
-      "title": "Stock market falls as Iran tensions return; Dow, S&P 500, Nasdaq drop | Business News - hindustantimes.com",
-      "source": "hindustantimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdXNfUUJZUGtRZ2FLdjN2Z0I0czBTd2IxWkpJci1DLURBRTJSQ2l2M3ZSMEJnb0I2T01BRmJBV25vZUFZdkxkeW9NMXFPRkZrMXhKVEJXMmpjU005Rm1INmY5WTE5eS1SMEtLWVAzT21VMmNWR0hVeE5aMUw1dE1oY2dfZGJIZkRpRHhZdHd2TXJMcDk5WmhFLXplTlRuMTZqdTRjYVdhdEdLcTByTlV1bjVmYm9CcEFvYzUxb1ViRjFQY2ZvWjJzejBhd9IBywFBVV95cUxQdXNfUUJZUGtRZ2FLdjN2Z0I0czBTd2IxWkpJci1DLURBRTJSQ2l2M3ZSMEJnb0I2T01BRmJBV25vZUFZdkxkeW9NMXFPRkZrMXhKVEJXMmpjU005Rm1INmY5WTE5eS1SMEtLWVAzT21VMmNWR0hVeE5aMUw1dE1oY2dfZGJIZkRpRHhZdHd2TXJMcDk5WmhFLXplTlRuMTZqdTRjYVdhdEdLcTByTlV1bjVmYm9CcEFvYzUxb1ViRjFQY2ZvWjJzejBhdw?oc=5",
-      "published": "2026-08-31T15:30:22Z",
-      "tone": "bearish"
+      "title": "ViaSat (VSAT) Down 13.7% Since Last Earnings Report: Can It Rebound?",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/viasat-vsat-down-13-7-153027389.html?.tsrc=rss",
+      "published": "2026-09-03T15:30:27Z",
+      "tone": "bullish"
     }
   ],
   "data_source": {
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 75
+        "articles": 0
       }
     ],
-    "headline_count": 125,
+    "headline_count": 50,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
