@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-09-03T19:00:49Z",
+  "generated_at_utc": "2026-09-03T22:53:21Z",
   "data_asof": "2026-09-03",
-  "daily_rows": 3444,
+  "daily_rows": 3445,
   "quote_price": 31031.0,
   "quote_timestamp": "2026-09-03",
   "quote_source": "Yahoo Finance chart endpoint",
   "sources": {
     "daily_yahoo": {
-      "url": "https://query1.finance.yahoo.com/v8/finance/chart/LQQ3.L?period1=0&period2=1788548449&interval=1d&events=history&includeAdjustedClose=true",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/LQQ3.L?period1=0&period2=1788562401&interval=1d&events=history&includeAdjustedClose=true",
       "ok": true,
       "status": 200
     }
@@ -28,7 +28,7 @@
       "date": "2026-09-03",
       "close": 31031.0
     },
-    "latestSma": 31388.55,
+    "latestSma": 31276.85,
     "highWater": 37632.0,
     "highWaterDate": "2026-06-02",
     "latestDd": -0.17540922619047616,
@@ -50,7 +50,7 @@
       "date": "2026-09-03",
       "close": 31031.0
     },
-    "latestSma": 31326.1,
+    "latestSma": 31255.15,
     "highWater": 37632.0,
     "highWaterDate": "2026-06-02",
     "latestDd": -0.17540922619047616,
@@ -59,19 +59,19 @@
     "entryDate": "2026-05-18",
     "recoveryTarget": 44772.7,
     "aboveSma": false,
-    "recoveryOk": false,
-    "targetLeverage": 0,
-    "activeEntryClose": null,
-    "activeEntryDate": null,
-    "activeEntryLeverage": null,
-    "activeEntryPnl": null,
-    "explanation": "2x tier is armed, but lead guard failed; using base cash/1x rule."
+    "recoveryOk": true,
+    "targetLeverage": 1,
+    "activeEntryClose": 31031.0,
+    "activeEntryDate": "2026-09-03",
+    "activeEntryLeverage": 1,
+    "activeEntryPnl": 0.0,
+    "explanation": "Recovery tier2 armed at 1x max (lead guard passed)."
   },
   "trade_alert_state": {
     "last_observed_asof": "2026-09-03",
     "last_observed_target_leverage": 0,
     "last_observed_target_label": "cash",
-    "last_checked_at_utc": "2026-09-03T19:00:49Z",
+    "last_checked_at_utc": "2026-09-03T22:53:21Z",
     "last_email_sent_on": "2026-09-01",
     "last_transition": {
       "id": "2026-08-28:1->2026-09-01:0",
