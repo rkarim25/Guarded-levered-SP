@@ -1,43 +1,43 @@
 {
-  "generated_at_utc": "2026-09-04T18:44:52Z",
+  "generated_at_utc": "2026-09-04T22:37:50Z",
   "window_days": 7,
-  "score": 8,
-  "label": "Bullish",
-  "explanation": "8/10 is bullish from a 7-day headline keyword scan. Bullish drivers: ChargePoint Climbs 7% as CEO Says Rally Is \u2018the Beginning of the Momentum\u2019; EVgo Ticks Up, Blink Charging Holds Flat; Small Cap Stocks Surge 1.3%, Expanding Wall Street Rebound - TechStock\u00b2. Bearish offsets: Update: Equities Fall Intraday as Jobs Report Lifts Rate Hike Bets; Should You Brace For A Fall In American Airlines Stock?.",
+  "score": 5,
+  "label": "Neutral",
+  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Diesel hits record high as Ukraine and Iran wars knock out refineries, fueling inflation worries. Bearish offsets: S&P 500, Dow End Lower As Blowout Jobs Report Fans Rate Hike Fears, While Chipmaker Strength Aids Nasdaq \u2014TSLA, NFLX, BE, NVDA In Focus; US Stock Market Today: S&P 500 Futures Edge Lower As Rate Hike Jitters Build - simplywall.st.",
   "articles": [
     {
-      "title": "ChargePoint Climbs 7% as CEO Says Rally Is \u2018the Beginning of the Momentum\u2019; EVgo Ticks Up, Blink Charging Holds Flat",
+      "title": "S&P 500, Dow End Lower As Blowout Jobs Report Fans Rate Hike Fears, While Chipmaker Strength Aids Nasdaq \u2014TSLA, NFLX, BE, NVDA In Focus",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://247wallst.com/investing/2026/09/04/chargepoint-climbs-7-as-ceo-says-rally-is-the-beginning-of-the-momentum-evgo-ticks-up-blink-charging-holds-flat/?.tsrc=rss",
-      "published": "2026-09-04T18:11:07Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Update: Equities Fall Intraday as Jobs Report Lifts Rate Hike Bets",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/equities-fall-intraday-jobs-report-174019594.html?.tsrc=rss",
-      "published": "2026-09-04T17:40:19Z",
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-end-lower-as-blowout-jobs-report-fans-rate-hike-fears-while-chipmaker-strength-aids-nasdaq-tsla-nflx-be-nvda-in-focus/cZsDjVKRJDg?.tsrc=rss",
+      "published": "2026-09-04T22:18:49Z",
       "tone": "bearish"
     },
     {
-      "title": "Small Cap Stocks Surge 1.3%, Expanding Wall Street Rebound - TechStock\u00b2",
-      "source": "TechStock\u00b2",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DR1RLdmM4U096bzQ2WW0wSTVnLXNvRVo2NzNaLUV5djlfV29xUXVzLUVXUElnXzMxNE1xdzRudUZjbkhEMVhOb1ZhSWhFN1lnTGMzT1c2emNqclV1UjdaNl9HTHV5M2M2dFlCQ0lXYUZxV1hQbGRzZGhtZlI?oc=5",
-      "published": "2026-09-02T20:14:07Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Should You Brace For A Fall In American Airlines Stock?",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://www.trefis.com/articles/614416/should-you-brace-for-a-fall-in-american-airlines-stock/2026-09-04?.tsrc=rss",
-      "published": "2026-09-04T17:05:58Z",
+      "title": "US Stock Market Today: S&P 500 Futures Edge Lower As Rate Hike Jitters Build - simplywall.st",
+      "source": "simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSlBkSThJdFZ1TUs4cnUtME81ZHpYOFRJbDk0QmVfdWs4bjFNTzZFdV9oeGVSWGZCMHJqSUxtSEo4Zm16WmMxT2R1ZF9ETDlIU3ZKZXR0OGdwcGdNNUt5R2ctc0lteVB2d29XNE9mby1xbmpodHhyOGpZUllkbWw1Wi1FQjdCQ3ZkbzJ1ajcxSmNuOXIybGhCYzlhLTNwVXJCNndSbHdORzhCaV9ta3lKNmxUV3dBSVo0UlpaaTQwTVN6WkkyZjZzX1ktQ0VrbENHdGs00gHYAUFVX3lxTE51SEItdDNhbWZjUkF1SC1UdWpXal9KeG1QSVNIUTAzS3RWNmhiSHlPOFM1d0cteFBtSGpmUHUxRnJISTR3c1VPTnU1NHcwOVg3LXBvYlc4RVA4RDZmZzNYeDlTcU16b2FIOXJKQjhHVXItLWRpV0dNeGRFRFdxcEh1NGZQMXFtQzV6b3BBZmJLTzAzNC1lakhld1UyMlRPVHFxeUE1OTFYak1GWFpRd3ZuZGwwczd4Rk5JVTdHaWtIREVTMllwQVBIMzBKSlpJRzJUSUNNU0lreg?oc=5",
+      "published": "2026-09-01T08:33:14Z",
       "tone": "bearish"
     },
     {
-      "title": "Stock Market Today: Dow Sinks As Inflation Report Looms; Oracle Up On OpenAI Buzz (Live Coverage)",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/64f13108-e2e0-3872-9691-3d148d5fa88d/stock-market-today%3A-dow-sinks.html?.tsrc=rss",
-      "published": "2026-09-04T17:22:30Z",
+      "title": "Wall Street Today: DJIA, S&P 500, Nasdaq Comp Fall on U.S.-Iran and MRVL, AMZN, GOOGL Losses - moomoo.com",
+      "source": "moomoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ0pleVR3Z25IMjNZQUdOc2ZRWDE0TkUtRlN6Ni1VaGFab3Rtd1RkdndPOTNuWGtIR3NJV2tBTVhrSlJVSEV3Zk5VanhUeEZnQVdwY19WbG5GV0ExcEpvMjlPLVZXUk1EbXB5NU9TRnp0Rzg4ZHhLOGp6UFRYQ0kxdHpmOTNPaXRwcmRrUWNWVUc1am12aVNsZ2tQZzhyNUMtdXc?oc=5",
+      "published": "2026-08-30T16:52:00Z",
+      "tone": "bearish"
+    },
+    {
+      "title": "Diesel hits record high as Ukraine and Iran wars knock out refineries, fueling inflation worries",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/04/diesel-price-record-high-ukraine-iran-inflation.html",
+      "published": "2026-09-04T15:10:20Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "Global bond sell-off likely not over yet, Mohamed El-Erian tells CNBC",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/04/el-erian-government-bond-selloff.html",
+      "published": "2026-09-04T07:41:48Z",
       "tone": "bearish"
     }
   ],
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 18
+        "articles": 20
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 90
+        "articles": 32
       }
     ],
-    "headline_count": 138,
+    "headline_count": 82,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
