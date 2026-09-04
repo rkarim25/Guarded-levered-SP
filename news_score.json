@@ -1,43 +1,43 @@
 {
-  "generated_at_utc": "2026-09-03T23:45:42Z",
+  "generated_at_utc": "2026-09-04T11:55:28Z",
   "window_days": 7,
-  "score": 7,
+  "score": 8,
   "label": "Bullish",
-  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Zscaler stock rises on earnings beat, upbeat guidance; Tech stocks lead a rally on Wall Street as bond yields ease some more - Pittsburgh Post-Gazette. Bearish offsets: World shares extend losses, while the global bond sell-off intensifies - KNWA FOX24; S&P 500, Dow End Best Day In A Month On Calmer Yields As Rate Hike Bets Wane \u2014 SPCX, VSXY, NVDA, TSLA In Focus.",
+  "explanation": "8/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Asian benchmarks mostly rise after tech stocks lead rally on Wall Street - WRAL; Small Cap Stocks Surge 1.3%, Expanding Wall Street Rebound - TechStock\u00b2. Bearish offsets: World shares extend losses, while the global bond sell-off intensifies - WPXI.",
   "articles": [
     {
-      "title": "World shares extend losses, while the global bond sell-off intensifies - KNWA FOX24",
-      "source": "KNWA FOX24",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQ0lVNHBHNzUyU20tcXpEdGRkLV9UUkR2elE5WTlUczBiQmduZzd3UU1KcHRZaTFXWUhsRjlaRi04UVZUZUp2aGUycnNkcDZkM1VER0xVZk5ZYUJiRXpYZzVTdXI1NGlmUmdEMnVsVDJkV2dRM05QWDltOTd2cmZ6em53MjI2dkMyZ0pWQmRPRW5McTNla3BQdU41MjdQeVlJLXJza01fWVhqQUp2aFdvRFAySDdPTjQ0Y3JLTlY4bVJvQUJPaU9WWU5Pc05RaE5ILTZwVWdzaDB3NWU1OTQyZdIB4AFBVV95cUxQQ0lVNHBHNzUyU20tcXpEdGRkLV9UUkR2elE5WTlUczBiQmduZzd3UU1KcHRZaTFXWUhsRjlaRi04UVZUZUp2aGUycnNkcDZkM1VER0xVZk5ZYUJiRXpYZzVTdXI1NGlmUmdEMnVsVDJkV2dRM05QWDltOTd2cmZ6em53MjI2dkMyZ0pWQmRPRW5McTNla3BQdU41MjdQeVlJLXJza01fWVhqQUp2aFdvRFAySDdPTjQ0Y3JLTlY4bVJvQUJPaU9WWU5Pc05RaE5ILTZwVWdzaDB3NWU1OTQyZQ?oc=5",
-      "published": "2026-09-02T04:56:49Z",
+      "title": "Asian benchmarks mostly rise after tech stocks lead rally on Wall Street - WRAL",
+      "source": "WRAL",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ2JXTE5fM1BfWllZMjVfYmNFbHJmWVFfWEMza3Bzd3RhMnJnMWVPZjliZVlXTTZhMExOZnpBU0szRXBWUlZKNTRtY1ZvUlJYVTFoalZFQ0lWd0dIcDlRVU9hZUpmWTRmOVBtWWs4aUJyQ3htdEwteWNSRjNtRG1zM0R1X09oYmVoZmh4aEotTjF6bDRud1FmSXUzM0szY2lmTEd1VUNlZ29MNWFQ?oc=5",
+      "published": "2026-09-04T03:25:17Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "World shares extend losses, while the global bond sell-off intensifies - WPXI",
+      "source": "WPXI",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNld5TE5DY3dtQURqSEFzWnVObEJZWHVJM0pCMUVLcXFTbHdzZ0w2VUlqYnNTXzBIcVVXanBJN2hwcURpTWRzZkZwN1lqQUZ1Tk1wc1NKX2h0THlmbXFUYldPRXNfS3RPQVhLRzI4Vk1MeEJ3bDBUQWJWdHpiTFBsOXVyY3VrVW9TcDEw?oc=5",
+      "published": "2026-09-02T09:56:49Z",
       "tone": "bearish"
     },
     {
-      "title": "S&P 500, Dow End Best Day In A Month On Calmer Yields As Rate Hike Bets Wane \u2014 SPCX, VSXY, NVDA, TSLA In Focus",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-end-best-day-in-a-month/cZsufnBRJvu?.tsrc=rss",
-      "published": "2026-09-03T22:24:58Z",
-      "tone": "bearish"
+      "title": "Small Cap Stocks Surge 1.3%, Expanding Wall Street Rebound - TechStock\u00b2",
+      "source": "TechStock\u00b2",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DR1RLdmM4U096bzQ2WW0wSTVnLXNvRVo2NzNaLUV5djlfV29xUXVzLUVXUElnXzMxNE1xdzRudUZjbkhEMVhOb1ZhSWhFN1lnTGMzT1c2emNqclV1UjdaNl9HTHV5M2M2dFlCQ0lXYUZxV1hQbGRzZGhtZlI?oc=5",
+      "published": "2026-09-02T20:14:07Z",
+      "tone": "bullish"
     },
     {
-      "title": "Zscaler stock rises on earnings beat, upbeat guidance",
+      "title": "South Korea's AI rally is reshaping romance, reality shows and academic preferences",
       "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/03/zscaler-zs-q4-earnings-2026.html",
-      "published": "2026-09-03T20:41:47Z",
+      "url": "https://www.cnbc.com/2026/09/04/south-korea-ai-rally-society-impact.html",
+      "published": "2026-09-04T00:55:30Z",
       "tone": "bullish"
     },
     {
-      "title": "Tech stocks lead a rally on Wall Street as bond yields ease some more - Pittsburgh Post-Gazette",
-      "source": "Pittsburgh Post-Gazette",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQalAzUkk5RlpLOVdNNDd4YjFfUE52RmF6R3RVdUU3RlowdUpTS0F1aUQ5OG1UY2VwWU4yVmNaQ2pmaHFfbUFXaW1HT3VJZFNNbUNkcENYU2ExVjRVbnRxMnJQcU9adzlVRmNrbHczN0I5S2RFdm5lakFydEVMaUdqbXJhZTF5ZGt4dlMyZjdxcnJWYm9PZmwzQUdjcm4tRW9jRXo3WngyVkhqX3lGNXB2Zg?oc=5",
-      "published": "2026-09-03T22:49:00Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Tech stocks lead a rally on Wall Street as bond yields ease some more - Northeast Mississippi Daily Journal",
-      "source": "Northeast Mississippi Daily Journal",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOT05KYzVueTNBV1NjaXE5NnF3Zm1RUi0ya0wwaHZmSGs4RFhJOTMwanNFZEp1cVp4RkE3b1dKeVBsOE9nel9kbkFUV3BlR09hN0NBU1BqaUpueGVsRXlCMXZsNGxCc2NZVDRyOWcyMFZEbnlwcTlCbnYtZUx2Q3dRbTVHSGNZSjQzVTdrajVMd3NneVZFRWVIdk16N3N4WmU4Tk50WW5ZYmc5VjJfa1RkNWhHUnpBdnhwd3RDLXRrd1NIMVdtYU9KS2JhWmdXcDA5Vm1QTkU3aDQwcUhLbWVPS0xCR2Q0M0N5XzZ4a0ppWQ?oc=5",
-      "published": "2026-09-03T22:26:00Z",
+      "title": "This Unstoppable Stock Is Obliterating the S&P 500 and the Nasdaq-100 in 2026, but Is There Still Time to Buy?",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://www.fool.com/investing/2026/09/04/stock-obliterating-sp-500-nasdaq-100-in-2026-buy/?.tsrc=rss",
+      "published": "2026-09-04T09:18:00Z",
       "tone": "bullish"
     }
   ],
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 20
+        "articles": 18
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 86
+        "articles": 89
       }
     ],
-    "headline_count": 136,
+    "headline_count": 137,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
