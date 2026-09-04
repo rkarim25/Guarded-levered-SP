@@ -1,44 +1,44 @@
 {
-  "generated_at_utc": "2026-09-04T11:55:28Z",
+  "generated_at_utc": "2026-09-04T15:36:54Z",
   "window_days": 7,
-  "score": 8,
-  "label": "Bullish",
-  "explanation": "8/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Asian benchmarks mostly rise after tech stocks lead rally on Wall Street - WRAL; Small Cap Stocks Surge 1.3%, Expanding Wall Street Rebound - TechStock\u00b2. Bearish offsets: World shares extend losses, while the global bond sell-off intensifies - WPXI.",
+  "score": 3,
+  "label": "Bearish",
+  "explanation": "3/10 is bearish from a 7-day headline keyword scan. Bearish offsets: Aurora Innovation (AUR) Partners with McLane Company to Launch Driverless Commercial Hauls; Acquisition Premium Injects Immediate Boost into MGM Resorts International (MGM) Shares.",
   "articles": [
     {
-      "title": "Asian benchmarks mostly rise after tech stocks lead rally on Wall Street - WRAL",
-      "source": "WRAL",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ2JXTE5fM1BfWllZMjVfYmNFbHJmWVFfWEMza3Bzd3RhMnJnMWVPZjliZVlXTTZhMExOZnpBU0szRXBWUlZKNTRtY1ZvUlJYVTFoalZFQ0lWd0dIcDlRVU9hZUpmWTRmOVBtWWs4aUJyQ3htdEwteWNSRjNtRG1zM0R1X09oYmVoZmh4aEotTjF6bDRud1FmSXUzM0szY2lmTEd1VUNlZ29MNWFQ?oc=5",
-      "published": "2026-09-04T03:25:17Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "World shares extend losses, while the global bond sell-off intensifies - WPXI",
-      "source": "WPXI",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNld5TE5DY3dtQURqSEFzWnVObEJZWHVJM0pCMUVLcXFTbHdzZ0w2VUlqYnNTXzBIcVVXanBJN2hwcURpTWRzZkZwN1lqQUZ1Tk1wc1NKX2h0THlmbXFUYldPRXNfS3RPQVhLRzI4Vk1MeEJ3bDBUQWJWdHpiTFBsOXVyY3VrVW9TcDEw?oc=5",
-      "published": "2026-09-02T09:56:49Z",
+      "title": "Aurora Innovation (AUR) Partners with McLane Company to Launch Driverless Commercial Hauls",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/technology/ai/articles/aurora-innovation-aur-partners-mclane-151856832.html?.tsrc=rss",
+      "published": "2026-09-04T15:18:56Z",
       "tone": "bearish"
     },
     {
-      "title": "Small Cap Stocks Surge 1.3%, Expanding Wall Street Rebound - TechStock\u00b2",
-      "source": "TechStock\u00b2",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DR1RLdmM4U096bzQ2WW0wSTVnLXNvRVo2NzNaLUV5djlfV29xUXVzLUVXUElnXzMxNE1xdzRudUZjbkhEMVhOb1ZhSWhFN1lnTGMzT1c2emNqclV1UjdaNl9HTHV5M2M2dFlCQ0lXYUZxV1hQbGRzZGhtZlI?oc=5",
-      "published": "2026-09-02T20:14:07Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "South Korea's AI rally is reshaping romance, reality shows and academic preferences",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/04/south-korea-ai-rally-society-impact.html",
-      "published": "2026-09-04T00:55:30Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "This Unstoppable Stock Is Obliterating the S&P 500 and the Nasdaq-100 in 2026, but Is There Still Time to Buy?",
+      "title": "Acquisition Premium Injects Immediate Boost into MGM Resorts International (MGM) Shares",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://www.fool.com/investing/2026/09/04/stock-obliterating-sp-500-nasdaq-100-in-2026-buy/?.tsrc=rss",
-      "published": "2026-09-04T09:18:00Z",
-      "tone": "bullish"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/acquisition-premium-injects-immediate-boost-151556193.html?.tsrc=rss",
+      "published": "2026-09-04T15:15:56Z",
+      "tone": "bearish"
+    },
+    {
+      "title": "Here\u2019s What Pressured Intercontinental Exchange (ICE)",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pressures-intercontinental-exchange-ice-151057791.html?.tsrc=rss",
+      "published": "2026-09-04T15:10:57Z",
+      "tone": "bearish"
+    },
+    {
+      "title": "GLOBALFOUNDRIES (GFS) Surged on Robust CID Growth and Dividend Announcement",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/globalfoundries-gfs-surged-robust-cid-150457982.html?.tsrc=rss",
+      "published": "2026-09-04T15:04:57Z",
+      "tone": "bearish"
+    },
+    {
+      "title": "High Capital Requirements and Operational Challenges Weighed On Chevron Corporation (CVX)",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/high-capital-requirements-operational-challenges-150219676.html?.tsrc=rss",
+      "published": "2026-09-04T15:02:19Z",
+      "tone": "bearish"
     }
   ],
   "data_source": {
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 18
+        "articles": 19
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 89
+        "articles": 31
       }
     ],
-    "headline_count": 137,
+    "headline_count": 80,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
