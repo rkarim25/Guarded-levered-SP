@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-07T18:18:28Z",
+  "generated_at_utc": "2026-09-07T23:09:29Z",
   "data_asof": "2026-09-07",
   "daily_rows": 6529,
   "quote_price": null,
@@ -7,7 +7,7 @@
   "quote_source": null,
   "sources": {
     "daily_yahoo_gold": {
-      "url": "https://query1.finance.yahoo.com/v8/finance/chart/GC%3DF?period1=0&period2=1788891507&interval=1d&events=history&includeAdjustedClose=true",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/GC%3DF?period1=0&period2=1788908969&interval=1d&events=history&includeAdjustedClose=true",
       "ok": true,
       "status": 200
     },
@@ -31,20 +31,20 @@
   "official_signal": {
     "latest": {
       "date": "2026-09-07",
-      "close": 4476.60009765625
+      "close": 4453.2001953125
     },
-    "latestSma": 4472.894995117187,
+    "latestSma": 4471.725,
     "highWater": 5318.39990234375,
     "highWaterDate": "2026-01-29",
-    "latestDd": -0.1582806521029999,
+    "latestDd": -0.16268045331641345,
     "regime": "tier2",
     "entryClose": 4087.699951171875,
     "entryDate": "2025-10-21",
     "recoveryTarget": 5722.779931640624,
-    "aboveSma": true,
+    "aboveSma": false,
     "recoveryOk": true,
     "targetLeverage": 1,
-    "activeEntryClose": 4476.60009765625,
+    "activeEntryClose": 4453.2001953125,
     "activeEntryDate": "2026-09-07",
     "activeEntryLeverage": 1,
     "activeEntryPnl": 0.0,
@@ -55,7 +55,7 @@
     "last_observed_asof": "2026-09-07",
     "last_observed_target_leverage": 1,
     "last_observed_target_label": "1x",
-    "last_checked_at_utc": "2026-09-07T18:18:28Z",
+    "last_checked_at_utc": "2026-09-07T23:09:29Z",
     "last_email_sent_on": "2026-09-02",
     "last_transition": {
       "id": "2026-09-02:0->2026-09-02:1",

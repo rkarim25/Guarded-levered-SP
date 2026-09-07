@@ -1,10 +1,17 @@
 {
-  "generated_at_utc": "2026-09-07T18:18:32Z",
+  "generated_at_utc": "2026-09-07T23:09:34Z",
   "window_days": 7,
   "score": 7,
   "label": "Bullish",
-  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Small Cap Stocks Surge 1.3%, Expanding Wall Street Rebound - TechStock\u00b2; Jabil Rises 36.2% Year to Date: Should You Buy the Stock?.",
+  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Small Cap Stocks Surge 1.3%, Expanding Wall Street Rebound - TechStock\u00b2; Jabil Rises 36.2% Year to Date: Should You Buy the Stock?. Bearish offsets: Dow futures fall 300 points to start shortened week as oil prices climb: Live updates.",
   "articles": [
+    {
+      "title": "Dow futures fall 300 points to start shortened week as oil prices climb: Live updates",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/07/stock-market-tuesday-live-updates.html",
+      "published": "2026-09-07T22:17:16Z",
+      "tone": "bearish"
+    },
     {
       "title": "Small Cap Stocks Surge 1.3%, Expanding Wall Street Rebound - TechStock\u00b2",
       "source": "TechStock\u00b2",
@@ -27,17 +34,10 @@
       "tone": "bullish"
     },
     {
-      "title": "Micron Is S&P 500\u2019s Top 5-Year Tech Winner After 1,313% Rally - CryptoRank",
-      "source": "CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTldiV2pzZ2VDdllpYUV0WFRxaldjeTF0WGozMlVGZkJxMGNXQ0EyNGFjWlhxV2V1amU4ZmdWbTY4dDc5R2FwUFU2V3J0UjJ2TnVWVVY2cENrcjNab0pNMjQzNk1ZQjVOU045WUVFX20yRnlhMENIS2RjX3ZSWnhTV29Hd0pzV1pENWJFVmRFMWg1MjU1RllBWGJMdw?oc=5",
-      "published": "2026-09-07T17:34:05Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Freeport-McMoRan Has Ripped 44% in 2026. What Would It Take to Get FCX Stock Up to $100?",
+      "title": "Sandisk Soars Nearly 12% Before Joining the S&P 100",
       "source": "Yahoo Finance S&P 500",
-      "url": "https://247wallst.com/investing/2026/09/07/freeport-mcmoran-has-ripped-44-in-2026-what-would-it-take-to-get-fcx-stock-up-to-100/?.tsrc=rss",
-      "published": "2026-09-07T13:50:47Z",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-soars-nearly-12-joining-215620577.html?.tsrc=rss",
+      "published": "2026-09-07T21:56:20Z",
       "tone": "bullish"
     }
   ],
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 92
+        "articles": 90
       }
     ],
-    "headline_count": 142,
+    "headline_count": 140,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
