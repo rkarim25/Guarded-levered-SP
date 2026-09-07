@@ -1,15 +1,15 @@
 {
-  "generated_at_utc": "2026-09-07T23:09:34Z",
+  "generated_at_utc": "2026-09-07T23:57:29Z",
   "window_days": 7,
   "score": 7,
   "label": "Bullish",
-  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Small Cap Stocks Surge 1.3%, Expanding Wall Street Rebound - TechStock\u00b2; Jabil Rises 36.2% Year to Date: Should You Buy the Stock?. Bearish offsets: Dow futures fall 300 points to start shortened week as oil prices climb: Live updates.",
+  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Small Cap Stocks Surge 1.3%, Expanding Wall Street Rebound - TechStock\u00b2; Bloom Energy (BE) Joins S&P 500: Can Its AI Rally Continue?. Bearish offsets: Dow futures fall 300 points to start shortened week as oil prices climb: Live updates.",
   "articles": [
     {
       "title": "Dow futures fall 300 points to start shortened week as oil prices climb: Live updates",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/07/stock-market-tuesday-live-updates.html",
-      "published": "2026-09-07T22:17:16Z",
+      "published": "2026-09-07T23:37:32Z",
       "tone": "bearish"
     },
     {
@@ -17,6 +17,13 @@
       "source": "TechStock\u00b2",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DR1RLdmM4U096bzQ2WW0wSTVnLXNvRVo2NzNaLUV5djlfV29xUXVzLUVXUElnXzMxNE1xdzRudUZjbkhEMVhOb1ZhSWhFN1lnTGMzT1c2emNqclV1UjdaNl9HTHV5M2M2dFlCQ0lXYUZxV1hQbGRzZGhtZlI?oc=5",
       "published": "2026-09-02T20:14:07Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "Bloom Energy (BE) Joins S&P 500: Can Its AI Rally Continue?",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-joins-p-500-233544037.html?.tsrc=rss",
+      "published": "2026-09-07T23:35:44Z",
       "tone": "bullish"
     },
     {
@@ -31,13 +38,6 @@
       "source": "TechStock\u00b2",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTlNTSXREb2JTMjNaLVVveVJJNzN2a1lNSjdxTk5oUTdHbF8tM0E0Y1JCWDVjdDlxQVhYS0Q0RnI4Z3JMV0NZeXdKOVFpRXdtRWliQ28tTUNQcVB5RGcwa0hvbDBjQUR4VXlDSVdVMzF3blVCc3M1MGx2WlZBQmZpNk5leU9zQkFLVEtJTQ?oc=5",
       "published": "2026-09-03T16:11:57Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Sandisk Soars Nearly 12% Before Joining the S&P 100",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-soars-nearly-12-joining-215620577.html?.tsrc=rss",
-      "published": "2026-09-07T21:56:20Z",
       "tone": "bullish"
     }
   ],
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 90
+        "articles": 91
       }
     ],
-    "headline_count": 140,
+    "headline_count": 141,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
