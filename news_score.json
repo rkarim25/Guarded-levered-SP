@@ -1,15 +1,22 @@
 {
-  "generated_at_utc": "2026-09-07T13:12:11Z",
+  "generated_at_utc": "2026-09-07T18:18:32Z",
   "window_days": 7,
   "score": 7,
   "label": "Bullish",
-  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Small Cap Stocks Surge 1.3%, Expanding Wall Street Rebound - TechStock\u00b2; Nasdaq Jumps 1.4% as Tech Sector Drives Wall Street Gains on Declining Yields - TechStock\u00b2. Bearish offsets: Dow Jones Futures Fall With Iran, Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals.",
+  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Small Cap Stocks Surge 1.3%, Expanding Wall Street Rebound - TechStock\u00b2; Jabil Rises 36.2% Year to Date: Should You Buy the Stock?.",
   "articles": [
     {
       "title": "Small Cap Stocks Surge 1.3%, Expanding Wall Street Rebound - TechStock\u00b2",
       "source": "TechStock\u00b2",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DR1RLdmM4U096bzQ2WW0wSTVnLXNvRVo2NzNaLUV5djlfV29xUXVzLUVXUElnXzMxNE1xdzRudUZjbkhEMVhOb1ZhSWhFN1lnTGMzT1c2emNqclV1UjdaNl9HTHV5M2M2dFlCQ0lXYUZxV1hQbGRzZGhtZlI?oc=5",
       "published": "2026-09-02T20:14:07Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "Jabil Rises 36.2% Year to Date: Should You Buy the Stock?",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jabil-rises-36-2-date-152000660.html?.tsrc=rss",
+      "published": "2026-09-07T15:20:00Z",
       "tone": "bullish"
     },
     {
@@ -20,24 +27,17 @@
       "tone": "bullish"
     },
     {
-      "title": "Dow Jones Futures Fall With Iran, Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/d5001ca0-1c20-3379-83c3-ddca4526f9c2/dow-jones-futures-fall-with.html?.tsrc=rss",
-      "published": "2026-09-07T03:06:47Z",
-      "tone": "bearish"
-    },
-    {
-      "title": "US Market Today: Wall Street Opens Mixed After Strong Jobs Data Beats Estimates - NDTV Profit",
-      "source": "NDTV Profit",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQclZJMkwxT1VvdkZVbXd3MXJsXzhKRzFsRmdUOEVITVNlWXVhTjJXZUMycUxORFNNRUlNT1V3ZjAwNGttcWhCSFFmWFhqc2ZIYWozMkY0eDBPREZwTTRCay1heHJFODJjRlBGTG05UmtTeEp5S2ZCbmg2UE13aDF2VTUwREZYVWhfWGhZUm1mMGFQdlp0a1BKM1I1SEppcnRfTXd3WWpYRTdGQjU0MDRWUHF5WkFwbDltWFJFRFFndXpZd9IBygFBVV95cUxQcWhNVDY5YXlNYmxsNjlBTkp1TmhMWGEtRkl4TERyQ3JWWFJJUG0xMFpCcE5JTzlKdWFvSlZuQVAwWTlSekNPa0pQaV9nWVR1ZXhiLXI4dmg0S1l0MG5zUTdIVlVRRU12T09iY3JxMVdiWnBWbVdnS2poQkNCeEo1MDFKcm1XS3ZtRUx6QzFZbms3enVUZWR5UU1iakJqODVuOEpvSnoxbG4zY0lZSmJnRkx4TnRfTlpkbDl5UzB4NFVwcGQ0UVNXZExB?oc=5",
-      "published": "2026-09-04T13:44:08Z",
+      "title": "Micron Is S&P 500\u2019s Top 5-Year Tech Winner After 1,313% Rally - CryptoRank",
+      "source": "CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTldiV2pzZ2VDdllpYUV0WFRxaldjeTF0WGozMlVGZkJxMGNXQ0EyNGFjWlhxV2V1amU4ZmdWbTY4dDc5R2FwUFU2V3J0UjJ2TnVWVVY2cENrcjNab0pNMjQzNk1ZQjVOU045WUVFX20yRnlhMENIS2RjX3ZSWnhTV29Hd0pzV1pENWJFVmRFMWg1MjU1RllBWGJMdw?oc=5",
+      "published": "2026-09-07T17:34:05Z",
       "tone": "bullish"
     },
     {
-      "title": "S&P 500 Closes Up 1.1% as All Three Major Indexes Rally Together - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ2dqUXZ0VXA1clY3a05aVENUTWx0RjRoaHF0R08ySlpNbmMtYlBaeTFGYzRYRUV1aU5ObnlHdlZZZHhDVE1CRWJsWVJvZ0hBMHRUNU0xNjJzSmYwR0s0YXlfbEFBTjVGaTJDcWNQX0dndmItc0JwN0RaZ20ycVhyelJDOFpnWHRZMDZZYVlRWXJrSDcxN29meFdub29wMVJidTBXOHFnN3Vla0xUbU9qMzJFVWRWR2Jpc2FXSmYtNlpHb1NTMzhDM1h3?oc=5",
-      "published": "2026-09-04T08:10:23Z",
+      "title": "Freeport-McMoRan Has Ripped 44% in 2026. What Would It Take to Get FCX Stock Up to $100?",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://247wallst.com/investing/2026/09/07/freeport-mcmoran-has-ripped-44-in-2026-what-would-it-take-to-get-fcx-stock-up-to-100/?.tsrc=rss",
+      "published": "2026-09-07T13:50:47Z",
       "tone": "bullish"
     }
   ],
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 19
+        "articles": 20
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 95
+        "articles": 92
       }
     ],
-    "headline_count": 144,
+    "headline_count": 142,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
