@@ -1,17 +1,10 @@
 {
-  "generated_at_utc": "2026-09-08T19:11:12Z",
+  "generated_at_utc": "2026-09-08T23:03:11Z",
   "window_days": 7,
   "score": 5,
   "label": "Neutral",
-  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Howmet Rises 26.5% Year to Date: Should Investors Buy the Stock Now?; Enphase Energy Rises 5% as Solid-State Transformer Modules Enter Texas Production, SolarEdge Jumps 6%. Bearish offsets: Iran War Weighs on Stocks. Tariffs Only Complicate the Outlook.; Dow futures drop as Iran war, Canada tariffs hit Wall Street - qz.com.",
+  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: S&P 500 posts 3% summer rally. Some on Wall Street think the gains can continue - CNBC. Bearish offsets: Dow futures drop as Iran war, Canada tariffs hit Wall Street - qz.com; 'Patients pay the tariff': Swiss pharma CEO warns of Trump's generic drug tariff threat.",
   "articles": [
-    {
-      "title": "Iran War Weighs on Stocks. Tariffs Only Complicate the Outlook.",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/m/6525dc83-6d60-354b-be66-a2c266a12d19/iran-war-weighs-on-stocks..html?.tsrc=rss",
-      "published": "2026-09-08T17:54:40Z",
-      "tone": "bearish"
-    },
     {
       "title": "Dow futures drop as Iran war, Canada tariffs hit Wall Street - qz.com",
       "source": "qz.com",
@@ -27,18 +20,25 @@
       "tone": "bearish"
     },
     {
-      "title": "Howmet Rises 26.5% Year to Date: Should Investors Buy the Stock Now?",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/howmet-rises-26-5-date-165100941.html?.tsrc=rss",
-      "published": "2026-09-08T16:51:00Z",
+      "title": "S&P 500 posts 3% summer rally. Some on Wall Street think the gains can continue - CNBC",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZnpTM0tYdTdvczYtRGQyZklaTWhHZFFBRW5SOU1KamRZWFhSTTFQeFpoYnhIX2huUXUtUUFqRTVMRGxjMW1lN3VveGhhYTF1QUx2Y1VBOHYzWThIRU91Y2FGRUVWSmVlRTBlQ1pyMVFha3JtRmpyVktlcUgyTWRoX1oyUTVOSTI0Z1RvQzQtNFZFM3dYVGFtR3hyRVlCLWRQcDFxVHpuUXkzcnM?oc=5",
+      "published": "2026-09-08T13:41:42Z",
       "tone": "bullish"
     },
     {
-      "title": "Enphase Energy Rises 5% as Solid-State Transformer Modules Enter Texas Production, SolarEdge Jumps 6%",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://247wallst.com/investing/2026/09/08/enphase-energy-rises-5-as-solid-state-transformer-modules-enter-texas-production-solaredge-jumps-6/?.tsrc=rss",
-      "published": "2026-09-08T16:49:23Z",
-      "tone": "bullish"
+      "title": "Wall Street falls on elevated Fed rate hike bets and oil prices, slump in health - Investing.com",
+      "source": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOWhjeDNrZFJXajFqV2dqMm50YlZhaEpiMngzNFBkSmpxNnBnTU1ZcXNjRS03U2NBNm1ib2wyZ2VCVTlSa1dTS3pDcG1QcnJfbjBfcUdzVzJjOVZxUVlYZG03eXlXd3pueWZocmxXTzhDV21JdVdIU1I0OVRPMVQyZW9SRkFmSUd0d0pFY0c0bm9xVWlNdjE3eFdPdm5kQ1EtLTFYYm9SMA?oc=5",
+      "published": "2026-09-08T01:15:39Z",
+      "tone": "bearish"
+    },
+    {
+      "title": "U.S. military destroys five Iranian oil tankers after attempted attack on American warship, Centcom says",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
+      "published": "2026-09-08T22:57:13Z",
+      "tone": "bearish"
     }
   ],
   "data_source": {
@@ -48,7 +48,7 @@
         "ok": true,
         "status": 200,
         "name": "Yahoo Finance S&P 500",
-        "articles": 18
+        "articles": 20
       },
       {
         "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 90
+        "articles": 95
       }
     ],
-    "headline_count": 138,
+    "headline_count": 145,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
