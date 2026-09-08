@@ -1,10 +1,17 @@
 {
-  "generated_at_utc": "2026-09-08T23:03:11Z",
+  "generated_at_utc": "2026-09-08T23:48:23Z",
   "window_days": 7,
   "score": 5,
   "label": "Neutral",
-  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bullish drivers: S&P 500 posts 3% summer rally. Some on Wall Street think the gains can continue - CNBC. Bearish offsets: Dow futures drop as Iran war, Canada tariffs hit Wall Street - qz.com; 'Patients pay the tariff': Swiss pharma CEO warns of Trump's generic drug tariff threat.",
+  "explanation": "5/10 is neutral from a 7-day headline keyword scan. Bearish offsets: Canada's retaliatory tariffs worth CA$27.6 billion take effect as trade rift with U.S. deepens; Dow futures drop as Iran war, Canada tariffs hit Wall Street - qz.com.",
   "articles": [
+    {
+      "title": "Canada's retaliatory tariffs worth CA$27.6 billion take effect as trade rift with U.S. deepens",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html",
+      "published": "2026-09-08T17:11:11Z",
+      "tone": "bearish"
+    },
     {
       "title": "Dow futures drop as Iran war, Canada tariffs hit Wall Street - qz.com",
       "source": "qz.com",
@@ -20,13 +27,6 @@
       "tone": "bearish"
     },
     {
-      "title": "S&P 500 posts 3% summer rally. Some on Wall Street think the gains can continue - CNBC",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZnpTM0tYdTdvczYtRGQyZklaTWhHZFFBRW5SOU1KamRZWFhSTTFQeFpoYnhIX2huUXUtUUFqRTVMRGxjMW1lN3VveGhhYTF1QUx2Y1VBOHYzWThIRU91Y2FGRUVWSmVlRTBlQ1pyMVFha3JtRmpyVktlcUgyTWRoX1oyUTVOSTI0Z1RvQzQtNFZFM3dYVGFtR3hyRVlCLWRQcDFxVHpuUXkzcnM?oc=5",
-      "published": "2026-09-08T13:41:42Z",
-      "tone": "bullish"
-    },
-    {
       "title": "Wall Street falls on elevated Fed rate hike bets and oil prices, slump in health - Investing.com",
       "source": "Investing.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOWhjeDNrZFJXajFqV2dqMm50YlZhaEpiMngzNFBkSmpxNnBnTU1ZcXNjRS03U2NBNm1ib2wyZ2VCVTlSa1dTS3pDcG1QcnJfbjBfcUdzVzJjOVZxUVlYZG03eXlXd3pueWZocmxXTzhDV21JdVdIU1I0OVRPMVQyZW9SRkFmSUd0d0pFY0c0bm9xVWlNdjE3eFdPdm5kQ1EtLTFYYm9SMA?oc=5",
@@ -37,7 +37,7 @@
       "title": "U.S. military destroys five Iranian oil tankers after attempted attack on American warship, Centcom says",
       "source": "CNBC Markets",
       "url": "https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
-      "published": "2026-09-08T22:57:13Z",
+      "published": "2026-09-08T23:36:53Z",
       "tone": "bearish"
     }
   ],
