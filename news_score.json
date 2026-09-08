@@ -1,43 +1,43 @@
 {
-  "generated_at_utc": "2026-09-07T23:57:29Z",
+  "generated_at_utc": "2026-09-08T11:55:53Z",
   "window_days": 7,
-  "score": 7,
-  "label": "Bullish",
-  "explanation": "7/10 is bullish from a 7-day headline keyword scan. Bullish drivers: Small Cap Stocks Surge 1.3%, Expanding Wall Street Rebound - TechStock\u00b2; Bloom Energy (BE) Joins S&P 500: Can Its AI Rally Continue?. Bearish offsets: Dow futures fall 300 points to start shortened week as oil prices climb: Live updates.",
+  "score": 6,
+  "label": "Neutral",
+  "explanation": "6/10 is neutral from a 7-day headline keyword scan. Bullish drivers: Nasdaq Jumps 1.4% as Tech Sector Drives Wall Street Gains on Declining Yields - TechStock\u00b2; Stock Market Fear Index Rises Along With Oil Prices. Bearish offsets: Dow futures drop as Iran war, Canada tariffs hit Wall Street; Canada's retaliatory tariffs worth $27.6 billion take effect as trade rift with U.S. deepens.",
   "articles": [
     {
-      "title": "Dow futures fall 300 points to start shortened week as oil prices climb: Live updates",
-      "source": "CNBC Markets",
-      "url": "https://www.cnbc.com/2026/09/07/stock-market-tuesday-live-updates.html",
-      "published": "2026-09-07T23:37:32Z",
+      "title": "Dow futures drop as Iran war, Canada tariffs hit Wall Street",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://qz.com/dow-futures-iran-war-canada-tariffs-markets-090826?.tsrc=rss",
+      "published": "2026-09-08T11:27:56Z",
       "tone": "bearish"
     },
     {
-      "title": "Small Cap Stocks Surge 1.3%, Expanding Wall Street Rebound - TechStock\u00b2",
-      "source": "TechStock\u00b2",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DR1RLdmM4U096bzQ2WW0wSTVnLXNvRVo2NzNaLUV5djlfV29xUXVzLUVXUElnXzMxNE1xdzRudUZjbkhEMVhOb1ZhSWhFN1lnTGMzT1c2emNqclV1UjdaNl9HTHV5M2M2dFlCQ0lXYUZxV1hQbGRzZGhtZlI?oc=5",
-      "published": "2026-09-02T20:14:07Z",
-      "tone": "bullish"
+      "title": "Canada's retaliatory tariffs worth $27.6 billion take effect as trade rift with U.S. deepens",
+      "source": "CNBC Markets",
+      "url": "https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html",
+      "published": "2026-09-08T08:21:33Z",
+      "tone": "bearish"
     },
     {
-      "title": "Bloom Energy (BE) Joins S&P 500: Can Its AI Rally Continue?",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-joins-p-500-233544037.html?.tsrc=rss",
-      "published": "2026-09-07T23:35:44Z",
-      "tone": "bullish"
-    },
-    {
-      "title": "Jabil Rises 36.2% Year to Date: Should You Buy the Stock?",
-      "source": "Yahoo Finance S&P 500",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jabil-rises-36-2-date-152000660.html?.tsrc=rss",
-      "published": "2026-09-07T15:20:00Z",
-      "tone": "bullish"
+      "title": "Stock Market Today: S&P 500, Dow Futures Fall as Oil Tops $99 Despite Trump\u2019s Price Drop Prediction \u2014 ASM - Benzinga",
+      "source": "Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQV0JabjItTkd2SWotTUJvZEVwdUJRY0xyT1BpS05FeDJSNFdHYXdlczk0NGU2RFB5a3Zrb0s3bzdkeGFsUmExQzhmLW1qTi1sejZNYUlvS3E2V2RVNWFZc2thWFgxNURrM1c5dWM3R1ppb1RpQTRaNEp6UkZ6U3NhYTJJSG1nUkwzYm5DRHlGNnhDbTBzWlV1MHczRTFYcjVraV84Y081Ty1ZSWxKMHAxZzQ3VXp6UkhOMThKSndscng3RnNXMzAxUWtKeHZHTXo3cDRseWlUcmpVZ01VQzBZdTcwSkFZZVZraS1RNjFZcmFoNG5GY0JiRmd2dmpOZk9pbXExSA?oc=5",
+      "published": "2026-09-08T09:32:34Z",
+      "tone": "bearish"
     },
     {
       "title": "Nasdaq Jumps 1.4% as Tech Sector Drives Wall Street Gains on Declining Yields - TechStock\u00b2",
       "source": "TechStock\u00b2",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTlNTSXREb2JTMjNaLVVveVJJNzN2a1lNSjdxTk5oUTdHbF8tM0E0Y1JCWDVjdDlxQVhYS0Q0RnI4Z3JMV0NZeXdKOVFpRXdtRWliQ28tTUNQcVB5RGcwa0hvbDBjQUR4VXlDSVdVMzF3blVCc3M1MGx2WlZBQmZpNk5leU9zQkFLVEtJTQ?oc=5",
       "published": "2026-09-03T16:11:57Z",
+      "tone": "bullish"
+    },
+    {
+      "title": "Stock Market Fear Index Rises Along With Oil Prices",
+      "source": "Yahoo Finance S&P 500",
+      "url": "https://finance.yahoo.com/m/42ac98ab-148b-33a6-a119-4d602d34beb1/stock-market-fear-index-rises.html?.tsrc=rss",
+      "published": "2026-09-08T10:53:02Z",
       "tone": "bullish"
     }
   ],
@@ -69,10 +69,10 @@
         "ok": true,
         "status": 200,
         "name": "Google News market query",
-        "articles": 91
+        "articles": 94
       }
     ],
-    "headline_count": 141,
+    "headline_count": 144,
     "method": "RSS headlines from the last 7 days scored with weighted bullish/bearish keyword lists."
   },
   "limitations": [
